@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![阿拉瓦利山脉的阿布山，印度拉贾斯坦邦](https://cn.bing.com/th?id=OHR.MountAbu_ZH-CN1348295593_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [阿拉瓦利山脉的阿布山，印度拉贾斯坦邦](https://cn.bing.com/th?id=OHR.MountAbu_ZH-CN1348295593_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 沙漠中的绿洲
+![阿拉斯加州海恩斯附近的秃鹰群，美国](https://cn.bing.com/th?id=OHR.HainesEagle_ZH-CN1542376030_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [阿拉斯加州海恩斯附近的秃鹰群，美国](https://cn.bing.com/th?id=OHR.HainesEagle_ZH-CN1542376030_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 秃鹰的集会
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2022-11-11",
-    "headline": "沙漠中的绿洲",
-    "title": "阿拉瓦利山脉的阿布山，印度拉贾斯坦邦",
-    "description": "阿布山海拔1722米，被郁郁葱葱的阿拉瓦利山脉所环绕。作为拉贾斯坦邦唯一的山间避暑地，阿布山是个避暑的好去处，这里有河流、湖泊、瀑布，以及常绿森林，因此它也被称为“沙漠中的绿洲”。",
-    "image_url": "https://cn.bing.com/th?id=OHR.MountAbu_ZH-CN1348295593_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "1839年，莱蒂西亚·伊丽莎白·兰登在《费舍尔客厅废书》上发表了一首名为《阿布山湖泊中的印度教寺庙》的诗作，描绘了照片里的山中要塞。"
+    "headline": "秃鹰的集会",
+    "title": "阿拉斯加州海恩斯附近的秃鹰群，美国",
+    "description": "每年11月，多达4000只秃鹰会聚集在阿拉斯加海恩斯附近的奇尔卡特河上，捕食在河边产卵后不久就死亡的鲑鱼。对于鸟类来说这是一场盛宴，美味的鲑鱼源源不断。而对于观鸟者来说，这也是一场视觉盛宴。届时，这里还会举办阿拉斯加秃鹰节，包含猛禽展示、猛禽科普、徒步和现场音乐会等活动。",
+    "image_url": "https://cn.bing.com/th?id=OHR.HainesEagle_ZH-CN1542376030_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "在北美，人们会把一群鹰聚集在一起的场面叫做“鹰的集会”。"
 }
 ```
 
-UpdataTime：2022-11-11 15:15:10
+UpdataTime：2022-11-11 17:02:13
