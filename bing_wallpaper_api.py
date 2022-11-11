@@ -42,7 +42,7 @@ class BingWallpaper():
         except:
             return None
         
-        # print(ret.group())  # 默认返回匹配的整个字符串，同分组0，且且无法处理成pythoy格式
+        # print(ret.group())  # 默认返回匹配的整个字符串，同分组0，且无法处理成pythoy格式
         data = json.loads(ret.group(1))   # 是将字符串转化为字典
         
         ImageContent = data['MediaContents'][0]['ImageContent']
@@ -63,7 +63,7 @@ class BingWallpaper():
     def buildReadme(self, filename):
         with open(filename, 'r', encoding='utf-8') as f:
             json_data = json.load(f)
-            json_w = json.dumps(json_data, ensure_ascii=False, indent=4)
+            json_w = json.dumps(json_data, ensure_ascii=False, indent=4)  # 将字典转换为json字符串格式
             
             head_img = json_data['image_url']            
             head_title = json_data['title']
