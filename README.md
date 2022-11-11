@@ -24,7 +24,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 | 参数 | 类型 | 说明 |
 | - | - | - |
 | year | str | 4位年份, 例如：2022 |
-| year | str | 4位年份, 例如：2022 |
+| month | str | 2位月份, 例如：02、12 |
 | day | str | 2位日期, 例如：02、25 |
 
 例如
