@@ -94,7 +94,7 @@ class BingWallpaper():
                 fp.write("```json\n")
                 fp.write(f"{json_w}\n")
                 fp.write("```\n\n")
-                fp.write(f"UPDATATIME：{data.get_now_time()}\n")
+                fp.write(f"UpdataTime：{data.get_now_time()}\n")
                 
     def main(self):
         response = data.get_bing_img()
