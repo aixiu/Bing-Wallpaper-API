@@ -89,7 +89,7 @@ class BingWallpaper():
                 fp.write("| year | str | 4位年份, 例如：2022 |\n")
                 fp.write("| day | str | 2位日期, 例如：02、25 |\n\n")
                 fp.write("例如\n\n")
-                fp.write("[https://aixiu.github.io/Bing-Wallpaper-API/2022/10/27.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/10/27.json)\n\n")
+                fp.write("[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)\n\n")
                 fp.write("返回数据\n\n")
                 fp.write("```json\n")
                 fp.write(f"{json_w}\n")

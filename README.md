@@ -29,7 +29,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 例如
 
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/10/27.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/10/27.json)
+[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
 
 返回数据
 
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UPDATATIME：2022-11-11 22:37:19
+UpdataTime：2022-11-11 22:51:35
