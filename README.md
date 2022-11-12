@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![阿拉斯加州海恩斯附近的秃鹰群，美国](https://cn.bing.com/th?id=OHR.HainesEagle_ZH-CN1542376030_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [阿拉斯加州海恩斯附近的秃鹰群，美国](https://cn.bing.com/th?id=OHR.HainesEagle_ZH-CN1542376030_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 秃鹰的集会
+![伊萨尔河鸟瞰图，德国伦格里斯](https://cn.bing.com/th?id=OHR.IsarwinkelSylvenstein_ZH-CN2963187862_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [伊萨尔河鸟瞰图，德国伦格里斯](https://cn.bing.com/th?id=OHR.IsarwinkelSylvenstein_ZH-CN2963187862_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 美丽清澈的河流
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2022-11-11",
-    "headline": "秃鹰的集会",
-    "title": "阿拉斯加州海恩斯附近的秃鹰群，美国",
-    "description": "每年11月，多达4000只秃鹰会聚集在阿拉斯加海恩斯附近的奇尔卡特河上，捕食在河边产卵后不久就死亡的鲑鱼。对于鸟类来说这是一场盛宴，美味的鲑鱼源源不断。而对于观鸟者来说，这也是一场视觉盛宴。届时，这里还会举办阿拉斯加秃鹰节，包含猛禽展示、猛禽科普、徒步和现场音乐会等活动。",
-    "image_url": "https://cn.bing.com/th?id=OHR.HainesEagle_ZH-CN1542376030_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "在北美，人们会把一群鹰聚集在一起的场面叫做“鹰的集会”。"
+    "date": "2022-11-12",
+    "headline": "美丽清澈的河流",
+    "title": "伊萨尔河鸟瞰图，德国伦格里斯",
+    "description": "伊萨尔河（Isar River）德国巴伐利亚州河流。它的源头在蒂罗尔阿尔卑斯山的卡文德尔山脉； 它在米滕瓦尔德附近进入德国，流经巴特特尔茨、慕尼黑和兰茨胡特，然后到达代根多夫附近的多瑙河。是巴伐利亚州第四大河流，仅次于多瑙河、因河和美因河。 它是德国第二重要的多瑙河支流，仅次于因恩河。",
+    "image_url": "https://cn.bing.com/th?id=OHR.IsarwinkelSylvenstein_ZH-CN2963187862_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "一般认为伊萨尔河（Isar）这个名字来自凯尔特语中的ys（湍急）和ura（水，河）两个词。另一种见解认为ys是高低的意思，代表河的落差。"
 }
 ```
 
-UpdataTime：2022-11-11 23:52:07
+UpdataTime：2022-11-12 17:00:32
