@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![伊萨尔河鸟瞰图，德国伦格里斯](https://cn.bing.com/th?id=OHR.IsarwinkelSylvenstein_ZH-CN2963187862_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [伊萨尔河鸟瞰图，德国伦格里斯](https://cn.bing.com/th?id=OHR.IsarwinkelSylvenstein_ZH-CN2963187862_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 美丽清澈的河流
+![哈尔基岛的圣约翰骑士中世纪城堡遗址，希腊](https://cn.bing.com/th?id=OHR.SanGiovanni_ZH-CN3184593519_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [哈尔基岛的圣约翰骑士中世纪城堡遗址，希腊](https://cn.bing.com/th?id=OHR.SanGiovanni_ZH-CN3184593519_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 爱琴海之巅
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2022-11-12",
-    "headline": "美丽清澈的河流",
-    "title": "伊萨尔河鸟瞰图，德国伦格里斯",
-    "description": "伊萨尔河（Isar River）德国巴伐利亚州河流。它的源头在蒂罗尔阿尔卑斯山的卡文德尔山脉； 它在米滕瓦尔德附近进入德国，流经巴特特尔茨、慕尼黑和兰茨胡特，然后到达代根多夫附近的多瑙河。是巴伐利亚州第四大河流，仅次于多瑙河、因河和美因河。 它是德国第二重要的多瑙河支流，仅次于因恩河。",
-    "image_url": "https://cn.bing.com/th?id=OHR.IsarwinkelSylvenstein_ZH-CN2963187862_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "一般认为伊萨尔河（Isar）这个名字来自凯尔特语中的ys（湍急）和ura（水，河）两个词。另一种见解认为ys是高低的意思，代表河的落差。"
+    "date": "2022-11-13",
+    "headline": "爱琴海之巅",
+    "title": "哈尔基岛的圣约翰骑士中世纪城堡遗址，希腊",
+    "description": "哈尔基，一个位于爱琴海的希腊小岛，是个世外桃源般的地方。当游客蜂拥至其他希腊岛屿时，哈尔基却显得安静而悠闲。从罗德岛搭乘渡轮是登上哈尔基岛的唯一途径。哈尔基岛总面积只有11平方英里，是多德卡尼斯群岛中有人居住的岛屿中面积最小的。",
+    "image_url": "https://cn.bing.com/th?id=OHR.SanGiovanni_ZH-CN3184593519_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "历史上，这座城堡易守难攻，曾保护哈尔基岛和岛上居民免受海盗和敌人的入侵。"
 }
 ```
 
-UpdataTime：2022-11-12 23:52:02
+UpdataTime：2022-11-13 17:00:26
