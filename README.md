@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![北美水獭在阿卡迪亚国家公园游泳，美国](https://cn.bing.com/th?id=OHR.LontraCanadensis_ZH-CN3359002168_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [北美水獭在阿卡迪亚国家公园游泳，美国](https://cn.bing.com/th?id=OHR.LontraCanadensis_ZH-CN3359002168_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 北美水獭
+![梅萨维德国家公园的悬崖宫，美国](https://cn.bing.com/th?id=OHR.Unesco50_ZH-CN3652927413_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [梅萨维德国家公园的悬崖宫，美国](https://cn.bing.com/th?id=OHR.Unesco50_ZH-CN3652927413_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 《保护世界文化和自然遗产公约》
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2022-11-14",
-    "headline": "北美水獭",
-    "title": "北美水獭在阿卡迪亚国家公园游泳，美国",
-    "description": "今天照片里的是两只北美水獭，拍摄于阿卡迪亚国家公园。严格来说，这些别名“水狗”的水獭是黄鼠狼家族的成员。它们不只出现在河里，还遍布北美的水道和海岸。水獭眼睛近视，视力适合辅助游泳，因此它们有时会冲向人类或船只，可能并非故意，只是没看见。",
-    "image_url": "https://cn.bing.com/th?id=OHR.LontraCanadensis_ZH-CN3359002168_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "水獭脸上长着又长又硬、高度敏感的胡须，帮助它们定位和捕获猎物。"
+    "date": "2022-11-15",
+    "headline": "《保护世界文化和自然遗产公约》",
+    "title": "梅萨维德国家公园的悬崖宫，美国",
+    "description": "1972年11月16日，联合国教科文组织通过了《保护世界文化和自然遗产公约》，首次将自然保护和文化遗产保护的概念联系起来。这个公约的起源要追溯到上世纪60年代初，埃及修建阿斯旺大坝时，尼罗河水将淹没阿布辛贝勒神庙的原址，为保护这个人类文明的历史见证和文化瑰宝，世界各国展开了积极合作，最终《保护世界文化和自然遗产公约》诞生了。",
+    "image_url": "https://cn.bing.com/th?id=OHR.Unesco50_ZH-CN3652927413_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "全世界有1100多处联合国教科文组织认定的世界遗产，其中意大利有58处，是拥有世界遗产最多的国家。"
 }
 ```
 
-UpdataTime：2022-11-14 23:52:13
+UpdataTime：2022-11-15 17:00:39
