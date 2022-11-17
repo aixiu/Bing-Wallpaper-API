@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![威拉米特国家森林麦肯齐河步道上的桥，美国](https://cn.bing.com/th?id=OHR.McKenzieRiverTrail_ZH-CN3786429850_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [威拉米特国家森林麦肯齐河步道上的桥，美国](https://cn.bing.com/th?id=OHR.McKenzieRiverTrail_ZH-CN3786429850_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 徒步旅行
+![菲斯皇宫的大门，摩洛哥](https://cn.bing.com/th?id=OHR.IslamicArt_ZH-CN9972614185_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [菲斯皇宫的大门，摩洛哥](https://cn.bing.com/th?id=OHR.IslamicArt_ZH-CN9972614185_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 通往皇宫的大门
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2022-11-16",
-    "headline": "徒步旅行",
-    "title": "威拉米特国家森林麦肯齐河步道上的桥，美国",
-    "description": "今天照片里的是俄勒冈州的麦肯齐河国家休闲步道，它是威拉米特国家森林的一部分。这条小径蜿蜒经过湖泊、河流和泉水，带你穿过郁郁葱葱的古老森林。这段旅途的一个亮点是，你可以俯瞰幽蓝的塔默里克潭，这里的潭水由河水汇集而成，如蓝宝石般清澈透亮。",
-    "image_url": "https://cn.bing.com/th?id=OHR.McKenzieRiverTrail_ZH-CN3786429850_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "克利尔湖是麦肯齐河的源头。大约3000年前，一股熔岩流堵住河流，最终形成了克利尔湖。"
+    "date": "2022-11-17",
+    "headline": "通往皇宫的大门",
+    "title": "菲斯皇宫的大门，摩洛哥",
+    "description": "2019年，联合国教科文组织宣布将每年的11月18日定为“伊斯兰艺术国际日”，旨在宣传古代和现当代伊斯兰艺术，以及伊斯兰艺术对人类文明的贡献。11月18日也是摩洛哥的独立日，纪念摩洛哥苏丹穆罕默德五世1955年结束流亡回到摩洛哥。",
+    "image_url": "https://cn.bing.com/th?id=OHR.IslamicArt_ZH-CN9972614185_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "虽然今天菲斯皇宫的正门是非常有名的西南门，但在历史上，它的主要入口其实是东北方向的Mechouar广场。"
 }
 ```
 
-UpdataTime：2022-11-16 23:52:05
+UpdataTime：2022-11-17 17:01:12
