@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![菲斯皇宫的大门，摩洛哥](https://cn.bing.com/th?id=OHR.IslamicArt_ZH-CN9972614185_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [菲斯皇宫的大门，摩洛哥](https://cn.bing.com/th?id=OHR.IslamicArt_ZH-CN9972614185_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 通往皇宫的大门
+![犹他州锡安国家公园的维尔京河，美国](https://cn.bing.com/th?id=OHR.ZNPVR_ZH-CN0123954914_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [犹他州锡安国家公园的维尔京河，美国](https://cn.bing.com/th?id=OHR.ZNPVR_ZH-CN0123954914_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 历经百年的锡安国家公园
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2022-11-17",
-    "headline": "通往皇宫的大门",
-    "title": "菲斯皇宫的大门，摩洛哥",
-    "description": "2019年，联合国教科文组织宣布将每年的11月18日定为“伊斯兰艺术国际日”，旨在宣传古代和现当代伊斯兰艺术，以及伊斯兰艺术对人类文明的贡献。11月18日也是摩洛哥的独立日，纪念摩洛哥苏丹穆罕默德五世1955年结束流亡回到摩洛哥。",
-    "image_url": "https://cn.bing.com/th?id=OHR.IslamicArt_ZH-CN9972614185_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "虽然今天菲斯皇宫的正门是非常有名的西南门，但在历史上，它的主要入口其实是东北方向的Mechouar广场。"
+    "date": "2022-11-18",
+    "headline": "历经百年的锡安国家公园",
+    "title": "犹他州锡安国家公园的维尔京河，美国",
+    "description": "今天照片上展示的是维尔京河，它绵延16英里，切割出了壮丽的锡安峡谷。维尔京河流经锡安国家公园，该区域有许多当地特有的动植物。科罗拉多高原、大盆地和莫哈韦沙漠在这里交汇，形成了独特的交叉生物群落。若没有维尔京河的河水，当地的许多罕见动植物都会无法生存。",
+    "image_url": "https://cn.bing.com/th?id=OHR.ZNPVR_ZH-CN0123954914_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "2009年，维尔京河被指定为犹他州第一条自然风景河流。"
 }
 ```
 
-UpdataTime：2022-11-17 23:52:05
+UpdataTime：2022-11-18 16:59:33
