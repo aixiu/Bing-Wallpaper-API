@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-![船底星云中的宇宙悬崖](https://cn.bing.com/th?id=OHR.CosmicCliffs_ZH-CN9555199651_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [船底星云中的宇宙悬崖](https://cn.bing.com/th?id=OHR.CosmicCliffs_ZH-CN9555199651_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 深空中的金色悬崖
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2022-11-19",
     "headline": "深空中的金色悬崖",
@@ -42,6 +6,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url": "https://cn.bing.com/th?id=OHR.CosmicCliffs_ZH-CN9555199651_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
     "main_text": "拍摄这张照片的詹姆斯韦伯太空望远镜是有史以来最大、最强大的太空望远镜。"
 }
-```
-
-UpdataTime：2022-11-19 16:57:46
