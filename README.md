@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![船底星云中的宇宙悬崖](https://cn.bing.com/th?id=OHR.CosmicCliffs_ZH-CN9555199651_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [船底星云中的宇宙悬崖](https://cn.bing.com/th?id=OHR.CosmicCliffs_ZH-CN9555199651_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 深空中的金色悬崖
+![伊索拉贝拉岛，意大利马焦雷湖](https://cn.bing.com/th?id=OHR.BorromeanIslands_ZH-CN0480730115_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [伊索拉贝拉岛，意大利马焦雷湖](https://cn.bing.com/th?id=OHR.BorromeanIslands_ZH-CN0480730115_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 令人陶醉的海岛花园
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2022-11-19",
-    "headline": "深空中的金色悬崖",
-    "title": "船底星云中的宇宙悬崖",
-    "description": "这片“山脉”和“山谷”点缀着闪闪发光的星星，实际上是船底座星云中一个名为NGC 3324的年轻恒星形成区域的边缘。这张由美国宇航局新的詹姆斯韦伯太空望远镜在红外光下拍摄的图像首次揭示了以前不可见的恒星诞生区域。被称为“宇宙悬崖”的这张看似立体的照片，在月光下的夜晚看起来像是崎岖的山脉。事实上，它是NGC 3324内巨大的气态腔的边缘，这张照片中最高的“峰”大约有7光年高。这个海绵状的区域是由星云中强烈的紫外线辐射和恒星风从位于气泡中心的巨大、炽热的年轻恒星中划出的，在这张图片所示的区域上方。",
-    "image_url": "https://cn.bing.com/th?id=OHR.CosmicCliffs_ZH-CN9555199651_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "拍摄这张照片的詹姆斯韦伯太空望远镜是有史以来最大、最强大的太空望远镜。"
+    "date": "2022-11-20",
+    "headline": "令人陶醉的海岛花园",
+    "title": "伊索拉贝拉岛，意大利马焦雷湖",
+    "description": "伊索拉贝拉岛属于意大利北部马焦雷湖的博罗梅安群岛。该岛位于博罗梅安湾，距离湖畔小镇斯特雷萨400米。全岛长320米、宽400米，分为宫殿、意大利花园和小渔村三部分。",
+    "image_url": "https://cn.bing.com/th?id=OHR.BorromeanIslands_ZH-CN0480730115_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "伊索拉贝拉岛是一个热门的旅游景点，斯特雷萨、拉韦诺、帕兰扎和因特拉都有到这里的定期渡轮。一年一度的斯特雷萨马焦雷湖音乐节就在此举办。"
 }
 ```
 
-UpdataTime：2022-11-19 23:52:08
+UpdataTime：2022-11-20 16:57:56
