@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![伊索拉贝拉岛，意大利马焦雷湖](https://cn.bing.com/th?id=OHR.BorromeanIslands_ZH-CN0480730115_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [伊索拉贝拉岛，意大利马焦雷湖](https://cn.bing.com/th?id=OHR.BorromeanIslands_ZH-CN0480730115_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 令人陶醉的海岛花园
+![阿姆斯特丹供水沙丘自然保护区的赤狐，荷兰](https://cn.bing.com/th?id=OHR.Waterleidingduinen_ZH-CN1430683267_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [阿姆斯特丹供水沙丘自然保护区的赤狐，荷兰](https://cn.bing.com/th?id=OHR.Waterleidingduinen_ZH-CN1430683267_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 赤狐
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2022-11-20",
-    "headline": "令人陶醉的海岛花园",
-    "title": "伊索拉贝拉岛，意大利马焦雷湖",
-    "description": "伊索拉贝拉岛属于意大利北部马焦雷湖的博罗梅安群岛。该岛位于博罗梅安湾，距离湖畔小镇斯特雷萨400米。全岛长320米、宽400米，分为宫殿、意大利花园和小渔村三部分。",
-    "image_url": "https://cn.bing.com/th?id=OHR.BorromeanIslands_ZH-CN0480730115_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "伊索拉贝拉岛是一个热门的旅游景点，斯特雷萨、拉韦诺、帕兰扎和因特拉都有到这里的定期渡轮。一年一度的斯特雷萨马焦雷湖音乐节就在此举办。"
+    "date": "2022-11-21",
+    "headline": "赤狐",
+    "title": "阿姆斯特丹供水沙丘自然保护区的赤狐，荷兰",
+    "description": "今天，让我们一起前往荷兰阿姆斯特丹供水沙丘自然保护区，去看一看那里的赤狐。这个自然保护区在阿姆斯特丹市以西8英里处。这里不仅有各种各样的动植物，还有数百个专门用于过滤雨水的沙丘。自19世纪以来，这些沙丘便一直是城市饮用水的来源。",
+    "image_url": "https://cn.bing.com/th?id=OHR.Waterleidingduinen_ZH-CN1430683267_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "赤狐是所有狐狸中体型最大的，也是食肉类动物中分布最广的。"
 }
 ```
 
-UpdataTime：2022-11-20 23:52:02
+UpdataTime：2022-11-21 17:00:55
