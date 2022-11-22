@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![阿姆斯特丹供水沙丘自然保护区的赤狐，荷兰](https://cn.bing.com/th?id=OHR.Waterleidingduinen_ZH-CN1430683267_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [阿姆斯特丹供水沙丘自然保护区的赤狐，荷兰](https://cn.bing.com/th?id=OHR.Waterleidingduinen_ZH-CN1430683267_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 赤狐
+![向日葵](https://cn.bing.com/th?id=OHR.HelianthusAnnuus_ZH-CN1675762555_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [向日葵](https://cn.bing.com/th?id=OHR.HelianthusAnnuus_ZH-CN1675762555_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 自然、艺术和数学
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2022-11-21",
-    "headline": "赤狐",
-    "title": "阿姆斯特丹供水沙丘自然保护区的赤狐，荷兰",
-    "description": "今天，让我们一起前往荷兰阿姆斯特丹供水沙丘自然保护区，去看一看那里的赤狐。这个自然保护区在阿姆斯特丹市以西8英里处。这里不仅有各种各样的动植物，还有数百个专门用于过滤雨水的沙丘。自19世纪以来，这些沙丘便一直是城市饮用水的来源。",
-    "image_url": "https://cn.bing.com/th?id=OHR.Waterleidingduinen_ZH-CN1430683267_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "赤狐是所有狐狸中体型最大的，也是食肉类动物中分布最广的。"
+    "date": "2022-11-22",
+    "headline": "自然、艺术和数学",
+    "title": "向日葵",
+    "description": "向日葵原产于美洲，是一种引人注目的开花植物。一年中，无论什么时候，它都向着天空生长，愉快地歌颂着夏日。事实上，它的花头由许多极小的花朵组成，而这些花朵最终会成熟、变成种子。但是你知道吗？向日葵上也蕴含着大自然的数学奇迹。",
+    "image_url": "https://cn.bing.com/th?id=OHR.HelianthusAnnuus_ZH-CN1675762555_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "在斐波纳契数列中，两个连续数字的比值十分接近黄金分割率。"
 }
 ```
 
-UpdataTime：2022-11-21 23:52:08
+UpdataTime：2022-11-22 17:00:29
