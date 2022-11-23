@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![向日葵](https://cn.bing.com/th?id=OHR.HelianthusAnnuus_ZH-CN1675762555_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [向日葵](https://cn.bing.com/th?id=OHR.HelianthusAnnuus_ZH-CN1675762555_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 自然、艺术和数学
+![坎彭万德山，基姆高地区阿绍，德国巴伐利亚州](https://cn.bing.com/th?id=OHR.AschauChiemgau_ZH-CN1929016406_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [坎彭万德山，基姆高地区阿绍，德国巴伐利亚州](https://cn.bing.com/th?id=OHR.AschauChiemgau_ZH-CN1929016406_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 令人惊叹的山顶美景
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2022-11-22",
-    "headline": "自然、艺术和数学",
-    "title": "向日葵",
-    "description": "向日葵原产于美洲，是一种引人注目的开花植物。一年中，无论什么时候，它都向着天空生长，愉快地歌颂着夏日。事实上，它的花头由许多极小的花朵组成，而这些花朵最终会成熟、变成种子。但是你知道吗？向日葵上也蕴含着大自然的数学奇迹。",
-    "image_url": "https://cn.bing.com/th?id=OHR.HelianthusAnnuus_ZH-CN1675762555_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "在斐波纳契数列中，两个连续数字的比值十分接近黄金分割率。"
+    "date": "2022-11-23",
+    "headline": "令人惊叹的山顶美景",
+    "title": "坎彭万德山，基姆高地区阿绍，德国巴伐利亚州",
+    "description": "坎彭万德山顶峰现已入冬。春夏时，这里会迎来许多游客前来徒步、骑山地自行车、登山、玩滑翔伞和滑翔机。天气转冷后这里则多了几分安静。而现在，这个地区成为了雪地徒步者和旅行滑雪者的热门目的地。",
+    "image_url": "https://cn.bing.com/th?id=OHR.AschauChiemgau_ZH-CN1929016406_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "1669米高的坎彭万德山是基姆高阿尔卑斯山脉的一部分，距离慕尼黑约一小时车程。其与众不同的锯齿状山脊被当地人亲切地称为“Kampen”，这个词源自德语的“鸡冠”。"
 }
 ```
 
-UpdataTime：2022-11-22 23:52:03
+UpdataTime：2022-11-23 16:57:01
