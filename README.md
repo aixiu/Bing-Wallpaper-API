@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![坎彭万德山，基姆高地区阿绍，德国巴伐利亚州](https://cn.bing.com/th?id=OHR.AschauChiemgau_ZH-CN1929016406_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [坎彭万德山，基姆高地区阿绍，德国巴伐利亚州](https://cn.bing.com/th?id=OHR.AschauChiemgau_ZH-CN1929016406_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 令人惊叹的山顶美景
+![日出时分的蒂雷纳村庄，法国新阿基坦大区科雷兹省](https://cn.bing.com/th?id=OHR.TurenneSunrise_ZH-CN2357226217_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [日出时分的蒂雷纳村庄，法国新阿基坦大区科雷兹省](https://cn.bing.com/th?id=OHR.TurenneSunrise_ZH-CN2357226217_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 科雷兹的宝石
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2022-11-23",
-    "headline": "令人惊叹的山顶美景",
-    "title": "坎彭万德山，基姆高地区阿绍，德国巴伐利亚州",
-    "description": "坎彭万德山顶峰现已入冬。春夏时，这里会迎来许多游客前来徒步、骑山地自行车、登山、玩滑翔伞和滑翔机。天气转冷后这里则多了几分安静。而现在，这个地区成为了雪地徒步者和旅行滑雪者的热门目的地。",
-    "image_url": "https://cn.bing.com/th?id=OHR.AschauChiemgau_ZH-CN1929016406_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "1669米高的坎彭万德山是基姆高阿尔卑斯山脉的一部分，距离慕尼黑约一小时车程。其与众不同的锯齿状山脊被当地人亲切地称为“Kampen”，这个词源自德语的“鸡冠”。"
+    "date": "2022-11-24",
+    "headline": "科雷兹的宝石",
+    "title": "日出时分的蒂雷纳村庄，法国新阿基坦大区科雷兹省",
+    "description": "蒂雷纳是法国新阿基坦大区科雷兹省的一个行政区。蒂雷纳地理位置独特，位于悬崖顶部，在山顶俯瞰着周围的乡野全景。而山顶上仍然保留着13世纪中世纪蒂雷纳城堡的遗迹，这里曾是中世纪法国最强大的军事力量之一蒂雷纳子爵的封地。",
+    "image_url": "https://cn.bing.com/th?id=OHR.TurenneSunrise_ZH-CN2357226217_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "这是法国最美村庄之一，这里还有一座举世闻名的城堡。"
 }
 ```
 
-UpdataTime：2022-11-23 23:52:14
+UpdataTime：2022-11-24 16:56:20
