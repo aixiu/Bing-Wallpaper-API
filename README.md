@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![一片飘落在龙虾爪瓣上的号角树树叶，墨西哥](https://cn.bing.com/th?id=OHR.Cecropia_ZH-CN4236630074_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [一片飘落在龙虾爪瓣上的号角树树叶，墨西哥](https://cn.bing.com/th?id=OHR.Cecropia_ZH-CN4236630074_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 不可思议的树叶
+![火星（© NASA/Alamy）](https://cn.bing.com/th?id=OHR.RedPlanetDay_ZH-CN4913018041_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [火星（© NASA/Alamy）](https://cn.bing.com/th?id=OHR.RedPlanetDay_ZH-CN4913018041_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 太阳系的第四颗行星
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2022-11-26",
-    "headline": "不可思议的树叶",
-    "title": "一片飘落在龙虾爪瓣上的号角树树叶，墨西哥",
-    "description": "今天照片里的是号角树树叶和龙虾爪花瓣，拍摄于墨西哥的热带雨林。号角树属的树木都长得很快，平均每年会长高约2.5英尺，如果条件理想，它们甚至能一年长高10英尺，最终它们将达到约60英尺的高度。号角树的树叶干枯后，会皱缩成拳头状，呈现出有趣的图案形状。号角树属的树木因其果实和叶子而深受树懒、猴子与巨嘴鸟等动物的喜爱。许多号角树属树木还与阿兹特克蚁有着共生关系，号角树为蚂蚁提供住所和食物，而蚂蚁则保护树木免受食植动物的侵害。",
-    "image_url": "https://cn.bing.com/th?id=OHR.Cecropia_ZH-CN4236630074_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "号角树属原产于美洲热带地区，是热带雨林中最容易辨认的树木种类之一。"
+    "date": "2022-11-27",
+    "headline": "太阳系的第四颗行星",
+    "title": "火星（© NASA/Alamy）",
+    "description": "火星距离地球约1.4亿英里，围绕着太阳运行，这颗行星也被称为红色星球，是继水星、金星及地球之后距离太阳第四近的行星。几百年来的研究和探索，使得我们对火星的了解仅次于地球。近年来，随着好奇号和毅力号探测器相继在2012年、2021年成功登陆火星，我们对火星的认识更加深入。每年的11月28号是火星节，让我们在今天庆祝探索火星取得的成就吧。",
+    "image_url": "https://cn.bing.com/th?id=OHR.RedPlanetDay_ZH-CN4913018041_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "火星以罗马神话中的战神玛尔斯命名。"
 }
 ```
 
-UpdataTime：2022-11-26 23:52:03
+UpdataTime：2022-11-27 16:55:09
