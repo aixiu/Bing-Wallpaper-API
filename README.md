@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![火星（© NASA/Alamy）](https://cn.bing.com/th?id=OHR.RedPlanetDay_ZH-CN4913018041_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [火星（© NASA/Alamy）](https://cn.bing.com/th?id=OHR.RedPlanetDay_ZH-CN4913018041_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 太阳系的第四颗行星
+![正在筑巢的大蓝鹭，佛罗里达州瓦可达哈齐湿地，美国](https://cn.bing.com/th?id=OHR.HeronGiving_ZH-CN5229629007_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [正在筑巢的大蓝鹭，佛罗里达州瓦可达哈齐湿地，美国](https://cn.bing.com/th?id=OHR.HeronGiving_ZH-CN5229629007_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 付出和给予的一天
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2022-11-27",
-    "headline": "太阳系的第四颗行星",
-    "title": "火星（© NASA/Alamy）",
-    "description": "火星距离地球约1.4亿英里，围绕着太阳运行，这颗行星也被称为红色星球，是继水星、金星及地球之后距离太阳第四近的行星。几百年来的研究和探索，使得我们对火星的了解仅次于地球。近年来，随着好奇号和毅力号探测器相继在2012年、2021年成功登陆火星，我们对火星的认识更加深入。每年的11月28号是火星节，让我们在今天庆祝探索火星取得的成就吧。",
-    "image_url": "https://cn.bing.com/th?id=OHR.RedPlanetDay_ZH-CN4913018041_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "火星以罗马神话中的战神玛尔斯命名。"
+    "date": "2022-11-28",
+    "headline": "付出和给予的一天",
+    "title": "正在筑巢的大蓝鹭，佛罗里达州瓦可达哈齐湿地，美国",
+    "description": "大蓝鹭是北美最大的苍鹭。它们喜欢用树枝在树的高处筑巢，巢里放上苔藓、树叶、草和其他柔软的材料。每年大蓝鹭都会回到同一个筑巢地，雄鹭负责寻找材料，雌鹭则负责筑巢，然后夫妻俩共同维护“爱巢”。照片里的这只雄鹭正把嘴里的筑巢材料交给它的配偶，可以说非常符合今天的主题了。",
+    "image_url": "https://cn.bing.com/th?id=OHR.HeronGiving_ZH-CN5229629007_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "2012年，第一个“给予星期二”在美国举行，为慈善事业筹集了1000万美元。而2021年，组织者表示他们筹集到的善款高达创纪录的27亿美元。"
 }
 ```
 
-UpdataTime：2022-11-27 23:52:14
+UpdataTime：2022-11-28 16:52:02
