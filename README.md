@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![正在筑巢的大蓝鹭，佛罗里达州瓦可达哈齐湿地，美国](https://cn.bing.com/th?id=OHR.HeronGiving_ZH-CN5229629007_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [正在筑巢的大蓝鹭，佛罗里达州瓦可达哈齐湿地，美国](https://cn.bing.com/th?id=OHR.HeronGiving_ZH-CN5229629007_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 付出和给予的一天
+![罗维尼老城，克罗地亚](https://cn.bing.com/th?id=OHR.RovinjCroatia_ZH-CN5459110500_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [罗维尼老城，克罗地亚](https://cn.bing.com/th?id=OHR.RovinjCroatia_ZH-CN5459110500_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 亚得里亚海边的明珠
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2022-11-28",
-    "headline": "付出和给予的一天",
-    "title": "正在筑巢的大蓝鹭，佛罗里达州瓦可达哈齐湿地，美国",
-    "description": "大蓝鹭是北美最大的苍鹭。它们喜欢用树枝在树的高处筑巢，巢里放上苔藓、树叶、草和其他柔软的材料。每年大蓝鹭都会回到同一个筑巢地，雄鹭负责寻找材料，雌鹭则负责筑巢，然后夫妻俩共同维护“爱巢”。照片里的这只雄鹭正把嘴里的筑巢材料交给它的配偶，可以说非常符合今天的主题了。",
-    "image_url": "https://cn.bing.com/th?id=OHR.HeronGiving_ZH-CN5229629007_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "2012年，第一个“给予星期二”在美国举行，为慈善事业筹集了1000万美元。而2021年，组织者表示他们筹集到的善款高达创纪录的27亿美元。"
+    "date": "2022-11-29",
+    "headline": "亚得里亚海边的明珠",
+    "title": "罗维尼老城，克罗地亚",
+    "description": "美丽而又历史悠久的罗维尼矗立在亚得里亚海边。圣尤菲米亚教堂200英尺高的钟楼俯瞰着罗维尼老城中心。这座教堂建于18世纪初，也充当着灯塔，照亮镇上渔船回家的路。",
+    "image_url": "https://cn.bing.com/th?id=OHR.RovinjCroatia_ZH-CN5459110500_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "伊斯特拉语是一种曾在伊斯特拉地区广泛使用的语言，现在当地仍有一些居民在使用。如今，这座小镇的官方语言是克罗地亚语和意大利语。"
 }
 ```
 
-UpdataTime：2022-11-28 23:52:06
+UpdataTime：2022-11-29 16:56:13
