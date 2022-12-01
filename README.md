@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2022-11-30",
+    "date": "2022-12-01",
     "headline": "江泽民逝世",
     "title": "江泽民逝世",
     "description": "2022年11月30日，江泽民在上海逝世。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2022-11-30 23:52:11
+UpdataTime：2022-12-01 01:57:56
