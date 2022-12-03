@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![特里卡基拉河三角洲，阿拉斯加州克拉克湖国家公园，美国](https://cn.bing.com/th?id=OHR.BraidedRiverDelta_ZH-CN3352462511_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [特里卡基拉河三角洲，阿拉斯加州克拉克湖国家公园，美国](https://cn.bing.com/th?id=OHR.BraidedRiverDelta_ZH-CN3352462511_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 保护阿拉斯加的自然之美
+![迈阿密海滩海洋大道，美国佛罗里达州](https://cn.bing.com/th?id=OHR.MiamiDT_ZH-CN3528760113_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [迈阿密海滩海洋大道，美国佛罗里达州](https://cn.bing.com/th?id=OHR.MiamiDT_ZH-CN3528760113_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 在艺术天堂追逐夏天
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2022-12-02",
-    "headline": "保护阿拉斯加的自然之美",
-    "title": "特里卡基拉河三角洲，阿拉斯加州克拉克湖国家公园，美国",
-    "description": "1980年的今天，美国总统卡特签署了《阿拉斯加国家利益土地保护法》。此前，阿拉斯加没有国家公园，而现在有8个国家公园，还有许多纪念地和保护区，保护着超过1.57亿英亩的土地。也正因为这个法案，公众才有机会欣赏今天照片里的绝美自然风景——克拉克湖国家公园长达51英里的特里卡基拉河三角洲。",
-    "image_url": "https://cn.bing.com/th?id=OHR.BraidedRiverDelta_ZH-CN3352462511_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "克拉克湖国家公园有三条河被认证为“国家荒野河流”，特里卡基拉河是其中一条，其余两条分别是马尔查特纳河和奇利卡德罗特纳河。"
+    "date": "2022-12-03",
+    "headline": "在艺术天堂追逐夏天",
+    "title": "迈阿密海滩海洋大道，美国佛罗里达州",
+    "description": "海洋大道是迈阿密最受欢迎的景点之一，是位于南海滩的一条观光长廊。在这里，有关迈阿密的一切想象都变成了现实——海滩上的性感女郎，白色沙滩，热带鸡尾酒，热情的拉丁音乐和独特的艺术建筑。",
+    "image_url": "https://cn.bing.com/th?id=OHR.MiamiDT_ZH-CN3528760113_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "迈阿密海滩海洋大道是美国电影界的一个传奇地点。《疤面煞星》和《迈阿密风云》等著名电影曾在这里取景拍摄。"
 }
 ```
 
-UpdataTime：2022-12-02 02:32:55
+UpdataTime：2022-12-03 02:22:25
