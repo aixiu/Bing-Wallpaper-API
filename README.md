@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![乞力马扎罗山附近的大象，安波塞利国家公园，肯尼亚](https://cn.bing.com/th?id=OHR.KilimanjaroElephants_ZH-CN3779609103_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [乞力马扎罗山附近的大象，安波塞利国家公园，肯尼亚](https://cn.bing.com/th?id=OHR.KilimanjaroElephants_ZH-CN3779609103_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 象群在路上
+![古瓦哈提的竹子，印度阿萨姆邦](https://cn.bing.com/th?id=OHR.BambooTreesIndia_ZH-CN3943852151_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [古瓦哈提的竹子，印度阿萨姆邦](https://cn.bing.com/th?id=OHR.BambooTreesIndia_ZH-CN3943852151_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 绿意盎然
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2022-12-04",
-    "headline": "象群在路上",
-    "title": "乞力马扎罗山附近的大象，安波塞利国家公园，肯尼亚",
-    "description": "今天是世界野生动物保护日，让我们和象群们一起散散步。照片里这些非洲象正缓步穿过肯尼亚安波塞利国家公园的大草原，远处是乞力马扎罗山。由于栖息地丧失和偷猎，非洲象数量锐减。",
-    "image_url": "https://cn.bing.com/th?id=OHR.KilimanjaroElephants_ZH-CN3779609103_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "乞力马扎罗山的冰川和冰原在不断缩小，预计将在2025年至2035年之间完全消失。这一直是科学研究的重点对象。"
+    "date": "2022-12-05",
+    "headline": "绿意盎然",
+    "title": "古瓦哈提的竹子，印度阿萨姆邦",
+    "description": "古瓦哈提位于雅鲁藏布江河岸和西隆高原山麓之间，是印度东北部最大的城市。古瓦哈提地区拥有多种野生动物，包括亚洲象、蟒蛇、老虎、犀牛、野牛、灵长类动物等稀有动物 和濒临灭绝的鸟类。",
+    "image_url": "https://cn.bing.com/th?id=OHR.BambooTreesIndia_ZH-CN3943852151_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "古瓦哈提的名字来源于源自梵语 Guvaka 的阿萨姆语单词“Guva”，意思是槟榔及其植物，“Hati”的意思是成排的槟榔树。"
 }
 ```
 
-UpdataTime：2022-12-04 04:05:55
+UpdataTime：2022-12-05 01:51:50
