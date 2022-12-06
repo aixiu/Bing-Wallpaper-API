@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![古瓦哈提的竹子，印度阿萨姆邦](https://cn.bing.com/th?id=OHR.BambooTreesIndia_ZH-CN3943852151_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [古瓦哈提的竹子，印度阿萨姆邦](https://cn.bing.com/th?id=OHR.BambooTreesIndia_ZH-CN3943852151_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 绿意盎然
+![大沼泽国家公园里的一只大白鹭，美国佛罗里达州](https://cn.bing.com/th?id=OHR.GreatEgret_ZH-CN4088261519_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [大沼泽国家公园里的一只大白鹭，美国佛罗里达州](https://cn.bing.com/th?id=OHR.GreatEgret_ZH-CN4088261519_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 白鹭亮羽
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2022-12-05",
-    "headline": "绿意盎然",
-    "title": "古瓦哈提的竹子，印度阿萨姆邦",
-    "description": "古瓦哈提位于雅鲁藏布江河岸和西隆高原山麓之间，是印度东北部最大的城市。古瓦哈提地区拥有多种野生动物，包括亚洲象、蟒蛇、老虎、犀牛、野牛、灵长类动物等稀有动物 和濒临灭绝的鸟类。",
-    "image_url": "https://cn.bing.com/th?id=OHR.BambooTreesIndia_ZH-CN3943852151_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "古瓦哈提的名字来源于源自梵语 Guvaka 的阿萨姆语单词“Guva”，意思是槟榔及其植物，“Hati”的意思是成排的槟榔树。"
+    "date": "2022-12-06",
+    "headline": "白鹭亮羽",
+    "title": "大沼泽国家公园里的一只大白鹭，美国佛罗里达州",
+    "description": "今天是佛罗里达州的大沼泽国家公园成立75周年。该公园建于1947年，旨在保护脆弱的生态系统，覆盖了大沼泽湿地面积的20%。尽管有公园管理局的保护，在人类活动干扰之下，大沼泽的生态还是受到了严重影响，尤其是当地的淡水资源。",
+    "image_url": "https://cn.bing.com/th?id=OHR.GreatEgret_ZH-CN4088261519_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "已知年龄最大的白鹭发现于俄亥俄州，当时是22岁10个月。"
 }
 ```
 
-UpdataTime：2022-12-05 01:51:50
+UpdataTime：2022-12-06 01:51:28
