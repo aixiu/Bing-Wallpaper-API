@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![大沼泽国家公园里的一只大白鹭，美国佛罗里达州](https://cn.bing.com/th?id=OHR.GreatEgret_ZH-CN4088261519_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [大沼泽国家公园里的一只大白鹭，美国佛罗里达州](https://cn.bing.com/th?id=OHR.GreatEgret_ZH-CN4088261519_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 白鹭亮羽
+![贾斯珀国家公园纠结溪瀑布，阿尔伯塔省，加拿大](https://cn.bing.com/th?id=OHR.TangleCreekFalls_ZH-CN4281148652_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [贾斯珀国家公园纠结溪瀑布，阿尔伯塔省，加拿大](https://cn.bing.com/th?id=OHR.TangleCreekFalls_ZH-CN4281148652_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 落基山脉的径流
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2022-12-06",
-    "headline": "白鹭亮羽",
-    "title": "大沼泽国家公园里的一只大白鹭，美国佛罗里达州",
-    "description": "今天是佛罗里达州的大沼泽国家公园成立75周年。该公园建于1947年，旨在保护脆弱的生态系统，覆盖了大沼泽湿地面积的20%。尽管有公园管理局的保护，在人类活动干扰之下，大沼泽的生态还是受到了严重影响，尤其是当地的淡水资源。",
-    "image_url": "https://cn.bing.com/th?id=OHR.GreatEgret_ZH-CN4088261519_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "已知年龄最大的白鹭发现于俄亥俄州，当时是22岁10个月。"
+    "date": "2022-12-07",
+    "headline": "落基山脉的径流",
+    "title": "贾斯珀国家公园纠结溪瀑布，阿尔伯塔省，加拿大",
+    "description": "贾斯珀国家公园拥有无数令人惊叹的瀑布，而纠结溪瀑布的阶梯式瀑布群则是不容错过的奇观。纠结溪瀑布位于阿尔伯塔省93号公路冰原大道附近，那里交通便利，在高速公路上就可以感受到纠结溪瀑布朦胧的水汽。如果你想捕捉一些让人叹为观止的镜头，你可以离开公路前往瀑布，字面意义上地“沉浸”在瀑布之美中。",
+    "image_url": "https://cn.bing.com/th?id=OHR.TangleCreekFalls_ZH-CN4281148652_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "贾斯珀国家公园于1930年被确立为国家公园，并于1984年被联合国教科文组织列为世界遗产。"
 }
 ```
 
-UpdataTime：2022-12-06 01:51:28
+UpdataTime：2022-12-07 01:57:41
