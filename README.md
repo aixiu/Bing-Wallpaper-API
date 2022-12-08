@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![贾斯珀国家公园纠结溪瀑布，阿尔伯塔省，加拿大](https://cn.bing.com/th?id=OHR.TangleCreekFalls_ZH-CN4281148652_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [贾斯珀国家公园纠结溪瀑布，阿尔伯塔省，加拿大](https://cn.bing.com/th?id=OHR.TangleCreekFalls_ZH-CN4281148652_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 落基山脉的径流
+![多弗勒山-松达尔国家公园的麝牛与她的宝宝，挪威](https://cn.bing.com/th?id=OHR.WistmansWood_ZH-CN4453301808_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [多弗勒山-松达尔国家公园的麝牛与她的宝宝，挪威](https://cn.bing.com/th?id=OHR.WistmansWood_ZH-CN4453301808_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 这些古老的动物是什么？
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2022-12-07",
-    "headline": "落基山脉的径流",
-    "title": "贾斯珀国家公园纠结溪瀑布，阿尔伯塔省，加拿大",
-    "description": "贾斯珀国家公园拥有无数令人惊叹的瀑布，而纠结溪瀑布的阶梯式瀑布群则是不容错过的奇观。纠结溪瀑布位于阿尔伯塔省93号公路冰原大道附近，那里交通便利，在高速公路上就可以感受到纠结溪瀑布朦胧的水汽。如果你想捕捉一些让人叹为观止的镜头，你可以离开公路前往瀑布，字面意义上地“沉浸”在瀑布之美中。",
-    "image_url": "https://cn.bing.com/th?id=OHR.TangleCreekFalls_ZH-CN4281148652_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "贾斯珀国家公园于1930年被确立为国家公园，并于1984年被联合国教科文组织列为世界遗产。"
+    "date": "2022-12-08",
+    "headline": "这些古老的动物是什么？",
+    "title": "多弗勒山-松达尔国家公园的麝牛与她的宝宝，挪威",
+    "description": "这些健美的野兽是远古时代的“活化石”，它们早在猛犸象的时代就已存在。今天照片中的麝牛妈妈和麝牛宝宝属于挪威唯一的麝牛群，生活在多夫勒山国家公园里。在这里游玩时，你可以沿着公园里有路标指示的麝牛小径徒步。不过要注意，如果麝牛感觉受到威胁，它们便会发起攻击，所以请与它们保持远距离。如果觉得这过于危险，你也可以让经验丰富的导游陪你一起游览，既安全又能一饱眼福。",
+    "image_url": "https://cn.bing.com/th?id=OHR.WistmansWood_ZH-CN4453301808_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "麝牛原产于北极，以其粗厚的皮毛和雄性在季节性发情期散发的强烈气味而闻名，麝牛这个名字也由此而来。"
 }
 ```
 
-UpdataTime：2022-12-07 01:57:41
+UpdataTime：2022-12-08 01:53:43
