@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![一品红](https://cn.bing.com/th?id=OHR.PoinsettiaDay_ZH-CN5115071992_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [一品红](https://cn.bing.com/th?id=OHR.PoinsettiaDay_ZH-CN5115071992_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 假日色调
+![哈尔施塔特，奥地利](https://cn.bing.com/th?id=OHR.InstagramHallstatt_ZH-CN5309282641_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [哈尔施塔特，奥地利](https://cn.bing.com/th?id=OHR.InstagramHallstatt_ZH-CN5309282641_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 哈尔施塔特，奥地利
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2022-12-12",
-    "headline": "假日色调",
-    "title": "一品红",
-    "description": "一品红从墨西哥引入美国已经有近200年的历史了。在墨西哥，阿兹特克人曾用一品红的叶子制作染料，用它的汁液治疗发烧。1828年，美国驻墨西哥首任大使乔尔·罗伯茨·波因塞特将这种鲜红色的植物引入美国。到了20世纪60年代，人们培育出了大量更耐寒、更饱满的一品红种类。美国的一品红批发贸易蓬勃发展，每年带来高达2.5亿美元的收入。2002年，每年的12月12日定为“一品红日”。一品红是美国和加拿大最畅销的盆栽植物，每年12月都是节日餐桌上的亮点。",
-    "image_url": "https://cn.bing.com/th?id=OHR.PoinsettiaDay_ZH-CN5115071992_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "在被命名为一品红之前，这种植物被称为“墨西哥烈焰花”。"
+    "date": "2022-12-13",
+    "headline": "哈尔施塔特，奥地利",
+    "title": "哈尔施塔特，奥地利",
+    "description": "哈尔施塔特村周围山脉里的盐矿，是世界上最古老的盐矿之一，盐曾是这里的经济支柱。如今，这些矿山成了广受欢迎的旅游景点，美丽的童话村庄吸引了大量游客。随着游客越来越多，哈尔施塔特村不堪重负，甚至开始设法限制每天进城的游客人数。",
+    "image_url": "https://cn.bing.com/th?id=OHR.InstagramHallstatt_ZH-CN5309282641_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "1997年，哈尔施塔特被联合国教科文组织列为奥地利的世界遗产之一。"
 }
 ```
 
-UpdataTime：2022-12-12 01:55:07
+UpdataTime：2022-12-13 01:59:26
