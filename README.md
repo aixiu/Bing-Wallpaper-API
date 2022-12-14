@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![哈尔施塔特，奥地利](https://cn.bing.com/th?id=OHR.InstagramHallstatt_ZH-CN5309282641_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [哈尔施塔特，奥地利](https://cn.bing.com/th?id=OHR.InstagramHallstatt_ZH-CN5309282641_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 哈尔施塔特，奥地利
+![大帕拉迪索国家公园，意大利](https://cn.bing.com/th?id=OHR.GranParadiso100th_ZH-CN5744961532_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [大帕拉迪索国家公园，意大利](https://cn.bing.com/th?id=OHR.GranParadiso100th_ZH-CN5744961532_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 意大利最古老的国家公园
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2022-12-13",
-    "headline": "哈尔施塔特，奥地利",
-    "title": "哈尔施塔特，奥地利",
-    "description": "哈尔施塔特村周围山脉里的盐矿，是世界上最古老的盐矿之一，盐曾是这里的经济支柱。如今，这些矿山成了广受欢迎的旅游景点，美丽的童话村庄吸引了大量游客。随着游客越来越多，哈尔施塔特村不堪重负，甚至开始设法限制每天进城的游客人数。",
-    "image_url": "https://cn.bing.com/th?id=OHR.InstagramHallstatt_ZH-CN5309282641_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "1997年，哈尔施塔特被联合国教科文组织列为奥地利的世界遗产之一。"
+    "date": "2022-12-14",
+    "headline": "意大利最古老的国家公园",
+    "title": "大帕拉迪索国家公园，意大利",
+    "description": "大帕拉迪索国家公园是意大利的一座国家公园，位于格雷晏阿尔卑斯山脉，以公园里的大帕拉迪索山命名，毗邻法国瓦诺伊塞国家公园。",
+    "image_url": "https://cn.bing.com/th?id=OHR.GranParadiso100th_ZH-CN5744961532_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "这个公园所在地原本是为了保护阿尔卑斯野山羊，避免它们被偷猎，因为这里曾经是国王维克托·伊曼纽尔二世的私人狩猎场。但现在，这里保护着许多物种。"
 }
 ```
 
-UpdataTime：2022-12-13 01:59:26
+UpdataTime：2022-12-14 01:55:22
