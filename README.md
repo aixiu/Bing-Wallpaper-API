@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![大帕拉迪索国家公园，意大利](https://cn.bing.com/th?id=OHR.GranParadiso100th_ZH-CN5744961532_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [大帕拉迪索国家公园，意大利](https://cn.bing.com/th?id=OHR.GranParadiso100th_ZH-CN5744961532_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 意大利最古老的国家公园
+![博罗韦茨，保加利亚](https://cn.bing.com/th?id=OHR.Borovets_ZH-CN5914681811_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [博罗韦茨，保加利亚](https://cn.bing.com/th?id=OHR.Borovets_ZH-CN5914681811_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 冬季仙境
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2022-12-14",
-    "headline": "意大利最古老的国家公园",
-    "title": "大帕拉迪索国家公园，意大利",
-    "description": "大帕拉迪索国家公园是意大利的一座国家公园，位于格雷晏阿尔卑斯山脉，以公园里的大帕拉迪索山命名，毗邻法国瓦诺伊塞国家公园。",
-    "image_url": "https://cn.bing.com/th?id=OHR.GranParadiso100th_ZH-CN5744961532_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "这个公园所在地原本是为了保护阿尔卑斯野山羊，避免它们被偷猎，因为这里曾经是国王维克托·伊曼纽尔二世的私人狩猎场。但现在，这里保护着许多物种。"
+    "date": "2022-12-15",
+    "headline": "冬季仙境",
+    "title": "博罗韦茨，保加利亚",
+    "description": "博罗韦茨建于1896年，是保加利亚最古老的冬季度假胜地。相较于阿尔卑斯山其他消费高昂的滑雪胜地，博罗韦茨是欧洲滑雪爱好者们更便宜的选择，不用花大钱就能享受滑雪的乐趣，非常适合滑雪新手。",
+    "image_url": "https://cn.bing.com/th?id=OHR.Borovets_ZH-CN5914681811_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "博罗韦茨曾两次主办高山滑雪世界杯（1981年和1984年），这里的冬季两项赛道是世界上最好的赛道之一。"
 }
 ```
 
-UpdataTime：2022-12-14 01:55:22
+UpdataTime：2022-12-15 01:57:13
