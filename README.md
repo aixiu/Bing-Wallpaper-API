@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![杜德萨加尔瀑布，印度果阿](https://cn.bing.com/th?id=OHR.DudhsagarFallsGoa_ZH-CN0466471017_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [杜德萨加尔瀑布，印度果阿](https://cn.bing.com/th?id=OHR.DudhsagarFallsGoa_ZH-CN0466471017_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 令人难忘的景色
+![冰川国家公园的山羊，美国蒙大拿州](https://cn.bing.com/th?id=OHR.GlacierGoats_ZH-CN0764810245_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [冰川国家公园的山羊，美国蒙大拿州](https://cn.bing.com/th?id=OHR.GlacierGoats_ZH-CN0764810245_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 它们对你也同样好奇
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2022-12-16",
-    "headline": "令人难忘的景色",
-    "title": "杜德萨加尔瀑布，印度果阿",
-    "description": "果阿森林面积总计1424平方公里，邦内森林主要集中在东部的内陆地区，西高止山脉丰富的生物多样性为举世公认。杜德萨加尔瀑布便位于果阿邦的西高茨的雨林中，被称为亚洲最令人印象深刻的瀑布之一。瀑布横跨四层，总落差 310 米，平均宽度为 30 米，由于这座瀑布位于季风区，因此在雨季来临时，它的威力最大，在崇山峻岭间彰显着大自然的壮美。",
-    "image_url": "https://cn.bing.com/th?id=OHR.DudhsagarFallsGoa_ZH-CN0466471017_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "杜德萨加尔瀑布是印度最高的瀑布之一，高达310米，平均宽度30米。"
+    "date": "2022-12-17",
+    "headline": "它们对你也同样好奇",
+    "title": "冰川国家公园的山羊，美国蒙大拿州",
+    "description": "比起美国其它48个州，你更可能在蒙大拿州的冰川国家公园里看到雪羊。雪羊已经习惯人类了，会悠闲地走到游客面前。不过，还是建议你跟它们保持距离，因为雪羊的“铁头功”可不是开玩笑的。",
+    "image_url": "https://cn.bing.com/th?id=OHR.GlacierGoats_ZH-CN0764810245_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "雪羊虽然被称为“羊”，但它跟山羊并不同属，反倒是和羚羊、瞪羚和牛的血缘关系更近。"
 }
 ```
 
-UpdataTime：2022-12-16 01:44:12
+UpdataTime：2022-12-17 01:43:48
