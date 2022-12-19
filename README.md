@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![迈阿密南海滩，美国佛罗里达州](https://cn.bing.com/th?id=OHR.SouthBeach_ZH-CN0989287734_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [迈阿密南海滩，美国佛罗里达州](https://cn.bing.com/th?id=OHR.SouthBeach_ZH-CN0989287734_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 通往拉丁美洲的门户
+![栖息在北美冬青上的北美红雀，美国伊利诺伊州](https://cn.bing.com/th?id=OHR.WinterberryBush_ZH-CN1414026440_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [栖息在北美冬青上的北美红雀，美国伊利诺伊州](https://cn.bing.com/th?id=OHR.WinterberryBush_ZH-CN1414026440_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 一抹鲜艳的色彩
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2022-12-18",
-    "headline": "通往拉丁美洲的门户",
-    "title": "迈阿密南海滩，美国佛罗里达州",
-    "description": "作为富豪、美女和艺术家的游乐场，国际化的迈阿密海滩永远是全世界镜头里的焦点。漫步在迈阿密海滩上时，你可能会听到许多种不同的语言。迈阿密海滩是被称为新世界交响乐团的音乐学院的所在地，也是巴塞尔艺术博览会的主办地。迈阿密海滩拥有世界上规模最大的一批保存完好的装饰艺术建筑群。迈阿密海滩也不乏名人明星们的身影。但这里最耀眼的明星还是这一片美丽的海滩。",
-    "image_url": "https://cn.bing.com/th?id=OHR.SouthBeach_ZH-CN0989287734_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "迈阿密南海滩以其沙滩、热闹的夜店、名厨餐厅以及周围迷人风景而闻名。"
+    "date": "2022-12-19",
+    "headline": "一抹鲜艳的色彩",
+    "title": "栖息在北美冬青上的北美红雀，美国伊利诺伊州",
+    "description": "这种绯红的北美冬青灌木丛是北美红雀绝佳的藏身之处。在冬日假期里，还有比这儿更适合鸟儿唱歌的地方吗？北美冬青是一种原产于北美的落叶冬青，它可以长成不起眼的灌木，也可以长成高达15英尺的树。春天盛开的黄绿花簇，在冬天就被鲜红色的浆果所替代。",
+    "image_url": "https://cn.bing.com/th?id=OHR.WinterberryBush_ZH-CN1414026440_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "冬天，北美红雀不会迁徙，羽毛也不会变得暗淡。所以它们在白雪皑皑的后院依然美得令人窒息。"
 }
 ```
 
-UpdataTime：2022-12-18 01:46:42
+UpdataTime：2022-12-19 01:43:34
