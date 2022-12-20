@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![栖息在北美冬青上的北美红雀，美国伊利诺伊州](https://cn.bing.com/th?id=OHR.WinterberryBush_ZH-CN1414026440_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [栖息在北美冬青上的北美红雀，美国伊利诺伊州](https://cn.bing.com/th?id=OHR.WinterberryBush_ZH-CN1414026440_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 一抹鲜艳的色彩
+![维也纳美景宫的圣诞市场，奥地利](https://cn.bing.com/th?id=OHR.PalaceBelvedere_ZH-CN1818163173_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [维也纳美景宫的圣诞市场，奥地利](https://cn.bing.com/th?id=OHR.PalaceBelvedere_ZH-CN1818163173_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 圣诞节的倒影
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2022-12-19",
-    "headline": "一抹鲜艳的色彩",
-    "title": "栖息在北美冬青上的北美红雀，美国伊利诺伊州",
-    "description": "这种绯红的北美冬青灌木丛是北美红雀绝佳的藏身之处。在冬日假期里，还有比这儿更适合鸟儿唱歌的地方吗？北美冬青是一种原产于北美的落叶冬青，它可以长成不起眼的灌木，也可以长成高达15英尺的树。春天盛开的黄绿花簇，在冬天就被鲜红色的浆果所替代。",
-    "image_url": "https://cn.bing.com/th?id=OHR.WinterberryBush_ZH-CN1414026440_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "冬天，北美红雀不会迁徙，羽毛也不会变得暗淡。所以它们在白雪皑皑的后院依然美得令人窒息。"
+    "date": "2022-12-20",
+    "headline": "圣诞节的倒影",
+    "title": "维也纳美景宫的圣诞市场，奥地利",
+    "description": "圣诞集市有三个吸引游客的点：在欧洲风景如画的城镇村庄里举行，可以买到有趣的礼物（通常是手工制作的），还可以品尝到热红酒和当地美食。圣诞集市是欧洲最古老的降临节活动之一。",
+    "image_url": "https://cn.bing.com/th?id=OHR.PalaceBelvedere_ZH-CN1818163173_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "美景宫是一座位于奥地利维也纳的历史建筑群，由两座巴洛克风格的宫殿（上美景宫和下美景宫）、橘园和宫殿马厩组成。"
 }
 ```
 
-UpdataTime：2022-12-19 01:43:34
+UpdataTime：2022-12-20 01:48:36
