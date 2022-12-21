@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![维也纳美景宫的圣诞市场，奥地利](https://cn.bing.com/th?id=OHR.PalaceBelvedere_ZH-CN1818163173_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [维也纳美景宫的圣诞市场，奥地利](https://cn.bing.com/th?id=OHR.PalaceBelvedere_ZH-CN1818163173_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 圣诞节的倒影
+![多洛米蒂山脉安特莫亚湖上的日晕，意大利](https://cn.bing.com/th?id=OHR.SolarHalo_ZH-CN2320274967_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [多洛米蒂山脉安特莫亚湖上的日晕，意大利](https://cn.bing.com/th?id=OHR.SolarHalo_ZH-CN2320274967_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 环绕太阳的彩虹
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2022-12-20",
-    "headline": "圣诞节的倒影",
-    "title": "维也纳美景宫的圣诞市场，奥地利",
-    "description": "圣诞集市有三个吸引游客的点：在欧洲风景如画的城镇村庄里举行，可以买到有趣的礼物（通常是手工制作的），还可以品尝到热红酒和当地美食。圣诞集市是欧洲最古老的降临节活动之一。",
-    "image_url": "https://cn.bing.com/th?id=OHR.PalaceBelvedere_ZH-CN1818163173_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "美景宫是一座位于奥地利维也纳的历史建筑群，由两座巴洛克风格的宫殿（上美景宫和下美景宫）、橘园和宫殿马厩组成。"
+    "date": "2022-12-21",
+    "headline": "环绕太阳的彩虹",
+    "title": "多洛米蒂山脉安特莫亚湖上的日晕，意大利",
+    "description": "今天照片里的日晕拍摄于意大利北部的多洛米蒂山脉安特莫亚湖之上。当日光穿过悬浮在大气层中的冰晶时，会形成日晕，而当这些冰晶的棱镜效应将日光分成不同的颜色频率，就产生了彩色的日晕，和彩虹的原理一样。",
+    "image_url": "https://cn.bing.com/th?id=OHR.SolarHalo_ZH-CN2320274967_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "日晕是环绕太阳的光环，是日光通过卷云层时，受到冰晶折射而形成。日晕通常是明亮的白色光环，但有时也会出现彩色光环。"
 }
 ```
 
-UpdataTime：2022-12-20 01:48:36
+UpdataTime：2022-12-21 01:44:22
