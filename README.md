@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![多洛米蒂山脉安特莫亚湖上的日晕，意大利](https://cn.bing.com/th?id=OHR.SolarHalo_ZH-CN2320274967_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [多洛米蒂山脉安特莫亚湖上的日晕，意大利](https://cn.bing.com/th?id=OHR.SolarHalo_ZH-CN2320274967_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 环绕太阳的彩虹
+![安纳西，法国上瓦萨省](https://cn.bing.com/th?id=OHR.AnnecyXmas_ZH-CN2540694929_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [安纳西，法国上瓦萨省](https://cn.bing.com/th?id=OHR.AnnecyXmas_ZH-CN2540694929_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 法国阿尔卑斯山的明珠
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2022-12-21",
-    "headline": "环绕太阳的彩虹",
-    "title": "多洛米蒂山脉安特莫亚湖上的日晕，意大利",
-    "description": "今天照片里的日晕拍摄于意大利北部的多洛米蒂山脉安特莫亚湖之上。当日光穿过悬浮在大气层中的冰晶时，会形成日晕，而当这些冰晶的棱镜效应将日光分成不同的颜色频率，就产生了彩色的日晕，和彩虹的原理一样。",
-    "image_url": "https://cn.bing.com/th?id=OHR.SolarHalo_ZH-CN2320274967_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "日晕是环绕太阳的光环，是日光通过卷云层时，受到冰晶折射而形成。日晕通常是明亮的白色光环，但有时也会出现彩色光环。"
+    "date": "2022-12-22",
+    "headline": "法国阿尔卑斯山的明珠",
+    "title": "安纳西，法国上瓦萨省",
+    "description": "从著名的安纳西城堡到流水潺潺的运河，安纳西老城处处是充满魅力的古迹。安纳西在中世纪日内瓦伯爵治下兴旺起来，后又因萨伏伊公爵而一度扩张。如今，安纳西仍然有着许多16世纪和17世纪的建筑，里面可能是餐厅、面包房，也可能是精品店。几条运河穿城而过，也给了安纳西“阿尔卑斯山的威尼斯”的美称。",
+    "image_url": "https://cn.bing.com/th?id=OHR.AnnecyXmas_ZH-CN2540694929_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "自1999年起，安纳西便是安纳西电影与建筑国际聚会的举办地，这是法国历史最悠久的聚会之一。"
 }
 ```
 
-UpdataTime：2022-12-21 01:44:22
+UpdataTime：2022-12-22 01:47:04
