@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![狍子，特伦蒂诺-上阿迪杰大区，意大利](https://cn.bing.com/th?id=OHR.RoeTrentinoSnow_ZH-CN3122890500_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [狍子，特伦蒂诺-上阿迪杰大区，意大利](https://cn.bing.com/th?id=OHR.RoeTrentinoSnow_ZH-CN3122890500_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 冰天雪地里的小可爱
+![黑梳山附近的惠斯勒小镇，加拿大不列颠哥伦比亚省](https://cn.bing.com/th?id=OHR.WhistlerVillage_ZH-CN3451305723_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [黑梳山附近的惠斯勒小镇，加拿大不列颠哥伦比亚省](https://cn.bing.com/th?id=OHR.WhistlerVillage_ZH-CN3451305723_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 灯光点亮了悠闲的小镇
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2022-12-24",
-    "headline": "冰天雪地里的小可爱",
-    "title": "狍子，特伦蒂诺-上阿迪杰大区，意大利",
-    "description": "狍子(学名：Capreolus pygargus)是鹿科狍属动物的一种动物。它们是欧洲最小的鹿科动物，具有适应性强的跳跃动物的典型结构：后腿比前腿更长更强壮，因此可以轻松穿过茂密的林地和丰富的灌木丛栖息地。刚刚出生的狍子宝宝皮毛是深棕色的，带有白色斑点，以增加它们在恢复场所典型的阴暗灯光下的伪装。体重大约达到11公斤左右时，白色斑点消失，毛发变得与成年狍子相似。在夏天，它是红棕色，而在冬天变成灰棕色，与白色臀部斑块形成鲜明对比。",
-    "image_url": "https://cn.bing.com/th?id=OHR.RoeTrentinoSnow_ZH-CN3122890500_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "在20世纪后期，在俄罗斯学者的研究下，生物学界于2001年正式将东方狍与西方狍分列为两个不同物种。"
+    "date": "2022-12-25",
+    "headline": "灯光点亮了悠闲的小镇",
+    "title": "黑梳山附近的惠斯勒小镇，加拿大不列颠哥伦比亚省",
+    "description": "惠斯勒小镇是加拿大不列颠哥伦比亚省的一个度假城市。它位于海岸山脉的南太平洋山脉，温哥华以北约 125 公里（78 英里），坐落着享誉国际盛名的两座滑雪场——惠斯勒山（Whistler）滑雪场和黑梳山（Blackcomb）滑雪场。这座小镇曾协办2010年温哥华冬季奥运会。于黑梳山山顶终年积雪，想要享受滑雪乐趣，不见得一定要等到冬季，夏季到山上冰河滑雪也是一大享受，是个四季皆宜的滑雪胜地。",
+    "image_url": "https://cn.bing.com/th?id=OHR.WhistlerVillage_ZH-CN3451305723_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "据说惠斯勒最初只是因为空气纯净、景色宜人而被很多人视为疗养胜地，每到夏季便会聚集很多人，冬天时鲜有游客。"
 }
 ```
 
-UpdataTime：2022-12-24 01:40:26
+UpdataTime：2022-12-25 01:50:54
