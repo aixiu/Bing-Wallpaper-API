@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![马洛亚，瑞士](https://cn.bing.com/th?id=OHR.ChiesaBianca_ZH-CN4208333975_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [马洛亚，瑞士](https://cn.bing.com/th?id=OHR.ChiesaBianca_ZH-CN4208333975_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 雪花玻璃球一般的美景
+![斯托尔石山，天空之岛，苏格兰](https://cn.bing.com/th?id=OHR.StorrRocks_ZH-CN4956679462_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [斯托尔石山，天空之岛，苏格兰](https://cn.bing.com/th?id=OHR.StorrRocks_ZH-CN4956679462_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 天空之岛
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2022-12-28",
-    "headline": "雪花玻璃球一般的美景",
-    "title": "马洛亚，瑞士",
-    "description": "当瑞士马洛亚的这幅图画映入我们眼帘时， “美景如画”这个词都不足以形容它的美。这个山间村庄的绝美冬景无疑是全世界雪花玻璃球的灵感来源，也启发了几个世纪以来的许多画家和艺术家。马洛亚距离意大利边境只有几英里，毗邻锡尔斯湖，无论冬夏，这里都是热门的度假胜地。这张照片的中间是马洛亚“皇冠上的明珠”——Chiesa Bianca教堂，于19世纪80年代由一个比利时伯爵建造。如今，这个曾经庄严神圣的地方被用于举办展览和音乐会。",
-    "image_url": "https://cn.bing.com/th?id=OHR.ChiesaBianca_ZH-CN4208333975_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "锡尔斯湖在世界各地的水上运动爱好者中久负盛名，而这要归功于稳定的马洛亚季风。"
+    "date": "2022-12-29",
+    "headline": "天空之岛",
+    "title": "斯托尔石山，天空之岛，苏格兰",
+    "description": "今天照片展示的是斯托尔山的老人峰，这座巨大的石峰耸立在英国最长的连续山体滑坡区之上。岛上有许多怪异而奇妙的岩石，都是由远古一次大滑坡形成的。",
+    "image_url": "https://cn.bing.com/th?id=OHR.StorrRocks_ZH-CN4956679462_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "天空之岛是观赏野生动物的好地方，这里的白尾海雕是观鸟者的首选。"
 }
 ```
 
-UpdataTime：2022-12-28 01:45:57
+UpdataTime：2022-12-29 01:48:13
