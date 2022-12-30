@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![斯托尔石山，天空之岛，苏格兰](https://cn.bing.com/th?id=OHR.StorrRocks_ZH-CN4956679462_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [斯托尔石山，天空之岛，苏格兰](https://cn.bing.com/th?id=OHR.StorrRocks_ZH-CN4956679462_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 天空之岛
+![白沙漠中的岩石，埃及](https://cn.bing.com/th?id=OHR.ChalkRock_ZH-CN2893565655_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [白沙漠中的岩石，埃及](https://cn.bing.com/th?id=OHR.ChalkRock_ZH-CN2893565655_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 这些雪永远不会融化
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2022-12-29",
-    "headline": "天空之岛",
-    "title": "斯托尔石山，天空之岛，苏格兰",
-    "description": "今天照片展示的是斯托尔山的老人峰，这座巨大的石峰耸立在英国最长的连续山体滑坡区之上。岛上有许多怪异而奇妙的岩石，都是由远古一次大滑坡形成的。",
-    "image_url": "https://cn.bing.com/th?id=OHR.StorrRocks_ZH-CN4956679462_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "天空之岛是观赏野生动物的好地方，这里的白尾海雕是观鸟者的首选。"
+    "date": "2022-12-30",
+    "headline": "这些雪永远不会融化",
+    "title": "白沙漠中的岩石，埃及",
+    "description": "这是沙漠中的雪吗？其实不是。这里是埃及的白沙漠，当地丰富的白垩岩、石灰岩、石英岩以及长年累月的风化作用造就了这些白色的沙子和形状奇特的岩石，白沙漠也因此得名。游客们蜂拥而至，来欣赏这些大自然的奇观。白沙国家公园距离开罗约5小时车程，这里不仅有白沙和怪石，还有多种濒危保护动物。",
+    "image_url": "https://cn.bing.com/th?id=OHR.ChalkRock_ZH-CN2893565655_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "这片白沙看起来像覆盖在沙漠上的雪。这些白色的石英晶体在许多地方都打造出了这种独特的景致。"
 }
 ```
 
-UpdataTime：2022-12-29 01:48:13
+UpdataTime：2022-12-30 01:48:57
