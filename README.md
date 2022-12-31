@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![白沙漠中的岩石，埃及](https://cn.bing.com/th?id=OHR.ChalkRock_ZH-CN2893565655_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [白沙漠中的岩石，埃及](https://cn.bing.com/th?id=OHR.ChalkRock_ZH-CN2893565655_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 这些雪永远不会融化
+![一起迎接2023年](https://cn.bing.com/th?id=OHR.TheNationaDay_ZH-CN7631842209_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [一起迎接2023年](https://cn.bing.com/th?id=OHR.TheNationaDay_ZH-CN7631842209_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 和谁一起跨年？
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2022-12-30",
-    "headline": "这些雪永远不会融化",
-    "title": "白沙漠中的岩石，埃及",
-    "description": "这是沙漠中的雪吗？其实不是。这里是埃及的白沙漠，当地丰富的白垩岩、石灰岩、石英岩以及长年累月的风化作用造就了这些白色的沙子和形状奇特的岩石，白沙漠也因此得名。游客们蜂拥而至，来欣赏这些大自然的奇观。白沙国家公园距离开罗约5小时车程，这里不仅有白沙和怪石，还有多种濒危保护动物。",
-    "image_url": "https://cn.bing.com/th?id=OHR.ChalkRock_ZH-CN2893565655_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "这片白沙看起来像覆盖在沙漠上的雪。这些白色的石英晶体在许多地方都打造出了这种独特的景致。"
+    "date": "2022-12-31",
+    "headline": "和谁一起跨年？",
+    "title": "一起迎接2023年",
+    "description": "每年公历1月1日，标志着新一年的到来，人们习惯将这一天称为“元旦”，俗称“公历年”、“阳历年”或“新历年”。在很多国家，有自己的新年，或是因习俗传统，或者是宗教性的，例如：中国春节，伊斯兰新年，泰米尔新年和犹太新年。",
+    "image_url": "https://cn.bing.com/th?id=OHR.TheNationaDay_ZH-CN7631842209_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "到豪兰岛迎来新年时，基里巴斯莱恩群岛已是1月2日凌晨2点左右。"
 }
 ```
 
-UpdataTime：2022-12-30 01:48:57
+UpdataTime：2022-12-31 01:45:40
