@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![一起迎接2023年](https://cn.bing.com/th?id=OHR.TheNationaDay_ZH-CN7631842209_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [一起迎接2023年](https://cn.bing.com/th?id=OHR.TheNationaDay_ZH-CN7631842209_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 和谁一起跨年？
+![北极熊斯瓦尔巴群岛，挪威](https://cn.bing.com/th?id=OHR.NorwayNYD_ZH-CN7856439066_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [北极熊斯瓦尔巴群岛，挪威](https://cn.bing.com/th?id=OHR.NorwayNYD_ZH-CN7856439066_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 在北极附近打盹
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2022-12-31",
-    "headline": "和谁一起跨年？",
-    "title": "一起迎接2023年",
-    "description": "每年公历1月1日，标志着新一年的到来，人们习惯将这一天称为“元旦”，俗称“公历年”、“阳历年”或“新历年”。在很多国家，有自己的新年，或是因习俗传统，或者是宗教性的，例如：中国春节，伊斯兰新年，泰米尔新年和犹太新年。",
-    "image_url": "https://cn.bing.com/th?id=OHR.TheNationaDay_ZH-CN7631842209_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "到豪兰岛迎来新年时，基里巴斯莱恩群岛已是1月2日凌晨2点左右。"
+    "date": "2023-01-01",
+    "headline": "在北极附近打盹",
+    "title": "北极熊斯瓦尔巴群岛，挪威",
+    "description": "如果你计划在新年第一天跳进冰冷刺骨的湖泊或海湾，那么你就会明白我们今天为什么要展示这张拍摄于挪威斯瓦尔巴群岛的照片。世界各地的人们常常在新年第一天像北极熊一样跳进水里。无论他们是为了慈善、忏悔，还是为了惊世骇俗，这都是迎接新年第一天的最好的方式。当然，对于北极熊来说，这可没什么特别的，不过是它们每天的日常而已。",
+    "image_url": "https://cn.bing.com/th?id=OHR.NorwayNYD_ZH-CN7856439066_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "在过去，北极熊被称为“白熊”，有时候也被称为“纳努克”，这个词来源于因纽特人对北极熊的称呼“nanuq”。"
 }
 ```
 
-UpdataTime：2022-12-31 01:45:40
+UpdataTime：2023-01-01 02:02:18
