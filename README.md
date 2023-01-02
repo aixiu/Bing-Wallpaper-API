@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![霍亨索伦城堡，德国](https://cn.bing.com/th?id=OHR.HohenzollernBurg_ZH-CN8109082566_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [霍亨索伦城堡，德国](https://cn.bing.com/th?id=OHR.HohenzollernBurg_ZH-CN8109082566_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 正如童话一般
+![博斯克·德尔·阿帕奇国家野生动物保护区的沙丘鹤，美国新墨西哥州](https://cn.bing.com/th?id=OHR.SandhillSleeping_ZH-CN8483997851_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [博斯克·德尔·阿帕奇国家野生动物保护区的沙丘鹤，美国新墨西哥州](https://cn.bing.com/th?id=OHR.SandhillSleeping_ZH-CN8483997851_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 谁在打盹儿？
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2023-01-02",
-    "headline": "正如童话一般",
-    "title": "霍亨索伦城堡，德国",
-    "description": "迷人的霍亨索伦城堡经过三次重建后，是真的魅力非凡。这座城堡位于霍亨索伦山顶，修建于11世纪，但大部分建筑在1423年长达10个月的围攻中被摧毁，直到几十年后才得以重建。之后它成为了一个重要的战略据点，然而后来它再次失修。19世纪，普鲁士国王腓特烈·威廉四世（他因在德国各地建造了许多伟大的建筑而闻名）在这里建造了一座新的城堡，几乎完全替换了这座城堡15世纪的建筑结构。如今，霍亨索伦城堡已成为一座露天博物馆，每年接待超过35万名游客，是德国参观人数最多的城堡之一。",
-    "image_url": "https://cn.bing.com/th?id=OHR.HohenzollernBurg_ZH-CN8109082566_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "霍亨索伦城堡每年接待超过35万名游客，是德国参观人数最多的城堡之一。"
+    "headline": "谁在打盹儿？",
+    "title": "博斯克·德尔·阿帕奇国家野生动物保护区的沙丘鹤，美国新墨西哥州",
+    "description": "嘿，打个盹儿怎么了，这些鸟儿现在可是精疲力尽呢！这张照片拍摄于新墨西哥州南部的博斯克·德尔·阿帕奇国家野生动物保护区，这些沙丘鹤正站在水里睡觉。每年万圣节前后，这些鸟儿会陆续抵达，上万只沙丘鹤会在这里待到次年二月。它们吃什么呢？沙丘鹤并不挑食，什么都吃，植物、谷物、昆虫、蜗牛，它们甚至还吃蛇。每年冬天，沙丘鹤都在这片美丽的庇护地，和其他各种鸟儿一起度过。从阿拉斯加和西伯利亚远道而来的鸣鹤、鸭子和雪雁也喜欢在这里中途休息，等到天气变暖后，它们再一路向北前往繁殖地。幸好，这儿地方够大，5.7万英亩的保护区有足够的空间让它们自由翱翔。",
+    "image_url": "https://cn.bing.com/th?id=OHR.SandhillSleeping_ZH-CN8483997851_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "在人类发现的现存鸟类的化石里，沙丘鹤的化石是历史最悠久的之一。"
 }
 ```
 
-UpdataTime：2023-01-02 01:47:15
+UpdataTime：2023-01-02 16:48:42
