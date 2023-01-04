@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![博斯克·德尔·阿帕奇国家野生动物保护区的沙丘鹤，美国新墨西哥州](https://cn.bing.com/th?id=OHR.SandhillSleeping_ZH-CN8483997851_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [博斯克·德尔·阿帕奇国家野生动物保护区的沙丘鹤，美国新墨西哥州](https://cn.bing.com/th?id=OHR.SandhillSleeping_ZH-CN8483997851_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 谁在打盹儿？
+![从国际空间站看到的地球](https://cn.bing.com/th?id=OHR.Perihelion_ZH-CN8681537155_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [从国际空间站看到的地球](https://cn.bing.com/th?id=OHR.Perihelion_ZH-CN8681537155_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 如此接近，却又如此遥远
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-01-03",
-    "headline": "谁在打盹儿？",
-    "title": "博斯克·德尔·阿帕奇国家野生动物保护区的沙丘鹤，美国新墨西哥州",
-    "description": "嘿，打个盹儿怎么了，这些鸟儿现在可是精疲力尽呢！这张照片拍摄于新墨西哥州南部的博斯克·德尔·阿帕奇国家野生动物保护区，这些沙丘鹤正站在水里睡觉。每年万圣节前后，这些鸟儿会陆续抵达，上万只沙丘鹤会在这里待到次年二月。它们吃什么呢？沙丘鹤并不挑食，什么都吃，植物、谷物、昆虫、蜗牛，它们甚至还吃蛇。每年冬天，沙丘鹤都在这片美丽的庇护地，和其他各种鸟儿一起度过。从阿拉斯加和西伯利亚远道而来的鸣鹤、鸭子和雪雁也喜欢在这里中途休息，等到天气变暖后，它们再一路向北前往繁殖地。幸好，这儿地方够大，5.7万英亩的保护区有足够的空间让它们自由翱翔。",
-    "image_url": "https://cn.bing.com/th?id=OHR.SandhillSleeping_ZH-CN8483997851_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "在人类发现的现存鸟类的化石里，沙丘鹤的化石是历史最悠久的之一。"
+    "date": "2023-01-04",
+    "headline": "如此接近，却又如此遥远",
+    "title": "从国际空间站看到的地球",
+    "description": "今天是地球的近日点，由于地球绕太阳公转的轨道是椭圆形的，所以冬至后两周，地球距离太阳最近。你可能有疑问：地球离太阳最近的时候，为什么我们没觉得更热？其实，这是因为近日点的时候地球所接受到的太阳辐射只比平时强了大约7%，这种微小的差异对地球天气的影响并不大。",
+    "image_url": "https://cn.bing.com/th?id=OHR.Perihelion_ZH-CN8681537155_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "地球距离太阳最近的时候，北半球为冬天，南半球为夏天。"
 }
 ```
 
-UpdataTime：2023-01-03 01:46:51
+UpdataTime：2023-01-04 01:49:33
