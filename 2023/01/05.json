@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-![白鼬 (Mustela erminea), 上巴伐利亚，德国](https://cn.bing.com/th?id=OHR.HermelinSchnee_ZH-CN8839783506_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [白鼬 (Mustela erminea), 上巴伐利亚，德国](https://cn.bing.com/th?id=OHR.HermelinSchnee_ZH-CN8839783506_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 软萌雪中小精灵
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2023-01-05",
     "headline": "软萌雪中小精灵",
@@ -42,6 +6,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url": "https://cn.bing.com/th?id=OHR.HermelinSchnee_ZH-CN8839783506_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
     "main_text": "外型上，春夏季节黄鼠狼和白鼬确实有几分相似，但是到了冬天，两者区分就非常明显了。"
 }
-```
-
-UpdataTime：2023-01-05 01:52:02
