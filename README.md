@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![白鼬 (Mustela erminea), 上巴伐利亚，德国](https://cn.bing.com/th?id=OHR.HermelinSchnee_ZH-CN8839783506_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [白鼬 (Mustela erminea), 上巴伐利亚，德国](https://cn.bing.com/th?id=OHR.HermelinSchnee_ZH-CN8839783506_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 软萌雪中小精灵
+![英格兰湖区的Black Fell](https://cn.bing.com/th?id=OHR.BlackFell_ZH-CN9224189688_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [英格兰湖区的Black Fell](https://cn.bing.com/th?id=OHR.BlackFell_ZH-CN9224189688_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - “群山拥有抚慰和治愈的力量”
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-01-05",
-    "headline": "软萌雪中小精灵",
-    "title": "白鼬 (Mustela erminea), 上巴伐利亚，德国",
-    "description": "白鼬（Mustela erminea），又称欧亚白鼬、白令亚貂和貂，是一种原产于欧亚大陆和北美洲北部的鼬科动物。多栖息于沼泽、林地、农田，食肉动物，主食为鸟类和小型哺乳动物。白鼬是一种软萌可爱的动物，它的体长在170~330毫米，体重为25~116克，身材非常娇小。随着季节变化，白鼬的毛发颜色会发生变化。到了冬季，就像它的名字一样，会变为一身漂亮的纯白色皮毛，哦对了，尾巴尖还有一点点黑色，这是无冬历夏始终如一的。",
-    "image_url": "https://cn.bing.com/th?id=OHR.HermelinSchnee_ZH-CN8839783506_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "外型上，春夏季节黄鼠狼和白鼬确实有几分相似，但是到了冬天，两者区分就非常明显了。"
+    "date": "2023-01-06",
+    "headline": "“群山拥有抚慰和治愈的力量”",
+    "title": "英格兰湖区的Black Fell",
+    "description": "今天照片中展示的美丽风景是位于英格兰湖区的黑山（Black Fell），“fell”一词源于古挪威语中的“山”，主要是指地势高且贫瘠的地区，而英格兰湖区的土地通常是未经开垦、用于放牧的。黑山（Black Fell）海拔约1000英尺，被评为英格兰湖区的最佳观景区。站在山顶上，无论望向哪个方向，你都能欣赏到美景。",
+    "image_url": "https://cn.bing.com/th?id=OHR.BlackFell_ZH-CN9224189688_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "黑山（Black Fell）以南有一片区域被称为塔恩豪斯（Tarn Hows），由詹姆斯·马歇尔于19世纪60年代开发设计。这是湖区最受欢迎的景点之一。"
 }
 ```
 
-UpdataTime：2023-01-05 01:52:02
+UpdataTime：2023-01-06 01:54:34
