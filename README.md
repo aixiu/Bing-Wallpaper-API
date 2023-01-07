@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![英格兰湖区的Black Fell](https://cn.bing.com/th?id=OHR.BlackFell_ZH-CN9224189688_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [英格兰湖区的Black Fell](https://cn.bing.com/th?id=OHR.BlackFell_ZH-CN9224189688_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - “群山拥有抚慰和治愈的力量”
+![羊毛和马海毛纱线](https://cn.bing.com/th?id=OHR.Mohair_ZH-CN9435762268_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [羊毛和马海毛纱线](https://cn.bing.com/th?id=OHR.Mohair_ZH-CN9435762268_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 纺纱杆到底是什么东西？
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-01-06",
-    "headline": "“群山拥有抚慰和治愈的力量”",
-    "title": "英格兰湖区的Black Fell",
-    "description": "今天照片中展示的美丽风景是位于英格兰湖区的黑山（Black Fell），“fell”一词源于古挪威语中的“山”，主要是指地势高且贫瘠的地区，而英格兰湖区的土地通常是未经开垦、用于放牧的。黑山（Black Fell）海拔约1000英尺，被评为英格兰湖区的最佳观景区。站在山顶上，无论望向哪个方向，你都能欣赏到美景。",
-    "image_url": "https://cn.bing.com/th?id=OHR.BlackFell_ZH-CN9224189688_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "黑山（Black Fell）以南有一片区域被称为塔恩豪斯（Tarn Hows），由詹姆斯·马歇尔于19世纪60年代开发设计。这是湖区最受欢迎的景点之一。"
+    "date": "2023-01-07",
+    "headline": "纺纱杆到底是什么东西？",
+    "title": "羊毛和马海毛纱线",
+    "description": "今天的照片展示的是柔软华丽的羊毛和马海毛纱线，因为今天是纺纱杆节（Distaff Day），一个可以追溯到中世纪的节日。但说实话，这个节日或许并不值得庆祝，因为今天是圣诞节后的第13天，过了12天摆脱繁重家务的幸福日子后，女性们要在今天重新开始纺纱工作。",
+    "image_url": "https://cn.bing.com/th?id=OHR.Mohair_ZH-CN9435762268_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "乔叟和莎士比亚也用纺纱杆（distaff）这个词指代女性在家庭中所做的工作，类似于中文的“女红”。"
 }
 ```
 
-UpdataTime：2023-01-06 01:54:34
+UpdataTime：2023-01-07 01:48:34
