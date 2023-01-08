@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![羊毛和马海毛纱线](https://cn.bing.com/th?id=OHR.Mohair_ZH-CN9435762268_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [羊毛和马海毛纱线](https://cn.bing.com/th?id=OHR.Mohair_ZH-CN9435762268_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 纺纱杆到底是什么东西？
+![科罗拉多州布雷肯里奇](https://cn.bing.com/th?id=OHR.Breckenridge_ZH-CN9598860382_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [科罗拉多州布雷肯里奇](https://cn.bing.com/th?id=OHR.Breckenridge_ZH-CN9598860382_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 我们去哪里玩？
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-01-07",
-    "headline": "纺纱杆到底是什么东西？",
-    "title": "羊毛和马海毛纱线",
-    "description": "今天的照片展示的是柔软华丽的羊毛和马海毛纱线，因为今天是纺纱杆节（Distaff Day），一个可以追溯到中世纪的节日。但说实话，这个节日或许并不值得庆祝，因为今天是圣诞节后的第13天，过了12天摆脱繁重家务的幸福日子后，女性们要在今天重新开始纺纱工作。",
-    "image_url": "https://cn.bing.com/th?id=OHR.Mohair_ZH-CN9435762268_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "乔叟和莎士比亚也用纺纱杆（distaff）这个词指代女性在家庭中所做的工作，类似于中文的“女红”。"
+    "date": "2023-01-08",
+    "headline": "我们去哪里玩？",
+    "title": "科罗拉多州布雷肯里奇",
+    "description": "19世纪60年代，金矿开采使这座落基山小镇闻名于世。但现在，真正的黄金是飘落在小镇周围山坡上的优质粉雪。布雷肯里奇是科罗拉多州最受欢迎的雪场之一，该度假村总共有35部缆车，连接5座山峰，覆盖2900英亩的区域。游客们也会在夏天来这里钓鱼、骑自行车和划船，游客人数轻松就能超过这里的居民人数（5000人）。如今，布雷肯里奇的金矿早已关闭，自然美景才是这座小镇永恒的价值。",
+    "image_url": "https://cn.bing.com/th?id=OHR.Breckenridge_ZH-CN9598860382_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "自1961年首次开辟滑雪道以来，布雷肯里奇滑雪场就成为了滑雪爱好者的热门度假胜地。"
 }
 ```
 
-UpdataTime：2023-01-07 01:48:34
+UpdataTime：2023-01-08 01:55:56
