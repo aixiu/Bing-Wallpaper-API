@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![南达科他州风洞国家公园的水牛](https://cn.bing.com/th?id=OHR.BisonWindCave_ZH-CN9778045938_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [南达科他州风洞国家公园的水牛](https://cn.bing.com/th?id=OHR.BisonWindCave_ZH-CN9778045938_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 神奇水牛在哪里？
+![爱沙尼亚佩普斯湖上的小冰丘](https://cn.bing.com/th?id=OHR.HummockIce_ZH-CN9917832145_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [爱沙尼亚佩普斯湖上的小冰丘](https://cn.bing.com/th?id=OHR.HummockIce_ZH-CN9917832145_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 当冰块变成了艺术
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-01-09",
-    "headline": "神奇水牛在哪里？",
-    "title": "南达科他州风洞国家公园的水牛",
-    "description": "风洞国家公园建立于100年前，位于著名的黄石国家公园和恶地国家公园之间，这里生活着北美仅有的四大纯种野牛之一。20世纪初，动保人士从屠刀下救了20头野牛。今天照片里的两头野牛就是这20头野牛的后代。那时，野牛仅存不到1000头，而野牛的数量曾一度达到5000万头。在地上，这里有美国最大的草原；在地下，这里有世界上最大的洞穴体系之一。随着天气的变化，空气在洞穴进出，风洞国家公园也因此得名。",
-    "image_url": "https://cn.bing.com/th?id=OHR.BisonWindCave_ZH-CN9778045938_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "风洞国家公园是美国第六个国家公园，也是世界上第一个风洞国家公园。"
+    "date": "2023-01-10",
+    "headline": "当冰块变成了艺术",
+    "title": "爱沙尼亚佩普斯湖上的小冰丘",
+    "description": "佩普斯湖是欧洲第五大湖泊，形成于数亿年前的古生代。这里的沙丘非常有名，当各方面条件恰好时，这些沙丘会在风吹时“唱歌”。在冬天，结冰的湖面上可能形成照片中的堆积冰。这些堆积冰是由浮冰受到缓慢不均匀的挤压而形成的。",
+    "image_url": "https://cn.bing.com/th?id=OHR.HummockIce_ZH-CN9917832145_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "1242年，德意志条顿骑士团和亚历山大·涅夫斯基领导的诺夫哥罗德人之间的冰上之战就发生在这里。"
 }
 ```
 
-UpdataTime：2023-01-09 01:49:40
+UpdataTime：2023-01-10 01:55:33
