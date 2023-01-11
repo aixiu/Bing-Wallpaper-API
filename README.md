@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![爱沙尼亚佩普斯湖上的小冰丘](https://cn.bing.com/th?id=OHR.HummockIce_ZH-CN9917832145_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [爱沙尼亚佩普斯湖上的小冰丘](https://cn.bing.com/th?id=OHR.HummockIce_ZH-CN9917832145_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 当冰块变成了艺术
+![戈德雷维灯塔，英国康沃尔郡](https://cn.bing.com/th?id=OHR.GodrevyRocks_ZH-CN0051118926_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [戈德雷维灯塔，英国康沃尔郡](https://cn.bing.com/th?id=OHR.GodrevyRocks_ZH-CN0051118926_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 到灯塔去！
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-01-10",
-    "headline": "当冰块变成了艺术",
-    "title": "爱沙尼亚佩普斯湖上的小冰丘",
-    "description": "佩普斯湖是欧洲第五大湖泊，形成于数亿年前的古生代。这里的沙丘非常有名，当各方面条件恰好时，这些沙丘会在风吹时“唱歌”。在冬天，结冰的湖面上可能形成照片中的堆积冰。这些堆积冰是由浮冰受到缓慢不均匀的挤压而形成的。",
-    "image_url": "https://cn.bing.com/th?id=OHR.HummockIce_ZH-CN9917832145_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "1242年，德意志条顿骑士团和亚历山大·涅夫斯基领导的诺夫哥罗德人之间的冰上之战就发生在这里。"
+    "date": "2023-01-11",
+    "headline": "到灯塔去！",
+    "title": "戈德雷维灯塔，英国康沃尔郡",
+    "description": "戈德雷维灯塔坐落在美丽的康沃尔郡圣艾夫斯湾的戈德雷维岛上，它是一座白色八角塔，建于19世纪50年代末，高86英尺（26 米），由铺有砂浆的碎石制成。它几乎位于岛的中心，最初为饲养员提供小屋，而后用来保护船只免受危险暗礁的侵袭。1995年，灯塔被进行了一次现代化的改造，改用太阳能供电。2012年，英国领港公会（Trinity House）停止使用塔内的灯，取而代之的是安装在靠近岩石的钢制平台上的LED灯。",
+    "image_url": "https://cn.bing.com/th?id=OHR.GodrevyRocks_ZH-CN0051118926_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "这座26米高的灯塔因为弗吉尼亚·伍尔夫的标志性小说《到灯塔去》而闻名。"
 }
 ```
 
-UpdataTime：2023-01-10 01:55:33
+UpdataTime：2023-01-11 01:53:09
