@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![吃樱桃树枝的毛驴](https://cn.bing.com/th?id=OHR.DonkeyFeast_ZH-CN5880627132_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [吃樱桃树枝的毛驴](https://cn.bing.com/th?id=OHR.DonkeyFeast_ZH-CN5880627132_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 快乐小毛驴
+![横贯图尔库的奥拉河, 芬兰](https://cn.bing.com/th?id=OHR.Turku_ZH-CN6008877545_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [横贯图尔库的奥拉河, 芬兰](https://cn.bing.com/th?id=OHR.Turku_ZH-CN6008877545_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 冰雪皑皑的芬兰
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-01-14",
-    "headline": "快乐小毛驴",
-    "title": "吃樱桃树枝的毛驴",
-    "description": "照片里这头正在吃樱桃树叶的毛驴可能不知道：今天曾是它们的节日。不过，我们认为任何一天都是赞美驴子的好日子。驴子已经为人类背负重担超过7000年，所以让我们给它们一些关爱吧。如今，全世界有4000多万头驴仍在负重前行，仅仅中国就有1100万头。",
-    "image_url": "https://cn.bing.com/th?id=OHR.DonkeyFeast_ZH-CN5880627132_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "英文的“donkey（驴）”一词首次出现于18世纪晚期，但其起源尚未可知。"
+    "date": "2023-01-15",
+    "headline": "冰雪皑皑的芬兰",
+    "title": "横贯图尔库的奥拉河, 芬兰",
+    "description": "图尔库大教堂矗立在奥拉河口附近的霜冻森林之上。这座大教堂最初是在13世纪晚期用木头建造的，并在14世纪和15世纪使用石头作为主要建筑材料进行了扩建。事实证明这是明智的选择，因为1827年的图尔库大火灾吞噬了这座城市的大部分地区，也对大教堂造成严重损坏。数年后，这座教堂再次迎来了重建。",
+    "image_url": "https://cn.bing.com/th?id=OHR.Turku_ZH-CN6008877545_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "“奥拉”这个词似乎来自瑞典语中表示水路的古老单词。奥拉河的水是棕色的。"
 }
 ```
 
-UpdataTime：2023-01-14 01:45:06
+UpdataTime：2023-01-15 01:54:40
