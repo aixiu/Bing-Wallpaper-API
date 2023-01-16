@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![横贯图尔库的奥拉河, 芬兰](https://cn.bing.com/th?id=OHR.Turku_ZH-CN6008877545_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [横贯图尔库的奥拉河, 芬兰](https://cn.bing.com/th?id=OHR.Turku_ZH-CN6008877545_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 冰雪皑皑的芬兰
+![麦切纳山和结冰的亚伯拉罕湖，加拿大艾伯塔省](https://cn.bing.com/th?id=OHR.FrozenBubblesAlberta_ZH-CN6154214678_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [麦切纳山和结冰的亚伯拉罕湖，加拿大艾伯塔省](https://cn.bing.com/th?id=OHR.FrozenBubblesAlberta_ZH-CN6154214678_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 美丽又危险
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-01-15",
-    "headline": "冰雪皑皑的芬兰",
-    "title": "横贯图尔库的奥拉河, 芬兰",
-    "description": "图尔库大教堂矗立在奥拉河口附近的霜冻森林之上。这座大教堂最初是在13世纪晚期用木头建造的，并在14世纪和15世纪使用石头作为主要建筑材料进行了扩建。事实证明这是明智的选择，因为1827年的图尔库大火灾吞噬了这座城市的大部分地区，也对大教堂造成严重损坏。数年后，这座教堂再次迎来了重建。",
-    "image_url": "https://cn.bing.com/th?id=OHR.Turku_ZH-CN6008877545_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "“奥拉”这个词似乎来自瑞典语中表示水路的古老单词。奥拉河的水是棕色的。"
+    "date": "2023-01-16",
+    "headline": "美丽又危险",
+    "title": "麦切纳山和结冰的亚伯拉罕湖，加拿大艾伯塔省",
+    "description": "冬天冰冻的亚伯拉罕湖虽然美丽，其下却暗藏杀机：湖底的沼气被困在冻结的湖面下，形成了这些清晰可见的小气泡。这些自然形成的美景令摄影师趋势若骛。",
+    "image_url": "https://cn.bing.com/th?id=OHR.FrozenBubblesAlberta_ZH-CN6154214678_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "尽管是人工湖，亚伯拉罕湖仍然与该地区的其他冰川湖相似。冰川侵蚀的沉积物进入湖中，赋予了它与众不同的绿松石色湖水。"
 }
 ```
 
-UpdataTime：2023-01-15 01:54:40
+UpdataTime：2023-01-16 01:50:21
