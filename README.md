@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![白沙国家公园，美国新墨西哥州](https://cn.bing.com/th?id=OHR.WhiteSands_ZH-CN6500188005_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [白沙国家公园，美国新墨西哥州](https://cn.bing.com/th?id=OHR.WhiteSands_ZH-CN6500188005_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 世界最大的石膏沙漠
+![帕克城, 美国犹他州](https://cn.bing.com/th?id=OHR.SFFParkCity_ZH-CN6707019061_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [帕克城, 美国犹他州](https://cn.bing.com/th?id=OHR.SFFParkCity_ZH-CN6707019061_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 圣丹斯上空的云彩
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-01-18",
-    "headline": "世界最大的石膏沙漠",
-    "title": "白沙国家公园，美国新墨西哥州",
-    "description": "今天的照片是否让你感觉到一丝寒冷？其实这不是雪，而是地球上最大的石膏沙漠。这是位于新墨西哥州的白沙国家公园，在过去的1.2万年里，周围的山脉产生了约45亿吨雪白的石膏沙。这里最初于1933年1月18日被指定为白沙国家纪念地，然后在2019年正式成为白沙国家公园。如今，这座国家公园里生活着成千上万的物种，其中许多物种已经逐渐进化出了白色，以便更好融入环境。",
-    "image_url": "https://cn.bing.com/th?id=OHR.WhiteSands_ZH-CN6500188005_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "白沙国家公园位于图拉罗萨盆地的中心，是世界上最大的石膏沙漠。"
+    "date": "2023-01-19",
+    "headline": "圣丹斯上空的云彩",
+    "title": "帕克城, 美国犹他州",
+    "description": "尽管城外的景色如此美丽，但今天来到帕克城的人，大多是为了在城里举行的圣丹斯电影节，这是美国独立电影人最大的庆典。昆汀·塔伦蒂诺、史蒂文·索德伯格等好莱坞导演的职业生涯都是从这里开始的。每年都有一批年轻电影人怀揣梦想来到这里，希望能卖出自己的作品。",
+    "image_url": "https://cn.bing.com/th?id=OHR.SFFParkCity_ZH-CN6707019061_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "帕克城被陡峭的瓦萨奇山脉环绕，毗邻鹿谷度假村和巨大的帕克城山地度假村，这两个度假村都以滑雪场而闻名。"
 }
 ```
 
-UpdataTime：2023-01-18 01:54:32
+UpdataTime：2023-01-19 01:55:30
