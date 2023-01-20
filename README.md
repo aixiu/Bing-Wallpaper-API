@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![帕克城, 美国犹他州](https://cn.bing.com/th?id=OHR.SFFParkCity_ZH-CN6707019061_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [帕克城, 美国犹他州](https://cn.bing.com/th?id=OHR.SFFParkCity_ZH-CN6707019061_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 圣丹斯上空的云彩
+![王企鹅，福克兰群岛](https://cn.bing.com/th?id=OHR.FalklandKings_ZH-CN6891102487_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [王企鹅，福克兰群岛](https://cn.bing.com/th?id=OHR.FalklandKings_ZH-CN6891102487_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - “兄弟们，跟我走”
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-01-19",
-    "headline": "圣丹斯上空的云彩",
-    "title": "帕克城, 美国犹他州",
-    "description": "尽管城外的景色如此美丽，但今天来到帕克城的人，大多是为了在城里举行的圣丹斯电影节，这是美国独立电影人最大的庆典。昆汀·塔伦蒂诺、史蒂文·索德伯格等好莱坞导演的职业生涯都是从这里开始的。每年都有一批年轻电影人怀揣梦想来到这里，希望能卖出自己的作品。",
-    "image_url": "https://cn.bing.com/th?id=OHR.SFFParkCity_ZH-CN6707019061_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "帕克城被陡峭的瓦萨奇山脉环绕，毗邻鹿谷度假村和巨大的帕克城山地度假村，这两个度假村都以滑雪场而闻名。"
+    "date": "2023-01-20",
+    "headline": "“兄弟们，跟我走”",
+    "title": "王企鹅，福克兰群岛",
+    "description": "今天是企鹅宣传日，我们展示的照片是一群在福克兰群岛散步的王企鹅。王企鹅的体型在“企鹅界”中排名第二，仅次于它们的表亲——帝企鹅。王企鹅身穿“燕尾服”，让它们看起来如同绅士一般温文尔雅。更为重要的是，这是它们的伪装色。王企鹅潜入海洋寻找食物时，黑色的羽毛可以迷惑天空中的捕食者，同时雪白的腹部又可以迷惑海中的猎物。",
+    "image_url": "https://cn.bing.com/th?id=OHR.FalklandKings_ZH-CN6891102487_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "王企鹅不筑巢。它们直接把蛋放在脚上，用肚子盖住蛋，直到孵化。"
 }
 ```
 
-UpdataTime：2023-01-19 01:55:30
+UpdataTime：2023-01-20 01:54:24
