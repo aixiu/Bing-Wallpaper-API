@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-![位于阿伯费尔迪桦树林中的罗伯特·彭斯雕像, 苏格兰](https://cn.bing.com/th?id=OHR.BirksofAberfeldy_ZH-CN7810226692_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [位于阿伯费尔迪桦树林中的罗伯特·彭斯雕像, 苏格兰](https://cn.bing.com/th?id=OHR.BirksofAberfeldy_ZH-CN7810226692_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 谁写下了友谊天长地久？
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2023-01-25",
     "headline": "谁写下了友谊天长地久？",
@@ -42,6 +6,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url": "https://cn.bing.com/th?id=OHR.BirksofAberfeldy_ZH-CN7810226692_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
     "main_text": "罗伯特·彭斯最著名的诗歌有《友谊地久天长》《约翰·安德森，我的爱人》《一朵红红的玫瑰》和《杜河两岸》等。"
 }
-```
-
-UpdataTime：2023-01-25 01:49:15
