@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![位于阿伯费尔迪桦树林中的罗伯特·彭斯雕像, 苏格兰](https://cn.bing.com/th?id=OHR.BirksofAberfeldy_ZH-CN7810226692_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [位于阿伯费尔迪桦树林中的罗伯特·彭斯雕像, 苏格兰](https://cn.bing.com/th?id=OHR.BirksofAberfeldy_ZH-CN7810226692_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 谁写下了友谊天长地久？
+![天门洞，湖南天门山国家森林公园，中国](https://cn.bing.com/th?id=OHR.HighArchChina_ZH-CN8170154553_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [天门洞，湖南天门山国家森林公园，中国](https://cn.bing.com/th?id=OHR.HighArchChina_ZH-CN8170154553_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 通往天门的阶梯
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-01-25",
-    "headline": "谁写下了友谊天长地久？",
-    "title": "位于阿伯费尔迪桦树林中的罗伯特·彭斯雕像, 苏格兰",
-    "description": "今天是罗伯特·彭斯的生日，让我们向他说一声“生日快乐”！罗伯特·彭斯是著名苏格兰诗人，被视为浪漫主义运动的先驱。今天照片中展示的是位于珀斯-金罗斯的阿伯费尔迪桦树林中的罗伯特·彭斯雕像。为了纪念这位诗人，今天还有一个庆祝活动——彭斯之夜。人们会在活动上享用丰盛的晚餐，品尝着羊肚脍的同时朗诵彭斯的诗歌《羊肚脍颂》。晚会通常会以大家合唱《友谊地久天长》而结束，这首诗歌由彭斯于1788年创作。",
-    "image_url": "https://cn.bing.com/th?id=OHR.BirksofAberfeldy_ZH-CN7810226692_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "罗伯特·彭斯最著名的诗歌有《友谊地久天长》《约翰·安德森，我的爱人》《一朵红红的玫瑰》和《杜河两岸》等。"
+    "date": "2023-01-26",
+    "headline": "通往天门的阶梯",
+    "title": "天门洞，湖南天门山国家森林公园，中国",
+    "description": "这张照片所呈现的石拱就是天门洞，它是湖南省北部最受欢迎的标志性景点之一，位于湖南天门山国家森林公园内。要想到达天门洞，你要么选择乘坐缆车，要么乘坐公共汽车穿过有九十九道弯的公路。下车后，你还需要步行登上陡峭的九百九十九级天梯。天门洞海拔高度有4100英尺，整个洞高440英尺、宽180英尺。尽管到达天门洞并非易事，但这趟行程绝对物超所值。",
+    "image_url": "https://cn.bing.com/th?id=OHR.HighArchChina_ZH-CN8170154553_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "游览天门山的最好方式是乘坐缆车。这条空中缆车全长超过7公里，是世界最长的单线循环式高山客运索道，一趟大约耗时30分钟。"
 }
 ```
 
-UpdataTime：2023-01-25 01:49:15
+UpdataTime：2023-01-26 01:51:13
