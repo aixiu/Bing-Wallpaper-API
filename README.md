@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![卡纳塔克邦的纳加尔霍雷国家公园，印度](https://cn.bing.com/th?id=OHR.NagarholeNationalPark_ZH-CN2550578922_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [卡纳塔克邦的纳加尔霍雷国家公园，印度](https://cn.bing.com/th?id=OHR.NagarholeNationalPark_ZH-CN2550578922_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 一条安静的林间小路
+![南非自然保护区的斑马](https://cn.bing.com/th?id=OHR.ZebraTrio_ZH-CN5902552401_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [南非自然保护区的斑马](https://cn.bing.com/th?id=OHR.ZebraTrio_ZH-CN5902552401_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 斑马快活的一天
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-01-30",
-    "headline": "一条安静的林间小路",
-    "title": "卡纳塔克邦的纳加尔霍雷国家公园，印度",
-    "description": "纳加尔霍雷老虎保护区以前被称为拉吉夫·甘地国家公园，位于卡纳塔克邦，是一个重点老虎保护区，也是老虎保护计划和大象保护计划下的一个主要保护中心。这个保护区生活着大量的食肉动物和食草动物，如老虎、豹子、豺、懒熊、亚洲象、野牛、黑鹿、印度白斑鹿、麂、四角羚、野猪、大鼷鹿和西南叶猴等。",
-    "image_url": "https://cn.bing.com/th?id=OHR.NagarholeNationalPark_ZH-CN2550578922_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "这个公园在1999年成为印度的第37个老虎保护区。"
+    "date": "2023-01-31",
+    "headline": "斑马快活的一天",
+    "title": "南非自然保护区的斑马",
+    "description": "设立“斑马日”是为了让全世界关注这个特殊的物种，并采取措施避免它们的灭绝。斑马主要分布在非洲南部和东部。它们全身遍布的独特条纹最为引人注目，这些条纹可以让斑马融入周围的环境，“迷惑”捕食者，同时还能防蚊虫叮咬。刚出生的小斑马身上的条纹是红褐色的，但长大后最终还是会变成黑白条纹。",
+    "image_url": "https://cn.bing.com/th?id=OHR.ZebraTrio_ZH-CN5902552401_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "巴切尔热带草原斑马是目前唯一可以合法养殖用于食用的斑马。"
 }
 ```
 
-UpdataTime：2023-01-30 01:47:23
+UpdataTime：2023-01-31 01:56:34
