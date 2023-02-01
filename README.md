@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![南非自然保护区的斑马](https://cn.bing.com/th?id=OHR.ZebraTrio_ZH-CN5902552401_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [南非自然保护区的斑马](https://cn.bing.com/th?id=OHR.ZebraTrio_ZH-CN5902552401_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 斑马快活的一天
+![皮埃尔丰城堡，皮卡第大区，法国](https://cn.bing.com/th?id=OHR.SunriseCastle_ZH-CN6235928386_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [皮埃尔丰城堡，皮卡第大区，法国](https://cn.bing.com/th?id=OHR.SunriseCastle_ZH-CN6235928386_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 日出时分的古老城堡
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-01-31",
-    "headline": "斑马快活的一天",
-    "title": "南非自然保护区的斑马",
-    "description": "设立“斑马日”是为了让全世界关注这个特殊的物种，并采取措施避免它们的灭绝。斑马主要分布在非洲南部和东部。它们全身遍布的独特条纹最为引人注目，这些条纹可以让斑马融入周围的环境，“迷惑”捕食者，同时还能防蚊虫叮咬。刚出生的小斑马身上的条纹是红褐色的，但长大后最终还是会变成黑白条纹。",
-    "image_url": "https://cn.bing.com/th?id=OHR.ZebraTrio_ZH-CN5902552401_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "巴切尔热带草原斑马是目前唯一可以合法养殖用于食用的斑马。"
+    "date": "2023-02-01",
+    "headline": "日出时分的古老城堡",
+    "title": "皮埃尔丰城堡，皮卡第大区，法国",
+    "description": "皮埃尔丰城堡拥有丰富而复杂的历史，可追溯到中世纪。它建于14世纪，由法国国王查理六世的兄弟路易斯·奥尔良 (Louis d'Orléans) 在一座古老城堡的废墟上建造。 在17世纪初被路易十三的军队围困并拆除后，这座城堡一直是废墟，直到19世纪拿破仑三世要求建筑师Viollet-le-Duc对其进行修复。这将使用创新的重建技术来修复城堡受损的部分。",
+    "image_url": "https://cn.bing.com/th?id=OHR.SunriseCastle_ZH-CN6235928386_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "这座城堡已被用作许多电影和电视作品的场景，特别是在“梅林”系列中。它的花园和长廊也很受欢迎，可以欣赏到城堡和周边地区的美丽景色。"
 }
 ```
 
-UpdataTime：2023-01-31 01:56:34
+UpdataTime：2023-02-01 02:05:15
