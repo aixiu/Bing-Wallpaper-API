@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![高地陶恩国家公园内的高山土拨鼠，奥地利](https://cn.bing.com/th?id=OHR.GroundhogThree_ZH-CN6720558481_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [高地陶恩国家公园内的高山土拨鼠，奥地利](https://cn.bing.com/th?id=OHR.GroundhogThree_ZH-CN6720558481_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 春天来了
+![费尔蒙芳堤娜城堡酒店，魁北克省，加拿大](https://cn.bing.com/th?id=OHR.QuebecFrontenac_ZH-CN9519096458_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [费尔蒙芳堤娜城堡酒店，魁北克省，加拿大](https://cn.bing.com/th?id=OHR.QuebecFrontenac_ZH-CN9519096458_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 冬天的乐趣
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-02-02",
-    "headline": "春天来了",
-    "title": "高地陶恩国家公园内的高山土拨鼠，奥地利",
-    "description": "每年的2月2日是土拨鼠日，这是北美地区的传统节日，源自德国圣烛节。土拨鼠日在北美地区的流行，起源于1886年美国宾州的小镇旁苏托尼当地一家报纸上的一条幽默简讯。此后，“土拨鼠日”的传统才正式开始。当天会有成千上万的人聚集在旁苏托尼，见证冬眠的土拨鼠从洞穴中钻出来。根据美国民间传统：如果土拨鼠钻出洞时能看到自己的影子，那么冬天还会再持续六星期；如果它看不到自己的影子，那么春天即将来临。尽管现在这个传统仍然流行，但研究并未发现土拨鼠的影子和春天的关系。",
-    "image_url": "https://cn.bing.com/th?id=OHR.GroundhogThree_ZH-CN6720558481_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "虽然很多物种的颜色都是棕色，但土拨鼠的皮毛颜色取决于它们所处的环境。"
+    "date": "2023-02-03",
+    "headline": "冬天的乐趣",
+    "title": "费尔蒙芳堤娜城堡酒店，魁北克省，加拿大",
+    "description": "在2月大斋节之前，世界各地会举办庆祝活动，其中广为人知的活动大多位于气候温暖的城市，如里约热内卢和新奥尔良，在圣灰星期三（大斋节首日）之前，狂欢者们会穿着精美的服装狂欢。而魁北克冬季嘉年华则截然不同，正如我们今天的照片展示的那样，这里的庆祝活动充满冬日氛围，有冰雕、雪橇比赛等等冬天才有的特色活动。如今，魁北克的冬季嘉年华已经成为整个西半球规模最大的冬季节日。",
+    "image_url": "https://cn.bing.com/th?id=OHR.QuebecFrontenac_ZH-CN9519096458_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "2006年，魁北克冬季嘉年华吸引游客超过100万，成为当时全世界规模最大的冬季节日。"
 }
 ```
 
-UpdataTime：2023-02-02 01:56:39
+UpdataTime：2023-02-03 01:57:04
