@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![永福樱花园，福建省龙岩市, 中国](https://cn.bing.com/th?id=OHR.Lichun2023_ZH-CN7842399047_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [永福樱花园，福建省龙岩市, 中国](https://cn.bing.com/th?id=OHR.Lichun2023_ZH-CN7842399047_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 早春的气息
+![毛茸茸又可爱的山兔](https://cn.bing.com/th?id=OHR.YearRabbit_ZH-CN2751166096_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [毛茸茸又可爱的山兔](https://cn.bing.com/th?id=OHR.YearRabbit_ZH-CN2751166096_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 兔年元宵节快乐！
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-02-04",
-    "headline": "早春的气息",
-    "title": "永福樱花园，福建省龙岩市, 中国",
-    "description": "立春，为二十四节气之首。立，是“开始”之意；春，代表着温暖、生长。立春标志着万物闭藏的冬季已过去，开始进入风和日暖、万物生长的春季。时至立春，在我国的北回归线（黄赤交角）及其以南一带，可明显感觉到早春的气息。虽然立春节气是从天文中划分的，但每年在立春节气后，人们开始有了一些踏春出游的活动。",
-    "image_url": "https://cn.bing.com/th?id=OHR.Lichun2023_ZH-CN7842399047_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "忽对林亭雪，瑶华处处开。今年迎气始，昨夜伴春回。"
+    "date": "2023-02-05",
+    "headline": "兔年元宵节快乐！",
+    "title": "毛茸茸又可爱的山兔",
+    "description": "正月是农历的元月，古人称“夜”为“宵”，正月十五是一年中第一个月圆之夜，所以称正月十五为“元宵节”。元宵节的形成有一个较长的过程，根源于民间开灯祈福古俗。说到元宵节开灯祈福，就会让人们联想到元宵灯的传统习俗闹花灯和猜灯谜。",
+    "image_url": "https://cn.bing.com/th?id=OHR.YearRabbit_ZH-CN2751166096_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "在中国古代，元宵节是一个充满浪漫色彩的节日。元宵节为人们创造了一个传情达意的好机会，也是中国古代的“情人节”。"
 }
 ```
 
-UpdataTime：2023-02-04 01:49:02
+UpdataTime：2023-02-05 01:58:45
