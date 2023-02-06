@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![毛茸茸又可爱的山兔](https://cn.bing.com/th?id=OHR.YearRabbit_ZH-CN2751166096_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [毛茸茸又可爱的山兔](https://cn.bing.com/th?id=OHR.YearRabbit_ZH-CN2751166096_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 兔年元宵节快乐！
+![峡湾国家公园，新西兰南岛](https://cn.bing.com/th?id=OHR.WaitangiFjordlandNP_ZH-CN9436140228_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [峡湾国家公园，新西兰南岛](https://cn.bing.com/th?id=OHR.WaitangiFjordlandNP_ZH-CN9436140228_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 峡湾国家公园
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-02-05",
-    "headline": "兔年元宵节快乐！",
-    "title": "毛茸茸又可爱的山兔",
-    "description": "正月是农历的元月，古人称“夜”为“宵”，正月十五是一年中第一个月圆之夜，所以称正月十五为“元宵节”。元宵节的形成有一个较长的过程，根源于民间开灯祈福古俗。说到元宵节开灯祈福，就会让人们联想到元宵灯的传统习俗闹花灯和猜灯谜。",
-    "image_url": "https://cn.bing.com/th?id=OHR.YearRabbit_ZH-CN2751166096_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "在中国古代，元宵节是一个充满浪漫色彩的节日。元宵节为人们创造了一个传情达意的好机会，也是中国古代的“情人节”。"
+    "date": "2023-02-06",
+    "headline": "峡湾国家公园",
+    "title": "峡湾国家公园，新西兰南岛",
+    "description": "每年的2月6日是怀唐伊日，这一天在所有新西兰人心中有着特殊的地位，因为这一天是新西兰的国庆节。1840年2月6日，40位毛利部落酋长和英国王室在怀唐伊签署了《怀唐伊条约》，建国新西兰。怀唐伊当地的庆典活动一早便开始了，有独特的雕刻比赛和文艺表演，营造出浓郁的节日气氛。",
+    "image_url": "https://cn.bing.com/th?id=OHR.WaitangiFjordlandNP_ZH-CN9436140228_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "峡湾国家公园是新西兰最受国际游客欢迎的国家公园，每年游客超过50万。"
 }
 ```
 
-UpdataTime：2023-02-05 01:58:45
+UpdataTime：2023-02-06 01:49:14
