@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![峡湾国家公园，新西兰南岛](https://cn.bing.com/th?id=OHR.WaitangiFjordlandNP_ZH-CN9436140228_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [峡湾国家公园，新西兰南岛](https://cn.bing.com/th?id=OHR.WaitangiFjordlandNP_ZH-CN9436140228_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 峡湾国家公园
+![拉布罗小镇，列蒂省，意大利](https://cn.bing.com/th?id=OHR.MedievalLabro_ZH-CN0015356188_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [拉布罗小镇，列蒂省，意大利](https://cn.bing.com/th?id=OHR.MedievalLabro_ZH-CN0015356188_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 历史悠久的山顶村庄
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-02-06",
-    "headline": "峡湾国家公园",
-    "title": "峡湾国家公园，新西兰南岛",
-    "description": "每年的2月6日是怀唐伊日，这一天在所有新西兰人心中有着特殊的地位，因为这一天是新西兰的国庆节。1840年2月6日，40位毛利部落酋长和英国王室在怀唐伊签署了《怀唐伊条约》，建国新西兰。怀唐伊当地的庆典活动一早便开始了，有独特的雕刻比赛和文艺表演，营造出浓郁的节日气氛。",
-    "image_url": "https://cn.bing.com/th?id=OHR.WaitangiFjordlandNP_ZH-CN9436140228_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "峡湾国家公园是新西兰最受国际游客欢迎的国家公园，每年游客超过50万。"
+    "date": "2023-02-07",
+    "headline": "历史悠久的山顶村庄",
+    "title": "拉布罗小镇，列蒂省，意大利",
+    "description": "今天的照片展示的是罗马东北方向约43英里的意大利小村庄拉布罗。拉布罗始建于公元9世纪至10世纪，罗马帝国奥托大帝将其封给了一个王室贵族，村庄面积只有约4.4平方英里。诺比利-维泰莱斯基城堡坐落在树木繁茂的山坡上，修建初衷是为了保卫周边和控制山谷的通信路线。二战期间，拉布罗的人口急剧减少，整个村庄几近消失。二战后，拉布罗以旅游业为目标进行了重建，现在这里是个热门的旅游目的地。",
+    "image_url": "https://cn.bing.com/th?id=OHR.MedievalLabro_ZH-CN0015356188_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "拉布罗有一座16世纪的诺比利-维泰莱斯基城堡。"
 }
 ```
 
-UpdataTime：2023-02-06 01:49:14
+UpdataTime：2023-02-07 01:50:24
