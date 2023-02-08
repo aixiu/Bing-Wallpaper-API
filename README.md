@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![拉布罗小镇，列蒂省，意大利](https://cn.bing.com/th?id=OHR.MedievalLabro_ZH-CN0015356188_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [拉布罗小镇，列蒂省，意大利](https://cn.bing.com/th?id=OHR.MedievalLabro_ZH-CN0015356188_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 历史悠久的山顶村庄
+![艾琳多南堡，苏格兰高地](https://cn.bing.com/th?id=OHR.EileanDonanDawn_ZH-CN0383017858_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [艾琳多南堡，苏格兰高地](https://cn.bing.com/th?id=OHR.EileanDonanDawn_ZH-CN0383017858_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 湖滨城堡
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-02-07",
-    "headline": "历史悠久的山顶村庄",
-    "title": "拉布罗小镇，列蒂省，意大利",
-    "description": "今天的照片展示的是罗马东北方向约43英里的意大利小村庄拉布罗。拉布罗始建于公元9世纪至10世纪，罗马帝国奥托大帝将其封给了一个王室贵族，村庄面积只有约4.4平方英里。诺比利-维泰莱斯基城堡坐落在树木繁茂的山坡上，修建初衷是为了保卫周边和控制山谷的通信路线。二战期间，拉布罗的人口急剧减少，整个村庄几近消失。二战后，拉布罗以旅游业为目标进行了重建，现在这里是个热门的旅游目的地。",
-    "image_url": "https://cn.bing.com/th?id=OHR.MedievalLabro_ZH-CN0015356188_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "拉布罗有一座16世纪的诺比利-维泰莱斯基城堡。"
+    "date": "2023-02-08",
+    "headline": "湖滨城堡",
+    "title": "艾琳多南堡，苏格兰高地",
+    "description": "艾琳多南堡坐落在苏格兰三个湖泊的交汇处，其宁静的表面下，是数个世纪的风云动荡。维京人、封建贵族和起义军来来去去，在这个苏格兰西部高地的湖滨城堡里留下了他们的足迹。",
+    "image_url": "https://cn.bing.com/th?id=OHR.EileanDonanDawn_ZH-CN0383017858_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "艾琳多南堡（Eilean Donan）的英文名意思是“多南的岛屿”。这个名字来源于埃格的多南（ Donnán of Eigg），一个凯尔特圣徒，于公元617年被杀害。"
 }
 ```
 
-UpdataTime：2023-02-07 01:50:24
+UpdataTime：2023-02-08 01:56:28
