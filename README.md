@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![艾琳多南堡，苏格兰高地](https://cn.bing.com/th?id=OHR.EileanDonanDawn_ZH-CN0383017858_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [艾琳多南堡，苏格兰高地](https://cn.bing.com/th?id=OHR.EileanDonanDawn_ZH-CN0383017858_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 湖滨城堡
+![下羚羊峡谷，亚利桑那州，美国](https://cn.bing.com/th?id=OHR.LowerAntelopeAZ_ZH-CN4758496750_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [下羚羊峡谷，亚利桑那州，美国](https://cn.bing.com/th?id=OHR.LowerAntelopeAZ_ZH-CN4758496750_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 这些美丽的岩石波浪是什么？
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-02-08",
-    "headline": "湖滨城堡",
-    "title": "艾琳多南堡，苏格兰高地",
-    "description": "艾琳多南堡坐落在苏格兰三个湖泊的交汇处，其宁静的表面下，是数个世纪的风云动荡。维京人、封建贵族和起义军来来去去，在这个苏格兰西部高地的湖滨城堡里留下了他们的足迹。",
-    "image_url": "https://cn.bing.com/th?id=OHR.EileanDonanDawn_ZH-CN0383017858_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "艾琳多南堡（Eilean Donan）的英文名意思是“多南的岛屿”。这个名字来源于埃格的多南（ Donnán of Eigg），一个凯尔特圣徒，于公元617年被杀害。"
+    "date": "2023-02-09",
+    "headline": "这些美丽的岩石波浪是什么？",
+    "title": "下羚羊峡谷，亚利桑那州，美国",
+    "description": "下羚羊峡谷是位于美国亚利桑纳州的一个美丽的自然景点。该峡谷也被原住民纳瓦霍人称为“螺旋石拱”。下羚羊峡谷不仅吸引了观景游客、徒步者，其鲜艳的色彩还吸引了许多摄影师。下羚羊峡谷呈“V”字形，这一独特的地貌是水流长年冲刷谷壁而形成的。羚羊峡谷的名字来源于纳瓦霍人的传说故事：过去，羚羊们会在冬天沿着峡谷漫步吃草。",
+    "image_url": "https://cn.bing.com/th?id=OHR.LowerAntelopeAZ_ZH-CN4758496750_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "羚羊峡谷是一个很受游客喜爱的景点，也是原住民纳瓦霍人的主要观光收入来源。"
 }
 ```
 
-UpdataTime：2023-02-08 01:56:28
+UpdataTime：2023-02-09 01:55:10
