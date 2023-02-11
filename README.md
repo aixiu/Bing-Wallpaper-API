@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![埃庇道鲁斯剧场, 希腊阿尔戈利斯省](https://cn.bing.com/th?id=OHR.EpidaurusGreece_ZH-CN0640135476_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [埃庇道鲁斯剧场, 希腊阿尔戈利斯省](https://cn.bing.com/th?id=OHR.EpidaurusGreece_ZH-CN0640135476_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 声学杰作
+![死亡谷扎布里斯基角上空的银河，美国加利福尼亚州](https://cn.bing.com/th?id=OHR.DarkSkiesDV_ZH-CN1076500221_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [死亡谷扎布里斯基角上空的银河，美国加利福尼亚州](https://cn.bing.com/th?id=OHR.DarkSkiesDV_ZH-CN1076500221_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 布满星星的天空
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-02-10",
-    "headline": "声学杰作",
-    "title": "埃庇道鲁斯剧场, 希腊阿尔戈利斯省",
-    "description": "埃庇道鲁斯剧场隐藏在离雅典约100英里的埃庇道鲁斯山丘之中。它是一座保存完好的古希腊剧场，巨大的露天场地可以容纳超过14000名观众。这种希腊礼堂分三个部分，一是圆形主舞台，二是背景建筑，三是次第升高的观众席。埃庇道鲁斯剧场是一项工程壮举，它的建筑结构非常精妙，使剧场拥有完美的音响效果和良好的观赏效果。这座剧场原本是用于供奉古希腊医药之神阿斯克勒庇俄斯的。自1954年以来，该剧场上演了多位著名希腊演员和国际演员的戏剧和音乐表演。",
-    "image_url": "https://cn.bing.com/th?id=OHR.EpidaurusGreece_ZH-CN0640135476_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "1881年，考古学会开始对埃庇道鲁斯剧场进行首次系统性的挖掘。"
+    "date": "2023-02-11",
+    "headline": "布满星星的天空",
+    "title": "死亡谷扎布里斯基角上空的银河，美国加利福尼亚州",
+    "description": "扎布里斯基角的标志性景观是摄影师和游客一年四季蜂拥而至的原因之一。大自然在这些荒地上侵蚀了亿万年，形成了这片令人惊叹的条纹岩层。这几座山峰上的深色部分是由古代火山爆发的熔岩形成的。扎布里斯基角位于加利福尼亚州的死亡谷国家公园，是无数电影（如《斯巴达克斯》和《星球大战》）的取景地。爱尔兰摇滚乐队U2的音乐专辑《约书亚树》的封面也在这里取景。难怪死亡谷暗夜节在美国如此受欢迎。",
+    "image_url": "https://cn.bing.com/th?id=OHR.DarkSkiesDV_ZH-CN1076500221_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "死亡谷国家公园已经被评为黄金级暗夜公园——这是国际暗夜协会对夜空的最高评级。"
 }
 ```
 
-UpdataTime：2023-02-10 01:58:24
+UpdataTime：2023-02-11 01:49:36
