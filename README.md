@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![一对蓝脚鲣鸟，加拉帕戈斯群岛，厄瓜多尔](https://cn.bing.com/th?id=OHR.BoobyDarwinDay_ZH-CN9917306809_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [一对蓝脚鲣鸟，加拉帕戈斯群岛，厄瓜多尔](https://cn.bing.com/th?id=OHR.BoobyDarwinDay_ZH-CN9917306809_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 平稳着陆，双脚先行
+![阿卡切斯瞭望台，月亮谷，智利](https://cn.bing.com/th?id=OHR.MoonValley_ZH-CN1906470869_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [阿卡切斯瞭望台，月亮谷，智利](https://cn.bing.com/th?id=OHR.MoonValley_ZH-CN1906470869_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 带我飞向月球
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-02-12",
-    "headline": "平稳着陆，双脚先行",
-    "title": "一对蓝脚鲣鸟，加拉帕戈斯群岛，厄瓜多尔",
-    "description": "今天，我们将和加拉帕戈斯群岛海岸的蓝脚鲣鸟一起玩耍，来庆祝达尔文日。据说，鲣鸟的英文名（booby）来源于西班牙语的单词，意思是“傻瓜”。鲣鸟之所以有这样的名字，是因为它们很容易被水手们抓到，因此被认为不太聪明。它们与众不同的亮蓝色脚丫很显眼。蓝脚鲣鸟的一大特点是它们的求偶舞蹈，雄性蓝脚鲣鸟会在大庭广众之下欢快地跺着蓝色脚丫跳舞求偶。雌性体型比雄性稍大一些。这种鸟终身只有一个伴侣，它们还能通过独特的叫声认出自己的伴侣。",
-    "image_url": "https://cn.bing.com/th?id=OHR.BoobyDarwinDay_ZH-CN9917306809_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "蓝脚鲣鸟不筑巢，而是在光秃秃的地上产蛋。"
+    "date": "2023-02-13",
+    "headline": "带我飞向月球",
+    "title": "阿卡切斯瞭望台，月亮谷，智利",
+    "description": "月亮谷位于智利北部的阿塔卡马沙漠，有着令人惊叹的美景。1982年，月亮谷被列为自然保护区，这是因为它拥有极吸引人的、未受破坏的原生环境和奇特的月球地形。关于月亮谷还有一个有趣的知识，那就是这片沙漠已经很多年未下过一滴雨了。",
+    "image_url": "https://cn.bing.com/th?id=OHR.MoonValley_ZH-CN1906470869_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "月亮谷的地形干燥恶劣，于是科学家们在那里测试了一辆火星探测器的原型。"
 }
 ```
 
-UpdataTime：2023-02-12 01:56:52
+UpdataTime：2023-02-13 01:56:30
