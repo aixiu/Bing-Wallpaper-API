@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![河马妈妈和宝宝，乔贝国家公园，博茨瓦纳](https://cn.bing.com/th?id=OHR.HippoDayChobe_ZH-CN2883647954_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [河马妈妈和宝宝，乔贝国家公园，博茨瓦纳](https://cn.bing.com/th?id=OHR.HippoDayChobe_ZH-CN2883647954_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 世界河马日，隆重的庆典
+![“火流”马尾瀑布，约塞米蒂国家公园，美国加利福尼亚州](https://cn.bing.com/th?id=OHR.FireFallYosemite_ZH-CN3351604820_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [“火流”马尾瀑布，约塞米蒂国家公园，美国加利福尼亚州](https://cn.bing.com/th?id=OHR.FireFallYosemite_ZH-CN3351604820_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 这个悬崖怎么着火了？
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-02-15",
-    "headline": "世界河马日，隆重的庆典",
-    "title": "河马妈妈和宝宝，乔贝国家公园，博茨瓦纳",
-    "description": "今天是世界河马日，河马是地球上最重的陆地动物之一。这些非洲食草动物生活在撒哈拉沙漠以南的非洲大陆。尽管河马分布广泛，但由于栖息地的不断减少，它们已被列为易危物种。虽然河马一生都生活在水里或水域附近，但它们不会游泳，而是通过跳跃在水里移动。河马在野外可以活到40岁，它们的嘴巴是陆地动物中最大的，所以在面对镜头时，它们的微笑也很自然。",
-    "image_url": "https://cn.bing.com/th?id=OHR.HippoDayChobe_ZH-CN2883647954_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "虽然河马的名字来自希腊语，意思是“河里的马”——因为它们大部分时间在河里度过，但河马的近亲其实是鲸鱼、海豚和猪。"
+    "date": "2023-02-16",
+    "headline": "这个悬崖怎么着火了？",
+    "title": "“火流”马尾瀑布，约塞米蒂国家公园，美国加利福尼亚州",
+    "description": "在约塞米蒂国家公园的埃尔卡皮坦山东侧，当所有自然条件齐备，马尾瀑布就像火一样“燃烧”起来。这种现象只有在2月的几周时间里可以看到，前提是天气晴朗，雪水或雨水形成瀑布，并且光照条件恰到好处。“火瀑布”只会持续大约10分钟，届时，观景区会人潮涌动。希望今年的游客能有幸看到这一神奇的自然景观。",
+    "image_url": "https://cn.bing.com/th?id=OHR.FireFallYosemite_ZH-CN3351604820_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "火瀑布的形成需要几个要素：下了足量的雪，天气够暖和，雪融化后形成瀑布，天空晴朗无云，阳光照耀的角度正合适，然后瀑布才会“燃烧”。"
 }
 ```
 
-UpdataTime：2023-02-15 01:58:10
+UpdataTime：2023-02-16 01:55:55
