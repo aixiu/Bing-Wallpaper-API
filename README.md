@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![新奥尔良法语区，路易斯安那州](https://cn.bing.com/th?id=OHR.MardiGrasNOLA_ZH-CN9628788934_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [新奥尔良法语区，路易斯安那州](https://cn.bing.com/th?id=OHR.MardiGrasNOLA_ZH-CN9628788934_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 带上国王饼
+![菲希特尔山脉上的和平钟，萨克森州，德国](https://cn.bing.com/th?id=OHR.FriedensglockeFichtelberg_ZH-CN5510489151_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [菲希特尔山脉上的和平钟，萨克森州，德国](https://cn.bing.com/th?id=OHR.FriedensglockeFichtelberg_ZH-CN5510489151_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 和平之钟
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-02-21",
-    "headline": "带上国王饼",
-    "title": "新奥尔良法语区，路易斯安那州",
-    "description": "新奥尔良（New Orleans），是美国路易斯安那州南部的一座海港城市，同时也是该州最大的城市，行政上与奥尔良县重合。新奥尔良最有特色的建筑大多聚集在法语区老城。在西班牙统治新奥尔良的40年间法语区的两场大火把法国老式建筑烧了个精光，尤以1788年那场最为惨重。如今法国区的街道非常狭窄，各家各户紧密相连，斑驳的老墙之上，二楼的雕花栏杆小阳台们常常被绿色的垂吊花草布满，一年四季都绚烂艳丽。",
-    "image_url": "https://cn.bing.com/th?id=OHR.MardiGrasNOLA_ZH-CN9628788934_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "法语区里那些浮华精致的雕花生铁阑干阳台都是西班牙建筑的风格，只有位于杜梅街上的“约翰夫人家”还可隐隐窥见法国乡间木屋的风貌。"
+    "date": "2023-02-22",
+    "headline": "和平之钟",
+    "title": "菲希特尔山脉上的和平钟，萨克森州，德国",
+    "description": "菲希特尔山位于厄尔士山脉的上维森塔尔镇附近。这座山高1214米，是东德最高的山峰，也是冬季运动爱好者的圣地。这里有各种冬季运动，双板滑雪、单板滑雪、越野滑雪、雪橇雪橇和马拉雪橇等等。如果你更喜欢夏天，也可以在这里来场夏日旅行，体验这里的自然风景。在菲希特尔山顶有一座和平钟，在这里欣赏到周围群山的壮丽景色。",
+    "image_url": "https://cn.bing.com/th?id=OHR.FriedensglockeFichtelberg_ZH-CN5510489151_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "菲希特尔山的南麓坐落着德国海拔最高的城镇——上维森塔尔，这是一个位于波尔巴赫山谷的度假小镇。"
 }
 ```
 
-UpdataTime：2023-02-21 01:57:35
+UpdataTime：2023-02-22 01:55:28
