@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![菲希特尔山脉上的和平钟，萨克森州，德国](https://cn.bing.com/th?id=OHR.FriedensglockeFichtelberg_ZH-CN5510489151_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [菲希特尔山脉上的和平钟，萨克森州，德国](https://cn.bing.com/th?id=OHR.FriedensglockeFichtelberg_ZH-CN5510489151_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 和平之钟
+![克罗索尔山谷，斯诺多尼亚国家公园，英国威尔士](https://cn.bing.com/th?id=OHR.BabblingBrook_ZH-CN9371346787_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [克罗索尔山谷，斯诺多尼亚国家公园，英国威尔士](https://cn.bing.com/th?id=OHR.BabblingBrook_ZH-CN9371346787_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 宁静的山谷
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-02-22",
-    "headline": "和平之钟",
-    "title": "菲希特尔山脉上的和平钟，萨克森州，德国",
-    "description": "菲希特尔山位于厄尔士山脉的上维森塔尔镇附近。这座山高1214米，是东德最高的山峰，也是冬季运动爱好者的圣地。这里有各种冬季运动，双板滑雪、单板滑雪、越野滑雪、雪橇雪橇和马拉雪橇等等。如果你更喜欢夏天，也可以在这里来场夏日旅行，体验这里的自然风景。在菲希特尔山顶有一座和平钟，在这里欣赏到周围群山的壮丽景色。",
-    "image_url": "https://cn.bing.com/th?id=OHR.FriedensglockeFichtelberg_ZH-CN5510489151_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "菲希特尔山的南麓坐落着德国海拔最高的城镇——上维森塔尔，这是一个位于波尔巴赫山谷的度假小镇。"
+    "date": "2023-02-23",
+    "headline": "宁静的山谷",
+    "title": "克罗索尔山谷，斯诺多尼亚国家公园，英国威尔士",
+    "description": "今天照片中展示的宁静山谷坐落在北威尔士格的斯诺登尼亚国家公园。克罗伊索（Croesor）峡谷曾经是热闹非凡的采石场，专门生产用于建造屋顶及地板的石板。如今这里没有了采石的喧嚣，只有长满苔藓的石墙、潺潺的溪流、羊群啃过的田野和台阶，还有穿过这里前往莫尔温尼恩（Moelwynion）山脉的徒步者。",
+    "image_url": "https://cn.bing.com/th?id=OHR.BabblingBrook_ZH-CN9371346787_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "威尔士被誉为神话传说之地。传说两条古龙曾在威尔士的迪纳斯埃姆里斯山展开一场大战。"
 }
 ```
 
-UpdataTime：2023-02-22 01:55:28
+UpdataTime：2023-02-23 01:53:04
