@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![克罗索尔山谷，斯诺多尼亚国家公园，英国威尔士](https://cn.bing.com/th?id=OHR.BabblingBrook_ZH-CN9371346787_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [克罗索尔山谷，斯诺多尼亚国家公园，英国威尔士](https://cn.bing.com/th?id=OHR.BabblingBrook_ZH-CN9371346787_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 宁静的山谷
+![里士满公园的鸳鸯，伦敦，英国](https://cn.bing.com/th?id=OHR.RichmondParkDuck_ZH-CN4956127005_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [里士满公园的鸳鸯，伦敦，英国](https://cn.bing.com/th?id=OHR.RichmondParkDuck_ZH-CN4956127005_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 一只华丽招摇的鸳鸯
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-02-23",
-    "headline": "宁静的山谷",
-    "title": "克罗索尔山谷，斯诺多尼亚国家公园，英国威尔士",
-    "description": "今天照片中展示的宁静山谷坐落在北威尔士格的斯诺登尼亚国家公园。克罗伊索（Croesor）峡谷曾经是热闹非凡的采石场，专门生产用于建造屋顶及地板的石板。如今这里没有了采石的喧嚣，只有长满苔藓的石墙、潺潺的溪流、羊群啃过的田野和台阶，还有穿过这里前往莫尔温尼恩（Moelwynion）山脉的徒步者。",
-    "image_url": "https://cn.bing.com/th?id=OHR.BabblingBrook_ZH-CN9371346787_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "威尔士被誉为神话传说之地。传说两条古龙曾在威尔士的迪纳斯埃姆里斯山展开一场大战。"
+    "date": "2023-02-24",
+    "headline": "一只华丽招摇的鸳鸯",
+    "title": "里士满公园的鸳鸯，伦敦，英国",
+    "description": "今天照片里的是一只鸳鸯，它正在寒冷沉闷的冬日里展示自己漂亮鲜艳的羽毛。到了换羽季节，雄性鸳鸯会脱去色彩斑斓的羽毛，使得它们的外貌更接近色彩暗淡的雌性鸳鸯，不过它们的喙仍然会是明亮的橙黄色或红色。",
+    "image_url": "https://cn.bing.com/th?id=OHR.RichmondParkDuck_ZH-CN4956127005_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "里士满公园修建于17世纪，原本是查理一世的鹿园，现在已成为国家级的自然保护区。"
 }
 ```
 
-UpdataTime：2023-02-23 01:53:04
+UpdataTime：2023-02-24 01:54:07
