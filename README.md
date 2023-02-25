@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![里士满公园的鸳鸯，伦敦，英国](https://cn.bing.com/th?id=OHR.RichmondParkDuck_ZH-CN4956127005_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [里士满公园的鸳鸯，伦敦，英国](https://cn.bing.com/th?id=OHR.RichmondParkDuck_ZH-CN4956127005_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 一只华丽招摇的鸳鸯
+![布莱斯峡谷国家公园的石林，犹他州，美国](https://cn.bing.com/th?id=OHR.BryceAnniv_ZH-CN5305245786_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [布莱斯峡谷国家公园的石林，犹他州，美国](https://cn.bing.com/th?id=OHR.BryceAnniv_ZH-CN5305245786_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 冬天的布莱斯峡谷石林
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-02-24",
-    "headline": "一只华丽招摇的鸳鸯",
-    "title": "里士满公园的鸳鸯，伦敦，英国",
-    "description": "今天照片里的是一只鸳鸯，它正在寒冷沉闷的冬日里展示自己漂亮鲜艳的羽毛。到了换羽季节，雄性鸳鸯会脱去色彩斑斓的羽毛，使得它们的外貌更接近色彩暗淡的雌性鸳鸯，不过它们的喙仍然会是明亮的橙黄色或红色。",
-    "image_url": "https://cn.bing.com/th?id=OHR.RichmondParkDuck_ZH-CN4956127005_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "里士满公园修建于17世纪，原本是查理一世的鹿园，现在已成为国家级的自然保护区。"
+    "date": "2023-02-25",
+    "headline": "冬天的布莱斯峡谷石林",
+    "title": "布莱斯峡谷国家公园的石林，犹他州，美国",
+    "description": "当太阳在布莱斯峡谷升起时，白雪皑皑的橙红色岩石闪闪发光。这些修长高耸的岩石被称为石林，而布莱斯峡谷国家公园正是因为拥有地球上密度最高的石林而闻名。这些石林的下层是松软的沉积岩，上面则覆盖着一层更为坚硬的石盖。犹他州冬天的冰霜会侵蚀石盖，最终暴露出底下更易被侵蚀的岩石。值得庆幸的是，这些石林现在还屹立不倒，让我们可以在公园成立100周年之时欣赏大自然的鬼斧神工。",
+    "image_url": "https://cn.bing.com/th?id=OHR.BryceAnniv_ZH-CN5305245786_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "布莱斯峡谷并非由流过的溪流侵蚀而成，因此严格来说它并不是一个峡谷。"
 }
 ```
 
-UpdataTime：2023-02-24 01:54:07
+UpdataTime：2023-02-25 01:56:12
