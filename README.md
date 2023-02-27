@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![亚马孙雨林的树冠探险，秘鲁](https://th.bing.com/th?id=OHR.CanopyPeru_ZH-CN5659581553_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [亚马孙雨林的树冠探险，秘鲁](https://th.bing.com/th?id=OHR.CanopyPeru_ZH-CN5659581553_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 随着亚马孙的树冠摇摆
+![北极熊在加拿大沉睡](https://cn.bing.com/th?id=OHR.PolarBearFrost_ZH-CN5918160947_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [北极熊在加拿大沉睡](https://cn.bing.com/th?id=OHR.PolarBearFrost_ZH-CN5918160947_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 冰冷的北极，温暖的拥抱
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-02-26",
-    "headline": "随着亚马孙的树冠摇摆",
-    "title": "亚马孙雨林的树冠探险，秘鲁",
-    "description": "穿过亚马孙雨林中的这座吊桥，意味着你要依靠这些树木作为支撑。同样，地球生物的生存也依赖于亚马孙雨林的这些树木。亚马孙流域储存的碳是全球化石燃料年排放量的10倍以上，这里还是地球上10%已知物种的家园。亚马孙河是世界上流域最广、流量最大的河流，其河流入海流量占全球的20%。从安第斯山脉到大西洋，亚马孙河流经了八个国家。今天的照片拍摄于秘鲁的坦博帕塔国家保护区，这里是巨型角雕、金刚鹦鹉、美洲虎、水豚、树懒和巨型水獭的家园。",
-    "image_url": "https://th.bing.com/th?id=OHR.CanopyPeru_ZH-CN5659581553_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "桑多瓦尔湖是坦博帕塔国家保护区内最受欢迎的景点，湖岸长满了棕榈树，这些树是金刚鹦鹉的家园。"
+    "date": "2023-02-27",
+    "headline": "冰冷的北极，温暖的拥抱",
+    "title": "北极熊在加拿大沉睡",
+    "description": "2月27日是国际北极熊日，旨在让人们意识到北极熊因气候变化而面临的巨大威胁。北极熊需要北极的浮冰才能捕食，但北极浮冰正随着地球变暖而减少。虽然北极熊是非常出色的游泳选手，它们甚至因此被归类为海洋哺乳动物，但北极的浮冰仍是它们赖以生存的关键因素。让我们在这一天来认真想想，如何通过可持续的生活方式来帮助北极熊。",
+    "image_url": "https://cn.bing.com/th?id=OHR.PolarBearFrost_ZH-CN5918160947_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "北极熊没有领地意识，它们面临冲突时总是小心翼翼，常常选择逃跑而不是战斗。"
 }
 ```
 
-UpdataTime：2023-02-26 02:04:15
+UpdataTime：2023-02-27 01:57:10
