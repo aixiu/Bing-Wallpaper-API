@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![阿特拉尼，阿马尔菲海岸，意大利](https://cn.bing.com/th?id=OHR.AtraniAmalfi_ZH-CN6391731688_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [阿特拉尼，阿马尔菲海岸，意大利](https://cn.bing.com/th?id=OHR.AtraniAmalfi_ZH-CN6391731688_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 一张来自意大利的明信片
+![吕贝克的霍尔斯滕门，德国](https://cn.bing.com/th?id=OHR.LuebeckCityGate_ZH-CN4618826141_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [吕贝克的霍尔斯滕门，德国](https://cn.bing.com/th?id=OHR.LuebeckCityGate_ZH-CN4618826141_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 纪念硬币上的著名建筑
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-02-28",
-    "headline": "一张来自意大利的明信片",
-    "title": "阿特拉尼，阿马尔菲海岸，意大利",
-    "description": "阿特拉尼位于意大利西南部的阿马尔菲海岸，房屋的红色粘土屋顶在阳光下非常引人注目。阿特拉尼是意大利最小的城镇之一，镇上只有800居民。这个传统渔村也是阿马尔菲海岸世界文化遗产的一部分。这里保留了原有的建筑特色，是一个完美的地中海度假胜地。游客可以在这里沐浴阳光，在海滨咖啡馆里品尝当地海鲜。",
-    "image_url": "https://cn.bing.com/th?id=OHR.AtraniAmalfi_ZH-CN6391731688_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "阿马尔菲海岸如诗如画般的自然美景使其成为世界富豪们最喜爱的度假胜地，也让其赢得了“神圣海岸”的称号。"
+    "date": "2023-03-01",
+    "headline": "纪念硬币上的著名建筑",
+    "title": "吕贝克的霍尔斯滕门，德国",
+    "description": "霍尔斯滕门是一座城门，标志着汉萨同盟城市吕贝克旧中心的西部边界。 砖砌哥特式建筑建于1464年，是吕贝克中世纪城市防御工事的遗迹之一，也是现存的两座城门之一，另一座是城堡门 (Burgtor)。 它以其两个圆形的塔楼和拱形入口而闻名，今天被视为这座城市的象征。",
+    "image_url": "https://cn.bing.com/th?id=OHR.LuebeckCityGate_ZH-CN4618826141_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "自1987年以来，它与吕贝克老城中心 (Altstadt) 一起被联合国教科文组织列为世界遗产。"
 }
 ```
 
-UpdataTime：2023-02-28 01:56:58
+UpdataTime：2023-03-01 02:08:07
