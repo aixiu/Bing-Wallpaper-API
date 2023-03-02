@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![吕贝克的霍尔斯滕门，德国](https://cn.bing.com/th?id=OHR.LuebeckCityGate_ZH-CN4618826141_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [吕贝克的霍尔斯滕门，德国](https://cn.bing.com/th?id=OHR.LuebeckCityGate_ZH-CN4618826141_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 纪念硬币上的著名建筑
+![内格拉廷湖，格拉纳达，西班牙](https://cn.bing.com/th?id=OHR.NegratinSpain_ZH-CN5916944876_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [内格拉廷湖，格拉纳达，西班牙](https://cn.bing.com/th?id=OHR.NegratinSpain_ZH-CN5916944876_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 大自然的画作
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-03-01",
-    "headline": "纪念硬币上的著名建筑",
-    "title": "吕贝克的霍尔斯滕门，德国",
-    "description": "霍尔斯滕门是一座城门，标志着汉萨同盟城市吕贝克旧中心的西部边界。 砖砌哥特式建筑建于1464年，是吕贝克中世纪城市防御工事的遗迹之一，也是现存的两座城门之一，另一座是城堡门 (Burgtor)。 它以其两个圆形的塔楼和拱形入口而闻名，今天被视为这座城市的象征。",
-    "image_url": "https://cn.bing.com/th?id=OHR.LuebeckCityGate_ZH-CN4618826141_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "自1987年以来，它与吕贝克老城中心 (Altstadt) 一起被联合国教科文组织列为世界遗产。"
+    "date": "2023-03-02",
+    "headline": "大自然的画作",
+    "title": "内格拉廷湖，格拉纳达，西班牙",
+    "description": "今天照片上这个宁静美丽的湖泊是内格拉廷湖，是西班牙安达卢西亚最大的淡水湖之一。内格拉廷湖位于格拉纳达世界地质公园 的中心，由瓜迪亚纳梅诺尔河上的大坝截流而形成，是自然爱好者的天堂。湖边有一个帆船俱乐部，举办各种水上活动，这也使得内格拉廷湖成为了一个亲近大自然和放松身心的度假胜地。湖周围还有壮观的悬崖、沟壑和沙漠。无论春夏秋冬，这里的风景都美得让人窒息。",
+    "image_url": "https://cn.bing.com/th?id=OHR.NegratinSpain_ZH-CN5916944876_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "内格拉廷湖是由瓜迪亚纳梅诺尔河上的大坝截流而形成的。"
 }
 ```
 
-UpdataTime：2023-03-01 02:08:07
+UpdataTime：2023-03-02 02:02:29
