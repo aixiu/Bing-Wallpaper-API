@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![袋鼠妈妈和宝宝](https://cn.bing.com/th?id=OHR.HuggingKanga_ZH-CN1045131695_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [袋鼠妈妈和宝宝](https://cn.bing.com/th?id=OHR.HuggingKanga_ZH-CN1045131695_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 来自妈妈的拥抱和爱
+![站在自己领域的冰岛马，冰岛](https://cn.bing.com/th?id=OHR.IcelandHorses_ZH-CN7213041152_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [站在自己领域的冰岛马，冰岛](https://cn.bing.com/th?id=OHR.IcelandHorses_ZH-CN7213041152_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 这些独特的生物是什么?
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-03-05",
-    "headline": "来自妈妈的拥抱和爱",
-    "title": "袋鼠妈妈和宝宝",
-    "description": "袋鼠是一种属于袋鼠目的有袋动物，主要分布于澳大利亚大陆和巴布亚新几内亚的部分地区。其中，有些种类为澳大利亚独有。不同种类的袋鼠在澳大利亚各种不同的自然环境中生活，从凉性气候的雨林和沙漠平原到热带地区。袋鼠是跳得最高最远的哺乳动物。所有雌性袋鼠都长有前开的育儿袋， “幼崽”或小袋鼠就在育儿袋里被抚养长大，直到它们能在外部世界生存。",
-    "image_url": "https://cn.bing.com/th?id=OHR.HuggingKanga_ZH-CN1045131695_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "据传说，“Kangaroo”是袋鼠的英文名，源自于澳洲原住民Guugu Yimidhirr:“gangurru”，意思是指“不知道”。而这一切其实只是一场误会..."
+    "date": "2023-03-06",
+    "headline": "这些独特的生物是什么?",
+    "title": "站在自己领域的冰岛马，冰岛",
+    "description": "冰岛马是在冰岛发现的一种小型马，也是地球上血统最纯的马种。这些独特的生物吸引了许多来自世界各地的马术爱好者。为了避免疾病在马匹之间传播，冰岛禁止进口马匹，并且冰岛马一旦出口就不能再回到冰岛。冰岛马的颜色非常丰富，有灰色、黑色、栗色等。它们通常在四岁后才能被骑乘，主要用于展示、竞赛和休闲活动。",
+    "image_url": "https://cn.bing.com/th?id=OHR.IcelandHorses_ZH-CN7213041152_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "这是几匹来自北方的马。"
 }
 ```
 
-UpdataTime：2023-03-05 02:12:49
+UpdataTime：2023-03-06 02:00:05
