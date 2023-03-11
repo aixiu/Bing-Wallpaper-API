@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![埃代尔，峰区，英国](https://cn.bing.com/th?id=OHR.EdaleValley_ZH-CN8464524952_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [埃代尔，峰区，英国](https://cn.bing.com/th?id=OHR.EdaleValley_ZH-CN8464524952_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 巨人的谜题
+![马萨诸塞州格洛斯特的沼泽地](https://cn.bing.com/th?id=OHR.LongWharf_ZH-CN8793669955_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [马萨诸塞州格洛斯特的沼泽地](https://cn.bing.com/th?id=OHR.LongWharf_ZH-CN8793669955_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 像一张油画
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-03-10",
-    "headline": "巨人的谜题",
-    "title": "埃代尔，峰区，英国",
-    "description": "埃代尔安静而隐蔽，正是步行者的天堂。这个风景如画的小村庄坐落在英国峰区国家公园，四周被群山环绕。埃代尔（Edale）这个名称的拼写方式最早的记录出现于1732年，此前，它在不同时期被拼写为“Aidele”“Eydale”“Eydal”和“Edall”。埃代尔是奔宁之路的起点，这条国家步道一直延伸到苏格兰。英格兰和威尔士的17条国家步道上都点缀着带有橡子形状标记的路标。如果你在该地区闲逛时看到了这种标记，请沿着这条路继续走，你肯定能收获一段风景优美的旅程。",
-    "image_url": "https://cn.bing.com/th?id=OHR.EdaleValley_ZH-CN8464524952_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "埃代尔是一个小村庄，它所在的位置是奔宁之路的起点和终点。奔宁之路是英国最出名的也是第一条长距离步道。"
+    "date": "2023-03-11",
+    "headline": "像一张油画",
+    "title": "马萨诸塞州格洛斯特的沼泽地",
+    "description": "在新英格兰灿烂阳光的照耀下，这片盐沼地里的耐盐植物和海水形成了色彩鲜明的对比。盐沼是水生食物链中重要的一环，同时也是孕育野生动植物的温床。",
+    "image_url": "https://cn.bing.com/th?id=OHR.LongWharf_ZH-CN8793669955_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "由于盐沼常常被潮汐浸没，同时含有大量分解物质，所以其泥炭中的氧气含量极低。"
 }
 ```
 
-UpdataTime：2023-03-10 02:02:32
+UpdataTime：2023-03-11 01:44:58
