@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![阿伊纳帕植物园灌木丛迷宫，塞浦路斯](https://cn.bing.com/th?id=OHR.CyprusMaze_ZH-CN9448060895_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [阿伊纳帕植物园灌木丛迷宫，塞浦路斯](https://cn.bing.com/th?id=OHR.CyprusMaze_ZH-CN9448060895_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 美丽的曲径迷宫
+![阿圭罗村庄，西班牙](https://cn.bing.com/th?id=OHR.AgueroSpain_ZH-CN9622864502_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [阿圭罗村庄，西班牙](https://cn.bing.com/th?id=OHR.AgueroSpain_ZH-CN9622864502_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 如此美景在何处？
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-03-14",
-    "headline": "美丽的曲径迷宫",
-    "title": "阿伊纳帕植物园灌木丛迷宫，塞浦路斯",
-    "description": "今天，我们用这张绝美无比的灌木丛迷宫鸟瞰图来庆祝圆周率日，该迷宫位于塞浦路斯的阿伊纳帕植物园。圆周率日的意义在于纪念数学常数π。如果用计算器求圆周率的值，它可能会被截止到小数点后15位或更少，但在数学中π被认为是一个无限的比值。阿伊纳帕植物园灌木丛迷宫的圆形图案把圆周率公式带入了现实，这里也是长途步行爱好者的必游之地。如果你准备好迎接挑战，那就来这个巨型迷宫试试吧。",
-    "image_url": "https://cn.bing.com/th?id=OHR.CyprusMaze_ZH-CN9448060895_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "人们有很多方式庆祝圆周率日，包括吃馅饼、抛馅饼和讨论数字π的意义。"
+    "date": "2023-03-15",
+    "headline": "如此美景在何处？",
+    "title": "阿圭罗村庄，西班牙",
+    "description": "美丽的阿圭罗村庄位于西班牙韦斯卡省，它坐落在独特的粉灰色群山之中。村庄背后是被称为里格洛斯岩的悬崖，非常适合拍照。这个拥有130位居民的小村庄还有一座建于12世纪的教堂。如果你是历史爱好者、攀岩爱好者，或二者兼修，那就请把阿圭罗列入旅行目的地清单吧。",
+    "image_url": "https://cn.bing.com/th?id=OHR.AgueroSpain_ZH-CN9622864502_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "这个城镇最有趣的地方便是它身后令人惊艳的岩石。"
 }
 ```
 
-UpdataTime：2023-03-14 01:37:15
+UpdataTime：2023-03-15 01:48:26
