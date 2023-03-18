@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![ballyvooney海岸，科佩海岸地质公园，爱尔兰](https://cn.bing.com/th?id=OHR.BallyvooneyCove_ZH-CN0284564457_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [ballyvooney海岸，科佩海岸地质公园，爱尔兰](https://cn.bing.com/th?id=OHR.BallyvooneyCove_ZH-CN0284564457_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 彩虹的尽头
+![甘博阿陨击坑，火星](https://cn.bing.com/th?id=OHR.MarsTars_ZH-CN0496313394_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [甘博阿陨击坑，火星](https://cn.bing.com/th?id=OHR.MarsTars_ZH-CN0496313394_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 此景只应天上有
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-03-17",
-    "headline": "彩虹的尽头",
-    "title": "ballyvooney海岸，科佩海岸地质公园，爱尔兰",
-    "description": "准备好迎接三叶苜蓿、游行和所有绿色的东西吧，因为今天是圣帕特里克节。这个节日起源于1000多年前的爱尔兰，但如今该节日已渐渐成为许多国家共同的节日。圣帕特里克节，也被称为“绿帽子节”，是为了纪念爱尔兰守护神圣帕特里克。",
-    "image_url": "https://cn.bing.com/th?id=OHR.BallyvooneyCove_ZH-CN0284564457_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "这个地质丰富多样的地区有着古生代火山活动和最后一个冰河时代的地质遗迹，这些都是非常珍贵的文化遗产。"
+    "date": "2023-03-18",
+    "headline": "此景只应天上有",
+    "title": "甘博阿陨击坑，火星",
+    "description": "在火星上生存相当艰难，天气极寒、干燥，而且条件恶劣。火星上的平均温度约为零下62摄氏度，两极的温度甚至可能低至零下152摄氏度。但这颗行星上有许多峡谷、死火山和冰盖，远观还是很美的。火星勘测轨道飞行器发回的大多数照片都显示火星是一颗红色星球，这是因为火星表面有大量红色的赤铁矿，所以呈现橘红色。",
+    "image_url": "https://cn.bing.com/th?id=OHR.MarsTars_ZH-CN0496313394_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "人类曾给火星上的风声录音。"
 }
 ```
 
-UpdataTime：2023-03-17 01:47:11
+UpdataTime：2023-03-18 01:47:14
