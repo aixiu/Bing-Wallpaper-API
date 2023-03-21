@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![紫番红花](https://cn.bing.com/th?id=OHR.PurpleCrocus_ZH-CN0891528297_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [紫番红花](https://cn.bing.com/th?id=OHR.PurpleCrocus_ZH-CN0891528297_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 春天的色彩
+![彩色粉笔](https://cn.bing.com/th?id=OHR.ColourDay_ZH-CN1032554089_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [彩色粉笔](https://cn.bing.com/th?id=OHR.ColourDay_ZH-CN1032554089_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 你最喜欢什么颜色？
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-03-20",
-    "headline": "春天的色彩",
-    "title": "紫番红花",
-    "description": "每年3月20日或3月21日，太阳直射赤道，昼夜等长。在北半球，这一天被称为春分，意味着冬天结束，温暖明媚的春天已经来临，你可能会不经意间在路边发现一朵悄悄盛开的番红花。如同今天的照片，鲜艳美丽的紫番红花正在尽情绽放，它们是每年春天最早绽放的花卉之一。春分是一个北半球的节日。在中国，春分是传统节气之一。在伊朗，春分被称为诺鲁孜节，代表着新的一年开始。不过，在南半球，这一天则意味着秋天开始了，所以给你在阿根廷朋友们寄些毛衣吧。",
-    "image_url": "https://cn.bing.com/th?id=OHR.PurpleCrocus_ZH-CN0891528297_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "番红花色彩丰富，有紫色、薰衣草色、蓝色、橙色、黄色、白色等。"
+    "date": "2023-03-21",
+    "headline": "你最喜欢什么颜色？",
+    "title": "彩色粉笔",
+    "description": "有光的地方，就有色彩，五彩缤纷的世界更具活力和个性。颜色如同音符，不同的颜色传达给人的感觉各不相同。蓝色让人感觉冷静镇定，紫色给人奢华之感，红色则代表激情或危险。国际色彩日这天，世界各地的色彩权威机构齐聚一堂，讨论颜色在工业、艺术、科学、设计等领域的研究应用。世界如此丰富多彩，你可以放慢脚步，细细欣赏品味周围的色彩，这些颜色可能会让你的生活充满惊喜。",
+    "image_url": "https://cn.bing.com/th?id=OHR.ColourDay_ZH-CN1032554089_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "人眼通过视网膜中的锥细胞来识别各种颜色。"
 }
 ```
 
-UpdataTime：2023-03-20 01:51:26
+UpdataTime：2023-03-21 01:41:25
