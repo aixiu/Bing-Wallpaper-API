@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![杜费里峡谷，上萨瓦省，法国](https://cn.bing.com/th?id=OHR.ChavarocheWinter_ZH-CN1842519491_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [杜费里峡谷，上萨瓦省，法国](https://cn.bing.com/th?id=OHR.ChavarocheWinter_ZH-CN1842519491_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 惊人的自然奇观
+![盛开的野蒜，海尼希国家公园，德国](https://cn.bing.com/th?id=OHR.WildGarlic_ZH-CN1869796625_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [盛开的野蒜，海尼希国家公园，德国](https://cn.bing.com/th?id=OHR.WildGarlic_ZH-CN1869796625_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 你见过大蒜开花吗？
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-03-23",
-    "headline": "惊人的自然奇观",
-    "title": "杜费里峡谷，上萨瓦省，法国",
-    "description": "杜费里峡谷是法国上萨瓦省的一处惊人的自然奇观：它是一个极为狭窄且深邃的峡谷，经由一条悬挂于山崖边的栈道便可抵达。",
-    "image_url": "https://cn.bing.com/th?id=OHR.ChavarocheWinter_ZH-CN1842519491_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "杜费里峡谷是法国阿尔卑斯山脉中最壮观的自然景观之一，游客可以通过一座长约250米、横跨激流之上25米高的栈桥到达这里。"
+    "date": "2023-03-24",
+    "headline": "你见过大蒜开花吗？",
+    "title": "盛开的野蒜，海尼希国家公园，德国",
+    "description": "这些清新质朴的白花是野蒜花。在德国图林根州的海尼希国家公园，你可以近距离地欣赏这些野蒜花。海尼希国家公园创建于1997年，旨在保护这里古老的、郁郁葱葱的山毛榉森林。",
+    "image_url": "https://cn.bing.com/th?id=OHR.WildGarlic_ZH-CN1869796625_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "大蒜被认为具有丰富的药用价值，是一种非常受欢迎的食疗食材。"
 }
 ```
 
-UpdataTime：2023-03-23 01:42:44
+UpdataTime：2023-03-24 01:43:00
