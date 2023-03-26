@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![塞西尔布鲁尔楼梯，伦敦，英国](https://cn.bing.com/th?id=OHR.CecilBrewerStaircase_ZH-CN2117182176_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [塞西尔布鲁尔楼梯，伦敦，英国](https://cn.bing.com/th?id=OHR.CecilBrewerStaircase_ZH-CN2117182176_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 通往天堂的楼梯？
+![安沙波利哥沙漠州立公园的野花，加利福尼亚州，美国](https://cn.bing.com/th?id=OHR.WildAnza_ZH-CN2384861750_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [安沙波利哥沙漠州立公园的野花，加利福尼亚州，美国](https://cn.bing.com/th?id=OHR.WildAnza_ZH-CN2384861750_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 大自然最为色彩鲜艳的一面
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-03-25",
-    "headline": "通往天堂的楼梯？",
-    "title": "塞西尔布鲁尔楼梯，伦敦，英国",
-    "description": "今天照片里这令人惊艳的楼梯是塞西尔布鲁尔楼梯，它绝妙的建筑结构使其成为伦敦主要的旅游景点之一。它位于伦敦家具品牌Heal's（创立于1810年）的旗舰店中。Heal's品牌创始人的表弟塞西尔·布鲁尔设计了这个楼梯，通往商店的各个区域。楼梯外缘的灯带是二战后加装的，而中间由上至下层层叠叠的优雅吊灯则是2013年装上的。楼梯窗台上还有一只青铜猫咪，它是这家商店的官方吉祥物，非卖品哦。",
-    "image_url": "https://cn.bing.com/th?id=OHR.CecilBrewerStaircase_ZH-CN2117182176_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "著名的塞西尔布鲁尔楼梯曾通往新曼萨德画廊。"
+    "date": "2023-03-26",
+    "headline": "大自然最为色彩鲜艳的一面",
+    "title": "安沙波利哥沙漠州立公园的野花，加利福尼亚州，美国",
+    "description": "欢迎来到美国加州最大的沙漠州立公园——安沙波利哥。这个公园以烂漫春花和自然奇观而闻名。初夏是游览的最佳时节，漫山遍野都是各种野花、植物和仙人掌。这些野花为原本贫瘠的沙漠景观增添了色彩，吸引大批游客的到来。尽管你可能会想摘一些回家，但野花受到加州法律的保护，再说美景也不应私藏，而应大家共赏。",
+    "image_url": "https://cn.bing.com/th?id=OHR.WildAnza_ZH-CN2384861750_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "这个公园有天然的溪泉和绿洲，还有加州唯一的本土棕榈——加州扇形棕榈。"
 }
 ```
 
-UpdataTime：2023-03-25 01:41:05
+UpdataTime：2023-03-26 01:49:40
