@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![两只海牛，佛罗里达州的水晶河，美国](https://cn.bing.com/th?id=OHR.NuzzleManatee_ZH-CN3263788190_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [两只海牛，佛罗里达州的水晶河，美国](https://cn.bing.com/th?id=OHR.NuzzleManatee_ZH-CN3263788190_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 世界海牛日
+![孔雀羽毛](https://cn.bing.com/th?id=OHR.PeacockFeathers_ZH-CN3403145691_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [孔雀羽毛](https://cn.bing.com/th?id=OHR.PeacockFeathers_ZH-CN3403145691_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 华贵的色彩
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-03-29",
-    "headline": "世界海牛日",
-    "title": "两只海牛，佛罗里达州的水晶河，美国",
-    "description": "今天是世界海牛日，这个节日旨在让更多人关注这些温柔的哺乳动物。海牛天性温和，喜欢待在河流及沿海水域优哉游哉地吃草。它们食量惊人，每天进食长达7个小时，吃掉的水草相当于体重的10-15%，被称为“水中除草机”。海牛好奇心强，也很喜欢接近人类，因此有时可能会意外触船导致受伤。20世纪70年代，海牛在美国的数量减少至几百只，但大力保护下，它们的数量已恢复至6000多只。如果还想在未来的岁月里欣赏它们，就请好好保护这些脆弱的生物吧！",
-    "image_url": "https://cn.bing.com/th?id=OHR.NuzzleManatee_ZH-CN3263788190_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "海牛一直都与美人鱼的传说联系在一起。西非的民间传说认为海牛是神圣的、并且它们曾经是人类。"
+    "date": "2023-03-30",
+    "headline": "华贵的色彩",
+    "title": "孔雀羽毛",
+    "description": "孔雀或许是世界上最色彩斑斓的鸟类。当雄孔雀开屏求偶时，尾羽上的“伪眼”会反射出鲜艳夺目的光泽，以此来吸引雌孔雀。孔雀羽毛迷人的色彩并非来自色素，而是来自羽毛内部的光子晶体结构，也就是“结构色”。结构色十分华丽，能随视角和条件变幻。当交配季节结束，雄孔雀的尾羽就会开始脱落，这正是收集这些漂亮羽毛的好时候。",
+    "image_url": "https://cn.bing.com/th?id=OHR.PeacockFeathers_ZH-CN3403145691_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "大多数孔雀在三岁时成熟，当雌孔雀跟雄孔雀交配以后，雄孔雀尾上的羽毛就会开始脱落。"
 }
 ```
 
-UpdataTime：2023-03-29 01:53:46
+UpdataTime：2023-03-30 01:46:25
