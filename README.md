@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![斯太尔河, 奥地利](https://cn.bing.com/th?id=OHR.SteyrRiver_ZH-CN3175702026_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [斯太尔河, 奥地利](https://cn.bing.com/th?id=OHR.SteyrRiver_ZH-CN3175702026_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 大自然的蓝色奇观
+![爪哇树蛙](https://cn.bing.com/th?id=OHR.FrogMonth_ZH-CN3874143397_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [爪哇树蛙](https://cn.bing.com/th?id=OHR.FrogMonth_ZH-CN3874143397_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 一只青翠碧绿的蛙
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-03-31",
-    "headline": "大自然的蓝色奇观",
-    "title": "斯太尔河, 奥地利",
-    "description": "今天这张照片并未经过调色，奥地利斯太尔河的水真的就是这般湛蓝。斯太尔河流经托特斯山脉，当地植被稀少，那为什么斯太尔河还能如此清澈湛蓝？答案就在环绕斯太尔河谷的群山之中。雨水和融化的雪水流入斯太尔河后，其中较重的沉积物沉到水底，而较细的沉积物则会悬浮在水中。被沉积物散射或反射的阳光就赋予了河水这样鲜艳的蓝色。",
-    "image_url": "https://cn.bing.com/th?id=OHR.SteyrRiver_ZH-CN3175702026_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "斯太尔河位于下奥地利阿尔卑斯山脉地区，流经斯太尔市附近的格伦堡镇。"
+    "date": "2023-04-01",
+    "headline": "一只青翠碧绿的蛙",
+    "title": "爪哇树蛙",
+    "description": "青蛙月开始于每年的4月1日。作为食物链的关键一环，青蛙是一种很重要的生物，它们擅长捕食蚊虫、苍蝇、蜘蛛，甚至老鼠，可以帮助控制害虫的数量。",
+    "image_url": "https://cn.bing.com/th?id=OHR.FrogMonth_ZH-CN3874143397_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "爪哇树蛙一种很特别的树蛙，它们生活在印度尼西亚爪哇岛。"
 }
 ```
 
-UpdataTime：2023-03-31 01:44:46
+UpdataTime：2023-04-01 01:42:11
