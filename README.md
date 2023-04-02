@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![爪哇树蛙](https://cn.bing.com/th?id=OHR.FrogMonth_ZH-CN3874143397_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [爪哇树蛙](https://cn.bing.com/th?id=OHR.FrogMonth_ZH-CN3874143397_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 一只青翠碧绿的蛙
+![爪哇岛东部的婆罗摩火山，印度尼西亚](https://cn.bing.com/th?id=OHR.JavaBromo_ZH-CN2744043733_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [爪哇岛东部的婆罗摩火山，印度尼西亚](https://cn.bing.com/th?id=OHR.JavaBromo_ZH-CN2744043733_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 这座缥缈的山在哪里？
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-04-01",
-    "headline": "一只青翠碧绿的蛙",
-    "title": "爪哇树蛙",
-    "description": "青蛙月开始于每年的4月1日。作为食物链的关键一环，青蛙是一种很重要的生物，它们擅长捕食蚊虫、苍蝇、蜘蛛，甚至老鼠，可以帮助控制害虫的数量。",
-    "image_url": "https://cn.bing.com/th?id=OHR.FrogMonth_ZH-CN3874143397_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "爪哇树蛙一种很特别的树蛙，它们生活在印度尼西亚爪哇岛。"
+    "date": "2023-04-02",
+    "headline": "这座缥缈的山在哪里？",
+    "title": "爪哇岛东部的婆罗摩火山，印度尼西亚",
+    "description": "婆罗摩火山是一座活跃的索玛火山，海拔约2393米，位于婆罗摩腾格里国家公园内，这里风景优美，日出景观尤为壮丽，是印度尼西亚爪哇岛东部最具标志性的景点之一。其名字来源于爪哇语“梵天”的发音，梵天是印度教的创造之神。",
+    "image_url": "https://cn.bing.com/th?id=OHR.JavaBromo_ZH-CN2744043733_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "婆罗摩（Bromo）这个名字来自于爪哇语“梵天”的发音，梵天是印度教的创造之神。"
 }
 ```
 
-UpdataTime：2023-04-01 01:42:11
+UpdataTime：2023-04-02 01:43:42
