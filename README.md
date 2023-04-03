@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![爪哇岛东部的婆罗摩火山，印度尼西亚](https://cn.bing.com/th?id=OHR.JavaBromo_ZH-CN2744043733_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [爪哇岛东部的婆罗摩火山，印度尼西亚](https://cn.bing.com/th?id=OHR.JavaBromo_ZH-CN2744043733_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 这座缥缈的山在哪里？
+![大岛上的霍瑙瑙国家历史公园，夏威夷](https://cn.bing.com/th?id=OHR.HonaunauNP_ZH-CN4491662962_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [大岛上的霍瑙瑙国家历史公园，夏威夷](https://cn.bing.com/th?id=OHR.HonaunauNP_ZH-CN4491662962_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 追逐彩虹
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-04-02",
-    "headline": "这座缥缈的山在哪里？",
-    "title": "爪哇岛东部的婆罗摩火山，印度尼西亚",
-    "description": "婆罗摩火山是一座活跃的索玛火山，海拔约2393米，位于婆罗摩腾格里国家公园内，这里风景优美，日出景观尤为壮丽，是印度尼西亚爪哇岛东部最具标志性的景点之一。其名字来源于爪哇语“梵天”的发音，梵天是印度教的创造之神。",
-    "image_url": "https://cn.bing.com/th?id=OHR.JavaBromo_ZH-CN2744043733_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "婆罗摩（Bromo）这个名字来自于爪哇语“梵天”的发音，梵天是印度教的创造之神。"
+    "date": "2023-04-03",
+    "headline": "追逐彩虹",
+    "title": "大岛上的霍瑙瑙国家历史公园，夏威夷",
+    "description": "每年的4月3日是美国的国家寻找彩虹日。阳光穿过空中的小水珠时，小水珠就成了天然的透镜，这些彩色的奇观就产生了。彩虹是阳光的折射产生的，因此彩虹永远都在太阳的对面。",
+    "image_url": "https://cn.bing.com/th?id=OHR.HonaunauNP_ZH-CN4491662962_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "当你在空中，比如在一家飞机上，你有可能会看到环形的彩虹。"
 }
 ```
 
-UpdataTime：2023-04-02 01:43:42
+UpdataTime：2023-04-03 01:38:27
