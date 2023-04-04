@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![大岛上的霍瑙瑙国家历史公园，夏威夷](https://cn.bing.com/th?id=OHR.HonaunauNP_ZH-CN4491662962_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [大岛上的霍瑙瑙国家历史公园，夏威夷](https://cn.bing.com/th?id=OHR.HonaunauNP_ZH-CN4491662962_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 追逐彩虹
+![科尔多瓦的古罗马桥，西班牙](https://cn.bing.com/th?id=OHR.RomanBridge_ZH-CN4699931052_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [科尔多瓦的古罗马桥，西班牙](https://cn.bing.com/th?id=OHR.RomanBridge_ZH-CN4699931052_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 这座古桥在哪呢？
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-04-03",
-    "headline": "追逐彩虹",
-    "title": "大岛上的霍瑙瑙国家历史公园，夏威夷",
-    "description": "每年的4月3日是美国的国家寻找彩虹日。阳光穿过空中的小水珠时，小水珠就成了天然的透镜，这些彩色的奇观就产生了。彩虹是阳光的折射产生的，因此彩虹永远都在太阳的对面。",
-    "image_url": "https://cn.bing.com/th?id=OHR.HonaunauNP_ZH-CN4491662962_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "当你在空中，比如在一家飞机上，你有可能会看到环形的彩虹。"
+    "date": "2023-04-04",
+    "headline": "这座古桥在哪呢？",
+    "title": "科尔多瓦的古罗马桥，西班牙",
+    "description": "科尔多瓦的古罗马桥跨越瓜达尔基维尔河，是这座城市的一处历史地标。这座桥始建于公元前1世纪罗马帝国的扩张时期，在历史上曾被多次重建，目前这座桥的主体是在8世纪由阿拉伯人重建。虽然它已经承载了数个世纪的交通往来，但现在这座桥仅供行人通行。如果你觉得它很眼熟，可能是因为你曾在《权力的游戏》第五季中见过它，在剧中它是虚构的瓦兰提斯城的一部分。",
+    "image_url": "https://cn.bing.com/th?id=OHR.RomanBridge_ZH-CN4699931052_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "这座桥在历史上数次被翻新，现在只有它的第14和15个桥洞是罗马时期的。"
 }
 ```
 
-UpdataTime：2023-04-03 01:38:27
+UpdataTime：2023-04-04 01:43:39
