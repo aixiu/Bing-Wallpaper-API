@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![科尔多瓦的古罗马桥，西班牙](https://cn.bing.com/th?id=OHR.RomanBridge_ZH-CN4699931052_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [科尔多瓦的古罗马桥，西班牙](https://cn.bing.com/th?id=OHR.RomanBridge_ZH-CN4699931052_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 这座古桥在哪呢？
+![杭州西湖水墨意境般的风景，浙江省，中国](https://cn.bing.com/th?id=OHR.QingMing2023_ZH-CN6951199028_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [杭州西湖水墨意境般的风景，浙江省，中国](https://cn.bing.com/th?id=OHR.QingMing2023_ZH-CN6951199028_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 水墨西湖
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-04-04",
-    "headline": "这座古桥在哪呢？",
-    "title": "科尔多瓦的古罗马桥，西班牙",
-    "description": "科尔多瓦的古罗马桥跨越瓜达尔基维尔河，是这座城市的一处历史地标。这座桥始建于公元前1世纪罗马帝国的扩张时期，在历史上曾被多次重建，目前这座桥的主体是在8世纪由阿拉伯人重建。虽然它已经承载了数个世纪的交通往来，但现在这座桥仅供行人通行。如果你觉得它很眼熟，可能是因为你曾在《权力的游戏》第五季中见过它，在剧中它是虚构的瓦兰提斯城的一部分。",
-    "image_url": "https://cn.bing.com/th?id=OHR.RomanBridge_ZH-CN4699931052_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "这座桥在历史上数次被翻新，现在只有它的第14和15个桥洞是罗马时期的。"
+    "date": "2023-04-05",
+    "headline": "水墨西湖",
+    "title": "杭州西湖水墨意境般的风景，浙江省，中国",
+    "description": "清明节，又称踏青节、行清节、三月节、祭祖节等，节期在仲春与暮春之交。清明节，兼具自然与人文两大内涵，既是“二十四节气”之一，也是传统祭祖节日。清明这一节气，万物皆洁齐、生气旺盛、吐故纳新、气温升高，大地呈现春和景明之象，正是郊外踏青春游与行清墓祭的好时节。",
+    "image_url": "https://cn.bing.com/th?id=OHR.QingMing2023_ZH-CN6951199028_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "西湖十景包括苏堤春晓、曲院风荷、平湖秋月、断桥残雪、花港观鱼、柳浪闻莺、三潭印月、双峰插云、雷峰夕照、南屏晚钟。"
 }
 ```
 
-UpdataTime：2023-04-04 01:43:39
+UpdataTime：2023-04-05 01:21:16
