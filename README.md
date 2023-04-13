@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![从国际空间站拍摄的地球](https://cn.bing.com/th?id=OHR.EuropeFromISS_ZH-CN0722816540_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [从国际空间站拍摄的地球](https://cn.bing.com/th?id=OHR.EuropeFromISS_ZH-CN0722816540_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 此景只应天上有
+![斯诺登尼亚国家公园，威尔士，英国](https://cn.bing.com/th?id=OHR.SnowdoniaNational_ZH-CN7415540950_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [斯诺登尼亚国家公园，威尔士，英国](https://cn.bing.com/th?id=OHR.SnowdoniaNational_ZH-CN7415540950_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 徒步旅行者的向往之地
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-04-12",
-    "headline": "此景只应天上有",
-    "title": "从国际空间站拍摄的地球",
-    "description": "1961年4月12日，宇航员尤里·加加林成为人类历史上前往太空的第一人，举世震惊。他乘坐“东方太空3KA”号，在两小时之内完成了绕地球一周的飞行。此后不到一个月的时间，水星计划的宇航员艾伦·谢泼德成功飞往太空，成为第一个进入太空的美国人。今天这张照片向我们展示了从国际空间站拍摄的地球，从太空回望地球的风景，依然魅力十足，星光璀璨俨然一副艺术品。每年的4月12日，是纪念加加林的“尤里之夜”，也被称为“世界太空派对”，这一天是全球天文学爱好者的狂欢。",
-    "image_url": "https://cn.bing.com/th?id=OHR.EuropeFromISS_ZH-CN0722816540_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "铁元素构成了地球的核心"
+    "date": "2023-04-13",
+    "headline": "徒步旅行者的向往之地",
+    "title": "斯诺登尼亚国家公园，威尔士，英国",
+    "description": "斯诺登尼亚国家公园占地2155平方公里，拥有迷人的风景和96公里的海岸线，徒步于此就像在听一篇漫长的童话故事，脚下的路满是传说。亚瑟王、梅林、沉睡的龙和失落的神秘宝物等传说和神话交织在公园小径中，给予徒步者丰富而美妙的体验。在许多方面，斯诺登尼亚国家公园完美代表了威尔士文化、人民和传统，这无疑是对威尔士本质的一种赞美。",
+    "image_url": "https://cn.bing.com/th?id=OHR.SnowdoniaNational_ZH-CN7415540950_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "斯诺登尼亚国家公园的整个海岸线都属于特殊保护区，蜿蜒漫长的海岸线从丽茵半岛一直延伸至威尔士中部海岸。"
 }
 ```
 
-UpdataTime：2023-04-12 01:40:37
+UpdataTime：2023-04-13 01:39:02
