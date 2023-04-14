@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![斯诺登尼亚国家公园，威尔士，英国](https://cn.bing.com/th?id=OHR.SnowdoniaNational_ZH-CN7415540950_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [斯诺登尼亚国家公园，威尔士，英国](https://cn.bing.com/th?id=OHR.SnowdoniaNational_ZH-CN7415540950_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 徒步旅行者的向往之地
+![红海星, 地中海](https://cn.bing.com/th?id=OHR.RedSeaStars_ZH-CN6243743747_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [红海星, 地中海](https://cn.bing.com/th?id=OHR.RedSeaStars_ZH-CN6243743747_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 日光下的星星
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-04-13",
-    "headline": "徒步旅行者的向往之地",
-    "title": "斯诺登尼亚国家公园，威尔士，英国",
-    "description": "斯诺登尼亚国家公园占地2155平方公里，拥有迷人的风景和96公里的海岸线，徒步于此就像在听一篇漫长的童话故事，脚下的路满是传说。亚瑟王、梅林、沉睡的龙和失落的神秘宝物等传说和神话交织在公园小径中，给予徒步者丰富而美妙的体验。在许多方面，斯诺登尼亚国家公园完美代表了威尔士文化、人民和传统，这无疑是对威尔士本质的一种赞美。",
-    "image_url": "https://cn.bing.com/th?id=OHR.SnowdoniaNational_ZH-CN7415540950_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "斯诺登尼亚国家公园的整个海岸线都属于特殊保护区，蜿蜒漫长的海岸线从丽茵半岛一直延伸至威尔士中部海岸。"
+    "date": "2023-04-14",
+    "headline": "日光下的星星",
+    "title": "红海星, 地中海",
+    "description": "海星，又称星鱼，是最迷人的海洋生物之一。首先，虽然其名称叫“星鱼”，但实际上根本不是鱼，它们属于海洋无脊椎动物中的棘皮动物。海星的身体是五角星状的，多条“臂”从身体中央延伸出来，呈辐射对称状。",
+    "image_url": "https://cn.bing.com/th?id=OHR.RedSeaStars_ZH-CN6243743747_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "红海星被认为是一个关键物种，因为它们没有天敌。"
 }
 ```
 
-UpdataTime：2023-04-13 01:39:02
+UpdataTime：2023-04-14 01:38:40
