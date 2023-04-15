@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![红海星, 地中海](https://cn.bing.com/th?id=OHR.RedSeaStars_ZH-CN6243743747_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [红海星, 地中海](https://cn.bing.com/th?id=OHR.RedSeaStars_ZH-CN6243743747_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 日光下的星星
+![从纳哈加尔城堡鸟瞰斋浦尔，印度](https://cn.bing.com/th?id=OHR.NahargarhFort_ZH-CN7681434372_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [从纳哈加尔城堡鸟瞰斋浦尔，印度](https://cn.bing.com/th?id=OHR.NahargarhFort_ZH-CN7681434372_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 宏伟的堡垒和宫殿
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-04-14",
-    "headline": "日光下的星星",
-    "title": "红海星, 地中海",
-    "description": "海星，又称星鱼，是最迷人的海洋生物之一。首先，虽然其名称叫“星鱼”，但实际上根本不是鱼，它们属于海洋无脊椎动物中的棘皮动物。海星的身体是五角星状的，多条“臂”从身体中央延伸出来，呈辐射对称状。",
-    "image_url": "https://cn.bing.com/th?id=OHR.RedSeaStars_ZH-CN6243743747_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "红海星被认为是一个关键物种，因为它们没有天敌。"
+    "date": "2023-04-15",
+    "headline": "宏伟的堡垒和宫殿",
+    "title": "从纳哈加尔城堡鸟瞰斋浦尔，印度",
+    "description": "纳哈加尔堡矗立于阿拉瓦利山脉的一座山脊上，为斋浦尔增添了一道雄伟而壮丽的背景。它始建于1734年，又于1868年经历了扩建。纳哈加尔，意为老虎的住所，如同强大的壁垒，保卫斋浦尔抵御敌人的攻击。",
+    "image_url": "https://cn.bing.com/th?id=OHR.NahargarhFort_ZH-CN7681434372_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "纳哈加尔堡原本是防御城堡，但它从未遭遇过敌人的攻击。架在城堡上的野战炮也从未用于战争，倒是曾用于报时。"
 }
 ```
 
-UpdataTime：2023-04-14 01:38:40
+UpdataTime：2023-04-15 01:42:04
