@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![从纳哈加尔城堡鸟瞰斋浦尔，印度](https://cn.bing.com/th?id=OHR.NahargarhFort_ZH-CN7681434372_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [从纳哈加尔城堡鸟瞰斋浦尔，印度](https://cn.bing.com/th?id=OHR.NahargarhFort_ZH-CN7681434372_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 宏伟的堡垒和宫殿
+![阿德莱德国际风筝节，澳大利亚](https://cn.bing.com/th?id=OHR.KiteDay_ZH-CN7813901578_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [阿德莱德国际风筝节，澳大利亚](https://cn.bing.com/th?id=OHR.KiteDay_ZH-CN7813901578_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 去放风筝吧！
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-04-15",
-    "headline": "宏伟的堡垒和宫殿",
-    "title": "从纳哈加尔城堡鸟瞰斋浦尔，印度",
-    "description": "纳哈加尔堡矗立于阿拉瓦利山脉的一座山脊上，为斋浦尔增添了一道雄伟而壮丽的背景。它始建于1734年，又于1868年经历了扩建。纳哈加尔，意为老虎的住所，如同强大的壁垒，保卫斋浦尔抵御敌人的攻击。",
-    "image_url": "https://cn.bing.com/th?id=OHR.NahargarhFort_ZH-CN7681434372_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "纳哈加尔堡原本是防御城堡，但它从未遭遇过敌人的攻击。架在城堡上的野战炮也从未用于战争，倒是曾用于报时。"
+    "date": "2023-04-16",
+    "headline": "去放风筝吧！",
+    "title": "阿德莱德国际风筝节，澳大利亚",
+    "description": "在风和日丽的日子里放风筝，还有比这更简单的快乐吗？风筝这项神奇的发明具体源于何时尚未可知，但关于放风筝的第一份书面记录来自公元前200年的中国。中国最初使用风筝来测量距离，但是随着时间的推移，它们逐渐被用于钓鱼、运动、科学、庆祝及各项娱乐活动。风筝有很多形状，也有各种材料。其实你自己就可以制作简单的风筝，找个风和日丽的日子，放风筝去吧！",
+    "image_url": "https://cn.bing.com/th?id=OHR.KiteDay_ZH-CN7813901578_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "风筝不止能飞天，还能潜水，“水下风筝”可用于发电。"
 }
 ```
 
-UpdataTime：2023-04-15 01:42:04
+UpdataTime：2023-04-16 01:47:22
