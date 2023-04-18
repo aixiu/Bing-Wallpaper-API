@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![布列塔尼的小米努灯塔，法国](https://cn.bing.com/th?id=OHR.MinouLighthouse_ZH-CN7940024247_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [布列塔尼的小米努灯塔，法国](https://cn.bing.com/th?id=OHR.MinouLighthouse_ZH-CN7940024247_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 有点孤单，有点浪漫
+![马丘比丘，秘鲁](https://cn.bing.com/th?id=OHR.MPPUnesco_ZH-CN8076198158_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [马丘比丘，秘鲁](https://cn.bing.com/th?id=OHR.MPPUnesco_ZH-CN8076198158_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 山顶上的文化奇观
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-04-17",
-    "headline": "有点孤单，有点浪漫",
-    "title": "布列塔尼的小米努灯塔，法国",
-    "description": "今天照片里的是法国西北海岸上的小米努灯塔。小米努灯塔坐落于法国布列塔尼的海岸边，是一座圆柱形的花岗岩灯塔，顶着一盏红灯。小米努灯塔和波尔奇克灯塔坐落在一条线上，标志着布雷斯特港的入口。它自1948年修建以来一直发挥着重要的作用，不光为往来的水手提供向导，还守护着布雷斯特海峡的入口。",
-    "image_url": "https://cn.bing.com/th?id=OHR.MinouLighthouse_ZH-CN7940024247_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "法国布列塔尼的小米努城堡始建于1694年-1697年之间，最初是布雷斯特海峡上的一座防御工事。"
+    "date": "2023-04-18",
+    "headline": "山顶上的文化奇观",
+    "title": "马丘比丘，秘鲁",
+    "description": "高悬于安第斯山脉之上，秘鲁的马丘比丘被认为曾属于古印加皇帝帕查库蒂。今天是联合国教科文组织国际古迹遗址日，推荐这座“印加的失落之城”实在是恰逢其时，它是代表一整个民族记忆的文化符号。国际古迹遗址日由国际古迹遗址理事会首次提出，并于1983年正式设立。它给了我们一个回望过去的机会，让我们得以一睹前人的文化，同时为后人保留这些久远的记忆。",
+    "image_url": "https://cn.bing.com/th?id=OHR.MPPUnesco_ZH-CN8076198158_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "2007年，马丘比丘在一个全球网络投票活动中被评选为新世界七大奇迹之一。"
 }
 ```
 
-UpdataTime：2023-04-17 01:41:19
+UpdataTime：2023-04-18 01:39:28
