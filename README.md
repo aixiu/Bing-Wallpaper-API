@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![日出时分薄雾笼罩下的薰衣草田，印度](https://cn.bing.com/th?id=OHR.Honnavaralavenderfields_ZH-CN8054655091_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [日出时分薄雾笼罩下的薰衣草田，印度](https://cn.bing.com/th?id=OHR.Honnavaralavenderfields_ZH-CN8054655091_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 梦幻般的紫色
+![巴伐利亚森林酒窖，德国](https://cn.bing.com/th?id=OHR.FranconianWineCellar_ZH-CN8234719750_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [巴伐利亚森林酒窖，德国](https://cn.bing.com/th?id=OHR.FranconianWineCellar_ZH-CN8234719750_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 隐藏在树林中
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-04-23",
-    "headline": "梦幻般的紫色",
-    "title": "日出时分薄雾笼罩下的薰衣草田，印度",
-    "description": "薰衣草种植在印度是一个规模持续增长的产业。卡纳塔克邦、泰米尔纳德邦、喜马偕尔邦和北阿坎德邦的农民已经开始商业化种植薰衣草。这些地区的气候和土壤条件适宜薰衣草的生长。近年来，薰衣草衍生产品（如精油、干花和香包等）的需求量稳步增加。薰衣草种植具有为农民创收和促进可持续农业的潜力，对许多印度人来说，已经成为一个有吸引力的选择。",
-    "image_url": "https://cn.bing.com/th?id=OHR.Honnavaralavenderfields_ZH-CN8054655091_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "英语单词“lavender”自13世纪开始使用，通常被认为源于古法语的“lavandre”。但追根究底，它其实源于拉丁语“lavare”的词根“lavo”，意思是浸洗，指对植物进行蓝色浸染。"
+    "date": "2023-04-24",
+    "headline": "隐藏在树林中",
+    "title": "巴伐利亚森林酒窖，德国",
+    "description": "德国可能因啤酒在世界享誉盛名，但这个丰饶的国家也以其强大的酿酒业而闻名。随着葡萄酒产量的增加，酒的储存需求也随之而来。酒窖通常需要低温黑暗的环境，所以图中这个位于巴伐利亚森林的酒窖位置十分完美。",
+    "image_url": "https://cn.bing.com/th?id=OHR.FranconianWineCellar_ZH-CN8234719750_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "巴伐利亚森林是一片树木繁茂的低山区，位于德国巴伐利亚，长约100公里。"
 }
 ```
 
-UpdataTime：2023-04-23 01:51:46
+UpdataTime：2023-04-24 01:44:04
