@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![南帕德里岛，美国得克萨斯州](https://cn.bing.com/th?id=OHR.SouthPadre_ZH-CN8788572569_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [南帕德里岛，美国得克萨斯州](https://cn.bing.com/th?id=OHR.SouthPadre_ZH-CN8788572569_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 一望无际的天空
+![优胜美地国家公园的马里波萨谷巨杉林，美国加利福尼亚州](https://cn.bing.com/th?id=OHR.MariposaGrove_ZH-CN8957145435_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [优胜美地国家公园的马里波萨谷巨杉林，美国加利福尼亚州](https://cn.bing.com/th?id=OHR.MariposaGrove_ZH-CN8957145435_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 温暖的阳光穿过古老森林
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-04-27",
-    "headline": "一望无际的天空",
-    "title": "南帕德里岛，美国得克萨斯州",
-    "description": "南帕德里岛位于得克萨斯州墨西哥湾海岸的近海几英里处，是该州最大、最长的堰洲岛。像南帕德里岛这样的堰洲岛通常与海岸平行，是大陆抵御风暴的第一道防线。南帕德里岛通过一座大桥和大陆相连，每年都有成千上万的游客来岛上游泳、划船、钓鱼、放风筝，或者惬意地躺在沙滩上晒太阳。另外，岛上还分布着各式各样的精致沙堡，这些引人注目的沙堡由世界各地的艺术家创作而成。",
-    "image_url": "https://cn.bing.com/th?id=OHR.SouthPadre_ZH-CN8788572569_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "三月，南帕德里岛是大学生春假的热门目的地。其他时间，这座岛屿则是备受欢迎的家庭度假胜地，七月份最为拥挤。"
+    "date": "2023-04-28",
+    "headline": "温暖的阳光穿过古老森林",
+    "title": "优胜美地国家公园的马里波萨谷巨杉林，美国加利福尼亚州",
+    "description": "四月的最后一个星期五是美国的植树节，这一天，人们会庆祝植树成果、倡导保护树木。植树节最早起源于19世纪70年代初的内布拉斯加州，1872年，就职于《内布拉斯加州城市新闻》的记者朱利叶斯·斯特林·莫顿(Julius Sterling Morton)在公共平台上发起了美国第一个植树节，并提议为内布拉斯加州人民设立一个种树日，于是植树节应运而生。",
+    "image_url": "https://cn.bing.com/th?id=OHR.MariposaGrove_ZH-CN8957145435_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "名为“灰熊巨人”的巨型红杉，已有1900-2400年的历史，是树林中最古老的树。"
 }
 ```
 
-UpdataTime：2023-04-27 01:42:33
+UpdataTime：2023-04-28 01:43:13
