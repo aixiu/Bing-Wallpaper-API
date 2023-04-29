@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![优胜美地国家公园的马里波萨谷巨杉林，美国加利福尼亚州](https://cn.bing.com/th?id=OHR.MariposaGrove_ZH-CN8957145435_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [优胜美地国家公园的马里波萨谷巨杉林，美国加利福尼亚州](https://cn.bing.com/th?id=OHR.MariposaGrove_ZH-CN8957145435_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 温暖的阳光穿过古老森林
+![约书亚树国家公园上空的银河，美国加利福尼亚州](https://th.bing.com/th?id=OHR.JTNPMilkyWay_ZH-CN9128830420_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [约书亚树国家公园上空的银河，美国加利福尼亚州](https://th.bing.com/th?id=OHR.JTNPMilkyWay_ZH-CN9128830420_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 沙漠上空的星海
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-04-28",
-    "headline": "温暖的阳光穿过古老森林",
-    "title": "优胜美地国家公园的马里波萨谷巨杉林，美国加利福尼亚州",
-    "description": "四月的最后一个星期五是美国的植树节，这一天，人们会庆祝植树成果、倡导保护树木。植树节最早起源于19世纪70年代初的内布拉斯加州，1872年，就职于《内布拉斯加州城市新闻》的记者朱利叶斯·斯特林·莫顿(Julius Sterling Morton)在公共平台上发起了美国第一个植树节，并提议为内布拉斯加州人民设立一个种树日，于是植树节应运而生。",
-    "image_url": "https://cn.bing.com/th?id=OHR.MariposaGrove_ZH-CN8957145435_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "名为“灰熊巨人”的巨型红杉，已有1900-2400年的历史，是树林中最古老的树。"
+    "date": "2023-04-29",
+    "headline": "沙漠上空的星海",
+    "title": "约书亚树国家公园上空的银河，美国加利福尼亚州",
+    "description": "今天是天文日，快准备好望远镜和星图APP去观星吧！为了让更多人对太空感兴趣，道格·伯杰于1973年创立了天文日，他在街角、商场和公园里架设了望远镜，让人们有机会亲眼看到星星。",
+    "image_url": "https://th.bing.com/th?id=OHR.JTNPMilkyWay_ZH-CN9128830420_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "银河中心的云层散发着朗姆酒和覆盆子的味道。"
 }
 ```
 
-UpdataTime：2023-04-28 01:43:13
+UpdataTime：2023-04-29 01:41:11
