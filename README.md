@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![马赛马拉的角马，肯尼亚](https://cn.bing.com/th?id=OHR.ThreeWildebeest_ZH-CN0175563521_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [马赛马拉的角马，肯尼亚](https://cn.bing.com/th?id=OHR.ThreeWildebeest_ZH-CN0175563521_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 动物王国大迁徙
+![蒂卡尔的玛雅遗址，危地马拉](https://cn.bing.com/th?id=OHR.RebelBase_ZH-CN0484516261_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [蒂卡尔的玛雅遗址，危地马拉](https://cn.bing.com/th?id=OHR.RebelBase_ZH-CN0484516261_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 原力与你同在
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-05-03",
-    "headline": "动物王国大迁徙",
-    "title": "马赛马拉的角马，肯尼亚",
-    "description": "有很多种野生动物栖息在马赛马拉，包括其最具代表性的居民：角马。角马是非洲的原生物种，包含两个亚种，可以从它们的外形区分二者：黑角马和蓝角马。这些社会性动物经常会形成庞大的种群，数量上千。",
-    "image_url": "https://cn.bing.com/th?id=OHR.ThreeWildebeest_ZH-CN0175563521_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "角马会随时聆听其他动物发出的警告，这样它们可以降低被猎杀的风险。"
+    "date": "2023-05-04",
+    "headline": "原力与你同在",
+    "title": "蒂卡尔的玛雅遗址，危地马拉",
+    "description": "原力与你同在！星战宇宙在几十年来一直牵动着影迷的想象力，今天是纪念星球大战的影响力的日子，就像原力一样，在我们身边随处可见。1977年上映的首部星球大战电影将我们带到了一个遥远的星系，让我们认识了一群令人难忘的角色、以及原力光明面和黑暗面之间扣人心弦的战斗。星球大战已经扩展到了电视剧、书籍、漫画、游乐园以及你可以想象到的任何一种产品。",
+    "image_url": "https://cn.bing.com/th?id=OHR.RebelBase_ZH-CN0484516261_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "蒂卡尔的名字可能来源于尤卡坦玛雅语，意思是“在水潭边”。"
 }
 ```
 
-UpdataTime：2023-05-03 01:40:50
+UpdataTime：2023-05-04 01:38:47
