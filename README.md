@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![蒂卡尔的玛雅遗址，危地马拉](https://cn.bing.com/th?id=OHR.RebelBase_ZH-CN0484516261_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [蒂卡尔的玛雅遗址，危地马拉](https://cn.bing.com/th?id=OHR.RebelBase_ZH-CN0484516261_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 原力与你同在
+![普埃布拉天主堂和波波卡特佩特火山，普埃布拉，墨西哥](https://cn.bing.com/th?id=OHR.Popocatepetl_ZH-CN5483138337_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [普埃布拉天主堂和波波卡特佩特火山，普埃布拉，墨西哥](https://cn.bing.com/th?id=OHR.Popocatepetl_ZH-CN5483138337_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 从胜利到欢庆
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-05-04",
-    "headline": "原力与你同在",
-    "title": "蒂卡尔的玛雅遗址，危地马拉",
-    "description": "原力与你同在！星战宇宙在几十年来一直牵动着影迷的想象力，今天是纪念星球大战的影响力的日子，就像原力一样，在我们身边随处可见。1977年上映的首部星球大战电影将我们带到了一个遥远的星系，让我们认识了一群令人难忘的角色、以及原力光明面和黑暗面之间扣人心弦的战斗。星球大战已经扩展到了电视剧、书籍、漫画、游乐园以及你可以想象到的任何一种产品。",
-    "image_url": "https://cn.bing.com/th?id=OHR.RebelBase_ZH-CN0484516261_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "蒂卡尔的名字可能来源于尤卡坦玛雅语，意思是“在水潭边”。"
+    "date": "2023-05-05",
+    "headline": "从胜利到欢庆",
+    "title": "普埃布拉天主堂和波波卡特佩特火山，普埃布拉，墨西哥",
+    "description": "与许多人的看法相反，5月5日并不是墨西哥的独立日。 真正的墨西哥独立日是在每年的9月16日庆祝。 而5月5日是为了庆祝在1862年的这一天墨西哥在普埃布拉战役中战胜法兰西帝国。虽然这一天是为了纪念一个重大的历史事件，但墨西哥的庆祝活动相对平静，主要集中在普埃布拉。",
+    "image_url": "https://cn.bing.com/th?id=OHR.Popocatepetl_ZH-CN5483138337_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "传说在建此教堂时，墙刚砌好就无缘无故地倒塌了，后来两位天使闻讯降临，每天晚上守卫着教堂，终于使教堂工程得以完成。"
 }
 ```
 
-UpdataTime：2023-05-04 01:38:47
+UpdataTime：2023-05-05 01:36:36
