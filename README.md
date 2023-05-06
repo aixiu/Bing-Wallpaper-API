@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![普埃布拉天主堂和波波卡特佩特火山，普埃布拉，墨西哥](https://cn.bing.com/th?id=OHR.Popocatepetl_ZH-CN5483138337_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
-Today: [普埃布拉天主堂和波波卡特佩特火山，普埃布拉，墨西哥](https://cn.bing.com/th?id=OHR.Popocatepetl_ZH-CN5483138337_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 从胜利到欢庆
+![大麦和矢车菊, 诺德豪森, 德国](https://cn.bing.com/th?id=OHR.Kornblume_ZH-CN0344238832_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+Today: [大麦和矢车菊, 诺德豪森, 德国](https://cn.bing.com/th?id=OHR.Kornblume_ZH-CN0344238832_1920x1080.jpg&rf=LaDigue_1920x1080.jpg) - 一片花田
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-05-05",
-    "headline": "从胜利到欢庆",
-    "title": "普埃布拉天主堂和波波卡特佩特火山，普埃布拉，墨西哥",
-    "description": "与许多人的看法相反，5月5日并不是墨西哥的独立日。 真正的墨西哥独立日是在每年的9月16日庆祝。 而5月5日是为了庆祝在1862年的这一天墨西哥在普埃布拉战役中战胜法兰西帝国。虽然这一天是为了纪念一个重大的历史事件，但墨西哥的庆祝活动相对平静，主要集中在普埃布拉。",
-    "image_url": "https://cn.bing.com/th?id=OHR.Popocatepetl_ZH-CN5483138337_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
-    "main_text": "传说在建此教堂时，墙刚砌好就无缘无故地倒塌了，后来两位天使闻讯降临，每天晚上守卫着教堂，终于使教堂工程得以完成。"
+    "date": "2023-05-06",
+    "headline": "一片花田",
+    "title": "大麦和矢车菊, 诺德豪森, 德国",
+    "description": "春天久盼终至，今天是种花日，让我们在今天种下一株花吧！种花不仅对我们的身心健康都有好处，也有益于地球。度过了漫长、寒冷又沉郁的冬季之后，开启一年中最美丽的季节之一的方式，非种花莫属！",
+    "image_url": "https://cn.bing.com/th?id=OHR.Kornblume_ZH-CN0344238832_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "main_text": "矢车菊经常长在麦田里，所以它的英文名也叫“cornflower”（麦田花）。"
 }
 ```
 
-UpdataTime：2023-05-05 01:36:36
+UpdataTime：2023-05-06 01:36:38
