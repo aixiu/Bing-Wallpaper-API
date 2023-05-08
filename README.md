@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![海豹幼崽，伦迪岛，英国](https://cn.bing.com/th?id=OHR.SealLaughing_ZH-CN5809094643_1920x1080.webp)
-Today: [海豹幼崽，伦迪岛，英国](https://cn.bing.com/th?id=OHR.SealLaughing_ZH-CN5809094643_1920x1080.webp) - 什么事这么好笑？
+![精致拱门，拱门国家公园，犹他州](https://cn.bing.com/th?id=OHR.TheChaps_ZH-CN5966508162_1920x1080.webp)
+Today: [精致拱门，拱门国家公园，犹他州](https://cn.bing.com/th?id=OHR.TheChaps_ZH-CN5966508162_1920x1080.webp) - 藏在精致拱门里的百年时光
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-05-07",
-    "headline": "什么事这么好笑？",
-    "title": "海豹幼崽，伦迪岛，英国",
-    "description": "每年5月的第一个星期日是世界爱笑日。设立这个节日的目的是让大家更了解笑对身心健康的好处。今天这张灰色小海豹咧嘴大笑的图片就很好地展示了什么叫做开怀大笑。一些研究表明，笑可以提升免疫力，改善情绪，并减轻疼痛。事实证明，“笑是最好的良药”这句古谚确为不易之论。",
-    "image_url": "https://cn.bing.com/th?id=OHR.SealLaughing_ZH-CN5809094643_1920x1080.webp",
-    "main_text": "笑能降血压，进而降低人们心脏病发或中风的风险。"
+    "date": "2023-05-08",
+    "headline": "藏在精致拱门里的百年时光",
+    "title": "精致拱门，拱门国家公园，犹他州",
+    "description": "精致拱门是美国最受欢迎的地质景点之一。在犹他州拱门国家公园的2000个石拱门中，精致拱门是最有名的那一座，也是这里最大的岩石拱门。犹他州的车牌和邮票也有印有精致拱门。只需徒步三英里，就能到达这座拱门，这也是公园里最棒的徒步旅行路线之一。每年都有近140万人前往拱门国家公园，只为一睹精致拱门的全貌。",
+    "image_url": "https://cn.bing.com/th?id=OHR.TheChaps_ZH-CN5966508162_1920x1080.webp",
+    "main_text": "这座精致拱门是由恩特拉达砂岩形成的。原先的岩石边缘逐渐被风化和侵蚀，最后只留下了这座拱门。"
 }
 ```
 
-UpdataTime：2023-05-07 01:47:13
+UpdataTime：2023-05-08 01:41:38
