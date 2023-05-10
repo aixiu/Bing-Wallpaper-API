@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![卡韦希环礁，土阿莫土群岛，法属波利尼西亚](https://cn.bing.com/th?id=OHR.Atoll_ZH-CN9469093805_1920x1080.webp)
-Today: [卡韦希环礁，土阿莫土群岛，法属波利尼西亚](https://cn.bing.com/th?id=OHR.Atoll_ZH-CN9469093805_1920x1080.webp) - 天堂的一角
+![科尔杜昂灯塔，罗扬市，夏朗德省，法国](https://cn.bing.com/th?id=OHR.CordouanLighthouse_ZH-CN6267155218_1920x1080.webp)
+Today: [科尔杜昂灯塔，罗扬市，夏朗德省，法国](https://cn.bing.com/th?id=OHR.CordouanLighthouse_ZH-CN6267155218_1920x1080.webp) - 金光中的灯塔
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-05-09",
-    "headline": "天堂的一角",
-    "title": "卡韦希环礁，土阿莫土群岛，法属波利尼西亚",
-    "description": "卡韦希环礁是法属波利尼西亚的土阿莫土群岛的一个珊瑚环礁。它距离塔希提岛450公里，面积非常小，长24公里，宽18公里，人口约200人。岛上的居民主要以干椰子肉为生。",
-    "image_url": "https://cn.bing.com/th?id=OHR.Atoll_ZH-CN9469093805_1920x1080.webp",
-    "main_text": "虽然此前卡韦希环礁可能已被珍珠商人所熟知，但有记载的第一位访问该环礁的欧洲人是“比格尔号”的船长罗伯特·菲茨罗伊，他于1835年发现并测绘了卡韦希环礁。"
+    "date": "2023-05-10",
+    "headline": "金光中的灯塔",
+    "title": "科尔杜昂灯塔，罗扬市，夏朗德省，法国",
+    "description": "建于1611年的科尔杜昂灯塔堪称海上奇迹，它矗立在法国大西洋中吉伦特河口湾的一块巨石上。这座灯塔在18世纪经历了改造，因为集宫殿、堡垒和大教堂于一身，所以它被誉为“海上凡尔赛宫”。",
+    "image_url": "https://cn.bing.com/th?id=OHR.CordouanLighthouse_ZH-CN6267155218_1920x1080.webp",
+    "main_text": "它于1855年被修复，并于1862年与巴黎圣母院一同被列入法国遗产纪念地。"
 }
 ```
 
-UpdataTime：2023-05-09 01:42:12
+UpdataTime：2023-05-10 01:40:27
