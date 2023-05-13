@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![紫色和蓝色的野生羽扇豆](https://cn.bing.com/th?id=OHR.WildLupine_ZH-CN6623952879_1920x1080.webp)
-Today: [紫色和蓝色的野生羽扇豆](https://cn.bing.com/th?id=OHR.WildLupine_ZH-CN6623952879_1920x1080.webp) - 蝴蝶最好的朋友
+![曼海姆水塔，德国](https://cn.bing.com/th?id=OHR.Mannheim_ZH-CN6793377814_1920x1080.webp)
+Today: [曼海姆水塔，德国](https://cn.bing.com/th?id=OHR.Mannheim_ZH-CN6793377814_1920x1080.webp) - 供水系统的历史
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-05-12",
-    "headline": "蝴蝶最好的朋友",
-    "title": "紫色和蓝色的野生羽扇豆",
-    "description": "野生羽扇豆，俗称鲁冰花，是最美丽的一年生草本植物之一。羽扇豆于早春或初夏开放，花朵通常呈蓝色、粉色或紫色，当它们在草地和路边尽情绽放时，即使是最平凡的风景也变得亮眼起来。野生羽扇豆也是卡纳蓝蝴蝶用来保护卵的唯一一种植物，卡纳蓝蝴蝶的幼虫孵化后就以羽扇豆的叶子为食。",
-    "image_url": "https://cn.bing.com/th?id=OHR.WildLupine_ZH-CN6623952879_1920x1080.webp",
-    "main_text": "在18世纪末，羽扇豆被引入北欧用于改善土壤。到了19世纪60年代，黄花羽扇豆在波罗的海沿岸平原已经随处可见了。"
+    "date": "2023-05-13",
+    "headline": "供水系统的历史",
+    "title": "曼海姆水塔，德国",
+    "description": "曼海姆水塔是德国曼海姆的一座有名的地标建筑。这座水塔位于腓特烈广场，建于1886年至1889年之间，高60米，直径19米，是曼海姆的第一座城市水塔。",
+    "image_url": "https://cn.bing.com/th?id=OHR.Mannheim_ZH-CN6793377814_1920x1080.webp",
+    "main_text": "曼海姆水塔是曼海姆的第一座城市水塔。"
 }
 ```
 
-UpdataTime：2023-05-12 01:39:19
+UpdataTime：2023-05-13 01:39:23
