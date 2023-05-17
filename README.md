@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![在奥克弗诺基国家野生动物保护区划独木舟](https://cn.bing.com/th?id=OHR.AmericanWetlands_ZH-CN7534567518_1920x1080.webp)
-Today: [在奥克弗诺基国家野生动物保护区划独木舟](https://cn.bing.com/th?id=OHR.AmericanWetlands_ZH-CN7534567518_1920x1080.webp) - 一片平静的水域
+![加利福尼亚州圣克鲁斯的天然桥州立公园](https://cn.bing.com/th?id=OHR.CormorantBridge_ZH-CN7673299694_1920x1080.webp)
+Today: [加利福尼亚州圣克鲁斯的天然桥州立公园](https://cn.bing.com/th?id=OHR.CormorantBridge_ZH-CN7673299694_1920x1080.webp) - 通往太平洋之窗
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-05-16",
-    "headline": "一片平静的水域",
-    "title": "在奥克弗诺基国家野生动物保护区划独木舟",
-    "description": "五月是美国湿地月，旨在关注湿地在当地和全球生态系统的重要性。湿地值得我们去关注，这些多样性生态系统有固碳功能，改善水质，并为至少三分之一的濒危物种提供栖息地。然而如今，湿地自身也面临威胁。美国本土48个州的2.21亿英亩湿地，超半数已遭到破坏。",
-    "image_url": "https://cn.bing.com/th?id=OHR.AmericanWetlands_ZH-CN7534567518_1920x1080.webp",
-    "main_text": "奥克弗诺基沼泽因其两栖动物的数量而闻名，这是关乎全球生态健康的指标。"
+    "date": "2023-05-17",
+    "headline": "通往太平洋之窗",
+    "title": "加利福尼亚州圣克鲁斯的天然桥州立公园",
+    "description": "天然桥州立公园位于美国加利福尼亚州的圣克鲁斯市。初期，这里有三座海水侵蚀而成的拱桥，其中一座于1905年倒塌，后来又有一座于1980年倒塌，剩下我们如今看到的这座拱桥。然而，海浪的侵蚀是无情的，因此仅剩的这座拱桥最终也会倒塌。除了拱桥，这个公园还有君主斑蝶，因此也吸引了不少游客。",
+    "image_url": "https://cn.bing.com/th?id=OHR.CormorantBridge_ZH-CN7673299694_1920x1080.webp",
+    "main_text": "这座公园，对于观赏岸边鸟类、迁徙的鲸鱼，以及在海岸嬉戏的海豹和海獭来说，是绝佳观测点。"
 }
 ```
 
-UpdataTime：2023-05-16 01:44:21
+UpdataTime：2023-05-17 01:45:07
