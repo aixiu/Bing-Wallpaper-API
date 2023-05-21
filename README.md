@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![谢菲尔德的欧洲蜜蜂, 英格兰](https://cn.bing.com/th?id=OHR.EuropeanHoneybee_ZH-CN5191293837_1920x1080.webp)
-Today: [谢菲尔德的欧洲蜜蜂, 英格兰](https://cn.bing.com/th?id=OHR.EuropeanHoneybee_ZH-CN5191293837_1920x1080.webp) - 一片蜂群
+![塞纳河，巴黎，法国](https://cn.bing.com/th?id=OHR.PontdArcole_ZH-CN5348049357_1920x1080.webp)
+Today: [塞纳河，巴黎，法国](https://cn.bing.com/th?id=OHR.PontdArcole_ZH-CN5348049357_1920x1080.webp) - 一座承载历史的桥
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-05-20",
-    "headline": "一片蜂群",
-    "title": "谢菲尔德的欧洲蜜蜂, 英格兰",
-    "description": "春日百花盛开时，你会听到蜜蜂在花丛间嗡嗡作响。世界蜜蜂日这一天正处于授粉高峰期，同时也是现代养蜂先驱者——斯洛文尼亚人安东·扬沙的生日。蜜蜂是授粉昆虫，因此它们对陆地生态系统至关重要。蜜蜂在觅食时收集花粉带回蜂巢，由此让花粉从一株植物传到另一株植物，帮助植物繁殖。我们107种农作物中，超9成都需要蜜蜂“照料”。所以“勤劳的蜜蜂”这一标签并非夸张，而是事实。但如今，世界范围内的蜜蜂数量已经减少。所以，今天就让我们减少使用杀虫剂、种植本地植物，让它们安心地“工作”吧。",
-    "image_url": "https://cn.bing.com/th?id=OHR.EuropeanHoneybee_ZH-CN5191293837_1920x1080.webp",
-    "main_text": "一只工蜂一辈子平均只能生产1/12茶匙的蜂蜜。"
+    "date": "2023-05-21",
+    "headline": "一座承载历史的桥",
+    "title": "塞纳河，巴黎，法国",
+    "description": "塞纳河流经法国巴黎，对这座古城的历史有着非比寻常的意义。公元前3世纪，一个名为帕里西人的凯尔特部落决定定居在塞纳河两岸之间的一座岛屿，即如今的西岱岛。在接下来的数个世纪里，塞纳河在巴黎发展成为全球商业和文化中心的过程中发挥了重要作用。",
+    "image_url": "https://cn.bing.com/th?id=OHR.PontdArcole_ZH-CN5348049357_1920x1080.webp",
+    "main_text": "这条河是许多著名印象派画作的主题，包括莫奈的《拉格勒努耶尔浴池》和雷诺阿的《阿斯涅尔的塞纳河》。"
 }
 ```
 
-UpdataTime：2023-05-20 01:40:42
+UpdataTime：2023-05-21 01:49:13
