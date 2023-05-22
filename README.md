@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![塞纳河，巴黎，法国](https://cn.bing.com/th?id=OHR.PontdArcole_ZH-CN5348049357_1920x1080.webp)
-Today: [塞纳河，巴黎，法国](https://cn.bing.com/th?id=OHR.PontdArcole_ZH-CN5348049357_1920x1080.webp) - 一座承载历史的桥
+![阿雷纳尔火山，蒙泰韦尔德，哥斯达黎加](https://cn.bing.com/th?id=OHR.BiodiverseCostaRica_ZH-CN5524154131_1920x1080.webp)
+Today: [阿雷纳尔火山，蒙泰韦尔德，哥斯达黎加](https://cn.bing.com/th?id=OHR.BiodiverseCostaRica_ZH-CN5524154131_1920x1080.webp) - 为了每个人，保护地球的生物多样性
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-05-21",
-    "headline": "一座承载历史的桥",
-    "title": "塞纳河，巴黎，法国",
-    "description": "塞纳河流经法国巴黎，对这座古城的历史有着非比寻常的意义。公元前3世纪，一个名为帕里西人的凯尔特部落决定定居在塞纳河两岸之间的一座岛屿，即如今的西岱岛。在接下来的数个世纪里，塞纳河在巴黎发展成为全球商业和文化中心的过程中发挥了重要作用。",
-    "image_url": "https://cn.bing.com/th?id=OHR.PontdArcole_ZH-CN5348049357_1920x1080.webp",
-    "main_text": "这条河是许多著名印象派画作的主题，包括莫奈的《拉格勒努耶尔浴池》和雷诺阿的《阿斯涅尔的塞纳河》。"
+    "date": "2023-05-22",
+    "headline": "为了每个人，保护地球的生物多样性",
+    "title": "阿雷纳尔火山，蒙泰韦尔德，哥斯达黎加",
+    "description": "今天是世界生物多样性日，也是个回顾生物多样性在人类历史发展和续存过程中的关键作用的机会。从细菌、基因到整个生态系统，生物多样性囊括所有形式的生命，包括珊瑚礁、雨林和海洋环境等。我们的水、食物、药品、衣服、住所和能源都依赖于健康的生态系统。",
+    "image_url": "https://cn.bing.com/th?id=OHR.BiodiverseCostaRica_ZH-CN5524154131_1920x1080.webp",
+    "main_text": "阿雷纳尔是哥斯达黎加所有火山中最年轻、最活跃的一座。"
 }
 ```
 
-UpdataTime：2023-05-21 01:49:13
+UpdataTime：2023-05-22 01:48:44
