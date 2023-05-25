@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![科孚岛旧城堡](https://cn.bing.com/th?id=OHR.OldFortress_ZH-CN6469523538_1920x1080.webp)
-Today: [科孚岛旧城堡](https://cn.bing.com/th?id=OHR.OldFortress_ZH-CN6469523538_1920x1080.webp) - 历史在这里复活
+![法罗群岛，丹麦](https://cn.bing.com/th?id=OHR.SaksunFaroe_ZH-CN7150180006_1920x1080.webp)
+Today: [法罗群岛，丹麦](https://cn.bing.com/th?id=OHR.SaksunFaroe_ZH-CN7150180006_1920x1080.webp) - 童话照进现实
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-05-24",
-    "headline": "历史在这里复活",
-    "title": "科孚岛旧城堡",
-    "description": "希腊科孚岛的旧城堡矗立在半岛的尖端，现在是科孚公共图书馆和档案馆的所在地。这座城堡历史悠久，可以追溯到拜占庭时期。6世纪，入侵者袭击了科孚，促使幸存者建造了一个被城堡包围的新村庄。后来在威尼斯统治期间，城堡又经历了加固改建，以抵御奥斯曼军队的侵扰。数个世纪以来，这座希腊地标见证了当地的巨大变化以及几个帝国的兴衰。",
-    "image_url": "https://cn.bing.com/th?id=OHR.OldFortress_ZH-CN6469523538_1920x1080.webp",
-    "main_text": "城堡内设有科孚公共图书馆，位于英国人早年建造的军营内。城堡还会举行一些艺术和文化展览。"
+    "date": "2023-05-25",
+    "headline": "童话照进现实",
+    "title": "法罗群岛，丹麦",
+    "description": "萨克森位于法罗群岛的斯特雷莫伊海岸，是一个偏远的小村庄，以其童话般的美景而闻名。它坐落在风景如画的山谷中，旁边是清澈的泻湖，两侧群山环绕，屋顶覆盖着绿油油的草皮。萨克森人烟稀少，人口不到15人，甚至这里瀑布的数量都比常住人口数量多。",
+    "image_url": "https://cn.bing.com/th?id=OHR.SaksunFaroe_ZH-CN7150180006_1920x1080.webp",
+    "main_text": "萨克森位于曾经是入海口的底部，四周环绕着高山。 入口形成了一个很好的深天然良港，直到一场风暴用沙子把它堵住了。"
 }
 ```
 
-UpdataTime：2023-05-24 01:47:06
+UpdataTime：2023-05-25 01:42:11
