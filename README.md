@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![海獭宝宝，威廉王子湾，美国阿拉斯加州](https://cn.bing.com/th?id=OHR.WorldOtterDay_ZH-CN8607141093_1920x1080.webp)
-Today: [海獭宝宝，威廉王子湾，美国阿拉斯加州](https://cn.bing.com/th?id=OHR.WorldOtterDay_ZH-CN8607141093_1920x1080.webp) - 一脸好奇的海獭宝宝
+![大堡礁的航拍图，澳大利亚](https://cn.bing.com/th?id=OHR.ReefAwareness_ZH-CN8840949729_1920x1080.webp)
+Today: [大堡礁的航拍图，澳大利亚](https://cn.bing.com/th?id=OHR.ReefAwareness_ZH-CN8840949729_1920x1080.webp) - 一望无际的湛蓝
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-05-31",
-    "headline": "一脸好奇的海獭宝宝",
-    "title": "海獭宝宝，威廉王子湾，美国阿拉斯加州",
-    "description": "观察可爱的海獭在海里嬉戏是件赏心悦事。除了可爱之外，海獭还对维护近海生态系统平衡有着非常重要的作用。如果没有海獭捕食海胆的话，海胆会吃光重要的海藻森林，从而夺走许多海洋动物的藏身地和食物。但不幸的是，海獭现在正面临着灭绝的风险。让我们重视并了解如何保护这种可爱又有着重要作用的小动物吧。",
-    "image_url": "https://cn.bing.com/th?id=OHR.WorldOtterDay_ZH-CN8607141093_1920x1080.webp",
-    "main_text": "海獭每天要进食自身体重25%的食物。"
+    "date": "2023-06-01",
+    "headline": "一望无际的湛蓝",
+    "title": "大堡礁的航拍图，澳大利亚",
+    "description": "澳大利亚的大堡礁是世界上最大的珊瑚礁，沿澳大利亚海岸蔓延1430英里。许多海洋生物生活在这个珊瑚礁生态系统中，包括鲸鱼、海豚、海龟以及1500多种鱼类。遗憾的是，这处世界自然遗产正受到气候变化、污染和过度捕捞的威胁。每年的六月一日是世界珊瑚礁日，旨在让人们意识到海洋珊瑚礁系统的脆弱性和重要性，提醒我们每一个人、每一个组织和企业保护这些宝藏、维持自然的平衡。",
+    "image_url": "https://cn.bing.com/th?id=OHR.ReefAwareness_ZH-CN8840949729_1920x1080.webp",
+    "main_text": "大堡礁岛上有215种鸟类在此筑巢或栖息。"
 }
 ```
 
-UpdataTime：2023-05-31 02:00:18
+UpdataTime：2023-06-01 02:23:07
