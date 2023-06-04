@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-![怀阿纳帕纳帕州立公园的黑沙滩，茂宜岛，夏威夷，美国](https://cn.bing.com/th?id=OHR.MauiBeach_ZH-CN1435658101_1920x1080.webp)
-Today: [怀阿纳帕纳帕州立公园的黑沙滩，茂宜岛，夏威夷，美国](https://cn.bing.com/th?id=OHR.MauiBeach_ZH-CN1435658101_1920x1080.webp) - 热带天堂的黑沙滩
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2023-06-04",
     "headline": "热带天堂的黑沙滩",
@@ -42,6 +6,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url": "https://cn.bing.com/th?id=OHR.MauiBeach_ZH-CN1435658101_1920x1080.webp",
     "main_text": "怀阿纳帕纳帕（Waiʻanapanapa）在夏威夷语中的意思是“闪光的水”，指的是附近的淡水溪流和波光粼粼的水池。"
 }
-```
-
-UpdataTime：2023-06-04 02:20:20
