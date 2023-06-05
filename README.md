@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![怀阿纳帕纳帕州立公园的黑沙滩，茂宜岛，夏威夷，美国](https://cn.bing.com/th?id=OHR.MauiBeach_ZH-CN1435658101_1920x1080.webp)
-Today: [怀阿纳帕纳帕州立公园的黑沙滩，茂宜岛，夏威夷，美国](https://cn.bing.com/th?id=OHR.MauiBeach_ZH-CN1435658101_1920x1080.webp) - 热带天堂的黑沙滩
+![辛华达峡谷的瀑布，贾斯珀国家公园，加拿大](https://cn.bing.com/th?id=OHR.WaterfallsSunwaptaValley_ZH-CN1804229850_1920x1080.webp)
+Today: [辛华达峡谷的瀑布，贾斯珀国家公园，加拿大](https://cn.bing.com/th?id=OHR.WaterfallsSunwaptaValley_ZH-CN1804229850_1920x1080.webp) - 风景如画的瀑布
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-06-04",
-    "headline": "热带天堂的黑沙滩",
-    "title": "怀阿纳帕纳帕州立公园的黑沙滩，茂宜岛，夏威夷，美国",
-    "description": "黑色沙滩通常是怎样形成的？有两种情况：第一种情况，海浪冲刷海滩时，深色的、较重的矿物质留了下来；第二种情况则发生在怀阿纳帕纳帕州立公园的这片沙滩，玄武岩（一种黑色的火山岩）被海浪侵蚀成细小的颗粒，形成了令人惊叹的黑色沙滩。你可以在茂宜岛东侧，哈纳之路的尽头找到这个海滩。类似的黑沙滩遍布世界各地，包括阿拉斯加、加利福尼亚、希腊、哥斯达黎加、意大利、冰岛、印度尼西亚和新西兰等地。",
-    "image_url": "https://cn.bing.com/th?id=OHR.MauiBeach_ZH-CN1435658101_1920x1080.webp",
-    "main_text": "怀阿纳帕纳帕（Waiʻanapanapa）在夏威夷语中的意思是“闪光的水”，指的是附近的淡水溪流和波光粼粼的水池。"
+    "date": "2023-06-05",
+    "headline": "风景如画的瀑布",
+    "title": "辛华达峡谷的瀑布，贾斯珀国家公园，加拿大",
+    "description": "辛华达瀑布位于加拿大艾伯塔省贾斯珀国家公园，落差约为18.5米。从著名的冰原大道下来，通过一条600米的通道便可到达该瀑布。",
+    "image_url": "https://cn.bing.com/th?id=OHR.WaterfallsSunwaptaValley_ZH-CN1804229850_1920x1080.webp",
+    "main_text": "贾斯珀国家公园于1984年被联合国教科文组织列为世界遗产。"
 }
 ```
 
-UpdataTime：2023-06-04 02:20:20
+UpdataTime：2023-06-05 02:01:29
