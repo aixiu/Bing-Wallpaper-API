@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![辛华达峡谷的瀑布，贾斯珀国家公园，加拿大](https://cn.bing.com/th?id=OHR.WaterfallsSunwaptaValley_ZH-CN1804229850_1920x1080.webp)
-Today: [辛华达峡谷的瀑布，贾斯珀国家公园，加拿大](https://cn.bing.com/th?id=OHR.WaterfallsSunwaptaValley_ZH-CN1804229850_1920x1080.webp) - 风景如画的瀑布
+![The chalk cliffs of Étretat, Normandy, France](https://cn.bing.com/th?id=OHR.CliffsEtretat_ZH-CN1961838068_1920x1080.webp)
+Today: [The chalk cliffs of Étretat, Normandy, France](https://cn.bing.com/th?id=OHR.CliffsEtretat_ZH-CN1961838068_1920x1080.webp) - 诺曼底登陆日
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-06-05",
-    "headline": "风景如画的瀑布",
-    "title": "辛华达峡谷的瀑布，贾斯珀国家公园，加拿大",
-    "description": "辛华达瀑布位于加拿大艾伯塔省贾斯珀国家公园，落差约为18.5米。从著名的冰原大道下来，通过一条600米的通道便可到达该瀑布。",
-    "image_url": "https://cn.bing.com/th?id=OHR.WaterfallsSunwaptaValley_ZH-CN1804229850_1920x1080.webp",
-    "main_text": "贾斯珀国家公园于1984年被联合国教科文组织列为世界遗产。"
+    "date": "2023-06-06",
+    "headline": "诺曼底登陆日",
+    "title": "The chalk cliffs of Étretat, Normandy, France",
+    "description": "第二次世界大战期间，1944年6月6日，经过数月计划和无数次的拖延，盟军在法国诺曼底海滩登陆，诺曼底战役由此拉开序幕。这是历史上最雄心勃勃的军事袭击之一，为盟军战胜轴心国奠定了坚实基础。",
+    "image_url": "https://cn.bing.com/th?id=OHR.CliffsEtretat_ZH-CN1961838068_1920x1080.webp",
+    "main_text": "1927年，法国两位飞行员驾驶双翼飞机“白鸟”跨越大西洋，途经埃特尔塔之后，他们便神秘失踪了。埃特尔塔也因此闻名于世。"
 }
 ```
 
-UpdataTime：2023-06-05 02:01:29
+UpdataTime：2023-06-06 02:03:37
