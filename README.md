@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![巨鹭，克鲁格国家公园，南非](https://cn.bing.com/th?id=OHR.GoliathHeron_ZH-CN2413747227_1920x1080.webp)
-Today: [巨鹭，克鲁格国家公园，南非](https://cn.bing.com/th?id=OHR.GoliathHeron_ZH-CN2413747227_1920x1080.webp) - 伺机而动
+![仙人掌植物，得克萨斯州大弯国家公园，美国](https://cn.bing.com/th?id=OHR.BigBendAnniv_ZH-CN3445097868_1920x1080.webp)
+Today: [仙人掌植物，得克萨斯州大弯国家公园，美国](https://cn.bing.com/th?id=OHR.BigBendAnniv_ZH-CN3445097868_1920x1080.webp) - 大弯的生日
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-06-11",
-    "headline": "伺机而动",
-    "title": "巨鹭，克鲁格国家公园，南非",
-    "description": "今天照片中的是世界上最大的鹭科鸟类——巨鹭，它正在南非克鲁格国家公园等待猎物游过。这种涉水鸟由于体型巨大（身高可达5英尺，翼展可达7英尺）而被称为巨鹭。它们以其异常缓慢的狩猎动作和对湖泊沼泽等水生栖息地的偏好而闻名。巨鹭在深水中觅食，以鲻鱼和罗非鱼等大型鱼类为食。它们也吃小动物，包括青蛙、蛇和蜥蜴。巨鹭不会因季节而迁徙，常见于撒哈拉以南的非洲地区，在亚洲的西部和南部地区也有少量巨鹭。",
-    "image_url": "https://cn.bing.com/th?id=OHR.GoliathHeron_ZH-CN2413747227_1920x1080.webp",
-    "main_text": "比起在陆地上空飞行，巨鹭更喜欢沿着水道飞行，算是名副其实的水生鸟类，它们很少远离水源去冒险。"
+    "date": "2023-06-12",
+    "headline": "大弯的生日",
+    "title": "仙人掌植物，得克萨斯州大弯国家公园，美国",
+    "description": "今天是位于得克萨斯州的大弯国家公园的88岁生日。这个巨大的国家公园建立于1935年，已迎来了无数的自然爱好者和冒险者。公园的南边边界是划分得克萨斯州和墨西哥的格兰德河。如果你在地图上看一下这个公园和格兰德河，你就会明白这个公园名字的由来了。",
+    "image_url": "https://cn.bing.com/th?id=OHR.BigBendAnniv_ZH-CN3445097868_1920x1080.webp",
+    "main_text": "大弯国家公园有超过1200种植物、超过450种鸟类、56种爬行动物和75种哺乳动物。"
 }
 ```
 
-UpdataTime：2023-06-11 02:14:01
+UpdataTime：2023-06-12 02:01:21
