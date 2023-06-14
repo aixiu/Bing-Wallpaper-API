@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![奥克弗诺基沼泽木板路上的西班牙苔藓，佐治亚州，美国](https://cn.bing.com/th?id=OHR.OkefenokeeSwamp_ZH-CN3640203783_1920x1080.webp)
-Today: [奥克弗诺基沼泽木板路上的西班牙苔藓，佐治亚州，美国](https://cn.bing.com/th?id=OHR.OkefenokeeSwamp_ZH-CN3640203783_1920x1080.webp) - 你是否有勇气进入这片茂密的沼泽
+![多瑙河畔的帕绍市，巴伐利亚，德国](https://cn.bing.com/th?id=OHR.PassauSunsetJune_ZH-CN7563956674_1920x1080.webp)
+Today: [多瑙河畔的帕绍市，巴伐利亚，德国](https://cn.bing.com/th?id=OHR.PassauSunsetJune_ZH-CN7563956674_1920x1080.webp) - 巴洛克风盛宴
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-06-13",
-    "headline": "你是否有勇气进入这片茂密的沼泽",
-    "title": "奥克弗诺基沼泽木板路上的西班牙苔藓，佐治亚州，美国",
-    "description": "奥克弗诺基沼泽大部分位于佐治亚州东南部，是全美最大的淡水沼泽地。这片巨大又独特的生态系统覆盖了700平方英里的土地，生活着各种各样的野生动物，比如鹭、鹤、麻鸦、美洲短吻鳄、啄木鸟、乌龟、蛇、青蛙等。宁静的水域被有机物腐烂产生的单宁染成棕色。这片区域曾经是塞米诺尔印第安人的领地。到了现代，这片沼泽的一大部分已经被商业化了，这里的泥煤矿藏被作为燃料开采。",
-    "image_url": "https://cn.bing.com/th?id=OHR.OkefenokeeSwamp_ZH-CN3640203783_1920x1080.webp",
-    "main_text": "奥克弗诺基经常被直译为“震颤的大地”，但是这个名字很有可能源于希奇蒂语\"oki fanôːki\"，意为“冒泡的水”。"
+    "date": "2023-06-14",
+    "headline": "巴洛克风盛宴",
+    "title": "多瑙河畔的帕绍市，巴伐利亚，德国",
+    "description": "帕绍位于德国的下巴伐利亚州，因为多瑙河、因河和伊尔茨河在此交汇，帕绍又被称作“三河之城”。帕绍以其哥特风格和巴洛克风格的建筑闻名。多瑙河和伊尔茨河之间的山上坐落着上韦斯特城堡和下韦斯特城堡，俯瞰着这座城市。",
+    "image_url": "https://cn.bing.com/th?id=OHR.PassauSunsetJune_ZH-CN7563956674_1920x1080.webp",
+    "main_text": "很多沿多瑙河航行的内河游船都从帕绍启航，顺流而下前往维也纳。这是一条经典历史路线，帝王之路。"
 }
 ```
 
-UpdataTime：2023-06-13 01:53:30
+UpdataTime：2023-06-14 01:52:50
