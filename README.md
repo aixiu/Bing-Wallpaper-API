@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![同步萤火虫，大烟山国家公园，田纳西州，美国](https://cn.bing.com/th?id=OHR.SmokyFireflies_ZH-CN3840923626_1920x1080.webp)
-Today: [同步萤火虫，大烟山国家公园，田纳西州，美国](https://cn.bing.com/th?id=OHR.SmokyFireflies_ZH-CN3840923626_1920x1080.webp) - 一闪一闪亮晶晶（的小虫子）
+![游泳的鹰嘴海龟， 冲绳，日本](https://cn.bing.com/th?id=OHR.HawksbillTurtle_ZH-CN0562063994_1920x1080.webp)
+Today: [游泳的鹰嘴海龟， 冲绳，日本](https://cn.bing.com/th?id=OHR.HawksbillTurtle_ZH-CN0562063994_1920x1080.webp) - 鹰嘴海龟
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-06-15",
-    "headline": "一闪一闪亮晶晶（的小虫子）",
-    "title": "同步萤火虫，大烟山国家公园，田纳西州，美国",
-    "description": "让自己沉浸在大自然中绝对是阴沉的一天的最佳解药。我们周围的动植物、景色、声音和气味可以安抚我们的精神、身体和灵魂。想象自己沉浸在若虚若幻的情境中，好像站在神秘森林里，被高耸树木、潺潺溪流还有闪烁的萤火虫环绕。这片神秘的森林就是大烟山国家公园，这里每年五月和六月是萤火虫季。今天是大烟山国家公园的创立日，也正好是自然摄影日，可能没有什么比在今天拍摄萤火虫更应景了。",
-    "image_url": "https://cn.bing.com/th?id=OHR.SmokyFireflies_ZH-CN3840923626_1920x1080.webp",
-    "main_text": "科学家们发现，同步萤火虫中的雄性会同步他们的闪烁频率，方便同种的雌性萤火虫找到它们。"
+    "date": "2023-06-16",
+    "headline": "鹰嘴海龟",
+    "title": "游泳的鹰嘴海龟， 冲绳，日本",
+    "description": "世界海龟日快乐！今天，世界各地的人们聚集在一起清理近岸海洋垃圾，守护海龟及其他海洋生物的栖息之所，帮助它们恢复干净的水域。鹰嘴海龟分布非常广泛，最大的亚种群分布在加勒比海、印度洋和印度洋-太平洋海域。",
+    "image_url": "https://cn.bing.com/th?id=OHR.HawksbillTurtle_ZH-CN0562063994_1920x1080.webp",
+    "main_text": "鹰嘴海龟因其窄而尖的喙而得名，它还有个更知名的名称：玳瑁。"
 }
 ```
 
-UpdataTime：2023-06-15 01:50:51
+UpdataTime：2023-06-16 01:52:20
