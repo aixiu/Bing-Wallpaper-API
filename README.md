@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![游泳的鹰嘴海龟， 冲绳，日本](https://cn.bing.com/th?id=OHR.HawksbillTurtle_ZH-CN0562063994_1920x1080.webp)
-Today: [游泳的鹰嘴海龟， 冲绳，日本](https://cn.bing.com/th?id=OHR.HawksbillTurtle_ZH-CN0562063994_1920x1080.webp) - 鹰嘴海龟
+![在加利福尼亚州圣地亚哥举行的“为团结划桨”活动](https://cn.bing.com/th?id=OHR.SurfSanDiego_ZH-CN1485510748_1920x1080.webp)
+Today: [在加利福尼亚州圣地亚哥举行的“为团结划桨”活动](https://cn.bing.com/th?id=OHR.SurfSanDiego_ZH-CN1485510748_1920x1080.webp) - 桨叶动力
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-06-16",
-    "headline": "鹰嘴海龟",
-    "title": "游泳的鹰嘴海龟， 冲绳，日本",
-    "description": "世界海龟日快乐！今天，世界各地的人们聚集在一起清理近岸海洋垃圾，守护海龟及其他海洋生物的栖息之所，帮助它们恢复干净的水域。鹰嘴海龟分布非常广泛，最大的亚种群分布在加勒比海、印度洋和印度洋-太平洋海域。",
-    "image_url": "https://cn.bing.com/th?id=OHR.HawksbillTurtle_ZH-CN0562063994_1920x1080.webp",
-    "main_text": "鹰嘴海龟因其窄而尖的喙而得名，它还有个更知名的名称：玳瑁。"
+    "date": "2023-06-17",
+    "headline": "桨叶动力",
+    "title": "在加利福尼亚州圣地亚哥举行的“为团结划桨”活动",
+    "description": "国际冲浪日通过激发人们对冲浪的热情来促进对海洋的保护。 每年 6 月的第三个星期六，人们都会聚集在一起参加冲浪比赛、烧烤、海滩清理和其他活动，以帮助恢复和保护海洋环境。 为一项事业走到一起是全球冲浪社区的标志，无论是为了自然还是为了反对不公正，正如他们在 2020 年加利福尼亚州恩西尼塔斯举行的“为团结划桨”聚会上所做的那样，如图所示。",
+    "image_url": "https://cn.bing.com/th?id=OHR.SurfSanDiego_ZH-CN1485510748_1920x1080.webp",
+    "main_text": "比赛和奖品也是庆祝活动的一部分，与冲浪相关的行业会捐赠冲浪板和潜水服等奖品。"
 }
 ```
 
-UpdataTime：2023-06-16 01:52:20
+UpdataTime：2023-06-17 01:48:25
