@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![普通燕鸥父亲和宝宝，长岛，纽约州，美国](https://cn.bing.com/th?id=OHR.TernFather_ZH-CN1860589914_1920x1080.webp)
-Today: [普通燕鸥父亲和宝宝，长岛，纽约州，美国](https://cn.bing.com/th?id=OHR.TernFather_ZH-CN1860589914_1920x1080.webp) - 值班爸爸
+![奔跑在诺曼底草地上的小狍，法国](https://cn.bing.com/th?id=OHR.Fawn_ZH-CN2172152960_1920x1080.webp)
+Today: [奔跑在诺曼底草地上的小狍，法国](https://cn.bing.com/th?id=OHR.Fawn_ZH-CN2172152960_1920x1080.webp) - 这只小可爱在哪里?
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-06-18",
-    "headline": "值班爸爸",
-    "title": "普通燕鸥父亲和宝宝，长岛，纽约州，美国",
-    "description": "也许是受到1908年首届母亲节的启发，美国华盛顿州的索诺拉·斯马特·多德认为父亲们也应该拥有自己的庆祝活动，于是她提出了父亲节。1910年，首届父亲节庆祝活动举行，并在六年后得到了美国总统伍德罗·威尔逊的认可。到了20世纪20年代，父亲节一度不再流行，但最终由于营销而重新流行起来，并被理查德·尼克松总统设定为永久性国家纪念日。父亲的形象，就像今天图片中的燕鸥爸爸一样，努力工作，为我们遮风挡雨。",
-    "image_url": "https://cn.bing.com/th?id=OHR.TernFather_ZH-CN1860589914_1920x1080.webp",
-    "main_text": "它们是所有鸟类中迁徙距离最长的候鸟，平均每年往返飞行3.5万公里。"
+    "date": "2023-06-19",
+    "headline": "这只小可爱在哪里?",
+    "title": "奔跑在诺曼底草地上的小狍，法国",
+    "description": "獐子（Capreolus capreolus），也被称为狍子、西方狍子或欧洲狍子，是鹿的一种。该物种的雄性有时被称为 \"獐\"。它主要以草、叶、浆果和嫩芽为食。它特别喜欢非常年轻的、水分含量高的嫩草，即前一天下过雨的草。",
+    "image_url": "https://cn.bing.com/th?id=OHR.Fawn_ZH-CN2172152960_1920x1080.webp",
+    "main_text": "体格健壮的雄袍子鹿角长达20-25厘米，有两个或三个角，很少有四个角。"
 }
 ```
 
-UpdataTime：2023-06-18 02:06:02
+UpdataTime：2023-06-19 01:53:09
