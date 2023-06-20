@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![奔跑在诺曼底草地上的小狍，法国](https://cn.bing.com/th?id=OHR.Fawn_ZH-CN2172152960_1920x1080.webp)
-Today: [奔跑在诺曼底草地上的小狍，法国](https://cn.bing.com/th?id=OHR.Fawn_ZH-CN2172152960_1920x1080.webp) - 这只小可爱在哪里?
+![秃鹰，通加斯国家森林，阿拉斯加，美国](https://cn.bing.com/th?id=OHR.EagleTree_ZH-CN7775102951_1920x1080.webp)
+Today: [秃鹰，通加斯国家森林，阿拉斯加，美国](https://cn.bing.com/th?id=OHR.EagleTree_ZH-CN7775102951_1920x1080.webp) - 这只顶级掠食者是什么?
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-06-19",
-    "headline": "这只小可爱在哪里?",
-    "title": "奔跑在诺曼底草地上的小狍，法国",
-    "description": "獐子（Capreolus capreolus），也被称为狍子、西方狍子或欧洲狍子，是鹿的一种。该物种的雄性有时被称为 \"獐\"。它主要以草、叶、浆果和嫩芽为食。它特别喜欢非常年轻的、水分含量高的嫩草，即前一天下过雨的草。",
-    "image_url": "https://cn.bing.com/th?id=OHR.Fawn_ZH-CN2172152960_1920x1080.webp",
-    "main_text": "体格健壮的雄袍子鹿角长达20-25厘米，有两个或三个角，很少有四个角。"
+    "date": "2023-06-20",
+    "headline": "这只顶级掠食者是什么?",
+    "title": "秃鹰，通加斯国家森林，阿拉斯加，美国",
+    "description": "秃鹰又名白头海雕、白头鹰，是力量、决心和勇气的象征。1782年6月20日，美国通过了一项法令，将白头鹰定为国鸟。为了进一步保护白头鹰，1995年，时任美国总统比尔·克林顿宣布每年的6月20日为“白头鹰日”。白头鹰，因其白色的头部而得名，曾是濒临灭绝的鸟类，但是随着保护工作的开展和濒危物种法案的实施，白头鹰的数量实现了成倍增长。",
+    "image_url": "https://cn.bing.com/th?id=OHR.EagleTree_ZH-CN7775102951_1920x1080.webp",
+    "main_text": "秃鹰实际上并不真的秃，而“秃”的英文“bald”的旧意其实是“白头”。"
 }
 ```
 
-UpdataTime：2023-06-19 01:53:09
+UpdataTime：2023-06-20 01:47:13
