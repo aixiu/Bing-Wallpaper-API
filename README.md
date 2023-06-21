@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![秃鹰，通加斯国家森林，阿拉斯加，美国](https://cn.bing.com/th?id=OHR.EagleTree_ZH-CN7775102951_1920x1080.webp)
-Today: [秃鹰，通加斯国家森林，阿拉斯加，美国](https://cn.bing.com/th?id=OHR.EagleTree_ZH-CN7775102951_1920x1080.webp) - 这只顶级掠食者是什么?
+![夏日盛开的荷花](https://cn.bing.com/th?id=OHR.SummerSolstice2023_ZH-CN5038619036_1920x1080.webp)
+Today: [夏日盛开的荷花](https://cn.bing.com/th?id=OHR.SummerSolstice2023_ZH-CN5038619036_1920x1080.webp) - 夏日仙境
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-06-20",
-    "headline": "这只顶级掠食者是什么?",
-    "title": "秃鹰，通加斯国家森林，阿拉斯加，美国",
-    "description": "秃鹰又名白头海雕、白头鹰，是力量、决心和勇气的象征。1782年6月20日，美国通过了一项法令，将白头鹰定为国鸟。为了进一步保护白头鹰，1995年，时任美国总统比尔·克林顿宣布每年的6月20日为“白头鹰日”。白头鹰，因其白色的头部而得名，曾是濒临灭绝的鸟类，但是随着保护工作的开展和濒危物种法案的实施，白头鹰的数量实现了成倍增长。",
-    "image_url": "https://cn.bing.com/th?id=OHR.EagleTree_ZH-CN7775102951_1920x1080.webp",
-    "main_text": "秃鹰实际上并不真的秃，而“秃”的英文“bald”的旧意其实是“白头”。"
+    "date": "2023-06-21",
+    "headline": "夏日仙境",
+    "title": "夏日盛开的荷花",
+    "description": "夏至是二十四节气中的一个，也是一年中白昼最长的一天。在这一天，太阳直射北回归线，北半球的温度达到最高，而南半球则是冬至。夏至的日期通常在公历6月21日或22日，不同地区有不同的习俗和活动来庆祝这个节气。在中国，夏至被认为是阴阳转化的重要时刻，也是祭祀天地和祖先的日子。人们会吃面条、鸡蛋、荔枝等食物来祈求健康和长寿，也会烧香、挂艾草、泡药浴等来驱除瘟疫和邪气。",
+    "image_url": "https://cn.bing.com/th?id=OHR.SummerSolstice2023_ZH-CN5038619036_1920x1080.webp",
+    "main_text": "“荷”被称为“活化石”，是被子植物中起源最早的植物之一。"
 }
 ```
 
-UpdataTime：2023-06-20 01:47:13
+UpdataTime：2023-06-21 01:48:34
