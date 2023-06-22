@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![夏日盛开的荷花](https://cn.bing.com/th?id=OHR.SummerSolstice2023_ZH-CN5038619036_1920x1080.webp)
-Today: [夏日盛开的荷花](https://cn.bing.com/th?id=OHR.SummerSolstice2023_ZH-CN5038619036_1920x1080.webp) - 夏日仙境
+![中国传统节日端午节](https://cn.bing.com/th?id=OHR.DragonBoatFestival2023_ZH-CN5255671687_1920x1080.webp)
+Today: [中国传统节日端午节](https://cn.bing.com/th?id=OHR.DragonBoatFestival2023_ZH-CN5255671687_1920x1080.webp) - 仲夏端午
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-06-21",
-    "headline": "夏日仙境",
-    "title": "夏日盛开的荷花",
-    "description": "夏至是二十四节气中的一个，也是一年中白昼最长的一天。在这一天，太阳直射北回归线，北半球的温度达到最高，而南半球则是冬至。夏至的日期通常在公历6月21日或22日，不同地区有不同的习俗和活动来庆祝这个节气。在中国，夏至被认为是阴阳转化的重要时刻，也是祭祀天地和祖先的日子。人们会吃面条、鸡蛋、荔枝等食物来祈求健康和长寿，也会烧香、挂艾草、泡药浴等来驱除瘟疫和邪气。",
-    "image_url": "https://cn.bing.com/th?id=OHR.SummerSolstice2023_ZH-CN5038619036_1920x1080.webp",
-    "main_text": "“荷”被称为“活化石”，是被子植物中起源最早的植物之一。"
+    "date": "2023-06-22",
+    "headline": "仲夏端午",
+    "title": "中国传统节日端午节",
+    "description": "端午节的起源涵盖了古老星象文化、龙图腾祭祀、人文哲学等方面的内容，蕴含着深邃丰厚的文化内涵，在传承发展中杂糅了多种民俗为一体，各地因地域文化不同而又存在着习俗内容或细节上的差异。",
+    "image_url": "https://cn.bing.com/th?id=OHR.DragonBoatFestival2023_ZH-CN5255671687_1920x1080.webp",
+    "main_text": "2009年9月，端午节成为中国第一个入选世界非物质文化遗产的节日。"
 }
 ```
 
-UpdataTime：2023-06-21 01:48:34
+UpdataTime：2023-06-22 01:53:51
