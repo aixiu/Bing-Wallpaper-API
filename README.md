@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![帝王蝶在野花中取食](https://cn.bing.com/th?id=OHR.PollinatorMonarch_ZH-CN5556988827_1920x1080.webp)
-Today: [帝王蝶在野花中取食](https://cn.bing.com/th?id=OHR.PollinatorMonarch_ZH-CN5556988827_1920x1080.webp) - 蝴蝶翩跹
+![芽富湾，芽庄，越南](https://cn.bing.com/th?id=OHR.NhaTrang_ZH-CN5834700560_1920x1080.webp)
+Today: [芽富湾，芽庄，越南](https://cn.bing.com/th?id=OHR.NhaTrang_ZH-CN5834700560_1920x1080.webp) - 海湾之美
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-06-23",
-    "headline": "蝴蝶翩跹",
-    "title": "帝王蝶在野花中取食",
-    "description": "传粉动物周旨在向那些至关重要的传粉动物致敬。你也许会问，为什么传粉很重要呢？因为，我们日常食用的水果和蔬菜大多都是开花植物，很多都需要某种动物去传粉。传粉不仅有利于生物多样性，还能改善农作物的质量和数量，提高收成。仅在美国，每年就有价值近200亿美元的产品在生产过程中需要传粉。你可以通过尽量减少或者避免使用杀虫剂来庆祝这一周，顺便还可以为这些勤劳的传粉者创造出一个适宜生存的环境。",
-    "image_url": "https://cn.bing.com/th?id=OHR.PollinatorMonarch_ZH-CN5556988827_1920x1080.webp",
-    "main_text": "帝王蝶每秒可以扇动翅膀12次，也就是每分钟近720次。"
+    "date": "2023-06-24",
+    "headline": "海湾之美",
+    "title": "芽富湾，芽庄，越南",
+    "description": "芽富湾是越南芽庄市附近的一块宝地。世界各地的游客来到这个迷人的海湾，在美丽的岛屿周围浮潜，品尝美味的海鲜，享受惊险的水上运动等等。芽庄海湾的汉门群岛是越南唯一的官方海洋保护区所在地。猴子岛和兰屿也是芽富湾两个颇受欢迎的岛屿。顾名思义，猴子岛是数以万计的猴子的家园，比如灰毛猴、红脸猴等，而兰屿则生长着各种各样的兰花。",
+    "image_url": "https://cn.bing.com/th?id=OHR.NhaTrang_ZH-CN5834700560_1920x1080.webp",
+    "main_text": "芽庄的汉门海洋保护区是全球首批被世界自然保护联盟承认的四个海洋保护区之一。"
 }
 ```
 
-UpdataTime：2023-06-23 02:04:21
+UpdataTime：2023-06-24 02:03:10
