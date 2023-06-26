@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![佩特拉的宝库，约旦](https://cn.bing.com/th?id=OHR.PetraTreasury_ZH-CN6007151900_1920x1080.webp)
-Today: [佩特拉的宝库，约旦](https://cn.bing.com/th?id=OHR.PetraTreasury_ZH-CN6007151900_1920x1080.webp) - 一座宝库
+![维朗德里城堡及花园，卢瓦尔河谷，法国](https://cn.bing.com/th?id=OHR.VillandryGarden_ZH-CN6140359139_1920x1080.webp)
+Today: [维朗德里城堡及花园，卢瓦尔河谷，法国](https://cn.bing.com/th?id=OHR.VillandryGarden_ZH-CN6140359139_1920x1080.webp) - 奢华的迷宫
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-06-25",
-    "headline": "一座宝库",
-    "title": "佩特拉的宝库，约旦",
-    "description": "卡兹尼神殿是约旦佩特拉的一座神殿，在阿拉伯语中意为 \"宝库\"。多年以来，佩特拉一直不为世界所知，只有住在周边沙漠里的贝都因人才知晓它的存在。大约2000年前，佩特拉的原住民纳巴泰人用砂岩修建了这座神殿，并给其建造了一个具有蓄水池、水道和其他设施的供水系统，令人啧啧称奇。卡兹尼神殿是纳巴泰建筑的缩影，高141英尺，还有一个令人着迷的美丽门洞，高耸的柱子上刻有狮身人面兽一类的神话生物。据说纳巴泰国王阿雷塔斯四世长眠于此。",
-    "image_url": "https://cn.bing.com/th?id=OHR.PetraTreasury_ZH-CN6007151900_1920x1080.webp",
-    "main_text": "佩特拉的“宝库”曾在众多好莱坞电影中出现过，比如1989年的电影《夺宝奇兵3：圣战骑兵》。"
+    "date": "2023-06-26",
+    "headline": "奢华的迷宫",
+    "title": "维朗德里城堡及花园，卢瓦尔河谷，法国",
+    "description": "法国的维朗德里城堡以其精美绝伦的花园出名。它的花园也被认为是一个文艺复兴时期园林设计的典范。花园被细分成了不同的区域，有着几何纹路、生机盎然的花床、静谧的水景和精心修建的树篱。每个区域都有其主题，有的有装饰性，有的有实用性，缤纷的色彩和纹路相交织，美不胜收。城堡的花园体现了建筑设计和自然的和谐关系，其美景和艺术创造力使游客为之着迷。",
+    "image_url": "https://cn.bing.com/th?id=OHR.VillandryGarden_ZH-CN6140359139_1920x1080.webp",
+    "main_text": "维朗德里城堡在1934年被认定为一处历史纪念地。2000年，它又被列入世界遗产。"
 }
 ```
 
-UpdataTime：2023-06-25 02:21:38
+UpdataTime：2023-06-26 02:10:27
