@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![韦尔纳扎，五渔村，意大利](https://cn.bing.com/th?id=OHR.ItalyCinqueTerre_ZH-CN6495965228_1920x1080.webp)
-Today: [韦尔纳扎，五渔村，意大利](https://cn.bing.com/th?id=OHR.ItalyCinqueTerre_ZH-CN6495965228_1920x1080.webp) - 天堂之景！
+![巴尼亚群岛，苏门答腊，印度尼西亚](https://cn.bing.com/th?id=OHR.BanyakIslands_ZH-CN6620304821_1920x1080.webp)
+Today: [巴尼亚群岛，苏门答腊，印度尼西亚](https://cn.bing.com/th?id=OHR.BanyakIslands_ZH-CN6620304821_1920x1080.webp) - 赞美热带
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-06-28",
-    "headline": "天堂之景！",
-    "title": "韦尔纳扎，五渔村，意大利",
-    "description": "韦尔纳扎是组成五渔村国家公园的第二个村镇。五渔村在1997年被联合国教科文组织列为世界文化遗产地。韦尔纳扎是利古里亚海岸上的一颗明珠，镇上的特色建筑非常值得一看，这里还有一条2公里长的步道，通往一座圣母堂，非常适合徒步爱好者。",
-    "image_url": "https://cn.bing.com/th?id=OHR.ItalyCinqueTerre_ZH-CN6495965228_1920x1080.webp",
-    "main_text": "2021年的动画电影《夏日友晴天》中的海滨小镇就以韦尔纳扎为原型。"
+    "date": "2023-06-29",
+    "headline": "赞美热带",
+    "title": "巴尼亚群岛，苏门答腊，印度尼西亚",
+    "description": "巴尼亚群岛位于印度洋海域，每年吸引数百万游客。巴尼亚群岛由99个小岛组成，这些小岛大部分都无人居住，甚至还没有名字，岛上目之所及都是纯净的沙滩、茂盛的树木和透彻的海水。这个纯净的热带天堂还非常适宜冲浪，这因此成为了完美的度假目的地，适合任何想要在平静和放松之余来一点冒险的人们。",
+    "image_url": "https://cn.bing.com/th?id=OHR.BanyakIslands_ZH-CN6620304821_1920x1080.webp",
+    "main_text": "班卡卢岛是重要的海龟栖息地，绿海龟、棱皮龟和其他种类的海龟会来这里筑巢产卵。"
 }
 ```
 
-UpdataTime：2023-06-28 02:05:08
+UpdataTime：2023-06-29 02:01:06
