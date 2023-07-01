@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![棕熊妈妈和幼崽，克拉克湖国家公园和自然保护区，美国阿拉斯加州](https://cn.bing.com/th?id=OHR.ClamBears_ZH-CN5686721500_1920x1080.webp)
-Today: [棕熊妈妈和幼崽，克拉克湖国家公园和自然保护区，美国阿拉斯加州](https://cn.bing.com/th?id=OHR.ClamBears_ZH-CN5686721500_1920x1080.webp) - 孩子，你把鱼扔哪儿了？
+![从意大利圣天使城堡俯瞰罗马](https://cn.bing.com/th?id=OHR.RomeView_ZH-CN5882212305_1920x1080.webp)
+Today: [从意大利圣天使城堡俯瞰罗马](https://cn.bing.com/th?id=OHR.RomeView_ZH-CN5882212305_1920x1080.webp) - 超凡脱俗的风景
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-06-30",
-    "headline": "孩子，你把鱼扔哪儿了？",
-    "title": "棕熊妈妈和幼崽，克拉克湖国家公园和自然保护区，美国阿拉斯加州",
-    "description": "在阿拉斯加州克拉克湖国家公园和自然保护区的原始林区中，棕熊统治着一切，它们是原始荒野的标志性象征。棕熊的体型庞大，一只成年雄性棕熊的体重可以超过1000磅，站立高度可达10英尺。棕熊的毛色从金黄色到深棕色不等，皮毛厚实蓬松，为它们抵御阿拉斯加严寒的冬天提供了保障。",
-    "image_url": "https://cn.bing.com/th?id=OHR.ClamBears_ZH-CN5686721500_1920x1080.webp",
-    "main_text": "野生棕熊主要在黄昏和夜间活动。"
+    "date": "2023-07-01",
+    "headline": "超凡脱俗的风景",
+    "title": "从意大利圣天使城堡俯瞰罗马",
+    "description": "今天的照片是从圣天使堡（又称哈德良陵墓）拍下的罗马美景。圣天使堡是由罗马帝国皇帝哈德良所修建，用作自己和后代的陵墓。除他之外，还有许多皇帝被葬在这里，公元217年的卡拉卡拉是最后一位。",
+    "image_url": "https://cn.bing.com/th?id=OHR.RomeView_ZH-CN5882212305_1920x1080.webp",
+    "main_text": "罗马圣天使堡的盛名，在很大程度上要归功于改编自丹·布朗的长篇小说《天使与魔鬼》的电影。"
 }
 ```
 
-UpdataTime：2023-06-30 01:59:26
+UpdataTime：2023-07-01 02:14:34
