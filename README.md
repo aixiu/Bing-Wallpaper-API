@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![克罗夫附近的摩泽尔河，德国](https://cn.bing.com/th?id=OHR.MoselleRiver_ZH-CN1283415242_1920x1080.webp)
-Today: [克罗夫附近的摩泽尔河，德国](https://cn.bing.com/th?id=OHR.MoselleRiver_ZH-CN1283415242_1920x1080.webp) - 河湾
+![萨默塞特郡的薰衣草田，英国](https://cn.bing.com/th?id=OHR.SomersetLavender_ZH-CN5823464763_1920x1080.webp)
+Today: [萨默塞特郡的薰衣草田，英国](https://cn.bing.com/th?id=OHR.SomersetLavender_ZH-CN5823464763_1920x1080.webp) - 飘着香气的紫色海洋
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-07-09",
-    "headline": "河湾",
-    "title": "克罗夫附近的摩泽尔河，德国",
-    "description": "摩泽尔河是奔腾的莱茵河的一条支流，贯穿欧洲迷人的土地，流经法国、卢森堡和德国。河流雕刻出令人惊叹的山谷，两岸点缀着城镇和历史建筑。郁郁葱葱、沐浴阳光的葡萄藤爬满河流两岸的山坡，这里出产一些世界上最优质的葡萄酒，包括雷司令、白皮诺、灰皮诺。缓缓流动、波光粼粼的河水造就了宁静的氛围，吸引游客来此游船休闲或在岸边漫步。摩泽尔河是自然爱好者、葡萄酒爱好者和历史爱好者共同的圣地。",
-    "image_url": "https://cn.bing.com/th?id=OHR.MoselleRiver_ZH-CN1283415242_1920x1080.webp",
-    "main_text": "酿酒是克罗夫的主要产业之一。这里种植的葡萄大部分是雷司令。"
+    "date": "2023-07-10",
+    "headline": "飘着香气的紫色海洋",
+    "title": "萨默塞特郡的薰衣草田，英国",
+    "description": "英国西南部风景如画的萨默塞特郡以其迷人的薰衣草田而闻名。这些薰衣草田动人的色彩和迷人的花香令人神魂颠倒。2000年前，罗马人将薰衣草带到英国。薰衣草除了好看，对于罗马人来说还有很多实用用途，包括烹饪、驱虫和抗菌。自古以来，很多香水都会采用薰衣草，相传伊丽莎白一世女王就曾用过薰衣草香水。在今天的英国，薰衣草田依旧常见，让人见之忘俗。",
+    "image_url": "https://cn.bing.com/th?id=OHR.SomersetLavender_ZH-CN5823464763_1920x1080.webp",
+    "main_text": "英国薰衣草中可以提炼出一种香甜的精油，可用于制作药膏、香水和化妆品。"
 }
 ```
 
-UpdataTime：2023-07-09 02:18:19
+UpdataTime：2023-07-10 02:07:45
