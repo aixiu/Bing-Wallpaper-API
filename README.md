@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![萨默塞特郡的薰衣草田，英国](https://cn.bing.com/th?id=OHR.SomersetLavender_ZH-CN5823464763_1920x1080.webp)
-Today: [萨默塞特郡的薰衣草田，英国](https://cn.bing.com/th?id=OHR.SomersetLavender_ZH-CN5823464763_1920x1080.webp) - 飘着香气的紫色海洋
+![Hong Kong SAR](https://cn.bing.com/th?id=OHR.WorldPopDay_ZH-CN7074706912_1920x1080.webp)
+Today: [Hong Kong SAR](https://cn.bing.com/th?id=OHR.WorldPopDay_ZH-CN7074706912_1920x1080.webp) - 万家灯火
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-07-10",
-    "headline": "飘着香气的紫色海洋",
-    "title": "萨默塞特郡的薰衣草田，英国",
-    "description": "英国西南部风景如画的萨默塞特郡以其迷人的薰衣草田而闻名。这些薰衣草田动人的色彩和迷人的花香令人神魂颠倒。2000年前，罗马人将薰衣草带到英国。薰衣草除了好看，对于罗马人来说还有很多实用用途，包括烹饪、驱虫和抗菌。自古以来，很多香水都会采用薰衣草，相传伊丽莎白一世女王就曾用过薰衣草香水。在今天的英国，薰衣草田依旧常见，让人见之忘俗。",
-    "image_url": "https://cn.bing.com/th?id=OHR.SomersetLavender_ZH-CN5823464763_1920x1080.webp",
-    "main_text": "英国薰衣草中可以提炼出一种香甜的精油，可用于制作药膏、香水和化妆品。"
+    "date": "2023-07-11",
+    "headline": "万家灯火",
+    "title": "Hong Kong SAR",
+    "description": "三十六年前的今天，世界迎来了第 50 亿人口。 现在地球人口已经达到 80 亿，而且还在不断增加，这个问题继续存在：我们会用完空间、食物和其他必要的资源吗？ 在今天，我们可以反思地球能够维持多少生命，以及我们个人和集体的生活如何影响我们的地方、国家和全球环境。",
+    "image_url": "https://cn.bing.com/th?id=OHR.WorldPopDay_ZH-CN7074706912_1920x1080.webp",
+    "main_text": "世界人口增长率在 1965 年至 1970 年间达到顶峰，当时人口平均每年增长 2.1%。"
 }
 ```
 
-UpdataTime：2023-07-10 02:07:45
+UpdataTime：2023-07-11 01:57:15
