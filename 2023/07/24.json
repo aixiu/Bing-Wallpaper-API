@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-![斑马，塔兰吉雷国家公园，坦桑尼亚](https://cn.bing.com/th?id=OHR.ZebraCousins_ZH-CN8159888859_1920x1080.webp)
-Today: [斑马，塔兰吉雷国家公园，坦桑尼亚](https://cn.bing.com/th?id=OHR.ZebraCousins_ZH-CN8159888859_1920x1080.webp) - 堂/表兄弟姐妹日
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2023-07-24",
     "headline": "堂/表兄弟姐妹日",
@@ -42,6 +6,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url": "https://cn.bing.com/th?id=OHR.ZebraCousins_ZH-CN8159888859_1920x1080.webp",
     "main_text": "每只斑马身上的条纹皆不相同。对于这些条纹的功能有很多种假说，最具事实支撑的可能是用于防止被蚊虫叮咬。"
 }
-```
-
-UpdataTime：2023-07-24 01:45:55
