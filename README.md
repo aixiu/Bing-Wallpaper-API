@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![帕卢斯的农田，华盛顿州，美国](https://cn.bing.com/th?id=OHR.PalouseHills_ZH-CN6864015897_1920x1080.webp)
-Today: [帕卢斯的农田，华盛顿州，美国](https://cn.bing.com/th?id=OHR.PalouseHills_ZH-CN6864015897_1920x1080.webp) - 宛若仙境的帕卢斯田园
+![霍金山州立公园的岩石屋，俄亥俄州，美国](https://cn.bing.com/th?id=OHR.RockHouse_ZH-CN7318310409_1920x1080.webp)
+Today: [霍金山州立公园的岩石屋，俄亥俄州，美国](https://cn.bing.com/th?id=OHR.RockHouse_ZH-CN7318310409_1920x1080.webp) - 有人在家吗?
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-07-30",
-    "headline": "宛若仙境的帕卢斯田园",
-    "title": "帕卢斯的农田，华盛顿州，美国",
-    "description": "美国的帕卢斯地区以风景如画的景观和独特的地质特征而闻名。延绵起伏的丘陵田原一望无际，错落有致、金绿相间的麦浪美不胜收，相比意大利的托斯卡纳和法国乡村也毫不逊色。帕卢斯是一个农业区，当地土壤肥沃和气候适宜，盛产小麦、大麦、豌豆和小扁豆等。",
-    "image_url": "https://cn.bing.com/th?id=OHR.PalouseHills_ZH-CN6864015897_1920x1080.webp",
-    "main_text": "帕卢斯曾是一望无际的广阔草原，生长着蓝穗小麦草、爱达荷羊茅等多年生牧草。如今几乎所有的帕卢斯草原都已被开垦为农田，成片的旱雀麦覆盖着大地。"
+    "date": "2023-07-31",
+    "headline": "有人在家吗?",
+    "title": "霍金山州立公园的岩石屋，俄亥俄州，美国",
+    "description": "美丽宽敞的岩石屋是霍金山州立公园唯一的真正洞穴。该洞穴之所以被命名为岩石屋，是因为它曾在不同时期被不同的居住者用作避难所。岩石屋坐落在悬崖半山腰处，便于防御。早在欧洲移民到来之前，这里常被美洲原住民用于避难和举行仪式。",
+    "image_url": "https://cn.bing.com/th?id=OHR.RockHouse_ZH-CN7318310409_1920x1080.webp",
+    "main_text": "3.3亿多年前，这个公园还被大西洋的海水覆盖着。"
 }
 ```
 
-UpdataTime：2023-07-30 01:40:19
+UpdataTime：2023-07-31 01:41:40
