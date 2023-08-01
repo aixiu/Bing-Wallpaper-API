@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![霍金山州立公园的岩石屋，俄亥俄州，美国](https://cn.bing.com/th?id=OHR.RockHouse_ZH-CN7318310409_1920x1080.webp)
-Today: [霍金山州立公园的岩石屋，俄亥俄州，美国](https://cn.bing.com/th?id=OHR.RockHouse_ZH-CN7318310409_1920x1080.webp) - 有人在家吗?
+![从德纳里山看福克拉山，德纳里国家公园，美国阿拉斯加州](https://cn.bing.com/th?id=OHR.DenaliClimber_ZH-CN7548168932_1920x1080.webp)
+Today: [从德纳里山看福克拉山，德纳里国家公园，美国阿拉斯加州](https://cn.bing.com/th?id=OHR.DenaliClimber_ZH-CN7548168932_1920x1080.webp) - 德纳里山的力量无可否认
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-07-31",
-    "headline": "有人在家吗?",
-    "title": "霍金山州立公园的岩石屋，俄亥俄州，美国",
-    "description": "美丽宽敞的岩石屋是霍金山州立公园唯一的真正洞穴。该洞穴之所以被命名为岩石屋，是因为它曾在不同时期被不同的居住者用作避难所。岩石屋坐落在悬崖半山腰处，便于防御。早在欧洲移民到来之前，这里常被美洲原住民用于避难和举行仪式。",
-    "image_url": "https://cn.bing.com/th?id=OHR.RockHouse_ZH-CN7318310409_1920x1080.webp",
-    "main_text": "3.3亿多年前，这个公园还被大西洋的海水覆盖着。"
+    "date": "2023-08-01",
+    "headline": "德纳里山的力量无可否认",
+    "title": "从德纳里山看福克拉山，德纳里国家公园，美国阿拉斯加州",
+    "description": "今天是美国登山日。为了攀登高峰和征服困难地形，登山者们需要专业的训练和丰富的经验，登山途中更是一段艰辛的旅程。但是，登上山顶俯瞰山下风景的那一刻，所有的艰辛都是值得的。今天图片中展示的是北美最高峰德纳里山，海拔超2万英尺，位于阿拉斯加的德纳里国家公园和保护区。“德纳里”一词源于阿萨巴斯卡语，是“至高者”的意思。",
+    "image_url": "https://cn.bing.com/th?id=OHR.DenaliClimber_ZH-CN7548168932_1920x1080.webp",
+    "main_text": "德纳里山（原名麦金莱山），是北美洲的第一高峰。"
 }
 ```
 
-UpdataTime：2023-07-31 01:41:40
+UpdataTime：2023-08-01 01:49:05
