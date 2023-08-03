@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![圆顶礁国家公园的砂岩山丘，犹他州，美国](https://cn.bing.com/th?id=OHR.CapitolButte_ZH-CN7707972988_1920x1080.webp)
-Today: [圆顶礁国家公园的砂岩山丘，犹他州，美国](https://cn.bing.com/th?id=OHR.CapitolButte_ZH-CN7707972988_1920x1080.webp) - 大自然色调的调色板
+![泽伦西自然保护区，斯洛文尼亚](https://cn.bing.com/th?id=OHR.ZelenciSprings_ZH-CN8022746409_1920x1080.webp)
+Today: [泽伦西自然保护区，斯洛文尼亚](https://cn.bing.com/th?id=OHR.ZelenciSprings_ZH-CN8022746409_1920x1080.webp) - 绿松石般的泉水
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-08-02",
-    "headline": "大自然色调的调色板",
-    "title": "圆顶礁国家公园的砂岩山丘，犹他州，美国",
-    "description": "在圆顶礁国家公园，到处都是犹他州红岩地区崎岖壮丽的景色。这座隐藏在美国西南部的宝藏公园占地超过20万英亩，就像是一幅由高耸的悬崖、曲折的峡谷、色彩斑斓的砂岩山丘和广阔的沙漠景观组成的画卷。公园里最著名的，就是诞生于5000万到7000万年前的、绵延近100英里的褶皱地形。圆顶礁国家公园也是各种动植物的家园，其中还包括了行踪不定的沙漠大角羊和230多种鸟类。",
-    "image_url": "https://cn.bing.com/th?id=OHR.CapitolButte_ZH-CN7707972988_1920x1080.webp",
-    "main_text": "圆顶礁以其色彩斑斓又丰富多样的地形而闻名于世，孤峰、峡谷、巨石、山脊……令人目不暇接。"
+    "date": "2023-08-03",
+    "headline": "绿松石般的泉水",
+    "title": "泽伦西自然保护区，斯洛文尼亚",
+    "description": "泽伦西温泉位于意大利、奥地利和斯洛文尼亚三国的交界处，多个泉眼汇集形成了这个清澈的海蓝色湖泊。在这里，游客们可以尽情欣赏大自然色彩瑰丽的调色盘。",
+    "image_url": "https://cn.bing.com/th?id=OHR.ZelenciSprings_ZH-CN8022746409_1920x1080.webp",
+    "main_text": "泽伦西自然保护区毗邻意大利和奥地利边境，距离斯洛文尼亚的克拉尼斯卡戈拉不到5公里。"
 }
 ```
 
-UpdataTime：2023-08-02 01:34:51
+UpdataTime：2023-08-03 01:37:47
