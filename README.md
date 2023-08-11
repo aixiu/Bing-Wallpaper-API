@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![马赛马拉的一头狮子，肯尼亚](https://cn.bing.com/th?id=OHR.WorldLionDay_ZH-CN0525835107_1920x1080.webp)
-Today: [马赛马拉的一头狮子，肯尼亚](https://cn.bing.com/th?id=OHR.WorldLionDay_ZH-CN0525835107_1920x1080.webp) - 丛林之王？还真不是
+!['朱庇特艺术园的“入口”水池，爱丁堡，苏格兰](https://cn.bing.com/th?id=OHR.JupiterArtland_ZH-CN7955790073_1920x1080.webp)
+Today: ['朱庇特艺术园的“入口”水池，爱丁堡，苏格兰](https://cn.bing.com/th?id=OHR.JupiterArtland_ZH-CN7955790073_1920x1080.webp) - 独一无二的一朵“水花”
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-08-10",
-    "headline": "丛林之王？还真不是",
-    "title": "马赛马拉的一头狮子，肯尼亚",
-    "description": "狮子被称作“丛林之王”，但是在今天，也就是世界狮子日，我们得纠正这个说法：狮子其实并不生活在丛林中。狮子是草原和平原的王者，是凶猛的猎手。当它们没有狩猎时，这些威武的生物又会显露出相当有欺骗性的可爱一面来。它们会小憩、打闹、互相梳理毛发，然后下一秒又会突然去追逐羚羊，甚至是河马。就像是1994年的经典电影《狮子王》的片头曲里面唱的，这就是生命的循环。",
-    "image_url": "https://cn.bing.com/th?id=OHR.WorldLionDay_ZH-CN0525835107_1920x1080.webp",
-    "main_text": "狮子是唯一一种群居的猫科动物，不过也有一些狮子会选择独居。"
+    "date": "2023-08-11",
+    "headline": "独一无二的一朵“水花”",
+    "title": "'朱庇特艺术园的“入口”水池，爱丁堡，苏格兰",
+    "description": "今天这张照片看起来像是AI生成的未来星球，但其实这是一个名为“入口”的水池，拍摄于苏格兰爱丁堡的朱庇特艺术园。这件艺术品直径约9米，集景观雕塑和功能游泳池于一体，于2019年作为爱丁堡艺术节的一部分向公众开放。水池呈水花形，由11000多块手绘瓷砖制成，这些瓷砖产自葡萄牙传统陶瓷作坊。",
+    "image_url": "https://cn.bing.com/th?id=OHR.JupiterArtland_ZH-CN7955790073_1920x1080.webp",
+    "main_text": "这个名为“入口”的水池是一件非凡的艺术品，直径9米，由手绘葡萄牙瓷砖拼贴而成，整体风格鲜明、充满活力。"
 }
 ```
 
-UpdataTime：2023-08-10 01:43:03
+UpdataTime：2023-08-11 01:18:05
