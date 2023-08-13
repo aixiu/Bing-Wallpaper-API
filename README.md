@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![大象家族，安波塞利国家公园，肯尼亚](https://cn.bing.com/th?id=OHR.ThreeElephants_ZH-CN8708711085_1920x1080.webp)
-Today: [大象家族，安波塞利国家公园，肯尼亚](https://cn.bing.com/th?id=OHR.ThreeElephants_ZH-CN8708711085_1920x1080.webp) - 保护温柔的巨人
+![英仙座流星雨，白杨木峡谷州立公园，俄勒冈州，美国](https://cn.bing.com/th?id=OHR.PerseidsOregon_ZH-CN9427980491_1920x1080.webp)
+Today: [英仙座流星雨，白杨木峡谷州立公园，俄勒冈州，美国](https://cn.bing.com/th?id=OHR.PerseidsOregon_ZH-CN9427980491_1920x1080.webp) - 抬头看，它来了
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-08-12",
-    "headline": "保护温柔的巨人",
-    "title": "大象家族，安波塞利国家公园，肯尼亚",
-    "description": "作为地球上最大的陆地动物，非洲象拥有非凡的外形和独特的行为。研究发现，大象可以在镜子里认出自己；小象会换乳牙；失去家人时，大象也会表现出悲伤等情绪……每年8月12日的世界大象日不仅是为了赞美它们，也是为了引起人们对大象生存处境的关注。今天这张照片拍摄于肯尼亚的安波塞利国家公园，这里是为数不多的仍存在大量非洲象群的栖息地之一。",
-    "image_url": "https://cn.bing.com/th?id=OHR.ThreeElephants_ZH-CN8708711085_1920x1080.webp",
-    "main_text": "大象是非常聪明的动物，其智商被认为可以与灵长类动物相媲美。研究发现，它们似乎拥有自我意识，并且会对垂死和死去的同伴表现出关心。"
+    "date": "2023-08-13",
+    "headline": "抬头看，它来了",
+    "title": "英仙座流星雨，白杨木峡谷州立公园，俄勒冈州，美国",
+    "description": "当我们的祖先看到安静的夜空突然下起流星雨，他们会是什么感受？是惊惧还是惊叹？好在现在的我们已经知道，这是一场年度“灯光秀”，被称为英仙座流星雨，活跃期一般在每年的7月中旬至8月下旬。英仙座流星雨是由地球穿过斯威夫特-塔特尔彗星留下的碎片造成的，当这些碎片撞击地球大气层，就会产生炽热的流星雨。今天正是英仙座流星雨的高峰期，月亮预计只有10%的亮度，今晚可千万别错过“赏雨”哦！",
+    "image_url": "https://cn.bing.com/th?id=OHR.PerseidsOregon_ZH-CN9427980491_1920x1080.webp",
+    "main_text": "英仙座（Perseid）这个名字来源希腊神话英雄珀耳修斯。"
 }
 ```
 
-UpdataTime：2023-08-12 01:17:13
+UpdataTime：2023-08-13 01:23:55
