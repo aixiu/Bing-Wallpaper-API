@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![叶片上的小壁虎](https://cn.bing.com/th?id=OHR.GeckoLeaf_ZH-CN9908456174_1920x1080.webp)
-Today: [叶片上的小壁虎](https://cn.bing.com/th?id=OHR.GeckoLeaf_ZH-CN9908456174_1920x1080.webp) - 躲猫猫，我看见你了!
+![四月九日广场，陶尔米纳，西西里岛，意大利](https://cn.bing.com/th?id=OHR.TaorminaSquare_ZH-CN0273325652_1920x1080.webp)
+Today: [四月九日广场，陶尔米纳，西西里岛，意大利](https://cn.bing.com/th?id=OHR.TaorminaSquare_ZH-CN0273325652_1920x1080.webp) - 发光的矩形广场
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-08-14",
-    "headline": "躲猫猫，我看见你了!",
-    "title": "叶片上的小壁虎",
-    "description": "当你试图吸引人们关注世界蜥蜴日这项活动时，你不会想要用吉拉毒蜥、巨蜥，或者更常见的、但仍不讨喜的鬣蜥作为开场白。不，你想要的是一只可爱的小壁虎，就像我们在这张照片中看到的那样。壁虎有1500多种，大小不一，与其他蜥蜴不同的是，它们可以通过发声吸引配偶、威吓敌人和进行各种社交互动。",
-    "image_url": "https://cn.bing.com/th?id=OHR.GeckoLeaf_ZH-CN9908456174_1920x1080.webp",
-    "main_text": "斐济冠状鬣蜥是一种蜥蜴，在20世纪80年代的电影《蓝色泻湖》拍摄期间被发现。"
+    "date": "2023-08-15",
+    "headline": "发光的矩形广场",
+    "title": "四月九日广场，陶尔米纳，西西里岛，意大利",
+    "description": "陶尔米纳，一颗镶嵌在西西里岛上的美丽明珠，毗邻古希腊殖民地纳克索斯，被爱奥尼亚海和风景如画的伊索拉贝拉岛所环绕。自19世纪以来，这个美丽的小镇一直是旅游胜地。",
+    "image_url": "https://cn.bing.com/th?id=OHR.TaorminaSquare_ZH-CN0273325652_1920x1080.webp",
+    "main_text": "陶尔米纳会在夏季组织许多展览和活动，古剧场经常举办戏剧演出或古典音乐会，电影银丝带奖颁奖典礼等文化盛会也会在此举行。"
 }
 ```
 
-UpdataTime：2023-08-14 01:19:53
+UpdataTime：2023-08-15 01:19:09
