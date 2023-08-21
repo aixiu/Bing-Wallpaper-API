@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![起点灯塔，德文郡，英国](https://cn.bing.com/th?id=OHR.StartPointLight_ZH-CN4021540566_1920x1080.webp)
-Today: [起点灯塔，德文郡，英国](https://cn.bing.com/th?id=OHR.StartPointLight_ZH-CN4021540566_1920x1080.webp) - 海上哨兵
+![翡翠湖，加拿大育空地区](https://cn.bing.com/th?id=OHR.EmeraldLakeYukon_ZH-CN4281156537_1920x1080.webp)
+Today: [翡翠湖，加拿大育空地区](https://cn.bing.com/th?id=OHR.EmeraldLakeYukon_ZH-CN4281156537_1920x1080.webp) - 自内而外的光彩
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-08-20",
-    "headline": "海上哨兵",
-    "title": "起点灯塔，德文郡，英国",
-    "description": "每年8月的第三个周末，世界各地的灯塔爱好者和航海历史爱好者都会聚在一起庆祝国际灯塔周，纪念这些标志性建筑的悠久历史和关键作用。人们可以走进这些灯塔，亲眼见证这些巨大的灯塔通过将灯光、仪器和精密的工程技术巧妙地结合在一起来发挥作用。",
-    "image_url": "https://cn.bing.com/th?id=OHR.StartPointLight_ZH-CN4021540566_1920x1080.webp",
-    "main_text": "起点灯塔建于1836年，伫立于英国海岸线上其中一个最凸出的半岛上。"
+    "date": "2023-08-21",
+    "headline": "自内而外的光彩",
+    "title": "翡翠湖，加拿大育空地区",
+    "description": "发现日是加拿大育空地区的一个年度节日，用来纪念1896年在富矿溪发现金矿，这个发现开启了克朗代克淘金热，进而推动了育空领地的建立。淘金热吸引了数以千计的淘金者来此寻找财富，推动了重大的经济和社会变革。",
+    "image_url": "https://cn.bing.com/th?id=OHR.EmeraldLakeYukon_ZH-CN4281156537_1920x1080.webp",
+    "main_text": "加拿大向导汤姆·威尔逊在1882年成为了（原住民群体以外）最早发现翡翠湖的人。"
 }
 ```
 
-UpdataTime：2023-08-20 01:22:04
+UpdataTime：2023-08-21 01:18:45
