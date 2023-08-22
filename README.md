@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![翡翠湖，加拿大育空地区](https://cn.bing.com/th?id=OHR.EmeraldLakeYukon_ZH-CN4281156537_1920x1080.webp)
-Today: [翡翠湖，加拿大育空地区](https://cn.bing.com/th?id=OHR.EmeraldLakeYukon_ZH-CN4281156537_1920x1080.webp) - 自内而外的光彩
+![埃尔杰姆露天剧场，突尼斯](https://cn.bing.com/th?id=OHR.TunisiaAmphitheatre_ZH-CN4431856872_1920x1080.webp)
+Today: [埃尔杰姆露天剧场，突尼斯](https://cn.bing.com/th?id=OHR.TunisiaAmphitheatre_ZH-CN4431856872_1920x1080.webp) - 为罗马建筑“起立欢呼”
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-08-21",
-    "headline": "自内而外的光彩",
-    "title": "翡翠湖，加拿大育空地区",
-    "description": "发现日是加拿大育空地区的一个年度节日，用来纪念1896年在富矿溪发现金矿，这个发现开启了克朗代克淘金热，进而推动了育空领地的建立。淘金热吸引了数以千计的淘金者来此寻找财富，推动了重大的经济和社会变革。",
-    "image_url": "https://cn.bing.com/th?id=OHR.EmeraldLakeYukon_ZH-CN4281156537_1920x1080.webp",
-    "main_text": "加拿大向导汤姆·威尔逊在1882年成为了（原住民群体以外）最早发现翡翠湖的人。"
+    "date": "2023-08-22",
+    "headline": "为罗马建筑“起立欢呼”",
+    "title": "埃尔杰姆露天剧场，突尼斯",
+    "description": "埃尔杰姆露天剧场位于突尼斯东部小城镇艾尔杰姆，始建于公元3世纪的罗马帝国时期，以其令人惊叹的建筑设计闻名。它由巨石砌成，可以容纳35000名观众，至今仍然是世界上最大的露天剧场之一。这座露天剧场自1979年就被列为联合国教科文组织世界遗产地，被认为是世界上保存最完好的罗马建筑之一，在体量和设计上几乎可以和罗马竞技场比肩。",
+    "image_url": "https://cn.bing.com/th?id=OHR.TunisiaAmphitheatre_ZH-CN4431856872_1920x1080.webp",
+    "main_text": "这个建筑曾经在电影《蒙提·派森之布莱恩的一生》和电视剧《漫漫长路》中出现。"
 }
 ```
 
-UpdataTime：2023-08-21 01:18:45
+UpdataTime：2023-08-22 01:19:59
