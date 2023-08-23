@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![埃尔杰姆露天剧场，突尼斯](https://cn.bing.com/th?id=OHR.TunisiaAmphitheatre_ZH-CN4431856872_1920x1080.webp)
-Today: [埃尔杰姆露天剧场，突尼斯](https://cn.bing.com/th?id=OHR.TunisiaAmphitheatre_ZH-CN4431856872_1920x1080.webp) - 为罗马建筑“起立欢呼”
+![斯科加瀑布，冰岛](https://cn.bing.com/th?id=OHR.SkogafossWaterfall_ZH-CN4763253095_1920x1080.webp)
+Today: [斯科加瀑布，冰岛](https://cn.bing.com/th?id=OHR.SkogafossWaterfall_ZH-CN4763253095_1920x1080.webp) - 溅起一潭水花
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-08-22",
-    "headline": "为罗马建筑“起立欢呼”",
-    "title": "埃尔杰姆露天剧场，突尼斯",
-    "description": "埃尔杰姆露天剧场位于突尼斯东部小城镇艾尔杰姆，始建于公元3世纪的罗马帝国时期，以其令人惊叹的建筑设计闻名。它由巨石砌成，可以容纳35000名观众，至今仍然是世界上最大的露天剧场之一。这座露天剧场自1979年就被列为联合国教科文组织世界遗产地，被认为是世界上保存最完好的罗马建筑之一，在体量和设计上几乎可以和罗马竞技场比肩。",
-    "image_url": "https://cn.bing.com/th?id=OHR.TunisiaAmphitheatre_ZH-CN4431856872_1920x1080.webp",
-    "main_text": "这个建筑曾经在电影《蒙提·派森之布莱恩的一生》和电视剧《漫漫长路》中出现。"
+    "date": "2023-08-23",
+    "headline": "溅起一潭水花",
+    "title": "斯科加瀑布，冰岛",
+    "description": "今天照片里的是冰岛的斯科加瀑布，它是冰岛最大的瀑布之一，有82英尺宽，垂直落差约200英尺。游客经常能在这里看到彩虹，甚至是双彩虹。传说，第一个踏足冰岛的维京人曾把一个宝箱藏在了斯科加瀑布后面，这又为这个瀑布增添了一丝神秘色彩。",
+    "image_url": "https://cn.bing.com/th?id=OHR.SkogafossWaterfall_ZH-CN4763253095_1920x1080.webp",
+    "main_text": "斯科加瀑布水量充沛，水雾漫天，因此晴天的时候，这里通常都可以看见彩虹，甚至双彩虹。"
 }
 ```
 
-UpdataTime：2023-08-22 01:19:59
+UpdataTime：2023-08-23 01:18:49
