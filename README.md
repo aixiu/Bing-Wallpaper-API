@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![斯科加瀑布，冰岛](https://cn.bing.com/th?id=OHR.SkogafossWaterfall_ZH-CN4763253095_1920x1080.webp)
-Today: [斯科加瀑布，冰岛](https://cn.bing.com/th?id=OHR.SkogafossWaterfall_ZH-CN4763253095_1920x1080.webp) - 溅起一潭水花
+![鲨鱼鳍湾，达文波特，加利福尼亚州，美国](https://cn.bing.com/th?id=OHR.SharkFinCove_ZH-CN4952934195_1920x1080.webp)
+Today: [鲨鱼鳍湾，达文波特，加利福尼亚州，美国](https://cn.bing.com/th?id=OHR.SharkFinCove_ZH-CN4952934195_1920x1080.webp) - 自然“鳍”观
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-08-23",
-    "headline": "溅起一潭水花",
-    "title": "斯科加瀑布，冰岛",
-    "description": "今天照片里的是冰岛的斯科加瀑布，它是冰岛最大的瀑布之一，有82英尺宽，垂直落差约200英尺。游客经常能在这里看到彩虹，甚至是双彩虹。传说，第一个踏足冰岛的维京人曾把一个宝箱藏在了斯科加瀑布后面，这又为这个瀑布增添了一丝神秘色彩。",
-    "image_url": "https://cn.bing.com/th?id=OHR.SkogafossWaterfall_ZH-CN4763253095_1920x1080.webp",
-    "main_text": "斯科加瀑布水量充沛，水雾漫天，因此晴天的时候，这里通常都可以看见彩虹，甚至双彩虹。"
+    "date": "2023-08-24",
+    "headline": "自然“鳍”观",
+    "title": "鲨鱼鳍湾，达文波特，加利福尼亚州，美国",
+    "description": "鲨鱼鳍湾依偎在加州中部海岸小城达文波特附近海湾一隅。这个海湾中有一个形似鲨鱼鳍的海蚀柱，海湾也因此得名“鲨鱼鳍湾”。这个鲨鱼鳍状的海蚀柱曾是包围海滩的泥岩悬崖的一部分，在长年累月的海浪和大风的侵蚀作用下，最终形成了这个“鲨鱼鳍”。从一号公路上可以看到鲨鱼鳍湾，旅行者可以在此停留，一览无垠的太平洋。",
+    "image_url": "https://cn.bing.com/th?id=OHR.SharkFinCove_ZH-CN4952934195_1920x1080.webp",
+    "main_text": "鲨鱼鳍湾是一处浮潜胜地，水比较浅，海湾开口处的水深最多20英尺。海湾以外的海域更适合潜水。"
 }
 ```
 
-UpdataTime：2023-08-23 01:18:49
+UpdataTime：2023-08-24 01:18:42
