@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![曼哈顿鸟瞰图，纽约市，美国](https://cn.bing.com/th?id=OHR.ManhattanAerial_ZH-CN0036686873_1920x1080.webp)
-Today: [曼哈顿鸟瞰图，纽约市，美国](https://cn.bing.com/th?id=OHR.ManhattanAerial_ZH-CN0036686873_1920x1080.webp) - 高耸入云
+![布尔日的沼泽，法国](https://cn.bing.com/th?id=OHR.BourgesMarsh_ZH-CN0505354655_1920x1080.webp)
+Today: [布尔日的沼泽，法国](https://cn.bing.com/th?id=OHR.BourgesMarsh_ZH-CN0505354655_1920x1080.webp) - 城市中心的绿色天堂
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-09-03",
-    "headline": "高耸入云",
-    "title": "曼哈顿鸟瞰图，纽约市，美国",
-    "description": "每年的9月3日是摩天大楼日，同时，这一天也是现代主义建筑的先驱、被称为\"摩天大楼之父\"的路易斯·沙利文的诞辰。摩天大楼遍布世界各大城市，是进步、野心和人类追求新高度的象征。曼哈顿是纽约市人口稠密、充满活力的中心地带，这里有着令人目眩神迷的天际线和鳞次栉比的摩天大楼。这些建筑，比如帝国大厦、世界贸易中心一号楼和克莱斯勒大厦，构成了这座城市的建筑和文化遗产，每年都吸引着数百万游客慕名而来。",
-    "image_url": "https://cn.bing.com/th?id=OHR.ManhattanAerial_ZH-CN0036686873_1920x1080.webp",
-    "main_text": "曼哈顿被誉为世界文化、金融、媒体和娱乐之都。"
+    "date": "2023-09-04",
+    "headline": "城市中心的绿色天堂",
+    "title": "布尔日的沼泽，法国",
+    "description": "布尔日沼泽位于布尔日城市的中心，占地135公顷，为人们提供了一个放松和探索的空间。在中世纪时期，这片沼泽地曾是抵御入侵的城市保护带。",
+    "image_url": "https://cn.bing.com/th?id=OHR.BourgesMarsh_ZH-CN0505354655_1920x1080.webp",
+    "main_text": "沼泽为很多种无脊椎动物、两栖动物、水鸟和水生哺乳动物提供了栖息地。"
 }
 ```
 
-UpdataTime：2023-09-03 01:28:48
+UpdataTime：2023-09-04 01:21:20
