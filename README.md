@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![塞格拉山，塞尼亚岛，挪威](https://cn.bing.com/th?id=OHR.MountSegla_ZH-CN0758615745_1920x1080.webp)
-Today: [塞格拉山，塞尼亚岛，挪威](https://cn.bing.com/th?id=OHR.MountSegla_ZH-CN0758615745_1920x1080.webp) - 数字合成的照片？不是吧！
+![威尼斯旧港，克里特岛，希腊](https://cn.bing.com/th?id=OHR.CreteHarbor_ZH-CN0937533372_1920x1080.webp)
+Today: [威尼斯旧港，克里特岛，希腊](https://cn.bing.com/th?id=OHR.CreteHarbor_ZH-CN0937533372_1920x1080.webp) - 准备好下锚了吗？
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-09-05",
-    "headline": "数字合成的照片？不是吧！",
-    "title": "塞格拉山，塞尼亚岛，挪威",
-    "description": "塞尼亚岛是一座美丽的岛屿，被称为“挪威缩影”，也是挪威的第二大岛，岛屿的西边是各式各样的山峰，东边则是郁郁葱葱的绿地。吉松德大桥把这座岛屿和挪威本土城市芬斯内斯连接起来。今天照片里的是塞尼亚岛上最有名的景点塞格拉山。夏天时，游客可以沿着陡峭的小径攀登至600多米高的峰顶。塞尼亚岛的景点还有安德达伦国家公园和特拉恩岛——一座位于塞尼亚岛南边的岛屿，以其宁静的氛围而出名。",
-    "image_url": "https://cn.bing.com/th?id=OHR.MountSegla_ZH-CN0758615745_1920x1080.webp",
-    "main_text": "塞尼亚岛以其魔幻的山峰、深邃的峡湾和山谷、连绵的草地和松树林以及壮美的群岛湾而闻名。"
+    "date": "2023-09-06",
+    "headline": "准备好下锚了吗？",
+    "title": "威尼斯旧港，克里特岛，希腊",
+    "description": "威尼斯港位于古城罗希姆诺。矗立在海港边缘的埃及灯塔以及当地的土耳其风格建筑，是历史上不同民族在这里留下的印记。这个港口于14世纪由威尼斯人建成，曾经在很长的一段时间里都是一个繁忙的商业中心。游客还可以造访始建于16世纪的罗希姆诺城堡，在城堡上俯瞰罗希姆诺的城市全景。",
+    "image_url": "https://cn.bing.com/th?id=OHR.CreteHarbor_ZH-CN0937533372_1920x1080.webp",
+    "main_text": "克里特岛是希腊最大的岛屿，也是地中海第5大岛，还是世界上第88大的岛屿。"
 }
 ```
 
-UpdataTime：2023-09-05 01:19:19
+UpdataTime：2023-09-06 01:20:34
