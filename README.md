@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![沙漠中的骆驼，阿拉伯联合酋长国](https://cn.bing.com/th?id=OHR.CamelsAbove_ZH-CN1389810021_1920x1080.webp)
-Today: [沙漠中的骆驼，阿拉伯联合酋长国](https://cn.bing.com/th?id=OHR.CamelsAbove_ZH-CN1389810021_1920x1080.webp) - 沙漠之舟
+![巴斯圆形广场，萨默塞特 ，英国](https://cn.bing.com/th?id=OHR.BathCircus_ZH-CN5796600786_1920x1080.webp)
+Today: [巴斯圆形广场，萨默塞特 ，英国](https://cn.bing.com/th?id=OHR.BathCircus_ZH-CN5796600786_1920x1080.webp) - 简·奥斯汀的文学圈
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-09-07",
-    "headline": "沙漠之舟",
-    "title": "沙漠中的骆驼，阿拉伯联合酋长国",
-    "description": "对于阿联酋人来说，沙漠中的骆驼长久以来都是至关紧要的，同时也代表着阿联酋人的文化遗产和习俗。骆驼是贝都因人运输水和物资的关键交通工具，对于穿越炙热的沙漠来说是必不可少的。这些单峰骆驼还曾经被作为货币使用，例如支付嫁妆或者天课（穆斯林每年的慈善课税）。它们还可以提供营养，骆驼奶在很多食谱中都是宝贵且营养的食材。最后，骆驼还可以供人驾骑、提供娱乐。由此可见，这些坚韧的动物实在是用途广泛。",
-    "image_url": "https://cn.bing.com/th?id=OHR.CamelsAbove_ZH-CN1389810021_1920x1080.webp",
-    "main_text": "骆驼其实并不在驼峰中存储水分。"
+    "date": "2023-09-08",
+    "headline": "简·奥斯汀的文学圈",
+    "title": "巴斯圆形广场，萨默塞特 ，英国",
+    "description": "《傲慢与偏见》的作者简·奥斯汀是世界知名的作家之一，一年一度的文化盛事简·奥斯汀节就是为了纪念这位伟大的女作家而举办的。1801年至1806年间，简·奥斯汀居住于英国巴斯，因此这个节日就在此举行。今年的简·奥斯汀节于9月8日拉开帷幕（这一天恰好也是国际扫盲日），届时，人们会穿着18世纪的英国服装在巴斯的街道上游行。",
+    "image_url": "https://cn.bing.com/th?id=OHR.BathCircus_ZH-CN5796600786_1920x1080.webp",
+    "main_text": "简·奥斯汀23岁时，就完成了三本书的初稿。"
 }
 ```
 
-UpdataTime：2023-09-07 01:20:47
+UpdataTime：2023-09-08 01:20:59
