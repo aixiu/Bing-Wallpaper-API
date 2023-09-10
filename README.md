@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![大城府历史公园的柴瓦塔那兰寺，泰国](https://cn.bing.com/th?id=OHR.AyutthayaTemple_ZH-CN5996587937_1920x1080.webp)
-Today: [大城府历史公园的柴瓦塔那兰寺，泰国](https://cn.bing.com/th?id=OHR.AyutthayaTemple_ZH-CN5996587937_1920x1080.webp) - 皇家寺庙的废墟
+![斯瓦尔巴群岛海上的一对海象，挪威](https://cn.bing.com/th?id=OHR.WalrusSvalbard_ZH-CN6343458320_1920x1080.webp)
+Today: [斯瓦尔巴群岛海上的一对海象，挪威](https://cn.bing.com/th?id=OHR.WalrusSvalbard_ZH-CN6343458320_1920x1080.webp) - 长者的智慧
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-09-09",
-    "headline": "皇家寺庙的废墟",
-    "title": "大城府历史公园的柴瓦塔那兰寺，泰国",
-    "description": "当夕阳西下，泰国的夜幕降临，大城府历史公园里的柴瓦塔那兰寺灯火通明，迎接着夜晚的到来。虽然这座寺庙并非世界遗产大城府遗址的一部分，但它也有着丰富的历史和建筑底蕴。14世纪至18世纪，暹罗大城王朝统治东南亚，国王巴萨通建造了这座圣殿，象征着宇宙的中心。从佛寺出发，可以坐船或乘车到达历史名城大城府。如今，大城府已成为历史废墟，但曾经这里是重要的商业和外交中心，周围环绕的河流是其天然的防御屏障。",
-    "image_url": "https://cn.bing.com/th?id=OHR.AyutthayaTemple_ZH-CN5996587937_1920x1080.webp",
-    "main_text": "历史悠久的大城府建于1350年，是继素可泰之后暹罗王国的第二个首都。"
+    "date": "2023-09-10",
+    "headline": "长者的智慧",
+    "title": "斯瓦尔巴群岛海上的一对海象，挪威",
+    "description": "今天是祖父母节，你有没有给奶奶爷爷打个电话呢？自1978年以来，祖父母节成为了美国的全国性节日，旨在让人们表达对祖父母的敬意，唤起晚辈对长者的重视。祖父母们人生经验丰富，总是在家庭中扮演着智者的角色。提及智者，人们脑中通常会浮现一个留着长胡须的老人。在许多文化中，胡须也代表着智慧。今天照片里的海象也长着胡须，不过比起“象征智慧”，海象的胡须倒是有更实际的用处——寻找食物。",
+    "image_url": "https://cn.bing.com/th?id=OHR.WalrusSvalbard_ZH-CN6343458320_1920x1080.webp",
+    "main_text": "海象长相独特，身体呈纺锤形，粗壮而肥胖，通常为红棕色。"
 }
 ```
 
-UpdataTime：2023-09-09 01:18:41
+UpdataTime：2023-09-10 01:29:16
