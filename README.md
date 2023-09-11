@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![斯瓦尔巴群岛海上的一对海象，挪威](https://cn.bing.com/th?id=OHR.WalrusSvalbard_ZH-CN6343458320_1920x1080.webp)
-Today: [斯瓦尔巴群岛海上的一对海象，挪威](https://cn.bing.com/th?id=OHR.WalrusSvalbard_ZH-CN6343458320_1920x1080.webp) - 长者的智慧
+![波尔多葡萄园的日出，法国](https://cn.bing.com/th?id=OHR.MarathonMedoc_ZH-CN6649798028_1920x1080.webp)
+Today: [波尔多葡萄园的日出，法国](https://cn.bing.com/th?id=OHR.MarathonMedoc_ZH-CN6649798028_1920x1080.webp) - 历史、自然和美酒交汇之地
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-09-10",
-    "headline": "长者的智慧",
-    "title": "斯瓦尔巴群岛海上的一对海象，挪威",
-    "description": "今天是祖父母节，你有没有给奶奶爷爷打个电话呢？自1978年以来，祖父母节成为了美国的全国性节日，旨在让人们表达对祖父母的敬意，唤起晚辈对长者的重视。祖父母们人生经验丰富，总是在家庭中扮演着智者的角色。提及智者，人们脑中通常会浮现一个留着长胡须的老人。在许多文化中，胡须也代表着智慧。今天照片里的海象也长着胡须，不过比起“象征智慧”，海象的胡须倒是有更实际的用处——寻找食物。",
-    "image_url": "https://cn.bing.com/th?id=OHR.WalrusSvalbard_ZH-CN6343458320_1920x1080.webp",
-    "main_text": "海象长相独特，身体呈纺锤形，粗壮而肥胖，通常为红棕色。"
+    "date": "2023-09-11",
+    "headline": "历史、自然和美酒交汇之地",
+    "title": "波尔多葡萄园的日出，法国",
+    "description": "在波尔多地区，幅员辽阔的梅多克葡萄园盛产优质葡萄酒。九月是葡萄的丰收季，玛歌、波雅克、圣朱利安、圣埃斯特夫等知名产区都保留着古老的酿酒传统。",
+    "image_url": "https://cn.bing.com/th?id=OHR.MarathonMedoc_ZH-CN6649798028_1920x1080.webp",
+    "main_text": "梅多克值得一游，在这里，你可以了解法国葡萄酒的酿造历史，参观宏伟的著名酒庄，品尝顶级的葡萄美酒。"
 }
 ```
 
-UpdataTime：2023-09-10 01:29:16
+UpdataTime：2023-09-11 01:22:04
