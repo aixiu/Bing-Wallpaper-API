@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![西南阿连特茹和维森廷海岸自然公园上空的银河，葡萄牙](https://cn.bing.com/th?id=OHR.MilkyWayPortugal_ZH-CN8878883229_1920x1080.webp)
-Today: [西南阿连特茹和维森廷海岸自然公园上空的银河，葡萄牙](https://cn.bing.com/th?id=OHR.MilkyWayPortugal_ZH-CN8878883229_1920x1080.webp) - 黑夜里的“彩虹”
+![哈德良长城，诺森伯兰郡国家公园，英国](https://cn.bing.com/th?id=OHR.HadriansWallUK_ZH-CN9203571422_1920x1080.webp)
+Today: [哈德良长城，诺森伯兰郡国家公园，英国](https://cn.bing.com/th?id=OHR.HadriansWallUK_ZH-CN9203571422_1920x1080.webp) - 壁花的避风港
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-09-18",
-    "headline": "黑夜里的“彩虹”",
-    "title": "西南阿连特茹和维森廷海岸自然公园上空的银河，葡萄牙",
-    "description": "美国一年里有两次天文日，分别是春季天文日（4月中旬到5月中旬）和秋季天文日（9月中旬至10月中旬）。在这个特别的节日，科学博物馆、天文台、天文俱乐部和天文馆将举办专业人士主持的讲座、展览和工坊活动。对夜空的科学观测从早期文明时代就开始了，而天文学被称为最早的自然科学学科，是研究天体及相关现象的学科。今天照片里的是葡萄牙的西南阿连特茹和维森廷海岸自然公园，这里远离光污染，是个观星的好地方哦。",
-    "image_url": "https://cn.bing.com/th?id=OHR.MilkyWayPortugal_ZH-CN8878883229_1920x1080.webp",
-    "main_text": "天文日被定在9月中旬至10月中旬的一个周六，这样它就能尽可能的接近上弦月。"
+    "date": "2023-09-19",
+    "headline": "壁花的避风港",
+    "title": "哈德良长城，诺森伯兰郡国家公园，英国",
+    "description": "不要因为泥泞的道路就停下您踏上哈德良长城步道的脚步。这条设立于2003年的国家级步道位于英格兰北部，自东向西蜿蜒了84英里。",
+    "image_url": "https://cn.bing.com/th?id=OHR.HadriansWallUK_ZH-CN9203571422_1920x1080.webp",
+    "main_text": "哈德良长城步道是英格兰北部的一条长途徒步路线，在2003年成为了第15条英国国家步道。"
 }
 ```
 
-UpdataTime：2023-09-18 01:21:30
+UpdataTime：2023-09-19 01:25:18
