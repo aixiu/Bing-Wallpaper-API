@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![诺贝尔和平中心内部，奥斯陆，挪威](https://cn.bing.com/th?id=OHR.NobelNorway_ZH-CN9824054026_1920x1080.webp)
-Today: [诺贝尔和平中心内部，奥斯陆，挪威](https://cn.bing.com/th?id=OHR.NobelNorway_ZH-CN9824054026_1920x1080.webp) - 表彰和平卫士
+![马尔萨拉盐田，意大利](https://cn.bing.com/th?id=OHR.MarsalaSalt_ZH-CN4943158328_1920x1080.webp)
+Today: [马尔萨拉盐田，意大利](https://cn.bing.com/th?id=OHR.MarsalaSalt_ZH-CN4943158328_1920x1080.webp) - 马尔萨拉，西西里岛的奇迹之一
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-09-21",
-    "headline": "表彰和平卫士",
-    "title": "诺贝尔和平中心内部，奥斯陆，挪威",
-    "description": "每年的9月21日，联合国都会庆祝国际和平日。国际和平日设立于1981年，联合国总部会在这天举行仪式，敲响和平钟，钟上面刻着“愿世界永久和平”的美好期望。",
-    "image_url": "https://cn.bing.com/th?id=OHR.NobelNorway_ZH-CN9824054026_1920x1080.webp",
-    "main_text": "《牛津当代历史词典》将诺贝尔和平奖描述为“世界上最知名的奖项”。"
+    "date": "2023-09-22",
+    "headline": "马尔萨拉，西西里岛的奇迹之一",
+    "title": "马尔萨拉盐田，意大利",
+    "description": "韦尔东大峡谷位于普罗旺斯的中心，是欧洲独一无二的自然奇观。马尔萨拉的斯塔尼奥内湖，自1995年起成为保护区，占地约1000公顷，是古代时期的重要盐产地。马尔萨拉盐田历史悠久，由腓尼基人在公元前1000年左右建立。如今，这个美丽的地方由世界自然基金会管理，保护着定期迁徙到马尔萨拉地区的众多鸟类。",
+    "image_url": "https://cn.bing.com/th?id=OHR.MarsalaSalt_ZH-CN4943158328_1920x1080.webp",
+    "main_text": "马尔萨拉建于迦太基古城利利拜乌姆的废墟上，其境内包括腓尼基古城莫西亚岛的考古遗址。"
 }
 ```
 
-UpdataTime：2023-09-21 01:20:47
+UpdataTime：2023-09-22 01:21:25
