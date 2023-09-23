@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![马尔萨拉盐田，意大利](https://cn.bing.com/th?id=OHR.MarsalaSalt_ZH-CN4943158328_1920x1080.webp)
-Today: [马尔萨拉盐田，意大利](https://cn.bing.com/th?id=OHR.MarsalaSalt_ZH-CN4943158328_1920x1080.webp) - 马尔萨拉，西西里岛的奇迹之一
+![郊狼谷的棉白杨和红砂岩，格兰峡谷国家保护区，犹他州](https://cn.bing.com/th?id=OHR.CottonwoodCanyon_ZH-CN5293620973_1920x1080.webp)
+Today: [郊狼谷的棉白杨和红砂岩，格兰峡谷国家保护区，犹他州](https://cn.bing.com/th?id=OHR.CottonwoodCanyon_ZH-CN5293620973_1920x1080.webp) - 沐浴在秋天的色彩中
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-09-22",
-    "headline": "马尔萨拉，西西里岛的奇迹之一",
-    "title": "马尔萨拉盐田，意大利",
-    "description": "韦尔东大峡谷位于普罗旺斯的中心，是欧洲独一无二的自然奇观。马尔萨拉的斯塔尼奥内湖，自1995年起成为保护区，占地约1000公顷，是古代时期的重要盐产地。马尔萨拉盐田历史悠久，由腓尼基人在公元前1000年左右建立。如今，这个美丽的地方由世界自然基金会管理，保护着定期迁徙到马尔萨拉地区的众多鸟类。",
-    "image_url": "https://cn.bing.com/th?id=OHR.MarsalaSalt_ZH-CN4943158328_1920x1080.webp",
-    "main_text": "马尔萨拉建于迦太基古城利利拜乌姆的废墟上，其境内包括腓尼基古城莫西亚岛的考古遗址。"
+    "date": "2023-09-23",
+    "headline": "沐浴在秋天的色彩中",
+    "title": "郊狼谷的棉白杨和红砂岩，格兰峡谷国家保护区，犹他州",
+    "description": "秋天正式开始了！在北半球，今年的9月23日是秋分，这一天标志着秋天开始，太阳直射地球赤道，白昼和黑夜相等。在南半球，同样如此，但南北半球的季节是相反的，北半球秋分，南半球则是春分，正在迎接春天的到来。",
+    "image_url": "https://cn.bing.com/th?id=OHR.CottonwoodCanyon_ZH-CN5293620973_1920x1080.webp",
+    "main_text": "峡谷的下游有一处叫做“土狼天然桥”的地方，那是一个在大砂岩上凿刻出的小洞。再往下游走，就能看到悬崖拱门，这是峡谷北壁上的一座把壶柄式拱门。最后，在峡谷口的外面，史蒂文斯拱门高悬于埃斯卡兰特河之上，其开口大约有220英尺（67米）宽。"
 }
 ```
 
-UpdataTime：2023-09-22 01:21:25
+UpdataTime：2023-09-23 01:19:03
