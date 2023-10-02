@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![雄伟壮丽的中国长城](https://cn.bing.com/th?id=OHR.NationalDay2023_ZH-CN8608297006_1920x1080.webp)
-Today: [雄伟壮丽的中国长城](https://cn.bing.com/th?id=OHR.NationalDay2023_ZH-CN8608297006_1920x1080.webp) - 生日快乐
+![韦尔东峡谷，普罗旺斯-阿尔卑斯-蓝色海岸，法国](https://cn.bing.com/th?id=OHR.VerdonCanyon_ZH-CN8872507857_1920x1080.webp)
+Today: [韦尔东峡谷，普罗旺斯-阿尔卑斯-蓝色海岸，法国](https://cn.bing.com/th?id=OHR.VerdonCanyon_ZH-CN8872507857_1920x1080.webp) - 普罗旺斯大峡谷
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-10-01",
-    "headline": "生日快乐",
-    "title": "雄伟壮丽的中国长城",
-    "description": "十月是中国最美丽的月份之一。 这是一个丰富多彩、硕果累累的月份。 今天我们将带您欣赏中国的长城。 中国的长城是人类文明史上最伟大的建筑工程。 始建于2000多年前的春秋战国时期。 秦朝统一中国后，成为长城。 长城是世界七大奇迹之一，是中华民族古老文化的丰碑和智慧的结晶。 今天是中国的国庆节。 祝愿美丽富饶的中国更加繁荣昌盛。 生日快乐！",
-    "image_url": "https://cn.bing.com/th?id=OHR.NationalDay2023_ZH-CN8608297006_1920x1080.webp",
-    "main_text": "古北口长城是中国长城史上最完整的长城体系。"
+    "date": "2023-10-02",
+    "headline": "普罗旺斯大峡谷",
+    "title": "韦尔东峡谷，普罗旺斯-阿尔卑斯-蓝色海岸，法国",
+    "description": "坐落在普罗旺斯的中心，韦尔东峡谷是欧洲独一无二的自然瑰宝。绿松石色的韦尔东河在大地上切割出壮观的石灰岩悬崖，创造出令人窒息的美景。悬崖上蜿蜒盘旋着壮丽的步道，徒步者可以在上面俯瞰令人惊叹的碧绿河水。",
+    "image_url": "https://cn.bing.com/th?id=OHR.VerdonCanyon_ZH-CN8872507857_1920x1080.webp",
+    "main_text": "韦尔东冥河，名字来源于希腊神话中的冥河，是韦尔东峡谷中的一处深谷。"
 }
 ```
 
-UpdataTime：2023-10-01 01:36:41
+UpdataTime：2023-10-02 01:27:55
