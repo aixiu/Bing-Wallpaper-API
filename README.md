@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![狼蛛星云中形成的年轻恒星，詹姆斯·韦布空间望远镜](https://cn.bing.com/th?id=OHR.TarantulaNebula_ZH-CN9340300473_1920x1080.webp)
-Today: [狼蛛星云中形成的年轻恒星，詹姆斯·韦布空间望远镜](https://cn.bing.com/th?id=OHR.TarantulaNebula_ZH-CN9340300473_1920x1080.webp) - 狼蛛星云
+![巴布亚企鹅，南极洲](https://cn.bing.com/th?id=OHR.GentooJump_ZH-CN9625511393_1920x1080.webp)
+Today: [巴布亚企鹅，南极洲](https://cn.bing.com/th?id=OHR.GentooJump_ZH-CN9625511393_1920x1080.webp) - 这是怎么做到的！
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-10-04",
-    "headline": "狼蛛星云",
-    "title": "狼蛛星云中形成的年轻恒星，詹姆斯·韦布空间望远镜",
-    "description": "每年10月4日至10日是世界太空周，可以让全世界的人了解太空探索和太空技术带来的诸多好处，并庆祝人类在地外取得的成就。其中令人惊叹的宇宙奇观是狼蛛星云，由美国宇航局的詹姆斯·韦伯太空望远镜拍摄。狼蛛星云是本星系群中最明亮、最大的恒星形成区，本星系群也是银河系的所在地。该星云巨大的体积和动态能量为宇宙学家和天文学家提供了大量引人注目的素材。",
-    "image_url": "https://cn.bing.com/th?id=OHR.TarantulaNebula_ZH-CN9340300473_1920x1080.webp",
-    "main_text": "狼蛛星云的亮度非常强，如果它像猎户座星云一样靠近地球，就会投射出明显的阴影。"
+    "date": "2023-10-05",
+    "headline": "这是怎么做到的！",
+    "title": "巴布亚企鹅，南极洲",
+    "description": "每年的10月5日是世界教师日，这一天是所有教育工作者的庆祝日。1966年10月5日，国际劳工组织和联合国教科文组织共同审议通过了《关于教师地位的建议书》，因此当天也被设立为世界教师日。这一文件不仅肯定了教师的重要作用，而且规定了教师的权利与责任，同时提出了关于教师技能认定等方面的国际标准。",
+    "image_url": "https://cn.bing.com/th?id=OHR.GentooJump_ZH-CN9625511393_1920x1080.webp",
+    "main_text": "在企鹅物种中，巴布亚企鹅是体型第三大的企鹅，它们的体重能够达到18磅。"
 }
 ```
 
-UpdataTime：2023-10-04 01:28:49
+UpdataTime：2023-10-05 01:25:17
