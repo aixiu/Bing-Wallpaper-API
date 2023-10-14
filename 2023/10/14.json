@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-!["火环”日环食，多哈，卡特尔](https://cn.bing.com/th?id=OHR.RingEclipse_ZH-CN7063841581_1920x1080.webp)
-Today: ["火环”日环食，多哈，卡特尔](https://cn.bing.com/th?id=OHR.RingEclipse_ZH-CN7063841581_1920x1080.webp) - 它燃烧，燃烧，燃烧
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2023-10-14",
     "headline": "它燃烧，燃烧，燃烧",
@@ -42,6 +6,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url": "https://cn.bing.com/th?id=OHR.RingEclipse_ZH-CN7063841581_1920x1080.webp",
     "main_text": "虽然使用普通的照相设备即可拍摄日食，但如果你想要轻松地看到太阳或者月亮的盘面，还需要使用放大倍率相当高的长焦镜头。例如，35毫米照相机就至少需要200毫米的长焦镜头。如果你想要让盘面占满整个画面，则需要使用500毫米以上的长焦镜头。"
 }
-```
-
-UpdataTime：2023-10-14 01:20:19
