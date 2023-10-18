@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![帕拉塔塔,阿雅克肖,科西嘉岛,法国](https://cn.bing.com/th?id=OHR.GenoeseTower_ZH-CN0086623003_1920x1080.webp)
-Today: [帕拉塔塔,阿雅克肖,科西嘉岛,法国](https://cn.bing.com/th?id=OHR.GenoeseTower_ZH-CN0086623003_1920x1080.webp) - 赤血群岛的守护者
+![科迪亚克国家野生动物保护区，科迪亚克岛，阿拉斯加州，美国](https://cn.bing.com/th?id=OHR.KodiakAlaska_ZH-CN0627619150_1920x1080.webp)
+Today: [科迪亚克国家野生动物保护区，科迪亚克岛，阿拉斯加州，美国](https://cn.bing.com/th?id=OHR.KodiakAlaska_ZH-CN0627619150_1920x1080.webp) - 西沃德的财富
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-10-17",
-    "headline": "赤血群岛的守护者",
-    "title": "帕拉塔塔,阿雅克肖,科西嘉岛,法国",
-    "description": "闭上双眼，想象一下身处在科西嘉岛美丽的日落下，聆听海浪的声音......",
-    "image_url": "https://cn.bing.com/th?id=OHR.GenoeseTower_ZH-CN0086623003_1920x1080.webp",
-    "main_text": "如今，废弃的热那亚塔已成为科西嘉岛海岸线上一道独特的风景。其中一些塔楼还被法国文化部列为官方历史古迹。"
+    "date": "2023-10-18",
+    "headline": "西沃德的财富",
+    "title": "科迪亚克国家野生动物保护区，科迪亚克岛，阿拉斯加州，美国",
+    "description": "1867年10月18日，在美国国务卿威廉·亨利·西沃德的谈判下，俄国将阿拉斯加的领土转让给了美国。美国一共花费了720万美元，以每英亩约两美分的价格买下了阿拉斯加地区，这一段历史被称为“阿拉斯加交易”。如今，这一天被称为阿拉斯加日，以纪念阿拉斯加丰富的历史、多元的文化、未开垦的荒野和坚忍不拔的精神。",
+    "image_url": "https://cn.bing.com/th?id=OHR.KodiakAlaska_ZH-CN0627619150_1920x1080.webp",
+    "main_text": "该保护区没有从外部进入的道路，仅有一条通往恐怖湖水电站的私人道路。但该道路禁止公众使用。"
 }
 ```
 
-UpdataTime：2023-10-17 01:28:08
+UpdataTime：2023-10-18 01:28:08
