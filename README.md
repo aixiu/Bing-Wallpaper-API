@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![科迪亚克国家野生动物保护区，科迪亚克岛，阿拉斯加州，美国](https://cn.bing.com/th?id=OHR.KodiakAlaska_ZH-CN0627619150_1920x1080.webp)
-Today: [科迪亚克国家野生动物保护区，科迪亚克岛，阿拉斯加州，美国](https://cn.bing.com/th?id=OHR.KodiakAlaska_ZH-CN0627619150_1920x1080.webp) - 西沃德的财富
+![Castell y Gwynt，格莱德法赫山，雪墩山国家公园，英国北威尔士](https://cn.bing.com/th?id=OHR.CastellyGwyntUK_ZH-CN1219668479_1920x1080.webp)
+Today: [Castell y Gwynt，格莱德法赫山，雪墩山国家公园，英国北威尔士](https://cn.bing.com/th?id=OHR.CastellyGwyntUK_ZH-CN1219668479_1920x1080.webp) - 去而复返
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-10-18",
-    "headline": "西沃德的财富",
-    "title": "科迪亚克国家野生动物保护区，科迪亚克岛，阿拉斯加州，美国",
-    "description": "1867年10月18日，在美国国务卿威廉·亨利·西沃德的谈判下，俄国将阿拉斯加的领土转让给了美国。美国一共花费了720万美元，以每英亩约两美分的价格买下了阿拉斯加地区，这一段历史被称为“阿拉斯加交易”。如今，这一天被称为阿拉斯加日，以纪念阿拉斯加丰富的历史、多元的文化、未开垦的荒野和坚忍不拔的精神。",
-    "image_url": "https://cn.bing.com/th?id=OHR.KodiakAlaska_ZH-CN0627619150_1920x1080.webp",
-    "main_text": "该保护区没有从外部进入的道路，仅有一条通往恐怖湖水电站的私人道路。但该道路禁止公众使用。"
+    "date": "2023-10-19",
+    "headline": "去而复返",
+    "title": "Castell y Gwynt，格莱德法赫山，雪墩山国家公园，英国北威尔士",
+    "description": "《霍比特人》的主角比尔博·巴金斯曾说过一句名言：不是所有流浪者都迷失了自己的方向。但在这个名为“风的城堡”的地方，暂时失去方向感也是一种乐趣！虽然这里看起来像是《指环王》三部曲中的中土世界，但它却真实存于威尔士斯诺多尼亚山峰的高处。",
+    "image_url": "https://cn.bing.com/th?id=OHR.CastellyGwyntUK_ZH-CN1219668479_1920x1080.webp",
+    "main_text": "华特·迪士尼的电影《屠龙者》中的“风的城堡”和“悬臂石”。"
 }
 ```
 
-UpdataTime：2023-10-18 01:28:08
+UpdataTime：2023-10-19 01:25:48
