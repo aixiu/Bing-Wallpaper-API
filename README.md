@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![俾格米三趾树懒宝宝，埃斯库多贝拉瓜斯岛，巴拿马](https://cn.bing.com/th?id=OHR.PygmySloth_ZH-CN4739853522_1920x1080.webp)
-Today: [俾格米三趾树懒宝宝，埃斯库多贝拉瓜斯岛，巴拿马](https://cn.bing.com/th?id=OHR.PygmySloth_ZH-CN4739853522_1920x1080.webp) - 你想“挂”着玩吗？
+![波斯古城波斯波利斯的浮雕，伊朗](https://cn.bing.com/th?id=OHR.PersepolisRelief_ZH-CN4910990690_1920x1080.webp)
+Today: [波斯古城波斯波利斯的浮雕，伊朗](https://cn.bing.com/th?id=OHR.PersepolisRelief_ZH-CN4910990690_1920x1080.webp) - 哇，真是松了一口气！
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-10-20",
-    "headline": "你想“挂”着玩吗？",
-    "title": "俾格米三趾树懒宝宝，埃斯库多贝拉瓜斯岛，巴拿马",
-    "description": "今天就没必要像蜜蜂一样忙碌啦，因为今天是国际树懒日，是偷懒的最佳时机。今天的主角是以“懒”出圈的树懒，掌声送给它们！图片中这只三趾树懒，发型飘逸，面容友善，可能会让你产生加入其“朋友圈”的想法，但实际上，它们并不容易被发现。三趾树懒也被称为僧侣树懒或侏儒树懒，是巴拿马加勒比海沿岸的一个小岛——埃斯库多岛上的特有物种。这种树懒的体型明显小于其他种类的树懒，长约20英寸，重约5.5至7.7磅。不幸的是，在国际自然保护联盟的名单上，侏三趾树懒已被列为极度濒危物种。",
-    "image_url": "https://cn.bing.com/th?id=OHR.PygmySloth_ZH-CN4739853522_1920x1080.webp",
-    "main_text": "三趾树懒和二趾树懒一样，也是游泳健将。"
+    "date": "2023-10-21",
+    "headline": "哇，真是松了一口气！",
+    "title": "波斯古城波斯波利斯的浮雕，伊朗",
+    "description": "古迹是历史的见证，更是文化的传承。每年十月的第三个星期六是国际考古日，这一天，世界各地的考古组织会举办丰富的活动，如寻宝游戏、讲座和互动研讨会，所有这些活动都是为了唤醒人们内心的冒险精神，激发大家对过去的好奇心，了解考古的意义和更多的文化遗产知识。",
+    "image_url": "https://cn.bing.com/th?id=OHR.PersepolisRelief_ZH-CN4910990690_1920x1080.webp",
+    "main_text": "探索波斯波利斯的历史可以追溯到17世纪初，楔形文字也随之重现于世。"
 }
 ```
 
-UpdataTime：2023-10-20 01:25:12
+UpdataTime：2023-10-21 01:20:05
