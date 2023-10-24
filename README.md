@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![塞勒斯堡的玉米迷宫，宾夕法尼亚州，美国](https://cn.bing.com/th?id=OHR.PoconosMaze_ZH-CN4696904367_1920x1080.webp)
-Today: [塞勒斯堡的玉米迷宫，宾夕法尼亚州，美国](https://cn.bing.com/th?id=OHR.PoconosMaze_ZH-CN4696904367_1920x1080.webp) - “迷”人之境
+![桑佩伦山上的菲泽尔城堡，匈牙利](https://cn.bing.com/th?id=OHR.FuzerCastle_ZH-CN5485191349_1920x1080.webp)
+Today: [桑佩伦山上的菲泽尔城堡，匈牙利](https://cn.bing.com/th?id=OHR.FuzerCastle_ZH-CN5485191349_1920x1080.webp) - 这片迷雾密布的树林里潜藏着什么?
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-10-23",
-    "headline": "“迷”人之境",
-    "title": "塞勒斯堡的玉米迷宫，宾夕法尼亚州，美国",
-    "description": "宾夕法尼亚州波科诺斯地区的迷宫是体验美国乡村风情的绝佳选择，这里的秋季活动给游客提供了令人窒息的挑战。迷宫占地11英亩，每年都会推出新颖独特的迷宫设计，使其成为9月和10月的热门景点。",
-    "image_url": "https://cn.bing.com/th?id=OHR.PoconosMaze_ZH-CN4696904367_1920x1080.webp",
-    "main_text": "塞勒斯堡是美洲黑熊、灰狐和红狐等野生动物的家园。"
+    "date": "2023-10-24",
+    "headline": "这片迷雾密布的树林里潜藏着什么?",
+    "title": "桑佩伦山上的菲泽尔城堡，匈牙利",
+    "description": "匈牙利是一个历史悠久、风景迷人的国家，也是一个拥有众多城堡的宝库。从布达佩斯那拥有富丽堂皇的建筑并可以俯瞰多瑙河美景的布达城堡，到因成功抵御近四万土耳其大军而闻名的埃格尔城堡，每座城堡都讲述着各自关于战争、皇室和文化演变的故事。",
+    "image_url": "https://cn.bing.com/th?id=OHR.FuzerCastle_ZH-CN5485191349_1920x1080.webp",
+    "main_text": "位于桑佩伦山脉的陡峭山峰是许多中世纪石头城堡的基地。"
 }
 ```
 
-UpdataTime：2023-10-23 01:28:07
+UpdataTime：2023-10-24 01:23:01
