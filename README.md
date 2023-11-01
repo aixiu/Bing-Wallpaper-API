@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![万圣节南瓜灯](https://cn.bing.com/th?id=OHR.HalloweenCuteAI_ZH-CN1079713117_1920x1080.webp)
-Today: [万圣节南瓜灯](https://cn.bing.com/th?id=OHR.HalloweenCuteAI_ZH-CN1079713117_1920x1080.webp) - 恶灵们只想玩个开心。
+![上巴尔城堡，阿尔萨斯，法国](https://cn.bing.com/th?id=OHR.HautBarr_ZH-CN8274813404_1920x1080.webp)
+Today: [上巴尔城堡，阿尔萨斯，法国](https://cn.bing.com/th?id=OHR.HautBarr_ZH-CN8274813404_1920x1080.webp) - 你知道“阿尔萨斯之眼”吗？
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-10-31",
-    "headline": "恶灵们只想玩个开心。",
-    "title": "万圣节南瓜灯",
-    "description": "万圣节来了！当你今晚外出时，很有可能会看到一个发光的南瓜，它的名字是“jack-o'-lantern”（南瓜灯）！这个名字源于一则爱尔兰民间传说，故事的主人公是一个名叫吝啬鬼杰克的骗子，他会提着一个挖空了的芜菁做成的灯笼四处游荡。另外，南瓜雕刻也起源于爱尔兰。最初，这种雕刻可怕的面孔和复杂图案的万圣节活动是用芜菁和马铃薯完成的。当爱尔兰人移民到北美时，他们发现南瓜产量很大，而且比其他蔬菜更易于雕刻，于是就改用了南瓜。",
-    "image_url": "https://cn.bing.com/th?id=OHR.HalloweenCuteAI_ZH-CN1079713117_1920x1080.webp",
-    "main_text": "万圣节南瓜灯起源于一则爱尔兰传说，故事的主人公名叫“吝啬鬼杰克”。"
+    "date": "2023-11-01",
+    "headline": "你知道“阿尔萨斯之眼”吗？",
+    "title": "上巴尔城堡，阿尔萨斯，法国",
+    "description": "上巴尔城堡是一座位于阿尔萨斯北部，海拔450米的中世纪堡垒。它建于1170年，几个世纪以来经历了重大改造和修复。该城堡的建造由斯特拉斯堡的主教发起，旨在监视佐恩山谷和阿尔萨斯平原，因此被赋予了富有诗意的绰号“阿尔萨斯之眼”。天气晴朗时，甚至可以看到斯特拉斯堡大教堂的尖顶。",
+    "image_url": "https://cn.bing.com/th?id=OHR.HautBarr_ZH-CN8274813404_1920x1080.webp",
+    "main_text": "上巴尔城堡于1770年左右被废弃，但金库一直被占用，直到法国大革命。"
 }
 ```
 
-UpdataTime：2023-10-31 01:28:06
+UpdataTime：2023-11-01 01:32:42
