@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![Kirkilai湖泊和瞭望塔，比尔扎伊地区公园，立陶宛](https://cn.bing.com/th?id=OHR.KirkilaiTower_ZH-CN4058404632_1920x1080.webp)
-Today: [Kirkilai湖泊和瞭望塔，比尔扎伊地区公园，立陶宛](https://cn.bing.com/th?id=OHR.KirkilaiTower_ZH-CN4058404632_1920x1080.webp) - 瞭望塔上，一睹奇景！
+![黄山的日落，安徽省，中国](https://cn.bing.com/th?id=OHR.LiDong2023_ZH-CN5089092069_1920x1080.webp)
+Today: [黄山的日落，安徽省，中国](https://cn.bing.com/th?id=OHR.LiDong2023_ZH-CN5089092069_1920x1080.webp) - 冬日里的壮丽美景
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-11-07",
-    "headline": "瞭望塔上，一睹奇景！",
-    "title": "Kirkilai湖泊和瞭望塔，比尔扎伊地区公园，立陶宛",
-    "description": "Kirkilai瞭望塔坐落于立陶宛比尔扎伊地区公园内，高约115英尺，是现代建筑魅力和创意结合的典范。站在瞭望塔上，你可以一览Kirkilai喀斯特湖的美景。Kirkilai喀斯特湖是由可溶性岩石（如石膏和石灰岩）溶解而成的自然奇观。随着时间的推移，这些岩石中的洞穴逐渐被溶蚀、坍塌，形成清澈透亮的洼地积水，最终造就了独特迷人的喀斯特风光。互相连通的湖泊与周围郁郁葱葱的植被相映成趣，为自然爱好者打造了一个绝美的天堂。",
-    "image_url": "https://cn.bing.com/th?id=OHR.KirkilaiTower_ZH-CN4058404632_1920x1080.webp",
-    "main_text": "比尔扎伊地区公园以天坑而闻名。目前，该公园已发现约9000个天坑，其中最著名的是深约20米的奶牛洞。"
+    "date": "2023-11-08",
+    "headline": "冬日里的壮丽美景",
+    "title": "黄山的日落，安徽省，中国",
+    "description": "立冬是中国二十四节气中的第十九个节气。 这也是冬天的开始。在南方，初冬时节一般都不是很冷。随着时间的推移，冬至后冷空气频繁南下，气温逐渐下降。入冬后，北方大部分地区将出现雨雪降温天气。华北部分地区此时常下初雪。",
+    "image_url": "https://cn.bing.com/th?id=OHR.LiDong2023_ZH-CN5089092069_1920x1080.webp",
+    "main_text": "自唐代至清末，有关黄山的诗词有2万多首，并有一个画派因此而得名。"
 }
 ```
 
-UpdataTime：2023-11-07 01:29:55
+UpdataTime：2023-11-08 01:28:53
