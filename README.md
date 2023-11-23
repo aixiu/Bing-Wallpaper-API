@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![英国诺福克海滩上的灰海豹幼崽](https://cn.bing.com/th?id=OHR.HelloSeal_ZH-CN1064568368_1920x1080.webp)
-Today: [英国诺福克海滩上的灰海豹幼崽](https://cn.bing.com/th?id=OHR.HelloSeal_ZH-CN1064568368_1920x1080.webp) - 欢迎来到这个世界！
+![泰德国家公园的日落，特内里费岛，加那利群岛, 西班牙](https://cn.bing.com/th?id=OHR.TeideNational_ZH-CN1367200520_1920x1080.webp)
+Today: [泰德国家公园的日落，特内里费岛，加那利群岛, 西班牙](https://cn.bing.com/th?id=OHR.TeideNational_ZH-CN1367200520_1920x1080.webp) - 从深海到天空
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-11-21",
-    "headline": "欢迎来到这个世界！",
-    "title": "英国诺福克海滩上的灰海豹幼崽",
-    "description": "如果你此时去英国诺福克海滩度假，大概率会看到刚出生的灰海豹幼崽。每年的11月初至1月初，约有3,000只灰海豹幼崽在英国的诺福克海滩上出生，使该地区成为英国最重要的灰海豹繁殖地之一。相比之下，美国海岸的灰海豹幼崽出生时间略晚。海豹妈妈会在海滩上悉心喂养幼崽三周，在这期间，幼崽每天增重约4.5磅！喂养期结束后，小海豹们还不能立刻下水。它们会待在海滩上，直到苍白的皮毛变成斑驳的灰色，才会前往大海，学会自己捕猎。",
-    "image_url": "https://cn.bing.com/th?id=OHR.HelloSeal_ZH-CN1064568368_1920x1080.webp",
-    "main_text": "海豹幼崽第一年的存活率因地区及其自身条件而异。据估计，有的地区的海豹幼崽存活率在80%到85%之间，有的地区则低于50%。导致海豹幼崽死亡的主要原因是进食困难导致的饥饿。"
+    "date": "2023-11-23",
+    "headline": "从深海到天空",
+    "title": "泰德国家公园的日落，特内里费岛，加那利群岛, 西班牙",
+    "description": "雄伟的泰德峰海拔3718米，耸立在加那利群岛上。这座火山从海底隆起的高度达到了惊人的7500米，因此它既是西班牙最高的山峰，也是世界上海拔第三高的火山。",
+    "image_url": "https://cn.bing.com/th?id=OHR.TeideNational_ZH-CN1367200520_1920x1080.webp",
+    "main_text": "泰德火山拥有世界上最大的锥形阴影。"
 }
 ```
 
-UpdataTime：2023-11-21 01:35:18
+UpdataTime：2023-11-23 01:31:45
