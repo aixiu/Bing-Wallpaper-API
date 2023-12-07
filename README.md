@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![达尔达尼亚瀑布，博洛尼亚，意大利](https://cn.bing.com/th?id=OHR.DardagnaWaterfalls_ZH-CN5613123621_1920x1080.webp)
-Today: [达尔达尼亚瀑布，博洛尼亚，意大利](https://cn.bing.com/th?id=OHR.DardagnaWaterfalls_ZH-CN5613123621_1920x1080.webp) - 穿过群山的蜿蜒小路
+![韦尔东峡谷的雾蒙蒙的早晨，普罗旺斯-阿尔卑斯-蓝色海岸大区，法国](https://cn.bing.com/th?id=OHR.GrandCanyonVerdon_ZH-CN6025902720_1920x1080.webp)
+Today: [韦尔东峡谷的雾蒙蒙的早晨，普罗旺斯-阿尔卑斯-蓝色海岸大区，法国](https://cn.bing.com/th?id=OHR.GrandCanyonVerdon_ZH-CN6025902720_1920x1080.webp) - 欧洲大峡谷
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-12-06",
-    "headline": "穿过群山的蜿蜒小路",
-    "title": "达尔达尼亚瀑布，博洛尼亚，意大利",
-    "description": "在艾米利亚-罗马涅大区的众多奇观中，达尔达尼亚瀑布无疑是引人注目的。达尔达尼亚瀑布的名字来源于一条同名的溪流，该溪流在海拔250米的高差上形成了七个壮观的瀑布，其中最高的落差约为30米。该瀑布靠近圣母玛利亚圣殿，其壮丽的风景吸引了无数游客。流经数公里后，达尔达尼亚溪流汇入利奥河，随后流入帕纳罗河，而帕纳罗河又是更大的河流——波河的一条支流。由于水质纯净，达尔达尼亚溪流是许多鱼类的栖息地，如褐鳟鱼和蓝鳟鱼。",
-    "image_url": "https://cn.bing.com/th?id=OHR.DardagnaWaterfalls_ZH-CN5613123621_1920x1080.webp",
-    "main_text": "博洛尼亚是意大利人口第七大城市，约有40万居民。"
+    "date": "2023-12-07",
+    "headline": "欧洲大峡谷",
+    "title": "韦尔东峡谷的雾蒙蒙的早晨，普罗旺斯-阿尔卑斯-蓝色海岸大区，法国",
+    "description": "韦尔东峡谷是位于法国东南部普罗旺斯-阿尔卑斯-蓝色海岸大区的一条河流峡谷。峡谷绵延近百里，是欧洲最大的峡谷，其悬崖峭壁雄伟壮观，高度可达750米。普罗旺斯阿尔卑斯大区数百万年的侵蚀形成了这一壮观的自然景观，而韦尔东河水的翡翠色正是其名称的由来。",
+    "image_url": "https://cn.bing.com/th?id=OHR.GrandCanyonVerdon_ZH-CN6025902720_1920x1080.webp",
+    "main_text": "直到1906年，韦尔东峡谷才在法国以外扬名。"
 }
 ```
 
-UpdataTime：2023-12-06 01:32:56
+UpdataTime：2023-12-07 01:32:50
