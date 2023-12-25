@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-![驯鹿在雪中奔跑，阿拉斯加，美国](https://cn.bing.com/th?id=OHR.CaribouChristmas_ZH-CN6264028572_1920x1080.webp)
-Today: [驯鹿在雪中奔跑，阿拉斯加，美国](https://cn.bing.com/th?id=OHR.CaribouChristmas_ZH-CN6264028572_1920x1080.webp) - 圣诞快乐，亲爱的朋友们！
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2023-12-25",
     "headline": "圣诞快乐，亲爱的朋友们！",
@@ -42,6 +6,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url": "https://cn.bing.com/th?id=OHR.CaribouChristmas_ZH-CN6264028572_1920x1080.webp",
     "main_text": "根据民间传说，圣诞老人的雪橇是由会飞的驯鹿拉动的。在1823年的诗歌《圣尼古拉斯来访》中，这些驯鹿首次被命名。"
 }
-```
-
-UpdataTime：2023-12-25 01:32:12
