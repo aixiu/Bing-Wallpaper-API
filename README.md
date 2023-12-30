@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![旧西街区，阿姆斯特丹 ，荷兰](https://cn.bing.com/th?id=OHR.BlueAmsterdam_ZH-CN0483591394_1920x1080.webp)
-Today: [旧西街区，阿姆斯特丹 ，荷兰](https://cn.bing.com/th?id=OHR.BlueAmsterdam_ZH-CN0483591394_1920x1080.webp) - 旧西街区的故事
+![卡塞里格石圈，湖区国家公园 ，坎布里亚，英国](https://cn.bing.com/th?id=OHR.CastleriggStoneCircleUK_ZH-CN1174541384_1920x1080.webp)
+Today: [卡塞里格石圈，湖区国家公园 ，坎布里亚，英国](https://cn.bing.com/th?id=OHR.CastleriggStoneCircleUK_ZH-CN1174541384_1920x1080.webp) - 古石圈
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2023-12-29",
-    "headline": "旧西街区的故事",
-    "title": "旧西街区，阿姆斯特丹 ，荷兰",
-    "description": "欢迎来到阿姆斯特丹！荷兰首都阿姆斯特丹以其历史悠久的运河、多姿多彩的建筑和悠闲自在的氛围吸引着来自世界各地的游客。这座城市的历史可以追溯到12世纪，当时它还是阿姆斯特尔河畔的一个渔村。如今，阿姆斯特丹拥有梵高博物馆、EYE电影博物馆和国家海事博物馆等机构，让人们可以深入了解阿姆斯特丹的历史和艺术遗产。阿姆斯特丹的同心圆型运河区建于17世纪，已被联合国教科文组织列为世界遗产。此外，这座城市还拥有众多的餐馆、古董店和露天市场，图片上展示的旧西街区就是其中之一。准备好骑自行车吧，因为阿姆斯特丹的自行车文化无处不在。阿姆斯特丹拥有约320英里长的自行车道，是世界上最适合骑自行车的城市之一。",
-    "image_url": "https://cn.bing.com/th?id=OHR.BlueAmsterdam_ZH-CN0483591394_1920x1080.webp",
-    "main_text": "阿姆斯特丹是博物馆密度最高的城市。"
+    "date": "2023-12-30",
+    "headline": "古石圈",
+    "title": "卡塞里格石圈，湖区国家公园 ，坎布里亚，英国",
+    "description": "考古学家认为，古代文明排列石圈是为了让石头与月亮和太阳的位置保持一致。图中这个位于英格兰西北部湖区的卡塞里格石圈的就是这样的一个遗址。这个新石器时代的纪念碑有40块石头，呈圆形排列，其历史可以追溯到公元前3000年。虽然卡塞里格石圈的排列方式在某些方面仍然是个谜，但在几个世纪以来，其古典的魅力一直吸引着游客。",
+    "image_url": "https://cn.bing.com/th?id=OHR.CastleriggStoneCircleUK_ZH-CN1174541384_1920x1080.webp",
+    "main_text": "卡塞里格石圈的石头与太阳的位置没有明显的对齐。尽管如此，在冬至庆祝活动期间，它仍然是一个颇受欢迎的旅游景点。"
 }
 ```
 
-UpdataTime：2023-12-29 01:14:59
+UpdataTime：2023-12-30 01:28:04
