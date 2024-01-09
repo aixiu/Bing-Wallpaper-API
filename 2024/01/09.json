@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-![格兰德河上空的热气球，阿尔伯克基，新墨西哥州，美国](https://cn.bing.com/th?id=OHR.BalloonDay_ZH-CN7571792218_1920x1080.webp)
-Today: [格兰德河上空的热气球，阿尔伯克基，新墨西哥州，美国](https://cn.bing.com/th?id=OHR.BalloonDay_ZH-CN7571792218_1920x1080.webp) - 乘着热气球向上飞
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2024-01-09",
     "headline": "乘着热气球向上飞",
@@ -42,6 +6,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url": "https://cn.bing.com/th?id=OHR.BalloonDay_ZH-CN7571792218_1920x1080.webp",
     "main_text": "热气球的前身是孔明灯 。在三国时期（公元220年至280年），蜀汉的诸葛亮使用这些空中灯笼进行军事信号传递。"
 }
-```
-
-UpdataTime：2024-01-09 01:33:32
