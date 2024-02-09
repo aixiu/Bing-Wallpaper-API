@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![胡德山，俄勒冈州，美国](https://cn.bing.com/th?id=OHR.MtHoodOregon_ZH-CN6068357532_1920x1080.webp)
-Today: [胡德山，俄勒冈州，美国](https://cn.bing.com/th?id=OHR.MtHoodOregon_ZH-CN6068357532_1920x1080.webp) - 沉睡的巨人
+![灯光秀点亮夜幕中的西安城墙，中国春节](https://cn.bing.com/th?id=OHR.ChineseNewYearEve2024_ZH-CN7153418405_1920x1080.webp)
+Today: [灯光秀点亮夜幕中的西安城墙，中国春节](https://cn.bing.com/th?id=OHR.ChineseNewYearEve2024_ZH-CN7153418405_1920x1080.webp) - 准备好庆祝了吗？
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2024-02-08",
-    "headline": "沉睡的巨人",
-    "title": "胡德山，俄勒冈州，美国",
-    "description": "胡德山以其白雪皑皑的山尖装点着俄勒冈州的天际线。这座高约11,250英尺的休眠火山是俄勒冈州最高的山，吸引着众多冒险者和自然爱好者前来探险。这里有12座已被命名的冰川以及众多雪原，全年都是“冰雪乐园”。除了有冰雪之美，胡德山还拥有多种多样的生态系统，并孕育了古老的森林，是美洲狮和狼等野生动物的天堂。在过去的1800年里，这座火山喷发过3次。地质学家称，这座火山目前主要处于休眠状态，但仍有可能在将来的某一天再次喷发。",
-    "image_url": "https://cn.bing.com/th?id=OHR.MtHoodOregon_ZH-CN6068357532_1920x1080.webp",
-    "main_text": "一个多世纪以来，“怀伊斯特”这个名字一直与胡德山联系在一起，然而在各大原住民语言中，没有任何证据表明“怀伊斯特”是这座山的真名。"
+    "date": "2024-02-09",
+    "headline": "准备好庆祝了吗？",
+    "title": "灯光秀点亮夜幕中的西安城墙，中国春节",
+    "description": "几乎每一年的春节，西安城墙都被装扮得光彩动人，让这座千年古都彰显着更为浓郁的传统中国春节的韵味。而西安城墙的灯会更是给人们带来了绝美的体验感。当百米长灯点亮古城，烟火气息回归，现代城市与古老城市似乎打破了时空感，在夜幕降临以后，灯光璀璨之时，同时展现在眼前。置身其间的人们，似是穿越于古今两个时代，体会着千年的沧桑与繁华。",
+    "image_url": "https://cn.bing.com/th?id=OHR.ChineseNewYearEve2024_ZH-CN7153418405_1920x1080.webp",
+    "main_text": "西安城墙是中国现存规模最大、保存最完整的古代城垣。"
 }
 ```
 
-UpdataTime：2024-02-08 01:20:05
+UpdataTime：2024-02-09 01:19:36
