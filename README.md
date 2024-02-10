@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![灯光秀点亮夜幕中的西安城墙，中国春节](https://cn.bing.com/th?id=OHR.ChineseNewYearEve2024_ZH-CN7153418405_1920x1080.webp)
-Today: [灯光秀点亮夜幕中的西安城墙，中国春节](https://cn.bing.com/th?id=OHR.ChineseNewYearEve2024_ZH-CN7153418405_1920x1080.webp) - 准备好庆祝了吗？
+![中国舞狮，大年初一](https://cn.bing.com/th?id=OHR.SpringFestival2024_ZH-CN7514007541_1920x1080.webp)
+Today: [中国舞狮，大年初一](https://cn.bing.com/th?id=OHR.SpringFestival2024_ZH-CN7514007541_1920x1080.webp) - 福起新岁，万事顺意
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2024-02-09",
-    "headline": "准备好庆祝了吗？",
-    "title": "灯光秀点亮夜幕中的西安城墙，中国春节",
-    "description": "几乎每一年的春节，西安城墙都被装扮得光彩动人，让这座千年古都彰显着更为浓郁的传统中国春节的韵味。而西安城墙的灯会更是给人们带来了绝美的体验感。当百米长灯点亮古城，烟火气息回归，现代城市与古老城市似乎打破了时空感，在夜幕降临以后，灯光璀璨之时，同时展现在眼前。置身其间的人们，似是穿越于古今两个时代，体会着千年的沧桑与繁华。",
-    "image_url": "https://cn.bing.com/th?id=OHR.ChineseNewYearEve2024_ZH-CN7153418405_1920x1080.webp",
-    "main_text": "西安城墙是中国现存规模最大、保存最完整的古代城垣。"
+    "date": "2024-02-10",
+    "headline": "福起新岁，万事顺意",
+    "title": "中国舞狮，大年初一",
+    "description": "炮竹声中辞旧岁，烟花满天迎新春。从年初一开始便进入迎禧接福、拜祭神祖、祈求丰年主题。在春节期间，全国各地均有举行各种庆贺新春活动，带有浓郁的各地地方特色。中国民俗传统，认为舞狮可以驱邪辟鬼。故此每逢喜庆节日，都喜欢敲锣打鼓，舞狮助庆，长盛不衰，历代相传。新的一年，喜气洋洋，万事胜意！",
+    "image_url": "https://cn.bing.com/th?id=OHR.SpringFestival2024_ZH-CN7514007541_1920x1080.webp",
+    "main_text": "舞狮，是中国优秀的民间艺术，古时又称为“太平乐”。"
 }
 ```
 
-UpdataTime：2024-02-09 01:19:36
+UpdataTime：2024-02-10 01:18:25
