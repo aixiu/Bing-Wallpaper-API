@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![丹顶鹤向伴侣鞠躬，北海道，日本](https://cn.bing.com/th?id=OHR.BowingCrane_ZH-CN0143761293_1920x1080.webp)
-Today: [丹顶鹤向伴侣鞠躬，北海道，日本](https://cn.bing.com/th?id=OHR.BowingCrane_ZH-CN0143761293_1920x1080.webp) - 更好地在一起
+![河马妈妈和小河马，南卢安瓜国家公园，赞比亚](https://cn.bing.com/th?id=OHR.HippopotamusDay_ZH-CN0518367336_1920x1080.webp)
+Today: [河马妈妈和小河马，南卢安瓜国家公园，赞比亚](https://cn.bing.com/th?id=OHR.HippopotamusDay_ZH-CN0518367336_1920x1080.webp) - 河马日快乐！
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2024-02-14",
-    "headline": "更好地在一起",
-    "title": "丹顶鹤向伴侣鞠躬，北海道，日本",
-    "description": "情人节到来之际，空气中弥漫着爱的气息！这个节日通常与各种浪漫象征联系在一起，比如丘比特，或者威廉·莎士比亚笔下著名的恋人罗密欧和朱丽叶。爱情的象征也可以在大自然中找到，比如正在日本北海道的芦苇沼泽和冰冻湖泊中嬉戏的丹顶鹤。这些优雅的鸟儿跳着迷人的求偶舞，雄鹤带头翩翩起舞，随后伴侣加入它的舞步。丹顶鹤象征着好运、长寿和忠诚，许多国家都有折千纸鹤的传统，传说折一千只纸鹤可以实现愿望。",
-    "image_url": "https://cn.bing.com/th?id=OHR.BowingCrane_ZH-CN0143761293_1920x1080.webp",
-    "main_text": "情人节在任何国家都不是公共假日。"
+    "date": "2024-02-15",
+    "headline": "河马日快乐！",
+    "title": "河马妈妈和小河马，南卢安瓜国家公园，赞比亚",
+    "description": "今天，所有的目光都聚焦在河马身上！河马是仅次于大象和白犀牛的第三大陆栖哺乳动物，值得我们关注，尤其是在世界河马日这一天。这些半水生动物原产于撒哈拉以南的非洲地区，已被国际自然保护联盟列为易危物种。",
+    "image_url": "https://cn.bing.com/th?id=OHR.HippopotamusDay_ZH-CN0518367336_1920x1080.webp",
+    "main_text": "当今世界上只有两种河马，普通河马和侏儒河马。"
 }
 ```
 
-UpdataTime：2024-02-14 01:21:18
+UpdataTime：2024-02-15 01:20:54
