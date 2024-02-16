@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![河马妈妈和小河马，南卢安瓜国家公园，赞比亚](https://cn.bing.com/th?id=OHR.HippopotamusDay_ZH-CN0518367336_1920x1080.webp)
-Today: [河马妈妈和小河马，南卢安瓜国家公园，赞比亚](https://cn.bing.com/th?id=OHR.HippopotamusDay_ZH-CN0518367336_1920x1080.webp) - 河马日快乐！
+![一只雌性灰额主红雀栖息在德克萨斯州一株多刺仙人掌上，美国](https://cn.bing.com/th?id=OHR.BackyardBird_ZH-CN0522695977_1920x1080.webp)
+Today: [一只雌性灰额主红雀栖息在德克萨斯州一株多刺仙人掌上，美国](https://cn.bing.com/th?id=OHR.BackyardBird_ZH-CN0522695977_1920x1080.webp) - 让每只鸟都有价值
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2024-02-15",
-    "headline": "河马日快乐！",
-    "title": "河马妈妈和小河马，南卢安瓜国家公园，赞比亚",
-    "description": "今天，所有的目光都聚焦在河马身上！河马是仅次于大象和白犀牛的第三大陆栖哺乳动物，值得我们关注，尤其是在世界河马日这一天。这些半水生动物原产于撒哈拉以南的非洲地区，已被国际自然保护联盟列为易危物种。",
-    "image_url": "https://cn.bing.com/th?id=OHR.HippopotamusDay_ZH-CN0518367336_1920x1080.webp",
-    "main_text": "当今世界上只有两种河马，普通河马和侏儒河马。"
+    "date": "2024-02-16",
+    "headline": "让每只鸟都有价值",
+    "title": "一只雌性灰额主红雀栖息在德克萨斯州一株多刺仙人掌上，美国",
+    "description": "在接下来的四天里，世界各地的观鸟者将参加一年一度的特别活动：大后院鸟类计数。在计数期间，鸟类爱好者会对他们看到的鸟类进行计数，并输入清单报告其发现。这些数据通过提供有关鸟类数量和栖息地如何随时间变化的信息，帮助科学家了解和保护鸟类。",
+    "image_url": "https://cn.bing.com/th?id=OHR.BackyardBird_ZH-CN0522695977_1920x1080.webp",
+    "main_text": "灰额主红雀对棉田有益，因为它可以吃掉大量的棉虫和象鼻虫。"
 }
 ```
 
-UpdataTime：2024-02-15 01:20:54
+UpdataTime：2024-02-16 01:20:32
