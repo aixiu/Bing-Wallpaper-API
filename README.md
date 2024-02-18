@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![多洛米蒂山的布莱耶斯湖，南蒂罗尔，意大利](https://cn.bing.com/th?id=OHR.LakeDolomites_ZH-CN2317113886_1920x1080.webp)
-Today: [多洛米蒂山的布莱耶斯湖，南蒂罗尔，意大利](https://cn.bing.com/th?id=OHR.LakeDolomites_ZH-CN2317113886_1920x1080.webp) - 自然奇景
+![抹香鲸浮出水面，多米尼克](https://cn.bing.com/th?id=OHR.DominicaWhales_ZH-CN1293650397_1920x1080.webp)
+Today: [抹香鲸浮出水面，多米尼克](https://cn.bing.com/th?id=OHR.DominicaWhales_ZH-CN1293650397_1920x1080.webp) - 来一口新鲜空气
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2024-02-17",
-    "headline": "自然奇景",
-    "title": "多洛米蒂山的布莱耶斯湖，南蒂罗尔，意大利",
-    "description": "普拉格斯湖坐落在雄伟的多洛米蒂山脉中，是阿尔卑斯山的一颗明珠，也被称为布莱耶斯湖。湖水清澈见底，倒映着多洛米蒂山壮丽伟岸的白云岩，四周环绕着郁郁葱葱的森林。湖边有一条风景优美的小径，在气候温和的时节吸引着众多游客前来远足和散步。夏季，这里是乘船休闲的好去处；冬季，湖光山色成了一幅浓郁的瑰画散发着魅力。普拉格斯湖把自然美景、历史与文化完美融合，矗立一旁的圣维特小教堂见证了它的过去。这个“拥有世上最美的高山景观”的迷人地方将为你带来难忘的体验。",
-    "image_url": "https://cn.bing.com/th?id=OHR.LakeDolomites_ZH-CN2317113886_1920x1080.webp",
-    "main_text": "湖水清澈碧绿，闻名遐迩。"
+    "date": "2024-02-18",
+    "headline": "来一口新鲜空气",
+    "title": "抹香鲸浮出水面，多米尼克",
+    "description": "嗨，海中的巨人们！世界鲸鱼日与加勒比海多米尼克岛沿岸的抹香鲸一起再次浮出水面。这个节日于1980年在毛伊岛设立，最初是为了庆祝夏威夷水域的座头鲸，现在已经演变成一个倡导保护所有鲸鱼物种的全球性活动。",
+    "image_url": "https://cn.bing.com/th?id=OHR.DominicaWhales_ZH-CN1293650397_1920x1080.webp",
+    "main_text": "嗨，海中的巨人们！世界鲸鱼日与加勒比海多米尼克岛沿岸的抹香鲸一起再次浮出水面。这个节日于1980年在毛伊岛设立，最初是为了庆祝夏威夷水域的座头鲸，现在已经演变成一个倡导保护所有鲸鱼物种的全球性活动。"
 }
 ```
 
-UpdataTime：2024-02-17 01:20:03
+UpdataTime：2024-02-18 01:30:21
