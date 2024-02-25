@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![锦里街上悬挂的红色中国灯笼，成都，中国四川省](https://cn.bing.com/th?id=OHR.LaternFestival2024_ZH-CN8050981828_1920x1080.webp)
-Today: [锦里街上悬挂的红色中国灯笼，成都，中国四川省](https://cn.bing.com/th?id=OHR.LaternFestival2024_ZH-CN8050981828_1920x1080.webp) - 点亮一盏明灯，愿您万事顺意！
+![考伊琴山谷的薄雾，温哥华岛，加拿大不列颠哥伦比亚省](https://cn.bing.com/th?id=OHR.MtPrevostDuncan_ZH-CN2333619635_1920x1080.webp)
+Today: [考伊琴山谷的薄雾，温哥华岛，加拿大不列颠哥伦比亚省](https://cn.bing.com/th?id=OHR.MtPrevostDuncan_ZH-CN2333619635_1920x1080.webp) - 薄雾笼罩
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2024-02-24",
-    "headline": "点亮一盏明灯，愿您万事顺意！",
-    "title": "锦里街上悬挂的红色中国灯笼，成都，中国四川省",
-    "description": "正月是农历的元月，古人称“夜”为“宵”，正月十五是一年中第一个月圆之夜，所以称正月十五为“元宵节”。元宵节习俗自古以来就以热烈喜庆的观灯习俗为主。",
-    "image_url": "https://cn.bing.com/th?id=OHR.LaternFestival2024_ZH-CN8050981828_1920x1080.webp",
-    "main_text": "锦里曾是西蜀历史上较为古老、较具有商业气息的街道之一，早在秦汉、三国时期便闻名中国。"
+    "date": "2024-02-25",
+    "headline": "薄雾笼罩",
+    "title": "考伊琴山谷的薄雾，温哥华岛，加拿大不列颠哥伦比亚省",
+    "description": "欢迎来到加拿大不列颠哥伦比亚省温哥华岛的考伊琴山谷。该山谷位于温哥华岛南部，其艺术和历史在普雷沃斯特山等郁郁青山中回荡。作为不列颠哥伦比亚省最大的原住民部落考伊琴部落的政府所在地，邓肯市拥有令人咋舌的原住民艺术收藏品，其中就包括了复杂的雕刻和绘画作品。在这里，您一定要参观图腾柱收藏馆，这些高耸的图腾柱是原住民历史的象征，描绘了原住民祖先的传说和部族的族徽。",
+    "image_url": "https://cn.bing.com/th?id=OHR.MtPrevostDuncan_ZH-CN2333619635_1920x1080.webp",
+    "main_text": "邓肯被誉为“图腾之城”，这里有几十根图腾柱，主要分布在市中心和公路沿线。"
 }
 ```
 
-UpdataTime：2024-02-24 01:17:50
+UpdataTime：2024-02-25 01:29:47
