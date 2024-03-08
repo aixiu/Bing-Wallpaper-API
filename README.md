@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![Roques de Benet，埃尔斯港自然公园，加泰罗尼亚，西班牙](https://cn.bing.com/th?id=OHR.TarragonaSpain_ZH-CN5488361711_1920x1080.webp)
-Today: [Roques de Benet，埃尔斯港自然公园，加泰罗尼亚，西班牙](https://cn.bing.com/th?id=OHR.TarragonaSpain_ZH-CN5488361711_1920x1080.webp) - 攀登新的高峰
+![伊瓜苏大瀑布鸟瞰图，巴西](https://cn.bing.com/th?id=OHR.IguazuFalls_ZH-CN4749837052_1920x1080.webp)
+Today: [伊瓜苏大瀑布鸟瞰图，巴西](https://cn.bing.com/th?id=OHR.IguazuFalls_ZH-CN4749837052_1920x1080.webp) - 世界新七大自然奇观之一
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2024-03-07",
-    "headline": "攀登新的高峰",
-    "title": "Roques de Benet，埃尔斯港自然公园，加泰罗尼亚，西班牙",
-    "description": "奇特的山峰耸立在埃尔斯港自然公园的上空，这是一组位于西班牙加泰罗尼亚地区波特斯德托尔托萨贝塞特山的岩石群。这组岩石群里最高的山峰海拔约3,330英尺，从山顶上俯瞰埃布罗三角洲，可以看到溪流和松树林，还有通往山中的小径。该山的名字中包含“Benet”一词，这个词源于阿拉伯语，暗示着该地区有着丰富多彩的过去。如今，埃尔斯港自然公园是各种动物的家园，从野生山羊和水獭到秃鹫和老鹰，园区内物种丰富。不过，动物并不是该地区唯一的“居民”。山脚下还坐落着一个具有社区意识的村庄，村民们仍然保持着共同的传统，例如使用植物纤维来制作篮子和厨房用具的古老工艺。",
-    "image_url": "https://cn.bing.com/th?id=OHR.TarragonaSpain_ZH-CN5488361711_1920x1080.webp",
-    "main_text": "在大航海时代，西班牙率先对新大陆进行了探索和殖民，并形成了历史上最大的帝国之一。"
+    "date": "2024-03-08",
+    "headline": "世界新七大自然奇观之一",
+    "title": "伊瓜苏大瀑布鸟瞰图，巴西",
+    "description": "伊瓜苏大瀑布以其宏伟且独特的美景吸引着游客，是南美洲最令人印象深刻的自然宝藏之一。这个壮观的瀑布位于巴西和阿根廷的交界处，不仅是一个不可错过的旅游景点，也是全球公认的瑰宝。1986年，伊瓜苏大瀑布被联合国教科文组织评为世界遗产，并被世界新七大奇迹基金会评选为世界七大自然奇观之一。",
+    "image_url": "https://cn.bing.com/th?id=OHR.IguazuFalls_ZH-CN4749837052_1920x1080.webp",
+    "main_text": "该景点中心的马蹄形瀑布高约80米，直径2700米，位于横跨阿根廷和巴西的边界线上。"
 }
 ```
 
-UpdataTime：2024-03-07 01:07:01
+UpdataTime：2024-03-08 01:20:25
