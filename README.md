@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![圣哈辛托大厦的机械钟，博蒙特，美国德克萨斯州](https://cn.bing.com/th?id=OHR.BeaumontClock_ZH-CN5288086713_1920x1080.webp)
-Today: [圣哈辛托大厦的机械钟，博蒙特，美国德克萨斯州](https://cn.bing.com/th?id=OHR.BeaumontClock_ZH-CN5288086713_1920x1080.webp) - 是时候调整时间了
+![Prosecco山丘，科内利亚诺和瓦尔多比亚德内，威内托大区，意大利](https://cn.bing.com/th?id=OHR.ProseccoItaly_ZH-CN6802010344_1920x1080.webp)
+Today: [Prosecco山丘，科内利亚诺和瓦尔多比亚德内，威内托大区，意大利](https://cn.bing.com/th?id=OHR.ProseccoItaly_ZH-CN6802010344_1920x1080.webp) - 醉人的山峦
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2024-03-10",
-    "headline": "是时候调整时间了",
-    "title": "圣哈辛托大厦的机械钟，博蒙特，美国德克萨斯州",
-    "description": "今天的时间至关重要：三月的第二个星期日标志着夏令时的开始。今天凌晨2点开始，时钟向前拨动一小时，这意味着今天白天会“多”出一个小时。本杰明·富兰克林通常被认为是夏令时的发明者，但第一个真正意义上提出拨动时钟建议的人是新西兰昆虫学家乔治·赫德森。在1895年，因为他想在白天有更多的时间来采集昆虫，他提出了这一改动。",
-    "image_url": "https://cn.bing.com/th?id=OHR.BeaumontClock_ZH-CN5288086713_1920x1080.webp",
-    "main_text": "夏令时规则的改变会给现有的计算机安装带来问题。例如，2007年北美对夏令时规则的修改要求许多计算机系统进行升级，而电子邮件和日历程序的升级压力则是最大的。"
+    "date": "2024-03-11",
+    "headline": "醉人的山峦",
+    "title": "Prosecco山丘，科内利亚诺和瓦尔多比亚德内，威内托大区，意大利",
+    "description": "科内利亚诺和瓦尔多比亚德内的Prosecco丘陵是大自然与人类智慧完美结合的地方。由于其独特性，这些山丘已被联合国教科文组织列入世界遗产名录。特殊的丘陵地带给该地带来了由葡萄园和树林构成的有机环境。而在马赛克般的景观中脱颖而出的小村庄和葡萄园，却只是让这个地方显得独一无二的部分因素。",
+    "image_url": "https://cn.bing.com/th?id=OHR.ProseccoItaly_ZH-CN6802010344_1920x1080.webp",
+    "main_text": "与香槟和弗朗恰柯塔不同，Prosecco通常采用查玛法（又称马丁诺帝法）生产，即在大型不锈钢罐中进行二次发酵，而不是在每个酒瓶中发酵，从而降低了葡萄酒的生产成本，其最短的生产时间为30天。"
 }
 ```
 
-UpdataTime：2024-03-10 01:30:35
+UpdataTime：2024-03-11 01:21:14
