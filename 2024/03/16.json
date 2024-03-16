@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-![正在吃竹子的大熊猫，中国成都](https://cn.bing.com/th?id=OHR.BambooPanda_ZH-CN8455481760_1920x1080.webp)
-Today: [正在吃竹子的大熊猫，中国成都](https://cn.bing.com/th?id=OHR.BambooPanda_ZH-CN8455481760_1920x1080.webp) - 被竹子包围了
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2024-03-16",
     "headline": "被竹子包围了",
@@ -42,6 +6,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url": "https://cn.bing.com/th?id=OHR.BambooPanda_ZH-CN8455481760_1920x1080.webp",
     "main_text": "大熊猫只有两个亚种，即四川亚种和秦岭亚种。它们的主要栖息地是中国四川、陕西和甘肃的山区。"
 }
-```
-
-UpdataTime：2024-03-16 01:19:02
