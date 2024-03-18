@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![圣菲尼安湾，凯里郡，爱尔兰](https://cn.bing.com/th?id=OHR.StFiniansBay_ZH-CN8655586052_1920x1080.webp)
-Today: [圣菲尼安湾，凯里郡，爱尔兰](https://cn.bing.com/th?id=OHR.StFiniansBay_ZH-CN8655586052_1920x1080.webp) - 今天，让我们穿绿衣裳吧！
+![大象岩，古城欧拉，沙特阿拉伯](https://cn.bing.com/th?id=OHR.ElephantRock_ZH-CN9293300383_1920x1080.webp)
+Today: [大象岩，古城欧拉，沙特阿拉伯](https://cn.bing.com/th?id=OHR.ElephantRock_ZH-CN9293300383_1920x1080.webp) - 温柔的“沙丘巨人”
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2024-03-17",
-    "headline": "今天，让我们穿绿衣裳吧！",
-    "title": "圣菲尼安湾，凯里郡，爱尔兰",
-    "description": "今天，全球数百万具有爱尔兰血统的人都在庆祝圣帕特里克节。圣帕特里克是爱尔兰国家的守护神，大约在公元432年，他将基督教引入到爱尔兰。公元461年3月17日，圣帕特里克逝世，这一天成为了爱尔兰纪念他的日子。",
-    "image_url": "https://cn.bing.com/th?id=OHR.StFiniansBay_ZH-CN8655586052_1920x1080.webp",
-    "main_text": "考古学家在圣菲尼安湾附近发现了青铜时代的遗迹。在拉特克林有一座土堡的遗迹，还有许多石墓和地下储藏室。"
+    "date": "2024-03-18",
+    "headline": "温柔的“沙丘巨人”",
+    "title": "大象岩，古城欧拉，沙特阿拉伯",
+    "description": "经过数百万年的时间，大自然雕琢出了这片耀眼夺目的砂岩地貌，名为大象岩。该岩石高达117英尺，位于沙特阿拉伯古城欧拉附近，由于风水的侵蚀，它呈现出大象的形状，并成为了该地区的著名地标。日落时，夕阳洒在这片沙漠上，为红色的“猛犸象”及其周围金色的沙子镀上一层温暖的光辉。",
+    "image_url": "https://cn.bing.com/th?id=OHR.ElephantRock_ZH-CN9293300383_1920x1080.webp",
+    "main_text": "古城欧拉民俗文化村是一个传统的阿拉伯村庄。大约在8世纪前，绿洲上的人们迁居至此，并一直居住到 20 世纪。"
 }
 ```
 
-UpdataTime：2024-03-17 01:30:32
+UpdataTime：2024-03-18 01:21:31
