@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![潘塔纳尔湿地的大白鹭，巴西](https://cn.bing.com/th?id=OHR.ArdeAlba_ZH-CN6807697569_1920x1080.webp)
-Today: [潘塔纳尔湿地的大白鹭，巴西](https://cn.bing.com/th?id=OHR.ArdeAlba_ZH-CN6807697569_1920x1080.webp) - 纯洁与优雅的象征
+![勃朗峰上的冰海，夏慕尼，法国](https://cn.bing.com/th?id=OHR.MontBlancGlacier_ZH-CN2918240023_1920x1080.webp)
+Today: [勃朗峰上的冰海，夏慕尼，法国](https://cn.bing.com/th?id=OHR.MontBlancGlacier_ZH-CN2918240023_1920x1080.webp) - 岌岌可危的冰川
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2024-03-31",
-    "headline": "纯洁与优雅的象征",
-    "title": "潘塔纳尔湿地的大白鹭，巴西",
-    "description": "在巴西潘塔纳尔泻湖平静的水面上，我们看到了一只娇小的白鹭。这些生物具有令人难以置信的调节体温的能力，它们会调节阳光照射面积，甚至用自己的翅膀来控制体温。",
-    "image_url": "https://cn.bing.com/th?id=OHR.ArdeAlba_ZH-CN6807697569_1920x1080.webp",
-    "main_text": "大白鹭的飞行速度缓慢却很有力：它们每秒只拍两下翅膀，巡航速度约为每小时25英里。"
+    "date": "2024-04-01",
+    "headline": "岌岌可危的冰川",
+    "title": "勃朗峰上的冰海，夏慕尼，法国",
+    "description": "冰海是法国阿尔卑斯山脉最著名的冰川之一，它坐落于勃朗峰地块的北坡，靠近夏慕尼，长约7公里，深200米，是法国最大的冰川。它由冰块缓慢而稳定的运动形成，形成时间可追溯至几千年前。",
+    "image_url": "https://cn.bing.com/th?id=OHR.MontBlancGlacier_ZH-CN2918240023_1920x1080.webp",
+    "main_text": "夏慕尼是攀登勃朗峰的起点。"
 }
 ```
 
-UpdataTime：2024-03-31 01:33:19
+UpdataTime：2024-04-01 01:34:37
