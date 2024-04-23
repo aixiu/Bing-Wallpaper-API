@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-![三一学院图书馆，都柏林，爱尔兰](https://cn.bing.com/th?id=OHR.TrinityDublin_ZH-CN7902993255_1920x1080.webp)
-Today: [三一学院图书馆，都柏林，爱尔兰](https://cn.bing.com/th?id=OHR.TrinityDublin_ZH-CN7902993255_1920x1080.webp) - 预订已满！
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2024-04-23",
     "headline": "预订已满！",
@@ -42,6 +6,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url": "https://cn.bing.com/th?id=OHR.TrinityDublin_ZH-CN7902993255_1920x1080.webp",
     "main_text": "“世界图书之都”是联合国教科文组织发起的一项倡议，旨在表彰那些从4月23日的世界图书和版权日起，在一年内推广图书和促进阅读的城市。"
 }
-```
-
-UpdataTime：2024-04-23 01:29:42
