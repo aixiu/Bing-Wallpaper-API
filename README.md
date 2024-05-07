@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![罗奇斯山脊，英格兰峰区](https://cn.bing.com/th?id=OHR.TheRoachesPeakDistrict_ZH-CN2657532467_1920x1080.webp)
-Today: [罗奇斯山脊，英格兰峰区](https://cn.bing.com/th?id=OHR.TheRoachesPeakDistrict_ZH-CN2657532467_1920x1080.webp) - 峰区一瞥
+![一只小鸭子在水草地上游泳，萨福克郡，英国](https://cn.bing.com/th?id=OHR.LittleDuckling_ZH-CN2922471258_1920x1080.webp)
+Today: [一只小鸭子在水草地上游泳，萨福克郡，英国](https://cn.bing.com/th?id=OHR.LittleDuckling_ZH-CN2922471258_1920x1080.webp) - 水影里的小黄鸭
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2024-05-06",
-    "headline": "峰区一瞥",
-    "title": "罗奇斯山脊，英格兰峰区",
-    "description": "在今天的图片中，阳光照射在英格兰北部峰区的罗奇斯山脊上。但这个奇怪名字的由来是什么呢？它来自法语“les roches”，意思是“岩石”。罗奇斯山脊是峰区国家公园的一部分，它矗立在斯塔福德郡利克镇的上方，高度超过1600英尺，是登山者和徒步旅行者的热门目的地。在这里，你可以俯瞰荒野的壮丽景色，如果幸运的话，你甚至还能看到沙袋鼠！20世纪30年代，一些澳大利亚有袋动物从附近的私人动物园逃脱，至今仍有原始沙袋鼠后代的目击记录。",
-    "image_url": "https://cn.bing.com/th?id=OHR.TheRoachesPeakDistrict_ZH-CN2657532467_1920x1080.webp",
-    "main_text": "罗奇斯山脊有300多条攀岩路线，从短而容易的攀岩路线到长而具有挑战性的多坡度攀爬路线，应有尽有。"
+    "date": "2024-05-07",
+    "headline": "水影里的小黄鸭",
+    "title": "一只小鸭子在水草地上游泳，萨福克郡，英国",
+    "description": "今天，这只小鸭子摇摇摆摆地走到聚光灯下，准备用它俏皮又滑稽的动作吸引我们！鸭子羽毛鲜艳，叫声欢快，是田园风光的缩影，但它们在一些城市环境中也同样自在。然而，真正抢尽风头的是小鸭子的到来！小小的，毛茸茸的小鸭子顺从地跟随着鸭妈妈，在每一次划水和啄食中学习水性。这些水禽以昆虫和藻类为食，在保持水生生态系统平衡方面发挥着重要作用。",
+    "image_url": "https://cn.bing.com/th?id=OHR.LittleDuckling_ZH-CN2922471258_1920x1080.webp",
+    "main_text": "小鸭子们是相亲相爱的兄弟姐妹，在孵化前就会互相交流。"
 }
 ```
 
-UpdataTime：2024-05-06 01:32:21
+UpdataTime：2024-05-07 01:31:33
