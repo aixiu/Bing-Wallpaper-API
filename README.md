@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![树枝上栖息的靛蓝彩鹀，德克萨斯州](https://cn.bing.com/th?id=OHR.TexasIndigoBunting_ZH-CN3699392300_1920x1080.webp)
-Today: [树枝上栖息的靛蓝彩鹀，德克萨斯州](https://cn.bing.com/th?id=OHR.TexasIndigoBunting_ZH-CN3699392300_1920x1080.webp) - 小蓝鸟一路顺风
+![潘帕省草原上的雌性原驼和它新出生的宝宝，阿根廷](https://cn.bing.com/th?id=OHR.GuanacoMother_ZH-CN3856540256_1920x1080.webp)
+Today: [潘帕省草原上的雌性原驼和它新出生的宝宝，阿根廷](https://cn.bing.com/th?id=OHR.GuanacoMother_ZH-CN3856540256_1920x1080.webp) - 放牧和饲养
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2024-05-11",
-    "headline": "小蓝鸟一路顺风",
-    "title": "树枝上栖息的靛蓝彩鹀，德克萨斯州",
-    "description": "候鸟为什么要迁徙？它们又是如何飞越半个地球的？今天，为了纪念世界候鸟日，我们向大家介绍靛蓝彩鹀，一种羽毛像天空的颜色的小鸟。它们利用星星导航，穿越数千英里，在北美洲的繁殖地和中美洲及南美洲北部的越冬地之间迁徙。",
-    "image_url": "https://cn.bing.com/th?id=OHR.TexasIndigoBunting_ZH-CN3699392300_1920x1080.webp",
-    "main_text": "和其他迁徙物种一样，靛蓝彩鹀在夜间迁徙，利用星星导航！"
+    "date": "2024-05-12",
+    "headline": "放牧和饲养",
+    "title": "潘帕省草原上的雌性原驼和它新出生的宝宝，阿根廷",
+    "description": "母亲是爱和慰藉永恒的源泉，她们没有穿着超人一样的斗篷，但却是我们生命中真正的英雄。母亲节给了我们一个机会，向妈妈表达我们的爱意。在今天的图片中，我们看到美洲驼的亲戚——原驼妈妈和她的幼崽在阿根廷潘帕斯广阔的草原上漫步。就像人类的母亲一样，雌性原驼也会极力保护自己的孩子，那些幼小未成年的原驼。",
+    "image_url": "https://cn.bing.com/th?id=OHR.GuanacoMother_ZH-CN3856540256_1920x1080.webp",
+    "main_text": "母亲节这天，人们拨打电话的次数约有1.22亿次，比一年中其他任何日子都要多。"
 }
 ```
 
-UpdataTime：2024-05-11 01:30:20
+UpdataTime：2024-05-12 01:37:48
