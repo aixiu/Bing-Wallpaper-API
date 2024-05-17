@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![维戈的兰德大桥，西班牙](https://cn.bing.com/th?id=OHR.ReconquistaVigo_ZH-CN4619580424_1920x1080.webp)
-Today: [维戈的兰德大桥，西班牙](https://cn.bing.com/th?id=OHR.ReconquistaVigo_ZH-CN4619580424_1920x1080.webp) - 这片水域里有很多故事！
+![塔兰吉雷国家公园的非洲象家族，坦桑尼亚](https://cn.bing.com/th?id=OHR.TarangireElephants_ZH-CN5447385839_1920x1080.webp)
+Today: [塔兰吉雷国家公园的非洲象家族，坦桑尼亚](https://cn.bing.com/th?id=OHR.TarangireElephants_ZH-CN5447385839_1920x1080.webp) - 今天不是无关紧要的一天
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2024-05-16",
-    "headline": "这片水域里有很多故事！",
-    "title": "维戈的兰德大桥，西班牙",
-    "description": "您准备好穿越时空了吗？为了纪念1809年维戈人民发动起义反对法国入侵，使维戈成为欧洲首个成功驱逐拿破仑军队的城市，每年春天，维戈的居民都会盛装打扮，回到1809年，庆祝他们重新夺回维戈。",
-    "image_url": "https://cn.bing.com/th?id=OHR.ReconquistaVigo_ZH-CN4619580424_1920x1080.webp",
-    "main_text": "维哥湾是儒勒·凡尔纳的小说《海底两万里》的背景之一。"
+    "date": "2024-05-17",
+    "headline": "今天不是无关紧要的一天",
+    "title": "塔兰吉雷国家公园的非洲象家族，坦桑尼亚",
+    "description": "今天是“濒危物种日”，让我们齐心协力保护濒危物种。每年五月的第三个星期五，我们都会密切关注动物和植物。濒危物种联盟于2006年创立了这个活动，旨在为拯救濒危物种而努力。目前，濒临灭绝的物种已超过44,000种。世界上最濒危的动物包括爪哇犀牛、黑犀牛、山地大猩猩和玳瑁。",
+    "image_url": "https://cn.bing.com/th?id=OHR.TarangireElephants_ZH-CN5447385839_1920x1080.webp",
+    "main_text": "地球大气中的二氧化碳被认为是导致动物濒危的主要原因之一。"
 }
 ```
 
-UpdataTime：2024-05-16 01:32:42
+UpdataTime：2024-05-17 01:32:53
