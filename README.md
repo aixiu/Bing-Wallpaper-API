@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![印度星龟，斯里兰卡](https://cn.bing.com/th?id=OHR.IndianStarTortoise_ZH-CN7177478610_1920x1080.webp)
-Today: [印度星龟，斯里兰卡](https://cn.bing.com/th?id=OHR.IndianStarTortoise_ZH-CN7177478610_1920x1080.webp) - 寻找一个“庇护所”
+![阿尼斯克洛峡谷，奥德萨和佩尔迪多山国家公园，韦斯卡，西班牙](https://cn.bing.com/th?id=OHR.OrdesaNationalPark_ZH-CN8545620273_1920x1080.webp)
+Today: [阿尼斯克洛峡谷，奥德萨和佩尔迪多山国家公园，韦斯卡，西班牙](https://cn.bing.com/th?id=OHR.OrdesaNationalPark_ZH-CN8545620273_1920x1080.webp) - 一路到顶峰
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2024-05-23",
-    "headline": "寻找一个“庇护所”",
-    "title": "印度星龟，斯里兰卡",
-    "description": "这才是真正的明星！印度星龟迈着自信而缓慢的脚步走进了大家的视野里。今天是世界海龟日！自2000年以来，美国龟类救援组织每年都会庆祝这一节日。那么陆龟和乌龟有什么区别呢？最大的区别在于陆龟是一种专门生活在陆地上的龟类，而乌龟则更喜欢水，可以在水中生活。",
-    "image_url": "https://cn.bing.com/th?id=OHR.IndianStarTortoise_ZH-CN7177478610_1920x1080.webp",
-    "main_text": "海龟在一个繁殖季会产2到8窝蛋，每个窝里会有100余颗蛋。"
+    "date": "2024-05-24",
+    "headline": "一路到顶峰",
+    "title": "阿尼斯克洛峡谷，奥德萨和佩尔迪多山国家公园，韦斯卡，西班牙",
+    "description": "今天是欧洲公园日！1909年的今天，欧洲最早的九个国家公园在瑞典成立。今年的庆祝活动聚焦于保护区在制定和实施自然政策方面的重要作用。此外，庆祝活动还强调了保护区如何为欧洲公民建设一个可持续发展和具有复原力的社会做出贡献。从本质上讲，这些地区不仅仅是生物多样性的守护者；它们也是我们集体福祉的支柱，提醒我们保护自然遗产。",
+    "image_url": "https://cn.bing.com/th?id=OHR.OrdesaNationalPark_ZH-CN8545620273_1920x1080.webp",
+    "main_text": "奥德萨和佩尔迪多山国家公园的海拔高度从700米到3000多米不等，是比利牛斯山自然之美的完美典范。"
 }
 ```
 
-UpdataTime：2024-05-23 01:32:53
+UpdataTime：2024-05-24 01:33:35
