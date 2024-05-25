@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-![阿伊特本哈杜，摩洛哥](https://cn.bing.com/th?id=OHR.MoroccoBenhaddou_ZH-CN8742267428_1920x1080.webp)
-Today: [阿伊特本哈杜，摩洛哥](https://cn.bing.com/th?id=OHR.MoroccoBenhaddou_ZH-CN8742267428_1920x1080.webp) - 沙丘守护者
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2024-05-25",
     "headline": "沙丘守护者",
@@ -42,6 +6,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url": "https://cn.bing.com/th?id=OHR.MoroccoBenhaddou_ZH-CN8742267428_1920x1080.webp",
     "main_text": "虽然有时会被误认成城堡，但阿伊特本哈杜筑垒村实际上是一个古老的防御性村庄。换句话说，它是一个由土坯混合物（沙子、粘土、水，以及稻草或粪便等有机材料）建造的多个“城堡”组成的一座坚固的城镇。"
 }
-```
-
-UpdataTime：2024-05-25 01:32:10
