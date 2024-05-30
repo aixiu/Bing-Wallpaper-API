@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-![一片斜纹松和锯齿草大沼泽地国家公园，佛罗里达州，美国](https://cn.bing.com/th?id=OHR.Everglades90th_ZH-CN9853372570_1920x1080.webp)
-Today: [一片斜纹松和锯齿草大沼泽地国家公园，佛罗里达州，美国](https://cn.bing.com/th?id=OHR.Everglades90th_ZH-CN9853372570_1920x1080.webp) - 欢迎来到大沼泽地
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2024-05-30",
     "headline": "欢迎来到大沼泽地",
@@ -42,6 +6,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url": "https://cn.bing.com/th?id=OHR.Everglades90th_ZH-CN9853372570_1920x1080.webp",
     "main_text": "大沼泽地国家公园的部分地区是南佛罗里达州观测暗夜星空的理想场所，其中最佳观赏地点在大沼泽地偏远的南部和西部地区，例如火烈鸟区和万岛。"
 }
-```
-
-UpdataTime：2024-05-30 01:34:21
