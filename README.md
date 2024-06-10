@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![巴尔德纳斯雷亚尔斯自然公园，巴德纳斯，纳瓦拉，西班牙](https://cn.bing.com/th?id=OHR.BardenasBiosphere_ZH-CN6198033700_1920x1080.webp)
-Today: [巴尔德纳斯雷亚尔斯自然公园，巴德纳斯，纳瓦拉，西班牙](https://cn.bing.com/th?id=OHR.BardenasBiosphere_ZH-CN6198033700_1920x1080.webp) - 令人窒息的寂静
+![龙舟池日出，集美区，厦门，中国](https://cn.bing.com/th?id=OHR.DragonBoatFestival2024_ZH-CN6619827853_1920x1080.webp)
+Today: [龙舟池日出，集美区，厦门，中国](https://cn.bing.com/th?id=OHR.DragonBoatFestival2024_ZH-CN6619827853_1920x1080.webp) - 比赛将在这里开始！
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2024-06-09",
-    "headline": "令人窒息的寂静",
-    "title": "巴尔德纳斯雷亚尔斯自然公园，巴德纳斯，纳瓦拉，西班牙",
-    "description": "在西班牙北部风景优美的纳瓦拉地区，巴尔德纳斯雷亚尔斯生物圈保护区和自然公园如同一幅栩栩如生的超现实主义绘画吸引了无数游客。公园因其沙漠景观而出名，这些景观经过了数千年的侵蚀才得以形成，以岩石高原、峡谷以及形状奇特的粘土为特色，是地质奇观爱好者的乐园。",
-    "image_url": "https://cn.bing.com/th?id=OHR.BardenasBiosphere_ZH-CN6198033700_1920x1080.webp",
-    "main_text": "巴尔德纳斯雷亚尔斯自然公园分为几个不同的区域，主要包括黑巴尔德纳和白巴尔德纳两个大区域，以及一些独具特色的小区域。"
+    "date": "2024-06-10",
+    "headline": "比赛将在这里开始！",
+    "title": "龙舟池日出，集美区，厦门，中国",
+    "description": "吃粽子、看龙舟赛的日子到了！这一天，人们祈福辟邪、欢庆娱乐、分享美食。别忘了，看龙舟赛也是端午节重要的节庆民俗活动之一，早在中国古代战国时期就有了。赛龙舟表达了人们对美好生活的憧憬。",
+    "image_url": "https://cn.bing.com/th?id=OHR.DragonBoatFestival2024_ZH-CN6619827853_1920x1080.webp",
+    "main_text": "2011年，集美龙舟赛已升格为国家级赛事。"
 }
 ```
 
-UpdataTime：2024-06-09 01:42:54
+UpdataTime：2024-06-10 01:38:55
