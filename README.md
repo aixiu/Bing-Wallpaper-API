@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![大弯国家公园上空的银河，得克萨斯州，美国](https://cn.bing.com/th?id=OHR.BigBendMilkyWay_ZH-CN7709015605_1920x1080.webp)
-Today: [大弯国家公园上空的银河，得克萨斯州，美国](https://cn.bing.com/th?id=OHR.BigBendMilkyWay_ZH-CN7709015605_1920x1080.webp) - 星光盛宴
+![雷吉斯坦广场的外立面马赛克，撒马尔罕，乌兹别克斯坦撒](https://cn.bing.com/th?id=OHR.RegistanUzbekistan_ZH-CN7850329702_1920x1080.webp)
+Today: [雷吉斯坦广场的外立面马赛克，撒马尔罕，乌兹别克斯坦撒](https://cn.bing.com/th?id=OHR.RegistanUzbekistan_ZH-CN7850329702_1920x1080.webp) - 瓷砖的故事
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2024-06-12",
-    "headline": "星光盛宴",
-    "title": "大弯国家公园上空的银河，得克萨斯州，美国",
-    "description": "准备好探索大自然了吗？让我们走进西得克萨斯的大弯国家公园，今天正好是它的80周年纪念日。它于1944年6月12日成立，当时德克萨斯州将这片土地转让给了联邦政府。该公园占地超过1,250平方英里，是奇瓦瓦沙漠最大的保护区。",
-    "image_url": "https://cn.bing.com/th?id=OHR.BigBendMilkyWay_ZH-CN7709015605_1920x1080.webp",
-    "main_text": "大弯国家公园是美国最大的奇瓦瓦沙漠地形和生态保护区，对这个国家具有重要的意义。公园因格兰德河（在墨西哥称为布拉沃河）的一个大弯道而命名。"
+    "date": "2024-06-13",
+    "headline": "瓷砖的故事",
+    "title": "雷吉斯坦广场的外立面马赛克，撒马尔罕，乌兹别克斯坦撒",
+    "description": "准备好了吗？让我们一起踮起脚尖进入乌兹别克斯坦撒马尔罕市的雷吉斯坦广场。在波斯语中，雷吉斯坦意为“沙地”或“沙漠”，它是帖木儿帝国时期的活动中心。广场上的建筑风格体现了“帖木儿文艺复兴”的精髓，这是一个文化和知识复兴的时期，在公元14世纪至16世纪初期席卷了整个穆斯林世界。",
+    "image_url": "https://cn.bing.com/th?id=OHR.RegistanUzbekistan_ZH-CN7850329702_1920x1080.webp",
+    "main_text": "公元前329年，撒马尔罕被亚历山大大帝征服，当时它被称为马拉坎达（希腊语为Mαράκανδα）。在1220年被成吉思汗领导的蒙古人征服之前，这座城市曾先后被伊朗和突厥的统治者统治。"
 }
 ```
 
-UpdataTime：2024-06-12 01:37:16
+UpdataTime：2024-06-13 01:36:20
