@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-![绿顶辉蜂鸟与巨型蓟，穆埃尔特山，哥斯达黎加](https://cn.bing.com/th?id=OHR.HummingThistle_ZH-CN5057539905_1920x1080.webp)
-Today: [绿顶辉蜂鸟与巨型蓟，穆埃尔特山，哥斯达黎加](https://cn.bing.com/th?id=OHR.HummingThistle_ZH-CN5057539905_1920x1080.webp) - 传播花粉
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2024-06-17",
     "headline": "传播花粉",
@@ -42,6 +6,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url": "https://cn.bing.com/th?id=OHR.HummingThistle_ZH-CN5057539905_1920x1080.webp",
     "main_text": "我们每吃三口食物，就有一口是授粉生物的功劳。"
 }
-```
-
-UpdataTime：2024-06-17 01:40:17
