@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![库克斯港的水塔，德国](https://cn.bing.com/th?id=OHR.CuxhavenTower_ZH-CN5580118944_1920x1080.webp)
-Today: [库克斯港的水塔，德国](https://cn.bing.com/th?id=OHR.CuxhavenTower_ZH-CN5580118944_1920x1080.webp) - 一座历史古迹
+![科基诺，古代巨石观测站，北马其顿](https://cn.bing.com/th?id=OHR.KokinoMacedonia_ZH-CN6029529601_1920x1080.webp)
+Today: [科基诺，古代巨石观测站，北马其顿](https://cn.bing.com/th?id=OHR.KokinoMacedonia_ZH-CN6029529601_1920x1080.webp) - 夏天的脚步近了
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2024-06-19",
-    "headline": "一座历史古迹",
-    "title": "库克斯港的水塔，德国",
-    "description": "然而，库克斯港不仅有大海和沙滩，还提供了无尽的机会让你消磨时光，享受轻松惬意的假期。你可以乘船游览，或是到沼泽地远足，还可以参观历史遗迹，比如今天图片中的水塔。它建于1897年，直到2004年一直为小镇提供饮用水。此后，它就成为最具象征意义和保护最完好的古迹之一。自2017年起，这座水塔归一个瑞士家族所有，他们在这里开设了一家咖啡馆，成功地保留了这座塔的精髓和特色。",
-    "image_url": "https://cn.bing.com/th?id=OHR.CuxhavenTower_ZH-CN5580118944_1920x1080.webp",
-    "main_text": "这个位于易北河入海口的小镇还拥有德国最大的渔港之一。"
+    "date": "2024-06-20",
+    "headline": "夏天的脚步近了",
+    "title": "科基诺，古代巨石观测站，北马其顿",
+    "description": "这种现象被称为夏至，一个北半球的地球极点最偏向太阳的时刻。今天的图片展示的是科基诺巨石天文台，它是北马其顿科基诺考古遗址的一部分。据说，科基诺天文台在夏至、冬至和春分时节标记太阳的位置。天文台由两个平台组成，其上层平台上的一块石块标明了从下层平台的座位上看夏至日出的方向。因此，来到北马其顿，千万不要错过体验这一古老的天文奇观！",
+    "image_url": "https://cn.bing.com/th?id=OHR.KokinoMacedonia_ZH-CN6029529601_1920x1080.webp",
+    "main_text": "该遗址距今已有3800年的历史，遗址中的标记被用于研究太阳和月亮的运动以及制定阴历历法。"
 }
 ```
 
-UpdataTime：2024-06-19 01:37:43
+UpdataTime：2024-06-20 01:35:18
