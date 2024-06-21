@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![科基诺，古代巨石观测站，北马其顿](https://cn.bing.com/th?id=OHR.KokinoMacedonia_ZH-CN6029529601_1920x1080.webp)
-Today: [科基诺，古代巨石观测站，北马其顿](https://cn.bing.com/th?id=OHR.KokinoMacedonia_ZH-CN6029529601_1920x1080.webp) - 夏天的脚步近了
+![蓝色水面上的渔船航拍图，郴州市，湖南省，中国](https://cn.bing.com/th?id=OHR.SummerSolstice2024_ZH-CN6141918663_1920x1080.webp)
+Today: [蓝色水面上的渔船航拍图，郴州市，湖南省，中国](https://cn.bing.com/th?id=OHR.SummerSolstice2024_ZH-CN6141918663_1920x1080.webp) - 清凉的湖水
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2024-06-20",
-    "headline": "夏天的脚步近了",
-    "title": "科基诺，古代巨石观测站，北马其顿",
-    "description": "这种现象被称为夏至，一个北半球的地球极点最偏向太阳的时刻。今天的图片展示的是科基诺巨石天文台，它是北马其顿科基诺考古遗址的一部分。据说，科基诺天文台在夏至、冬至和春分时节标记太阳的位置。天文台由两个平台组成，其上层平台上的一块石块标明了从下层平台的座位上看夏至日出的方向。因此，来到北马其顿，千万不要错过体验这一古老的天文奇观！",
-    "image_url": "https://cn.bing.com/th?id=OHR.KokinoMacedonia_ZH-CN6029529601_1920x1080.webp",
-    "main_text": "该遗址距今已有3800年的历史，遗址中的标记被用于研究太阳和月亮的运动以及制定阴历历法。"
+    "date": "2024-06-21",
+    "headline": "清凉的湖水",
+    "title": "蓝色水面上的渔船航拍图，郴州市，湖南省，中国",
+    "description": "夏至已至，中国的大部分地区即将进入一年中最炎热的时节，您准备好解暑降温的装备了吗？今天，邀请您欣赏的是位于湖南省郴州市的一片天蓝色的湖泊。郴州市位于湖南省的东南部地区，地处长江与珠江交汇处。境内有东江湖、苏仙岭、万华岩、莽山国家森林公园等丰富多彩的历史文化遗迹和名胜古迹。",
+    "image_url": "https://cn.bing.com/th?id=OHR.SummerSolstice2024_ZH-CN6141918663_1920x1080.webp",
+    "main_text": "郴州东江湖地区的水质达到了中国国家一级饮用水标准。"
 }
 ```
 
-UpdataTime：2024-06-20 01:35:18
+UpdataTime：2024-06-21 01:35:43
