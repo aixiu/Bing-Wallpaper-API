@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![火浪岩层，火焰谷州立公园，内华达州，美国](https://cn.bing.com/th?id=OHR.FireWave_ZH-CN7110736577_1920x1080.webp)
-Today: [火浪岩层，火焰谷州立公园，内华达州，美国](https://cn.bing.com/th?id=OHR.FireWave_ZH-CN7110736577_1920x1080.webp) - 拍出炫酷照片的好地方
+![考氏鳍竺鲷与海葵，蓝碧海峡，北苏拉威西，印度尼西亚](https://cn.bing.com/th?id=OHR.CardinalfishAnemone_ZH-CN7249037417_1920x1080.webp)
+Today: [考氏鳍竺鲷与海葵，蓝碧海峡，北苏拉威西，印度尼西亚](https://cn.bing.com/th?id=OHR.CardinalfishAnemone_ZH-CN7249037417_1920x1080.webp) - 美丽的条纹小鱼！
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2024-06-25",
-    "headline": "拍出炫酷照片的好地方",
-    "title": "火浪岩层，火焰谷州立公园，内华达州，美国",
-    "description": "在内华达州干旱广袤的莫哈维沙漠中，坐落着壮观的火焰谷州立公园。该公园占地46000英亩，得名于火红色的阿兹台克砂岩，这是一种侏罗纪早期的地质地层，由古老的沙丘组成。公园最大的亮点是“火浪”，这是一个地质奇观，表面有着红色、粉色和白色的条纹，看上去就像冰冻的波浪。",
-    "image_url": "https://cn.bing.com/th?id=OHR.FireWave_ZH-CN7110736577_1920x1080.webp",
-    "main_text": "《星际迷航7：星空奇兵》中的维里迪安III行星的场景是在火焰谷州立公园取景拍摄的。"
+    "date": "2024-06-26",
+    "headline": "美丽的条纹小鱼！",
+    "title": "考氏鳍竺鲷与海葵，蓝碧海峡，北苏拉威西，印度尼西亚",
+    "description": "今天，让我们潜入印度尼西亚邦盖群岛周围的海浪深处，邂逅考氏鳍竺鲷。天竺鲷鱼可以长到3英寸，它们微小的身体能发出微微光亮，黑色的竖条纹和白边鳍则有助于它们伪装。与那些会远距离洄游的有鳍生物不同，这种小型鱼类活动范围比较小，很少远离当地的珊瑚礁。",
+    "image_url": "https://cn.bing.com/th?id=OHR.CardinalfishAnemone_ZH-CN7249037417_1920x1080.webp",
+    "main_text": "考氏鳍竺鲷是海洋中的伪装大师，它们自然地隐藏在海葵的触手之中来抵御捕食者们。"
 }
 ```
 
-UpdataTime：2024-06-25 01:37:08
+UpdataTime：2024-06-26 01:36:50
