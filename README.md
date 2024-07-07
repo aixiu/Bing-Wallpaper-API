@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![从康威河眺望康威城堡，威尔士](https://cn.bing.com/th?id=OHR.ConwyRiver_ZH-CN6871799250_1920x1080.webp)
-Today: [从康威河眺望康威城堡，威尔士](https://cn.bing.com/th?id=OHR.ConwyRiver_ZH-CN6871799250_1920x1080.webp) - 让我们扬帆起航！
+![越南安沛省木仓寨的水稻梯田](https://cn.bing.com/th?id=OHR.YenBaiTerraces_ZH-CN7224453501_1920x1080.webp)
+Today: [越南安沛省木仓寨的水稻梯田](https://cn.bing.com/th?id=OHR.YenBaiTerraces_ZH-CN7224453501_1920x1080.webp) - 阳光下的梯田
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2024-07-06",
-    "headline": "让我们扬帆起航！",
-    "title": "从康威河眺望康威城堡，威尔士",
-    "description": "在康威河节上穿越时空，扬帆起航！这项活动于1993年首次在康威城堡下的康威码头举行，体现了威尔士航海传统的精髓。在码头日这一免费露天活动中，划船爱好者们可以尽情体验传统船只和现代船只进行友谊赛的乐趣。人们聚集在一起观看航海游行，品尝当地美食，如用茶、干果和香料调味的茶面包，以及由可食用海藻组成的海藻面包。",
-    "image_url": "https://cn.bing.com/th?id=OHR.ConwyRiver_ZH-CN6871799250_1920x1080.webp",
-    "main_text": "联合国教科文组织认为康威是“13世纪末和14世纪初欧洲军事建筑的最佳典范”之一，并将其列为世界遗产。"
+    "date": "2024-07-07",
+    "headline": "阳光下的梯田",
+    "title": "越南安沛省木仓寨的水稻梯田",
+    "description": "在越南安沛省连绵起伏的群山之中，木仓寨地区的水稻梯田是农耕文化的精华所在。苗族是一个以其丰富的文化和充满活力的服装而闻名的少数民族，世世代代精心雕刻着这些层叠的山丘。19世纪，苗族从中国迁徙到越南北部。他们擅长轮作（一种农业系统），在这种农业系统中，土地被暂时耕种，种植的作物包括小米、水稻、玉米和大麦，随后再恢复其自然植被。",
+    "image_url": "https://cn.bing.com/th?id=OHR.YenBaiTerraces_ZH-CN7224453501_1920x1080.webp",
+    "main_text": "据说一年四季都适合观赏木仓寨，因为这里的梯田全年都很美。"
 }
 ```
 
-UpdataTime：2024-07-06 01:35:17
+UpdataTime：2024-07-07 06:06:00
