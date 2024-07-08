@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![越南安沛省木仓寨的水稻梯田](https://cn.bing.com/th?id=OHR.YenBaiTerraces_ZH-CN7224453501_1920x1080.webp)
-Today: [越南安沛省木仓寨的水稻梯田](https://cn.bing.com/th?id=OHR.YenBaiTerraces_ZH-CN7224453501_1920x1080.webp) - 阳光下的梯田
+![野生蓝莓](https://cn.bing.com/th?id=OHR.NorwayBlueberries_ZH-CN7643097235_1920x1080.webp)
+Today: [野生蓝莓](https://cn.bing.com/th?id=OHR.NorwayBlueberries_ZH-CN7643097235_1920x1080.webp) - 一剂抗氧化剂
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2024-07-07",
-    "headline": "阳光下的梯田",
-    "title": "越南安沛省木仓寨的水稻梯田",
-    "description": "在越南安沛省连绵起伏的群山之中，木仓寨地区的水稻梯田是农耕文化的精华所在。苗族是一个以其丰富的文化和充满活力的服装而闻名的少数民族，世世代代精心雕刻着这些层叠的山丘。19世纪，苗族从中国迁徙到越南北部。他们擅长轮作（一种农业系统），在这种农业系统中，土地被暂时耕种，种植的作物包括小米、水稻、玉米和大麦，随后再恢复其自然植被。",
-    "image_url": "https://cn.bing.com/th?id=OHR.YenBaiTerraces_ZH-CN7224453501_1920x1080.webp",
-    "main_text": "据说一年四季都适合观赏木仓寨，因为这里的梯田全年都很美。"
+    "date": "2024-07-08",
+    "headline": "一剂抗氧化剂",
+    "title": "野生蓝莓",
+    "description": "今天，空气中弥漫着一种酸酸甜甜的水果香味，这是美国人心爱的蓝莓，这一天也是美国蓝莓日。野生蓝莓有13000多年的历史，而人工栽培的蓝莓直到20世纪初才出现。当时，农业专家伊丽莎白·科尔曼·怀特和植物学家弗雷德里克·科维尔在新泽西州合作培育出第一个栽培品种，蓝莓才开始被人工种植。",
+    "image_url": "https://cn.bing.com/th?id=OHR.NorwayBlueberries_ZH-CN7643097235_1920x1080.webp",
+    "main_text": "蓝莓实际上不是蓝色的，而是深紫色。深紫色是花青素的颜色，而蓝莓中恰好含有大量的花青素。"
 }
 ```
 
-UpdataTime：2024-07-07 06:06:00
+UpdataTime：2024-07-08 01:40:46
