@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![雷尼尔山国家公园的野花，华盛顿州，美国](https://cn.bing.com/th?id=OHR.RainierWildflowers_ZH-CN7392242353_1920x1080.webp)
-Today: [雷尼尔山国家公园的野花，华盛顿州，美国](https://cn.bing.com/th?id=OHR.RainierWildflowers_ZH-CN7392242353_1920x1080.webp) - 风雨无阻
+![卡帕多西亚的童话烟囱和窑洞，土耳其](https://cn.bing.com/th?id=OHR.CappadociaRocks_ZH-CN9283633861_1920x1080.webp)
+Today: [卡帕多西亚的童话烟囱和窑洞，土耳其](https://cn.bing.com/th?id=OHR.CappadociaRocks_ZH-CN9283633861_1920x1080.webp) - 快看，这是沉积岩哦
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2024-07-12",
-    "headline": "风雨无阻",
-    "title": "雷尼尔山国家公园的野花，华盛顿州，美国",
-    "description": "在雷尼尔山冰川的注视下，成片的野花绽放出勃勃的生机。每年夏天，这座山周围的草地上都会盛开着色彩鲜艳的亚高山花朵：紫色的紫菀、粉色的珊瑚兰和黄色的虎皮花只是这里的部分植物。雷尼尔山又名塔霍马山，海拔超14400英尺，是华盛顿州最高的山峰。它被36平方英里的冰川和永久雪原覆盖，是美国48个州中冰川覆盖率最高的山峰。",
-    "image_url": "https://cn.bing.com/th?id=OHR.RainierWildflowers_ZH-CN7392242353_1920x1080.webp",
-    "main_text": "雷尼尔山是一座冰川覆盖的活火山，从几百英里外就能看到。"
+    "date": "2024-07-13",
+    "headline": "快看，这是沉积岩哦",
+    "title": "卡帕多西亚的童话烟囱和窑洞，土耳其",
+    "description": "今天是国际岩石日，我们要讨论的是花岗岩、石灰石和板岩。岩石有三种类型：火成岩是由凝固的岩浆和熔岩形成的；沉积岩是由沉积颗粒（如沙子）层层堆积而成；变质岩是其他岩石受热和受压后形成的。",
+    "image_url": "https://cn.bing.com/th?id=OHR.CappadociaRocks_ZH-CN9283633861_1920x1080.webp",
+    "main_text": "古代火山爆发后，厚厚的火山灰覆盖了这一地区，凝固成一种几十米厚的软岩石，被称为凝灰岩。"
 }
 ```
 
-UpdataTime：2024-07-12 01:38:19
+UpdataTime：2024-07-13 01:39:02
