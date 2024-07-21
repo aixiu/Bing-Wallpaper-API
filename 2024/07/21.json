@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-![肯杜瓦村的木制渔船，桑给巴尔，坦桑尼亚](https://cn.bing.com/th?id=OHR.ZanzibarBoats_ZH-CN2915388379_1920x1080.webp)
-Today: [肯杜瓦村的木制渔船，桑给巴尔，坦桑尼亚](https://cn.bing.com/th?id=OHR.ZanzibarBoats_ZH-CN2915388379_1920x1080.webp) - 香料岛之旅
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2024-07-21",
     "headline": "香料岛之旅",
@@ -42,6 +6,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url": "https://cn.bing.com/th?id=OHR.ZanzibarBoats_ZH-CN2915388379_1920x1080.webp",
     "main_text": "肯杜瓦海滩与桑给巴尔的大多数海滩不同，它不受强烈潮汐变化的影响。在这里，您不必在退潮时走很远的路才能达到海边，如果您想整天闲逛和游泳，这里就是您的理想海滩。"
 }
-```
-
-UpdataTime：2024-07-21 01:45:52
