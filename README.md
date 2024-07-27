@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![塞纳河上的新桥，巴黎，法国](https://cn.bing.com/th?id=OHR.PontNeuf_ZH-CN3158359446_1920x1080.webp)
-Today: [塞纳河上的新桥，巴黎，法国](https://cn.bing.com/th?id=OHR.PontNeuf_ZH-CN3158359446_1920x1080.webp) - 比赛开始
+![摩泽尔河谷的葡萄园，莱茵兰-法尔茨，德国](https://cn.bing.com/th?id=OHR.RhinelandVineyards_ZH-CN3332101688_1920x1080.webp)
+Today: [摩泽尔河谷的葡萄园，莱茵兰-法尔茨，德国](https://cn.bing.com/th?id=OHR.RhinelandVineyards_ZH-CN3332101688_1920x1080.webp) - 完美的葡萄酒
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2024-07-26",
-    "headline": "比赛开始",
-    "title": "塞纳河上的新桥，巴黎，法国",
-    "description": "今天是巴黎夏季奥运会开幕的日子。“光之城”巴黎成为继伦敦之后第二个第三次举办夏季奥运会的城市。这届奥运会的独特之处在于其开幕式：参赛选手不再站在体育场内，而将乘坐船队沿塞纳河游行，两岸观众会为之欢呼。其实，这不是巴黎第一次打破陈规了。在1900年的巴黎奥运会中，虽然在997名参赛运动员中只有22名是女性，但这是历史上第一次有女运动员参加奥运会。",
-    "image_url": "https://cn.bing.com/th?id=OHR.PontNeuf_ZH-CN3158359446_1920x1080.webp",
-    "main_text": "2022年11月14日，“弗里热（The Phryges）”作为2024年夏季奥运会和残奥会的吉祥物亮相。它们是一对拟人化的弗里吉亚帽，在法国历史上是自由的象征。"
+    "date": "2024-07-27",
+    "headline": "完美的葡萄酒",
+    "title": "摩泽尔河谷的葡萄园，莱茵兰-法尔茨，德国",
+    "description": "欢迎来到让葡萄酒爱好者梦想成真的法尔茨。位于德国西部的法尔茨以风景如画的葡萄园而闻名，这里山峦起伏，土壤肥沃，气候温暖。得天独厚的风土条件培育出了种类繁多的葡萄。除了雷司令，这里还出产霞多丽、长相思、白皮诺、米勒-图高和丹菲特等著名葡萄品种。法尔茨是德国最大的红葡萄酒产区，该地区超过40%的葡萄园所种植的葡萄都用于酿造红葡萄酒。",
+    "image_url": "https://cn.bing.com/th?id=OHR.RhinelandVineyards_ZH-CN3332101688_1920x1080.webp",
+    "main_text": "虽然野生品种的葡萄很可能原产于法尔茨地区，但是罗马人在公元1年左右带来了葡萄的栽培和种植技术。"
 }
 ```
 
-UpdataTime：2024-07-26 01:39:29
+UpdataTime：2024-07-27 01:38:34
