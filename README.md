@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![摩泽尔河谷的葡萄园，莱茵兰-法尔茨，德国](https://cn.bing.com/th?id=OHR.RhinelandVineyards_ZH-CN3332101688_1920x1080.webp)
-Today: [摩泽尔河谷的葡萄园，莱茵兰-法尔茨，德国](https://cn.bing.com/th?id=OHR.RhinelandVineyards_ZH-CN3332101688_1920x1080.webp) - 完美的葡萄酒
+![斯科讷省海滩上的浴场小屋，瑞典](https://cn.bing.com/th?id=OHR.BeachHutsSweden_ZH-CN4193150313_1920x1080.webp)
+Today: [斯科讷省海滩上的浴场小屋，瑞典](https://cn.bing.com/th?id=OHR.BeachHutsSweden_ZH-CN4193150313_1920x1080.webp) - 色彩斑斓的海岸线
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2024-07-27",
-    "headline": "完美的葡萄酒",
-    "title": "摩泽尔河谷的葡萄园，莱茵兰-法尔茨，德国",
-    "description": "欢迎来到让葡萄酒爱好者梦想成真的法尔茨。位于德国西部的法尔茨以风景如画的葡萄园而闻名，这里山峦起伏，土壤肥沃，气候温暖。得天独厚的风土条件培育出了种类繁多的葡萄。除了雷司令，这里还出产霞多丽、长相思、白皮诺、米勒-图高和丹菲特等著名葡萄品种。法尔茨是德国最大的红葡萄酒产区，该地区超过40%的葡萄园所种植的葡萄都用于酿造红葡萄酒。",
-    "image_url": "https://cn.bing.com/th?id=OHR.RhinelandVineyards_ZH-CN3332101688_1920x1080.webp",
-    "main_text": "虽然野生品种的葡萄很可能原产于法尔茨地区，但是罗马人在公元1年左右带来了葡萄的栽培和种植技术。"
+    "date": "2024-07-28",
+    "headline": "色彩斑斓的海岸线",
+    "title": "斯科讷省海滩上的浴场小屋，瑞典",
+    "description": "说到生机勃勃的海滩景色，瑞典的斯科讷省绝对不会让人失望。今天的图片展示的是斯科讷镇沙滩上的彩色小屋。这片海滩位于法尔斯特布半岛西侧，绵延6英里多，是最受欢迎的海滩之一。这部分海滩靠近斯卡诺尔码头，是夏季游客最喜欢的沐浴地点。",
+    "image_url": "https://cn.bing.com/th?id=OHR.BeachHutsSweden_ZH-CN4193150313_1920x1080.webp",
+    "main_text": "从拥有海滩和避暑胜地的平坦沿海地区向北方内陆深入，是瑞典最肥沃的平原之一。"
 }
 ```
 
-UpdataTime：2024-07-27 01:38:34
+UpdataTime：2024-07-28 01:46:47
