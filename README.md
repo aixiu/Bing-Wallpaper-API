@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![斯科讷省海滩上的浴场小屋，瑞典](https://cn.bing.com/th?id=OHR.BeachHutsSweden_ZH-CN4193150313_1920x1080.webp)
-Today: [斯科讷省海滩上的浴场小屋，瑞典](https://cn.bing.com/th?id=OHR.BeachHutsSweden_ZH-CN4193150313_1920x1080.webp) - 色彩斑斓的海岸线
+![科贝国家公园的老虎兄弟，北阿坎德邦，印度](https://cn.bing.com/th?id=OHR.CorbettTigers_ZH-CN6927569938_1920x1080.webp)
+Today: [科贝国家公园的老虎兄弟，北阿坎德邦，印度](https://cn.bing.com/th?id=OHR.CorbettTigers_ZH-CN6927569938_1920x1080.webp) - 咆哮与探索
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2024-07-28",
-    "headline": "色彩斑斓的海岸线",
-    "title": "斯科讷省海滩上的浴场小屋，瑞典",
-    "description": "说到生机勃勃的海滩景色，瑞典的斯科讷省绝对不会让人失望。今天的图片展示的是斯科讷镇沙滩上的彩色小屋。这片海滩位于法尔斯特布半岛西侧，绵延6英里多，是最受欢迎的海滩之一。这部分海滩靠近斯卡诺尔码头，是夏季游客最喜欢的沐浴地点。",
-    "image_url": "https://cn.bing.com/th?id=OHR.BeachHutsSweden_ZH-CN4193150313_1920x1080.webp",
-    "main_text": "从拥有海滩和避暑胜地的平坦沿海地区向北方内陆深入，是瑞典最肥沃的平原之一。"
+    "date": "2024-07-29",
+    "headline": "咆哮与探索",
+    "title": "科贝国家公园的老虎兄弟，北阿坎德邦，印度",
+    "description": "今天是世界爱虎日，这一节日设立于2010年，在每年的7月29日举办庆祝活动，旨在保护老虎免受偷猎和因森林砍伐导致栖息地丧失等威胁。19世纪末，野生老虎的数量估计约为10万只。而如今，老虎的数量已不足6000只。",
+    "image_url": "https://cn.bing.com/th?id=OHR.CorbettTigers_ZH-CN6927569938_1920x1080.webp",
+    "main_text": "老虎是世界上现存最大的猫科动物。"
 }
 ```
 
-UpdataTime：2024-07-28 01:46:47
+UpdataTime：2024-07-29 01:43:35
