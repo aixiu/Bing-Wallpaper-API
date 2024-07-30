@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![科贝国家公园的老虎兄弟，北阿坎德邦，印度](https://cn.bing.com/th?id=OHR.CorbettTigers_ZH-CN6927569938_1920x1080.webp)
-Today: [科贝国家公园的老虎兄弟，北阿坎德邦，印度](https://cn.bing.com/th?id=OHR.CorbettTigers_ZH-CN6927569938_1920x1080.webp) - 咆哮与探索
+![圣吉米尼亚诺，锡耶纳，托斯卡纳大区，意大利亚](https://cn.bing.com/th?id=OHR.GimignanoTuscany_ZH-CN8059318824_1920x1080.webp)
+Today: [圣吉米尼亚诺，锡耶纳，托斯卡纳大区，意大利亚](https://cn.bing.com/th?id=OHR.GimignanoTuscany_ZH-CN8059318824_1920x1080.webp) - 中世纪的曼哈顿
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2024-07-29",
-    "headline": "咆哮与探索",
-    "title": "科贝国家公园的老虎兄弟，北阿坎德邦，印度",
-    "description": "今天是世界爱虎日，这一节日设立于2010年，在每年的7月29日举办庆祝活动，旨在保护老虎免受偷猎和因森林砍伐导致栖息地丧失等威胁。19世纪末，野生老虎的数量估计约为10万只。而如今，老虎的数量已不足6000只。",
-    "image_url": "https://cn.bing.com/th?id=OHR.CorbettTigers_ZH-CN6927569938_1920x1080.webp",
-    "main_text": "老虎是世界上现存最大的猫科动物。"
+    "date": "2024-07-30",
+    "headline": "中世纪的曼哈顿",
+    "title": "圣吉米尼亚诺，锡耶纳，托斯卡纳大区，意大利亚",
+    "description": "这些中世纪塔楼高高耸立在意大利中北部锡耶纳附近的小镇圣吉米尼亚诺。中世纪时，围绕着一座供奉圣吉米亚努斯的教堂（意大利语为“圣吉米尼亚诺”），一个小镇逐渐发展起来。除了是朝圣者前往罗马的必经之地外，该镇还因当地的维奈西卡葡萄酒和附近山上种植的藏红花而繁荣起来。然而，1348年席卷欧洲的黑死病减缓了小镇的发展，小镇人口损失过半，至今仍保留着中世纪的特色。",
+    "image_url": "https://cn.bing.com/th?id=OHR.GimignanoTuscany_ZH-CN8059318824_1920x1080.webp",
+    "main_text": "圣吉米尼亚诺成功保护了14座高低错落的塔楼，并因此而闻名于世。"
 }
 ```
 
-UpdataTime：2024-07-29 01:43:35
+UpdataTime：2024-07-30 01:40:43
