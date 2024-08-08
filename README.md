@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![圣约瑟夫北码头内灯和外灯，密歇根州，美国](https://cn.bing.com/th?id=OHR.MichiganLighthouse_ZH-CN0581377136_1920x1080.webp)
-Today: [圣约瑟夫北码头内灯和外灯，密歇根州，美国](https://cn.bing.com/th?id=OHR.MichiganLighthouse_ZH-CN0581377136_1920x1080.webp) - 不止是航海需要它
+![横斑腹小鸮，曼谷，泰国](https://cn.bing.com/th?id=OHR.SpottedOwlet_ZH-CN0841935587_1920x1080.webp)
+Today: [横斑腹小鸮，曼谷，泰国](https://cn.bing.com/th?id=OHR.SpottedOwlet_ZH-CN0841935587_1920x1080.webp) - 小猫头鹰瞪了你一眼
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2024-08-07",
-    "headline": "不止是航海需要它",
-    "title": "圣约瑟夫北码头内灯和外灯，密歇根州，美国",
-    "description": "昏暗的黄昏中，灯塔点亮了密歇根湖与圣约瑟夫河的交汇处。19世纪，密歇根湖上修建了两座码头，它们分别位于圣约瑟夫河河口的两侧，以帮助保护上游航行的船只。到了20世纪初，每个码头的尽头都修建了一座灯塔。如图所示，它们便是圣约瑟夫北码头内灯和外灯。2005年，这些码头尽头的灯塔被添加到美国国家历史遗迹名录中。",
-    "image_url": "https://cn.bing.com/th?id=OHR.MichiganLighthouse_ZH-CN0581377136_1920x1080.webp",
-    "main_text": "花鸟灯塔位于浙江省舟山市嵊泗县，它是中国沿海数百座灯塔中最大、功能最齐全、设备最先进、历史最悠久的灯塔之一。"
+    "date": "2024-08-08",
+    "headline": "小猫头鹰瞪了你一眼",
+    "title": "横斑腹小鸮，曼谷，泰国",
+    "description": "如果比赛对视，你觉得你能赢过这种鸟儿吗？横斑腹小鸮有着灰褐色的脸和锐利的黄色眼睛，主要在夜间活动。白天，横斑腹小鸮会休息，当其它小鸟发现它们时，会围攻它们。一旦受到骚扰，横斑腹小鸮往往会瞪着入侵者，晃动脑袋，并发出响亮的尖叫声，这种声音有时也被描述为笑声或咯咯声。",
+    "image_url": "https://cn.bing.com/th?id=OHR.SpottedOwlet_ZH-CN0841935587_1920x1080.webp",
+    "main_text": "在希腊神话中，雅典娜被誉为智慧、战争和艺术女神。传说中，这位女神和鸟类有着某种特殊的联系。"
 }
 ```
 
-UpdataTime：2024-08-07 01:42:20
+UpdataTime：2024-08-08 01:42:18
