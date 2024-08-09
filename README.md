@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![横斑腹小鸮，曼谷，泰国](https://cn.bing.com/th?id=OHR.SpottedOwlet_ZH-CN0841935587_1920x1080.webp)
-Today: [横斑腹小鸮，曼谷，泰国](https://cn.bing.com/th?id=OHR.SpottedOwlet_ZH-CN0841935587_1920x1080.webp) - 小猫头鹰瞪了你一眼
+![库斯科附近的萨克塞华曼印加遗址，秘鲁](https://cn.bing.com/th?id=OHR.IncaRuinPeru_ZH-CN5068602301_1920x1080.webp)
+Today: [库斯科附近的萨克塞华曼印加遗址，秘鲁](https://cn.bing.com/th?id=OHR.IncaRuinPeru_ZH-CN5068602301_1920x1080.webp) - 弘扬土著文化
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2024-08-08",
-    "headline": "小猫头鹰瞪了你一眼",
-    "title": "横斑腹小鸮，曼谷，泰国",
-    "description": "如果比赛对视，你觉得你能赢过这种鸟儿吗？横斑腹小鸮有着灰褐色的脸和锐利的黄色眼睛，主要在夜间活动。白天，横斑腹小鸮会休息，当其它小鸟发现它们时，会围攻它们。一旦受到骚扰，横斑腹小鸮往往会瞪着入侵者，晃动脑袋，并发出响亮的尖叫声，这种声音有时也被描述为笑声或咯咯声。",
-    "image_url": "https://cn.bing.com/th?id=OHR.SpottedOwlet_ZH-CN0841935587_1920x1080.webp",
-    "main_text": "在希腊神话中，雅典娜被誉为智慧、战争和艺术女神。传说中，这位女神和鸟类有着某种特殊的联系。"
+    "date": "2024-08-09",
+    "headline": "弘扬土著文化",
+    "title": "库斯科附近的萨克塞华曼印加遗址，秘鲁",
+    "description": "今天，我们为世界各地土著居民的遗产和文化而庆祝。从萨摩亚和格陵兰到新西兰和尼泊尔，全世界90个国家中约有5000种土著文化。他们面临的主要挑战之一是语言的消失：据估计，在全世界4000种土著语言中，约有2600种面临灭绝的危险。",
+    "image_url": "https://cn.bing.com/th?id=OHR.IncaRuinPeru_ZH-CN5068602301_1920x1080.webp",
+    "main_text": "萨克塞华曼是一座由巨大的石头雕刻而成的建筑，其精密度令人惊叹。印加人建造它时所使用的古老技术至今仍是一个不解之谜。"
 }
 ```
 
-UpdataTime：2024-08-08 01:42:18
+UpdataTime：2024-08-09 01:43:09
