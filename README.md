@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![通往肯尼迪湖的木板路，温哥华岛，加拿大不列颠哥伦比亚省](https://cn.bing.com/th?id=OHR.TofinoVancouver_ZH-CN6920493172_1920x1080.webp)
-Today: [通往肯尼迪湖的木板路，温哥华岛，加拿大不列颠哥伦比亚省](https://cn.bing.com/th?id=OHR.TofinoVancouver_ZH-CN6920493172_1920x1080.webp) - 人迹罕至的路
+![非洲象，肯尼亚安博塞利国家公园](https://cn.bing.com/th?id=OHR.ElephantsAmboseli_ZH-CN7596989061_1920x1080.webp)
+Today: [非洲象，肯尼亚安博塞利国家公园](https://cn.bing.com/th?id=OHR.ElephantsAmboseli_ZH-CN7596989061_1920x1080.webp) - 你的声音嘹亮而清晰
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2024-08-11",
-    "headline": "人迹罕至的路",
-    "title": "通往肯尼迪湖的木板路，温哥华岛，加拿大不列颠哥伦比亚省",
-    "description": "一起探索加拿大温哥华岛的美景吧。今天的图片中的那被古松和雪松环绕的木板路，可以通向岛上最大的淡水湖——肯尼迪湖。这个湖占地16000英亩。它位于克里阔特河和肯尼迪河的交汇处，是特拉-奥奎-阿赫特第一民族祖传土地的一部分。",
-    "image_url": "https://cn.bing.com/th?id=OHR.TofinoVancouver_ZH-CN6920493172_1920x1080.webp",
-    "main_text": "定居型虎鲸分为两大类，一类生活在南岛水域，另一类生活在北岛水域。人们从远处观察这些虎鲸，并给它们编号，许多虎鲸还有名字。"
+    "date": "2024-08-12",
+    "headline": "你的声音嘹亮而清晰",
+    "title": "非洲象，肯尼亚安博塞利国家公园",
+    "description": "准备好为大象庆祝吧！大象是最大的陆生动物，现存的大象有三种：非洲丛林象、非洲森林象和亚洲象。8月12日是世界大象日，旨在呼吁人们关注这些身处困境的庞然大物，象牙贸易和栖息地丧失让它们的生存环境面临巨大挑战。另外，栖息地的丧失也让大象与人类的接触更加密切，这可能会给大象和人类都带来严重影响。",
+    "image_url": "https://cn.bing.com/th?id=OHR.ElephantsAmboseli_ZH-CN7596989061_1920x1080.webp",
+    "main_text": "大象属于象科，是长鼻目中仅存的一个科。"
 }
 ```
 
-UpdataTime：2024-08-11 01:48:45
+UpdataTime：2024-08-12 01:44:52
