@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![长岛温泉乐园的过山车，三重县，日本](https://cn.bing.com/th?id=OHR.JapanRollerCoaster_ZH-CN7954058301_1920x1080.webp)
-Today: [长岛温泉乐园的过山车，三重县，日本](https://cn.bing.com/th?id=OHR.JapanRollerCoaster_ZH-CN7954058301_1920x1080.webp) - 系好安全带！
+![阿尔凡齐纳灯塔，阿尔加维，葡萄牙](https://cn.bing.com/th?id=OHR.AlfanzinaLighthouse_ZH-CN9704515669_1920x1080.webp)
+Today: [阿尔凡齐纳灯塔，阿尔加维，葡萄牙](https://cn.bing.com/th?id=OHR.AlfanzinaLighthouse_ZH-CN9704515669_1920x1080.webp) - 照亮前行之路
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2024-08-16",
-    "headline": "系好安全带！",
-    "title": "长岛温泉乐园的过山车，三重县，日本",
-    "description": "从单轨到虚拟现实体验，几个世纪以来，过山车一直在为人们带来各种感官刺激。今天是国际过山车日，这是一个完美的借口，可以潜入这些标志性景点的曲折蜿蜒之中。这些游乐设施的起源可以追溯到17世纪的俄罗斯，当时有一种名为“俄罗斯山脉”的木制滑梯，是季节性的娱乐活动设施。然而，我们所熟知的第一个过山车是19世纪初在法国巴黎建造的，它被称为“贝尔维尔俄罗斯山”，其特点是轮式手推车牢牢地固定在轨道上。快进到20世纪，游乐设施飞速发展，并且首次出现了环形过山车。",
-    "image_url": "https://cn.bing.com/th?id=OHR.JapanRollerCoaster_ZH-CN7954058301_1920x1080.webp",
-    "main_text": "在日本，喷气式过山车一词被用于指代大部分过山车，此类游乐园设施非常受当地人欢迎。"
+    "date": "2024-08-17",
+    "headline": "照亮前行之路",
+    "title": "阿尔凡齐纳灯塔，阿尔加维，葡萄牙",
+    "description": "今天照片中的灯塔位于葡萄牙南部海岸阿尔加维的卡沃埃罗。阿尔凡齐纳灯塔建于1919年，照耀着大海，帮助船只在该地区周围危险的水域航行。这座灯塔是著名的旅游胜地，同时也是该地区与海洋紧密联系的象征。如果你有幸住在灯塔附近，那么本周末就是拜访灯塔的最佳时机。",
+    "image_url": "https://cn.bing.com/th?id=OHR.AlfanzinaLighthouse_ZH-CN9704515669_1920x1080.webp",
+    "main_text": "多项研究认为，阿尔加维是世界上最适合养老的地方之一。"
 }
 ```
 
-UpdataTime：2024-08-16 01:41:49
+UpdataTime：2024-08-17 01:38:52
