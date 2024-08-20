@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![Bufadero de la Garita，大加那利岛，西班牙](https://cn.bing.com/th?id=OHR.RegataSanGines_ZH-CN0807566522_1920x1080.webp)
-Today: [Bufadero de la Garita，大加那利岛，西班牙](https://cn.bing.com/th?id=OHR.RegataSanGines_ZH-CN0807566522_1920x1080.webp) - 铿锵有力的打击乐
+![大提顿国家公园日出,怀俄明州,美国](https://cn.bing.com/th?id=OHR.TetonSunrise_ZH-CN1118823848_1920x1080.webp)
+Today: [大提顿国家公园日出,怀俄明州,美国](https://cn.bing.com/th?id=OHR.TetonSunrise_ZH-CN1118823848_1920x1080.webp) - 鹿和羚羊嬉戏的地方
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2024-08-19",
-    "headline": "铿锵有力的打击乐",
-    "title": "Bufadero de la Garita，大加那利岛，西班牙",
-    "description": "西班牙有一个令人惊叹的景点，名为Bufadero de la Garita，您听说过吗？它位于西班牙的大加那利岛，离非洲西北部的大西洋海岸不远。这是一个不容错过的自然奇观，位于该岛风景如画的东海岸，是个迷人的“海上喷水孔”，海水以强劲的力量涌入岩石中又喷涌出来，创造出令人印象深刻的奇观，就像我们今天在图片中看到的那样。",
-    "image_url": "https://cn.bing.com/th?id=OHR.RegataSanGines_ZH-CN0807566522_1920x1080.webp",
-    "main_text": "在大加那利岛的东边，有一个名为Bufadero de la Garita的地质构造，海水经常会从岩石中喷涌而出。岩石上有两个大洞，汹涌的波涛不断涌入洞中，将其填满而后又被排空。"
+    "date": "2024-08-20",
+    "headline": "鹿和羚羊嬉戏的地方",
+    "title": "大提顿国家公园日出,怀俄明州,美国",
+    "description": "正如今天图片所展示的那样，怀俄明州和大提顿国家公园拥有令人惊叹的美景，这就是为什么它可以吸引人们不断地回到这里。早些年间，法国猎人将这里取名为“三个乳头”，1929年，小约翰·戴维森·洛克菲勒等生态环保人士创建了大提顿国家公园。公园里有灰熊、狼、野牛、驼鹿和白头海雕等动物，是一个几乎未受破坏的动植物生态系统。",
+    "image_url": "https://cn.bing.com/th?id=OHR.TetonSunrise_ZH-CN1118823848_1920x1080.webp",
+    "main_text": "https://www.bing.com/images/search?q=大提顿国家公园&form=hpbap1"
 }
 ```
 
-UpdataTime：2024-08-19 01:43:59
+UpdataTime：2024-08-20 01:41:36
