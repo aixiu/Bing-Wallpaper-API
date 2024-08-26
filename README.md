@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![急流湖的日出，冰川国家公园，蒙大拿州，美国](https://cn.bing.com/th?id=OHR.SwiftcurrentLake_ZH-CN1513761894_1920x1080.webp)
-Today: [急流湖的日出，冰川国家公园，蒙大拿州，美国](https://cn.bing.com/th?id=OHR.SwiftcurrentLake_ZH-CN1513761894_1920x1080.webp) - 守护这片乐园
+![巴尔米拉环礁国家野生动物保护区，中太平洋](https://cn.bing.com/th?id=OHR.PalmyraAtoll_ZH-CN1814325540_1920x1080.webp)
+Today: [巴尔米拉环礁国家野生动物保护区，中太平洋](https://cn.bing.com/th?id=OHR.PalmyraAtoll_ZH-CN1814325540_1920x1080.webp) - 田园诗般的岛屿之旅
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2024-08-25",
-    "headline": "守护这片乐园",
-    "title": "急流湖的日出，冰川国家公园，蒙大拿州，美国",
-    "description": "在美国国家公园管理局创始人日，与我们一起为美国的荒野而庆祝。今天，我们向具有创建国家公园管理局的远见和卓识的创始人致敬。伍德罗·威尔逊总统成立该组织的目的是保护野生动物、维护自然景观、保存历史文物并提供教育项目。在这一天，您可以游览美国429个国家公园中的其中一个，并参与到护林员主导的项目、志愿者活动和庆祝活动中，以便于了解更多与之相关的历史。",
-    "image_url": "https://cn.bing.com/th?id=OHR.SwiftcurrentLake_ZH-CN1513761894_1920x1080.webp",
-    "main_text": "急流湖以西的山脉高出湖面3000英尺（910米）。正在迅速消失的格林内尔冰川是为湖泊和溪流提供水源的几处冰川和雪原之一。"
+    "date": "2024-08-26",
+    "headline": "田园诗般的岛屿之旅",
+    "title": "巴尔米拉环礁国家野生动物保护区，中太平洋",
+    "description": "欢迎来到太平洋中部的生态旅行者天堂。巴尔米拉环礁国家野生动物保护区位于夏威夷和美属萨摩亚之间，成立于2001年，旨在保护和管理巴尔米拉环礁的鱼类、野生动物、植物及其栖息地。",
+    "image_url": "https://cn.bing.com/th?id=OHR.PalmyraAtoll_ZH-CN1814325540_1920x1080.webp",
+    "main_text": "太平洋偏远岛屿海洋国家纪念碑由巴尔米拉环礁、贝克岛、豪兰岛、贾维斯岛、约翰斯顿环礁和金曼礁组成，由乔治·w·布什总统于2009年1月6日宣布成立。"
 }
 ```
 
-UpdataTime：2024-08-25 01:49:44
+UpdataTime：2024-08-26 01:44:10
