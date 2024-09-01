@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![撒哈拉沙漠的岩层和沙丘，贾奈特，阿尔及利亚](https://cn.bing.com/th?id=OHR.DjanetAlgeria_ZH-CN3458706695_1920x1080.webp)
-Today: [撒哈拉沙漠的岩层和沙丘，贾奈特，阿尔及利亚](https://cn.bing.com/th?id=OHR.DjanetAlgeria_ZH-CN3458706695_1920x1080.webp) - 沙丘日和沙漠烟霞
+![泰晤士河，伦敦，英国](https://cn.bing.com/th?id=OHR.ThamesLondon_ZH-CN3629717426_1920x1080.webp)
+Today: [泰晤士河，伦敦，英国](https://cn.bing.com/th?id=OHR.ThamesLondon_ZH-CN3629717426_1920x1080.webp) - 小船轻轻划过泰晤士河
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2024-08-31",
-    "headline": "沙丘日和沙漠烟霞",
-    "title": "撒哈拉沙漠的岩层和沙丘，贾奈特，阿尔及利亚",
-    "description": "从地中海沿岸到广袤的撒哈拉沙漠，北非阿尔及利亚的地貌千姿百态。今天，我们将探索阿杰尔塔西里高原周围的地区。这一联合国教科文组织世界遗产以其岩层和洞穴艺术而闻名。这里有1.5万多处古代雕刻，有些可以追溯到1.2万年前，描绘了日常生活、狩猎和神秘生物的场景。领略完这片沙漠风光后，就该进城了。",
-    "image_url": "https://cn.bing.com/th?id=OHR.DjanetAlgeria_ZH-CN3458706695_1920x1080.webp",
-    "main_text": "在贾奈特，4.1%的人口受过高等教育，另有19.8%的人口完成了中等教育。"
+    "date": "2024-09-01",
+    "headline": "小船轻轻划过泰晤士河",
+    "title": "泰晤士河，伦敦，英国",
+    "description": "欢迎来到英国伦敦的泰晤士河节。每年，它都会将社区、艺术家和自然爱好者聚集在一起，向河流致敬，为期一个月。2024年的重点活动包括一年一度的帆船赛舟会、大河赛和清洁泰晤士河挑战赛。",
+    "image_url": "https://cn.bing.com/th?id=OHR.ThamesLondon_ZH-CN3629717426_1920x1080.webp",
+    "main_text": "潮道是英国泰晤士河的一部分，受潮汐影响，这段水域位于特丁顿船闸的下游。"
 }
 ```
 
-UpdataTime：2024-08-31 01:45:55
+UpdataTime：2024-09-01 02:00:48
