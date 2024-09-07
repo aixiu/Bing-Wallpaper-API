@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-![朱红蜂鸟，圣克鲁斯，加利福尼亚州，美国](https://cn.bing.com/th?id=OHR.SantaCruzHummer_ZH-CN5448262039_1920x1080.webp)
-Today: [朱红蜂鸟，圣克鲁斯，加利福尼亚州，美国](https://cn.bing.com/th?id=OHR.SantaCruzHummer_ZH-CN5448262039_1920x1080.webp) - 嗡嗡作响
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2024-09-07",
     "headline": "嗡嗡作响",
@@ -42,6 +6,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url": "https://cn.bing.com/th?id=OHR.SantaCruzHummer_ZH-CN5448262039_1920x1080.webp",
     "main_text": "蜂鸟的腿很小，既不能跳也不能走，不过它们在栖息时可以侧身移动。"
 }
-```
-
-UpdataTime：2024-09-07 01:45:16
