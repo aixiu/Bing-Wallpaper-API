@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-![阿根廷和巴西边境的伊瓜苏瀑布](https://cn.bing.com/th?id=OHR.IguazuRainbow_ZH-CN6524347982_1920x1080.webp)
-Today: [阿根廷和巴西边境的伊瓜苏瀑布](https://cn.bing.com/th?id=OHR.IguazuRainbow_ZH-CN6524347982_1920x1080.webp) - “大水”中的彩虹波
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2024-09-09",
     "headline": "“大水”中的彩虹波",
@@ -42,6 +6,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url": "https://cn.bing.com/th?id=OHR.IguazuRainbow_ZH-CN6524347982_1920x1080.webp",
     "main_text": "伊瓜苏瀑布的排列方式像一个反转的字母 “J”。阿根廷和巴西的边界穿过伊瓜苏瀑布最险要的“魔鬼咽喉”。瀑布右岸是巴西领土，占伊瓜苏河流域95%以上的面积，但这些瀑布的水流量仅占约20%，左侧的水流量是阿根廷的，占瀑布的近80%。"
 }
-```
-
-UpdataTime：2024-09-09 01:50:29
