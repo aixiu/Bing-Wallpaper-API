@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-![瓦斯科·达·伽马大桥，里斯本，葡萄牙](https://cn.bing.com/th?id=OHR.BridgeLisbon_ZH-CN6877671644_1920x1080.webp)
-Today: [瓦斯科·达·伽马大桥，里斯本，葡萄牙](https://cn.bing.com/th?id=OHR.BridgeLisbon_ZH-CN6877671644_1920x1080.webp) - 从天际线到水面
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2024-09-10",
     "headline": "从天际线到水面",
@@ -42,6 +6,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url": "https://cn.bing.com/th?id=OHR.BridgeLisbon_ZH-CN6877671644_1920x1080.webp",
     "main_text": "它是欧洲第二长的桥，仅次于克里米亚桥，也是欧盟最长的桥。建造这座大桥的目的是为了缓解葡萄牙四月二十五号大桥的交通拥堵状况，使该国南北地区之间的交通不再需要通过首都里斯本。"
 }
-```
-
-UpdataTime：2024-09-10 01:48:48
