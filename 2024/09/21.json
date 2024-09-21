@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-![Oktoberfest in Munich at sunset](https://cn.bing.com/th?id=OHR.MunichBeerfest_ZH-CN0304560562_1920x1080.webp)
-Today: [Oktoberfest in Munich at sunset](https://cn.bing.com/th?id=OHR.MunichBeerfest_ZH-CN0304560562_1920x1080.webp) - 为慕尼黑啤酒节干杯！
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2024-09-21",
     "headline": "为慕尼黑啤酒节干杯！",
@@ -42,6 +6,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url": "https://cn.bing.com/th?id=OHR.MunichBeerfest_ZH-CN0304560562_1920x1080.webp",
     "main_text": "目前，啤酒节上有14个大帐篷和20个小帐篷。这些帐篷是木制的非永久性建筑，专为啤酒节建造，仅在啤酒节期间使用。"
 }
-```
-
-UpdataTime：2024-09-21 01:48:22
