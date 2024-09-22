@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![Oktoberfest in Munich at sunset](https://cn.bing.com/th?id=OHR.MunichBeerfest_ZH-CN0304560562_1920x1080.webp)
-Today: [Oktoberfest in Munich at sunset](https://cn.bing.com/th?id=OHR.MunichBeerfest_ZH-CN0304560562_1920x1080.webp) - 为慕尼黑啤酒节干杯！
+![巴特米尔湖，湖区国家公园，英格兰，英国](https://cn.bing.com/th?id=OHR.AutumnCumbria_ZH-CN0565958390_1920x1080.webp)
+Today: [巴特米尔湖，湖区国家公园，英格兰，英国](https://cn.bing.com/th?id=OHR.AutumnCumbria_ZH-CN0565958390_1920x1080.webp) - 陷入沉思
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2024-09-21",
-    "headline": "为慕尼黑啤酒节干杯！",
-    "title": "Oktoberfest in Munich at sunset",
-    "description": "慕尼黑啤酒节是世界上最大的节日之一，吸引了600多万游客。除了身着传统巴伐利亚服装的服务员端上一大杯泡沫丰富的啤酒之外，每个人都能在这里找到自己喜欢的东西。在这里，您可以享受欢快的音乐、惊险刺激的游乐设施以及令人垂涎欲滴的椒盐卷饼和香肠等当地美食。啤酒节在全球其他地方也有庆祝活动，包括美国的辛辛那提和丹佛等几个城市，每个城市都为节日增添了自己的地方特色。因此，无论您是喜欢啤酒还是喜欢热闹的派对，慕尼黑啤酒节都会让你体验到巴伐利亚的风情。",
-    "image_url": "https://cn.bing.com/th?id=OHR.MunichBeerfest_ZH-CN0304560562_1920x1080.webp",
-    "main_text": "目前，啤酒节上有14个大帐篷和20个小帐篷。这些帐篷是木制的非永久性建筑，专为啤酒节建造，仅在啤酒节期间使用。"
+    "date": "2024-09-22",
+    "headline": "陷入沉思",
+    "title": "巴特米尔湖，湖区国家公园，英格兰，英国",
+    "description": "秋天正式登场了。在北半球，九月分点标志着从繁茂的夏季向温润的秋季过渡，而在南半球，它则预示着春天的开始。“Equinox”一词源于拉丁语，意为 “相等的夜晚”。在这一时刻，地轴与太阳垂直，这意味着太阳从正东升起，从正西落下，这是难得的全球平衡的时刻。这种平衡的出现是因为地轴既没有向太阳倾斜，也没有远离太阳。",
+    "image_url": "https://cn.bing.com/th?id=OHR.AutumnCumbria_ZH-CN0565958390_1920x1080.webp",
+    "main_text": "秋分是常用来确定回归年长度的一个时间点。"
 }
 ```
 
-UpdataTime：2024-09-21 01:48:22
+UpdataTime：2024-09-22 01:58:34
