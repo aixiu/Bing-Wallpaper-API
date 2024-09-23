@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![巴特米尔湖，湖区国家公园，英格兰，英国](https://cn.bing.com/th?id=OHR.AutumnCumbria_ZH-CN0565958390_1920x1080.webp)
-Today: [巴特米尔湖，湖区国家公园，英格兰，英国](https://cn.bing.com/th?id=OHR.AutumnCumbria_ZH-CN0565958390_1920x1080.webp) - 陷入沉思
+![海獭，威廉王子湾,阿拉斯加州,美国](https://cn.bing.com/th?id=OHR.IcebergOtter_ZH-CN0972467238_1920x1080.webp)
+Today: [海獭，威廉王子湾,阿拉斯加州,美国](https://cn.bing.com/th?id=OHR.IcebergOtter_ZH-CN0972467238_1920x1080.webp) - 令人惊叹的海獭
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2024-09-22",
-    "headline": "陷入沉思",
-    "title": "巴特米尔湖，湖区国家公园，英格兰，英国",
-    "description": "秋天正式登场了。在北半球，九月分点标志着从繁茂的夏季向温润的秋季过渡，而在南半球，它则预示着春天的开始。“Equinox”一词源于拉丁语，意为 “相等的夜晚”。在这一时刻，地轴与太阳垂直，这意味着太阳从正东升起，从正西落下，这是难得的全球平衡的时刻。这种平衡的出现是因为地轴既没有向太阳倾斜，也没有远离太阳。",
-    "image_url": "https://cn.bing.com/th?id=OHR.AutumnCumbria_ZH-CN0565958390_1920x1080.webp",
-    "main_text": "秋分是常用来确定回归年长度的一个时间点。"
+    "date": "2024-09-23",
+    "headline": "令人惊叹的海獭",
+    "title": "海獭，威廉王子湾,阿拉斯加州,美国",
+    "description": "本周是“海獭宣传周”，这项活动旨在引起人们对这些毛茸茸的水生哺乳动物的关注。今天图片中的海獭是在阿拉斯加威廉王子湾拍摄的。",
+    "image_url": "https://cn.bing.com/th?id=OHR.IcebergOtter_ZH-CN0972467238_1920x1080.webp",
+    "main_text": "海獭是鼬鼠家族中最大的成员，却是北美最小的海洋哺乳动物。"
 }
 ```
 
-UpdataTime：2024-09-22 01:58:34
+UpdataTime：2024-09-23 01:53:10
