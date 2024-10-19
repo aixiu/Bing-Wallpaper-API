@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![曼哈顿中央公园的秋天，纽约，美国](https://cn.bing.com/th?id=OHR.CentralParkAutumn_ZH-CN2757358246_1920x1080.webp)
-Today: [曼哈顿中央公园的秋天，纽约，美国](https://cn.bing.com/th?id=OHR.CentralParkAutumn_ZH-CN2757358246_1920x1080.webp) - 邂逅秋日的林荫道
+![哈索尔神庙，邓德拉神庙群，基纳，埃及](https://cn.bing.com/th?id=OHR.DenderaTemple_ZH-CN3097745887_1920x1080.webp)
+Today: [哈索尔神庙，邓德拉神庙群，基纳，埃及](https://cn.bing.com/th?id=OHR.DenderaTemple_ZH-CN3097745887_1920x1080.webp) - 立足现在，发掘过去
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2024-10-18",
-    "headline": "邂逅秋日的林荫道",
-    "title": "曼哈顿中央公园的秋天，纽约，美国",
-    "description": "每年秋天，纽约中央公园18000棵树木中的许多树，都会染上黄色、红色和橙色的色调。秋天是中央公园出镜率最高的季节之一，它为《当哈利遇见莎莉》和《头发》等电影提供了标志性的拍摄背景。树木不仅通过温度来感知冬天的到来，还通过日出和日落时光线照射到树叶上的角度来感知。由于纽约高楼林立，光线、阴影和温度的独特相互作用往往导致公园里的秋叶比城市里的其他地方来得晚。",
-    "image_url": "https://cn.bing.com/th?id=OHR.CentralParkAutumn_ZH-CN2757358246_1920x1080.webp",
-    "main_text": "中央公园林荫大道是拥有世界上最大的美国榆树丛的地方之一。高耸的榆树遮天蔽日，是中央公园最具标志性和辨识度的景观之一。"
+    "date": "2024-10-19",
+    "headline": "立足现在，发掘过去",
+    "title": "哈索尔神庙，邓德拉神庙群，基纳，埃及",
+    "description": "今天，在国际考古日，深入挖掘你内心的印第安纳·琼斯或劳拉·克劳馥吧！该节日始于2011年，于每年10月的第三个星期六举办庆祝活动，旨在庆祝考古学对当今社会做出的贡献。其全球性的活动包括举办展览和动手挖掘遗迹，有些活动还会持续一个月。此外，许多美国国家公园、州立公园、历史地标和当地博物馆也会举办相关活动。",
+    "image_url": "https://cn.bing.com/th?id=OHR.DenderaTemple_ZH-CN3097745887_1920x1080.webp",
+    "main_text": "哈索尔神庙最引人注目的特色之一是它的天文天花板，这是古埃及天文学和艺术融合在一起的杰作。"
 }
 ```
 
-UpdataTime：2024-10-18 02:42:43
+UpdataTime：2024-10-19 01:51:54
