@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-![乔治·史密斯州立公园的柏树，佐治亚州，美国](https://cn.bing.com/th?id=OHR.AutumnCypress_ZH-CN5099875619_1920x1080.webp)
-Today: [乔治·史密斯州立公园的柏树，佐治亚州，美国](https://cn.bing.com/th?id=OHR.AutumnCypress_ZH-CN5099875619_1920x1080.webp) - 在秋天里傲然挺立
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2024-10-21",
     "headline": "在秋天里傲然挺立",
@@ -42,6 +6,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url": "https://cn.bing.com/th?id=OHR.AutumnCypress_ZH-CN5099875619_1920x1080.webp",
     "main_text": "这座中等规模的州立公园地处偏远，吸引了众多观鸟者和自然爱好者。常驻的珍稀鸟类包括大蓝鹭和白朱鹭。"
 }
-```
-
-UpdataTime：2024-10-21 01:56:24
