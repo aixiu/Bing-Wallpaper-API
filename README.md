@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![南瓜田，维多利亚，不列颠哥伦比亚省，加拿大](https://cn.bing.com/th?id=OHR.PumpkinMist_ZH-CN0898655859_1920x1080.webp)
-Today: [南瓜田，维多利亚，不列颠哥伦比亚省，加拿大](https://cn.bing.com/th?id=OHR.PumpkinMist_ZH-CN0898655859_1920x1080.webp) - 雕刻时间到了
+![大雕鸮](https://cn.bing.com/th?id=OHR.GreatOwl_ZH-CN1259534922_1920x1080.webp)
+Today: [大雕鸮](https://cn.bing.com/th?id=OHR.GreatOwl_ZH-CN1259534922_1920x1080.webp) - 猫头鹰的叫声在萦绕
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2024-10-28",
-    "headline": "雕刻时间到了",
-    "title": "南瓜田，维多利亚，不列颠哥伦比亚省，加拿大",
-    "description": "随着秋天的琥珀色覆盖大地，万圣节的寒意也在靠近，雕刻南瓜灯这一历史悠久的传统开始活跃起来。这种手工艺最初来自爱尔兰和苏格兰，移民者将它带到了美国，人们最开始用萝卜和土豆做灯，但是后面发现南瓜容量更大，也更容易雕刻，便将萝卜和土豆替换成了南瓜。人们将南瓜掏空，把蜡烛放进去点亮，将南瓜灯变成了闪烁的抵御邪灵的小灯。",
-    "image_url": "https://cn.bing.com/th?id=OHR.PumpkinMist_ZH-CN0898655859_1920x1080.webp",
-    "main_text": "在大多数民间传说中，雕刻南瓜是为了在万圣节前夕（即万圣节）吓跑邪灵，因为据说那时死者会在人间游荡。"
+    "date": "2024-10-29",
+    "headline": "猫头鹰的叫声在萦绕",
+    "title": "大雕鸮",
+    "description": "万圣节即将来临，让我们来认识一下这个节日的标志之一：大雕鸮。凭借着敏锐的视力、怪异的叫声和寂静无声的飞行，这种猫头鹰历来令人又敬又畏。在民间传说和神话中，猫头鹰被视为智慧的象征和死亡的预兆。在萨温节（这是凯尔特人万圣节的前身），猫头鹰被认为是灵魂正在游荡的亲属。",
+    "image_url": "https://cn.bing.com/th?id=OHR.GreatOwl_ZH-CN1259534922_1920x1080.webp",
+    "main_text": "大雕鸮是阿尔伯塔省的省鸟。"
 }
 ```
 
-UpdataTime：2024-10-28 01:58:15
+UpdataTime：2024-10-29 01:55:52
