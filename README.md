@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![大雕鸮](https://cn.bing.com/th?id=OHR.GreatOwl_ZH-CN1259534922_1920x1080.webp)
-Today: [大雕鸮](https://cn.bing.com/th?id=OHR.GreatOwl_ZH-CN1259534922_1920x1080.webp) - 猫头鹰的叫声在萦绕
+![从苏格兰教堂墓地眺望爱丁堡城堡，英国](https://cn.bing.com/th?id=OHR.HauntedEdinburgh_ZH-CN1461834159_1920x1080.webp)
+Today: [从苏格兰教堂墓地眺望爱丁堡城堡，英国](https://cn.bing.com/th?id=OHR.HauntedEdinburgh_ZH-CN1461834159_1920x1080.webp) - 令人毛骨悚然的历史
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2024-10-29",
-    "headline": "猫头鹰的叫声在萦绕",
-    "title": "大雕鸮",
-    "description": "万圣节即将来临，让我们来认识一下这个节日的标志之一：大雕鸮。凭借着敏锐的视力、怪异的叫声和寂静无声的飞行，这种猫头鹰历来令人又敬又畏。在民间传说和神话中，猫头鹰被视为智慧的象征和死亡的预兆。在萨温节（这是凯尔特人万圣节的前身），猫头鹰被认为是灵魂正在游荡的亲属。",
-    "image_url": "https://cn.bing.com/th?id=OHR.GreatOwl_ZH-CN1259534922_1920x1080.webp",
-    "main_text": "大雕鸮是阿尔伯塔省的省鸟。"
+    "date": "2024-10-30",
+    "headline": "令人毛骨悚然的历史",
+    "title": "从苏格兰教堂墓地眺望爱丁堡城堡，英国",
+    "description": "如果您在寻找一个既有历史感又有大量鬼魂传说的万圣节目的地，爱丁堡城堡就是不二之选。它位于一座死火山的高处，自11世纪以来，这些屹立的城墙见证了战争、皇室诞生、王公贵族的处决以及诸多的戏剧性事件。但真正让它与众不同的是它有着苏格兰闹鬼最凶的地方之一的名声。城堡有着1000多年的历史，难怪有人报告说见过鬼魂。",
+    "image_url": "https://cn.bing.com/th?id=OHR.HauntedEdinburgh_ZH-CN1461834159_1920x1080.webp",
+    "main_text": "自2009年起，这座城堡作为爱丁堡世界遗产保护区的一部分，出现在克莱兹代尔银行发行的10英镑纸币上。"
 }
 ```
 
-UpdataTime：2024-10-29 01:55:52
+UpdataTime：2024-10-30 01:54:45
