@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-![冰岛冰川河流鸟瞰图](https://cn.bing.com/th?id=OHR.GlacialRivers_ZH-CN0260507556_1920x1080.webp)
-Today: [冰岛冰川河流鸟瞰图](https://cn.bing.com/th?id=OHR.GlacialRivers_ZH-CN0260507556_1920x1080.webp) - 来自冰与火之国
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2024-11-08",
     "headline": "来自冰与火之国",
@@ -42,6 +6,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url": "https://cn.bing.com/th?id=OHR.GlacialRivers_ZH-CN0260507556_1920x1080.webp",
     "main_text": "冰川溪流通常也被称为 “冰川流 ”或“冰川融水溪流”。"
 }
-```
-
-UpdataTime：2024-11-08 01:51:57
