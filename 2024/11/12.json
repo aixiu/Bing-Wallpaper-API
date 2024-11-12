@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-![透过海湾拱门看到双拱门，拱门国家公园，犹他州，美国](https://cn.bing.com/th?id=OHR.CoveArch_ZH-CN1281140578_1920x1080.webp)
-Today: [透过海湾拱门看到双拱门，拱门国家公园，犹他州，美国](https://cn.bing.com/th?id=OHR.CoveArch_ZH-CN1281140578_1920x1080.webp) - 拱门之下
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2024-11-12",
     "headline": "拱门之下",
@@ -42,6 +6,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url": "https://cn.bing.com/th?id=OHR.CoveArch_ZH-CN1281140578_1920x1080.webp",
     "main_text": "拱门国家公园规定禁止攀爬园区内的平衡石或者是任何有名、无名的开口大于3英尺（0.9米）的拱门岩石。在公园的其他地方攀岩是允许的，但仍须遵守相关规定。此外，公园内还禁止走绳运动和低空跳伞。"
 }
-```
-
-UpdataTime：2024-11-12 01:50:45
