@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-![马纳罗拉，五渔村国家公园，利古里亚，意大利](https://cn.bing.com/th?id=OHR.ManarolaItaly_ZH-CN2837915120_1920x1080.webp)
-Today: [马纳罗拉，五渔村国家公园，利古里亚，意大利](https://cn.bing.com/th?id=OHR.ManarolaItaly_ZH-CN2837915120_1920x1080.webp) - 悬崖边的故事
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2024-11-14",
     "headline": "悬崖边的故事",
@@ -42,6 +6,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url": "https://cn.bing.com/th?id=OHR.ManarolaItaly_ZH-CN2837915120_1920x1080.webp",
     "main_text": "马纳罗拉的主要产业历来是渔业和酿酒业，当地的葡萄酒“夏克特拉”尤为有名，古罗马文献中也曾提到了该地区生产的高品质葡萄酒。"
 }
-```
-
-UpdataTime：2024-11-14 01:52:57
