@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-![瓦登海沿岸，莫德加特附近，弗里斯兰，荷兰](https://cn.bing.com/th?id=OHR.FrieslandNetherlands_ZH-CN5952456898_1920x1080.webp)
-Today: [瓦登海沿岸，莫德加特附近，弗里斯兰，荷兰](https://cn.bing.com/th?id=OHR.FrieslandNetherlands_ZH-CN5952456898_1920x1080.webp) - 泥土、大海和天空
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2024-11-16",
     "headline": "泥土、大海和天空",
@@ -42,6 +6,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url": "https://cn.bing.com/th?id=OHR.FrieslandNetherlands_ZH-CN5952456898_1920x1080.webp",
     "main_text": "1903年厄斯金·柴德斯的小说《沙岸之谜》和1915年埃尔丝·乌拉伊的小说《儿童疗养院中的小宝贝》都以瓦登海的德国部分为背景。"
 }
-```
-
-UpdataTime：2024-11-16 01:57:06
