@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![两只原驼,托雷斯德尔帕恩国家公园 , 智利](https://cn.bing.com/th?id=OHR.GuanacosChile_ZH-CN7011761081_1920x1080.webp)
-Today: [两只原驼,托雷斯德尔帕恩国家公园 , 智利](https://cn.bing.com/th?id=OHR.GuanacosChile_ZH-CN7011761081_1920x1080.webp) - 态度和高度
+![被雪覆盖的康沃尔天涯海角小径，康沃尔郡兰德恩德，英格兰](https://cn.bing.com/th?id=OHR.CornwallSnow_ZH-CN8407245245_1920x1080.webp)
+Today: [被雪覆盖的康沃尔天涯海角小径，康沃尔郡兰德恩德，英格兰](https://cn.bing.com/th?id=OHR.CornwallSnow_ZH-CN8407245245_1920x1080.webp) - 世界的尽头？不完全是
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2024-12-09",
-    "headline": "态度和高度",
-    "title": "两只原驼,托雷斯德尔帕恩国家公园 , 智利",
-    "description": "原驼是南美洲的本土动物，主要分布在美洲大陆中西部一带，大多栖息在秘鲁与玻利维亚交界的安第斯山脉。原驼生性机警敏捷，喜欢成群外出觅食，性格相对温顺。",
-    "image_url": "https://cn.bing.com/th?id=OHR.GuanacosChile_ZH-CN7011761081_1920x1080.webp",
-    "main_text": "原驼（又称瓜纳科斯）能够在高海拔地区生活，它们的心脏相对于体型来说很大，单位体积血液内所含血红蛋白的量大约是人类血液的四倍。"
+    "headline": "世界的尽头？不完全是",
+    "title": "被雪覆盖的康沃尔天涯海角小径，康沃尔郡兰德恩德，英格兰",
+    "description": "欢迎来到英格兰康沃尔的兰兹角，这里有狂风呼啸的悬崖、崎岖不平的美景和蔚为壮观的海景！从古希腊时代起，它就被称为“Belerion”（闪闪发光的土地）或是“太阳之地”，或出现在亚瑟王传奇中提到的失落之地“里昂内斯”中，兰兹角一直是一个令人神往的地方。它是英国大陆最西南的地点，最出名的是被设为慈善跑步比赛的起点或终点，路线从最西南端的兰兹角到英国北海的约翰奥格罗茨，贯穿了整个大不列颠岛。",
+    "image_url": "https://cn.bing.com/th?id=OHR.CornwallSnow_ZH-CN8407245245_1920x1080.webp",
+    "main_text": "兰兹角是康沃尔的传奇之地，自古希腊时代起就一直激励着人们，当时它被称为“Belerion”，意为“闪闪发光的土地”。"
 }
 ```
 
-UpdataTime：2024-12-09 08:34:42
+UpdataTime：2024-12-09 16:34:27
