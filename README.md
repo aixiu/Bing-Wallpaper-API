@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2024-12-08",
+    "date": "2024-12-09",
     "headline": "态度和高度",
     "title": "两只原驼,托雷斯德尔帕恩国家公园 , 智利",
     "description": "原驼是南美洲的本土动物，主要分布在美洲大陆中西部一带，大多栖息在秘鲁与玻利维亚交界的安第斯山脉。原驼生性机警敏捷，喜欢成群外出觅食，性格相对温顺。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2024-12-08 16:29:48
+UpdataTime：2024-12-09 02:04:00
