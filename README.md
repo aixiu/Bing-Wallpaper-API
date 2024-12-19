@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![锡比乌圣诞市场，罗马尼亚](https://cn.bing.com/th?id=OHR.SibiuRomania_ZH-CN1631942857_1920x1080.webp)
-Today: [锡比乌圣诞市场，罗马尼亚](https://cn.bing.com/th?id=OHR.SibiuRomania_ZH-CN1631942857_1920x1080.webp) - 闪烁的小镇
+![罗瓦涅米圣诞老人村，拉普兰，芬兰](https://cn.bing.com/th?id=OHR.SantaClausVillage_ZH-CN1839275027_1920x1080.webp)
+Today: [罗瓦涅米圣诞老人村，拉普兰，芬兰](https://cn.bing.com/th?id=OHR.SantaClausVillage_ZH-CN1839275027_1920x1080.webp) - 圣诞老人要来镇上了
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2024-12-19",
-    "headline": "闪烁的小镇",
-    "title": "锡比乌圣诞市场，罗马尼亚",
-    "description": "随着冬季寒潮来临，锡比乌市变成了一个令人眼花缭乱的假日仙境，这里有罗马尼亚最受欢迎的圣诞市场之一。锡比乌圣诞市场从11月底到1月初在中央广场举行。在今天的图片中，一串串闪闪发光的灯悬挂在广场上，形成了一个雨棚，使鹅卵石街道沐浴在温暖的节日光芒中。那里还有一棵灯火辉煌的圣诞树，周围是迷人的木屋，售卖各种各样的东西，不仅有手工制作的装饰品，还有当地制作的点心，比如罗马尼亚传统甜面包，芳香的热葡萄酒，还有撒上盐的热脆饼。",
-    "image_url": "https://cn.bing.com/th?id=OHR.SibiuRomania_ZH-CN1631942857_1920x1080.webp",
-    "main_text": "这座小镇被称为“千眼之城”（斜坡上的阁楼窗户形似人的眼睛），是国内外游客的著名旅游目的地。"
+    "headline": "圣诞老人要来镇上了",
+    "title": "罗瓦涅米圣诞老人村，拉普兰，芬兰",
+    "description": "圣诞老人村坐落在芬兰的罗瓦涅米，这是一个神奇的四季皆宜的旅游胜地，游客从这里可以进入到迷人的圣诞世界。这个村庄位于北极圈内，可为游客提供独一份的节日体验，比如见到圣诞老人本人或穿越北极圈线。儿童和成人都可以见到圣诞老人忠诚的驯鹿，探索一系列以圣诞节为主题的充满活力的景点，让所有年龄段的游客都能不虚此行。",
+    "image_url": "https://cn.bing.com/th?id=OHR.SantaClausVillage_ZH-CN1839275027_1920x1080.webp",
+    "main_text": "罗瓦涅米的徽章是由托伊沃·沃雷拉设计的，他是这样描述这个徽章的：在绿色的田野里，有块银色的帷幔，上方角落里扑腾着一簇金色火焰。"
 }
 ```
 
-UpdataTime：2024-12-19 08:32:21
+UpdataTime：2024-12-19 16:29:48
