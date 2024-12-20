@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2024-12-19",
+    "date": "2024-12-20",
     "headline": "圣诞老人要来镇上了",
     "title": "罗瓦涅米圣诞老人村，拉普兰，芬兰",
     "description": "圣诞老人村坐落在芬兰的罗瓦涅米，这是一个神奇的四季皆宜的旅游胜地，游客从这里可以进入到迷人的圣诞世界。这个村庄位于北极圈内，可为游客提供独一份的节日体验，比如见到圣诞老人本人或穿越北极圈线。儿童和成人都可以见到圣诞老人忠诚的驯鹿，探索一系列以圣诞节为主题的充满活力的景点，让所有年龄段的游客都能不虚此行。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2024-12-19 16:29:48
+UpdataTime：2024-12-20 01:51:30
