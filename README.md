@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2024-12-20",
+    "date": "2024-12-21",
     "headline": "极致的冬日景色",
     "title": "满拉水库的雪景，日喀则，中国西藏自治区",
     "description": "冬至既有自然的内涵，也有人文的内涵。从自然角度看，冬至是二十四节气中的一个重要节气，冬至过后，我国各地气候进入最寒冷的阶段。从文化角度看，这一天也是中华民族的传统节日，全国各地都会举行不同的文化习俗来庆祝这个节气的到来。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2024-12-20 16:29:46
+UpdataTime：2024-12-21 01:48:57
