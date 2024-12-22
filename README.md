@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2024-12-22 01:57:58
+UpdataTime：2024-12-22 08:27:57
