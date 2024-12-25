@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2024-12-24",
+    "date": "2024-12-25",
     "headline": "传说中的风景",
     "title": "科瓦东加湖，阿斯图里亚斯，西班牙",
     "description": "迷人的科瓦东加湖位于阿斯图里亚斯雄伟的欧罗巴山的中心地带，这是一个标志性的旅游胜地，在冬季尤为迷人。这些湖泊被皑皑白雪覆盖，四周环绕着雄伟的山脉，这幅自然奇观吸引着来自世界各地的游客。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2024-12-24 16:29:11
+UpdataTime：2024-12-25 01:49:18
