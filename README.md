@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2024-12-25",
+    "date": "2024-12-26",
     "headline": "节日还在继续",
     "title": "莫斯霍尔港的圣诞灯饰，康沃尔，英格兰",
     "description": "当圣诞颂歌的余音仍在空中回荡时，节礼日又到了。英国、加拿大及多个英联邦国家都会庆祝这个节日。过去，富人们会在圣诞节后的这一天给仆人赠送装满礼物的礼盒，这一传统后来演变为向不幸者进行慈善捐赠的日子。如今，尽管赠予的精神仍在，但这一天已转变为购物促销和观看足球比赛的节日。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2024-12-25 16:28:51
+UpdataTime：2024-12-26 01:49:40
