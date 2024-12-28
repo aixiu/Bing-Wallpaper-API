@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2024-12-27",
+    "date": "2024-12-28",
     "headline": "保护海洋生物——绿海龟",
     "title": "一只绿海龟在太平洋中游泳，法国海外属地新喀里多尼亚",
     "description": "今日图片中展示了一只濒危的绿海龟正在太平洋西南部的新喀里多尼亚海域游泳。绿海龟在140多个国家的海岸线上均有分布，并全年在80多个国家筑巢。在中国，绿海龟大致分布于北起山东、南至北部湾海域。它们在中国江苏、浙江、福建、台湾、广东等沿海地带均有分布，尤其以南海最多。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2024-12-27 16:29:00
+UpdataTime：2024-12-28 01:48:13
