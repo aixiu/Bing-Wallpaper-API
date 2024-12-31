@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2024-12-30",
+    "date": "2024-12-31",
     "headline": "新年快乐！",
     "title": "国会山上空的烟花，渥太华，加拿大",
     "description": "今天是2024年的最后一天。新旧之年交替的夜晚被称为跨年夜，世界各地通常会举办烟火表演，一些地区则通过宗教和文化仪式迎接新年。许多国家还会用象征繁荣、长寿和好运的食物来迎接新年。在中国，人们会与亲朋好友聚在一起进行各种“除夕夜”活动，如旅行、听除夕音乐会或享用丰盛的除夕晚餐。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2024-12-30 16:29:58
+UpdataTime：2024-12-31 01:50:10
