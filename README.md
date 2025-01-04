@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![归春河上的板约-德天瀑布，中国与越南边境](https://cn.bing.com/th?id=OHR.VietnamFalls_ZH-CN9659529108_1920x1080.webp)
-Today: [归春河上的板约-德天瀑布，中国与越南边境](https://cn.bing.com/th?id=OHR.VietnamFalls_ZH-CN9659529108_1920x1080.webp) - 边境天堂
+![希莫加的紫红头鹦鹉，卡纳塔克邦，印度](https://cn.bing.com/th?id=OHR.PlumParakeet_ZH-CN0311942558_1920x1080.webp)
+Today: [希莫加的紫红头鹦鹉，卡纳塔克邦，印度](https://cn.bing.com/th?id=OHR.PlumParakeet_ZH-CN0311942558_1920x1080.webp) - 树梢上的焦点
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-01-04",
-    "headline": "边境天堂",
-    "title": "归春河上的板约-德天瀑布，中国与越南边境",
-    "description": "欢迎来到河流与边界线交汇的绝美之地：板约-德天瀑布。今日图片展示的正是这幅美景。该瀑布位于中国广西壮族自治区大新县与越南高平省重庆县之间的喀斯特地貌山丘区，沿着归春河流下。瀑布高达95英尺，宽980英尺，是越南最宽的瀑布，距离河内169英里。多年来，板约瀑布的顶端因侵蚀而缓慢向上游延伸。一年中的大部分时间里，它们以两个独立的瀑布流淌，但到了夏季，当雨水使河水上涨时，它们会汇合成一个巨大的瀑布。",
-    "image_url": "https://cn.bing.com/th?id=OHR.VietnamFalls_ZH-CN9659529108_1920x1080.webp",
-    "main_text": "板约-德天瀑布是位于中越国境线上的世界第四大跨国瀑布。"
+    "headline": "树梢上的焦点",
+    "title": "希莫加的紫红头鹦鹉，卡纳塔克邦，印度",
+    "description": "抬头看看天空，感受鸟类的神奇魅力。鸟类形态各异，色彩斑斓，但像今日图片中这种拥有紫色头冠的鹦鹉如此引人注目的却不多见。这种鹦鹉原产于印度次大陆，以飞行的快速敏捷和空中回荡的独特叫声而闻名。据报道，这种鹦鹉已扩散至美国纽约、佛罗里达州，甚至中东的部分地区。",
+    "image_url": "https://cn.bing.com/th?id=OHR.PlumParakeet_ZH-CN0311942558_1920x1080.webp",
+    "main_text": "在中国，紫红头鹦鹉主要分布云南、四川西南部和西藏东南部等地区。"
 }
 ```
 
-UpdataTime：2025-01-04 08:28:25
+UpdataTime：2025-01-04 16:27:58
