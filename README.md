@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-01-04",
+    "date": "2025-01-05",
     "headline": "树梢上的焦点",
     "title": "希莫加的紫红头鹦鹉，卡纳塔克邦，印度",
     "description": "抬头看看天空，感受鸟类的神奇魅力。鸟类形态各异，色彩斑斓，但像今日图片中这种拥有紫色头冠的鹦鹉如此引人注目的却不多见。这种鹦鹉原产于印度次大陆，以飞行的快速敏捷和空中回荡的独特叫声而闻名。据报道，这种鹦鹉已扩散至美国纽约、佛罗里达州，甚至中东的部分地区。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-01-04 16:27:58
+UpdataTime：2025-01-05 01:58:01
