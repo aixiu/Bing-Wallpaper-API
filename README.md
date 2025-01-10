@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![亚伯拉罕湖，阿尔伯塔省，加拿大](https://cn.bing.com/th?id=OHR.BubbleLake_ZH-CN7146244555_1920x1080.webp)
-Today: [亚伯拉罕湖，阿尔伯塔省，加拿大](https://cn.bing.com/th?id=OHR.BubbleLake_ZH-CN7146244555_1920x1080.webp) - 冰层中气泡奇观
+![梅克内斯的Heri es-Swani，摩洛哥](https://cn.bing.com/th?id=OHR.MeknesMorocco_ZH-CN7953910585_1920x1080.webp)
+Today: [梅克内斯的Heri es-Swani，摩洛哥](https://cn.bing.com/th?id=OHR.MeknesMorocco_ZH-CN7953910585_1920x1080.webp) - 旧时代的古老拱门
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-01-10",
-    "headline": "冰层中气泡奇观",
-    "title": "亚伯拉罕湖，阿尔伯塔省，加拿大",
-    "description": "听说过冻住的泡泡吗？每到冬季，加拿大阿尔伯塔省的亚伯拉罕湖便会上演这一奇观，这些气泡不仅美丽，更是科学的结晶。建于1972年的亚伯拉罕湖是一个占地超过20平方英里的人造湖，沿北萨斯喀彻温河延伸。湖泊的水源来自落基山脉的冰川融水，即使在寒冬，湖水依然清澈透明。冰川融水携带的细小沉积物能够散射阳光，而岩石的天然过滤作用将污染物降至最低。",
-    "image_url": "https://cn.bing.com/th?id=OHR.BubbleLake_ZH-CN7146244555_1920x1080.webp",
-    "main_text": "湖泊的冰层覆盖会随着冬季的不同阶段而有所变化。亚伯拉罕湖通常会在12月底完全冻结。而冰泡景观的最佳观赏时间是1月中旬至2月中旬。"
+    "headline": "旧时代的古老拱门",
+    "title": "梅克内斯的Heri es-Swani，摩洛哥",
+    "description": "梅克内斯位于摩洛哥中北部，是一座历史悠久的皇家城市。17世纪，阿拉维王朝的苏丹伊斯梅尔·伊本·谢里夫曾将其作为摩洛哥的首都。这座城市以宏伟的城墙、壮丽的城门以及经久不衰的建筑闻名，完美体现了摩洛哥的建筑风格。其中最令人印象深刻的地标之一就是今日图片展示的古城赫里·埃斯·斯瓦尼。",
+    "image_url": "https://cn.bing.com/th?id=OHR.MeknesMorocco_ZH-CN7953910585_1920x1080.webp",
+    "main_text": "赫里·埃斯·斯瓦尼位于摩洛哥梅克内斯，是一座古老的城堡，至今仍为摩洛哥国王所用，不对公众开放。其他地方，如穆莱·伊斯梅尔的陵墓和赫里·埃斯·斯瓦尼，则作为宗教场所或旅游景点对外开放。"
 }
 ```
 
-UpdataTime：2025-01-10 08:30:38
+UpdataTime：2025-01-10 16:31:11
