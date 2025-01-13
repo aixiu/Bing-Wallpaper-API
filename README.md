@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![小屋和特尔莫尔灯塔，兰德温岛，威尔士，英国](https://cn.bing.com/th?id=OHR.CoastalWales_ZH-CN9113929287_1920x1080.webp)
-Today: [小屋和特尔莫尔灯塔，兰德温岛，威尔士，英国](https://cn.bing.com/th?id=OHR.CoastalWales_ZH-CN9113929287_1920x1080.webp) - “威尔士”祝你新年快乐！
+![Village of Zahara de la Sierra, Cádiz province, Spain](https://cn.bing.com/th?id=OHR.CadizSpain_ZH-CN0032172399_1920x1080.webp)
+Today: [Village of Zahara de la Sierra, Cádiz province, Spain](https://cn.bing.com/th?id=OHR.CadizSpain_ZH-CN0032172399_1920x1080.webp) - 宁静之地
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-01-13",
-    "headline": "“威尔士”祝你新年快乐！",
-    "title": "小屋和特尔莫尔灯塔，兰德温岛，威尔士，英国",
-    "description": "谁说新年一定要在1月1日？在威尔士，1月13日，人们会“时钟倒转”庆祝盖兰节，也就是“旧新年”。 在这一传统中，“Calennig”（意为“新年礼物”）起着核心作用，将庆典与儒略历时代的风俗相连接。尽管1582年世界大部分地区改用格里高利历，但威尔士的一些地区依然坚持旧传统。在传统上，这一天会有孩子们挨家挨户拜访，唱歌送祝福，以此换取硬币、食物或糖果等礼物。其中一大特色是用丁香装饰的苹果，它们并非用来食用，而是象征好运与繁荣的装饰品。",
-    "image_url": "https://cn.bing.com/th?id=OHR.CoastalWales_ZH-CN9113929287_1920x1080.webp",
-    "main_text": "在新年当天赠送礼物和金钱是一项古老的传统，即使在现代的威尔士，这一习俗仍保留着，不过如今人们更倾向于赠送面包和奶酪。"
+    "headline": "宁静之地",
+    "title": "Village of Zahara de la Sierra, Cádiz province, Spain",
+    "description": "萨哈拉·德拉谢拉位于西班牙加的斯的群山之上，是伊比利亚半岛南部历史与自然完美结合的白色小镇。村庄坐落在岩石山顶，从今日图片中可以看到，它俯瞰着碧蓝的萨哈拉-埃尔加斯托尔水库和郁郁葱葱的格拉萨莱马自然公园。该公园自1977年起被列为联合国教科文组织生物圈保护区。村内的摩尔人城堡遗址和15世纪塔楼，见证了其作为中世纪要塞的辉煌历史。漫步在鲜花簇拥的狭窄街道，参观风景如画的圣玛丽亚德拉梅萨教堂，或放松身心，尽享壮丽景色。萨哈拉·德拉谢拉还是探险的门户，徒步、骑行和皮划艇等活动只是小镇丰富体验的一部分。",
+    "image_url": "https://cn.bing.com/th?id=OHR.CadizSpain_ZH-CN0032172399_1920x1080.webp",
+    "main_text": "萨哈拉·德拉谢拉是安达卢西亚著名的“白色城镇”之一，大部分建筑的外墙以白色为主。"
 }
 ```
 
-UpdataTime：2025-01-13 08:32:21
+UpdataTime：2025-01-13 16:32:33
