@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-01-14",
+    "date": "2025-01-15",
     "headline": "魔鬼与自然的气息",
     "title": "Pointe du Diable，圣皮埃尔，留尼汪岛",
     "description": "魔鬼角（Pointe du Diable）位于留尼汪岛，这里展现了自然力量与神秘气息的奇妙交汇。魔鬼角由约20万年前内日峰的熔岩流形成，这片玄武岩半岛壮丽地伸入印度洋。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-01-14 16:34:23
+UpdataTime：2025-01-15 01:47:59
