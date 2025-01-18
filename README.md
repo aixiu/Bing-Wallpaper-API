@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-01-17",
+    "date": "2025-01-18",
     "headline": "1,001座白色沙丘",
     "title": "白沙国家公园的日落，新墨西哥州，美国",
     "description": "今日图片展示了新墨西哥州白沙国家公园最令人叹为观止的自然奇观，一片闪耀梦幻光芒的白色沙丘，这里有地球上规模最大的石膏沙丘。这片广袤的沙漠占地超过145,000英亩，沙丘高度可达60英尺，展现出其他地方难以见到的独特景观。这座公园不仅是自然奇观，更是历史瑰宝，这里发现了距今约23,000年的化石化人类脚印，被认为是北美最古老的人类遗迹之一。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-01-17 16:28:50
+UpdataTime：2025-01-18 01:44:21
