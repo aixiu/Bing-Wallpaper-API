@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-01-21",
+    "date": "2025-01-22",
     "headline": "在失落之城发现美",
     "title": "代尔修道院，佩特拉，约旦",
     "description": "佩特拉及其皇冠上的明珠——代尔修道院，雕凿在玫瑰色的悬崖峭壁上，让人仿佛置身于电影《印第安纳琼斯》的探险场景中。这座古城坐落在约旦干旱沙漠地貌的中心，曾在公元前2世纪作为纳巴泰王国的首都而繁荣一时。它还是香料贸易的枢纽，连接着中国、埃及、希腊和印度等遥远地区。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-01-21 16:30:55
+UpdataTime：2025-01-22 01:50:17
