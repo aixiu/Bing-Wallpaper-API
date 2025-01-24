@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![冰岛的史托克间歇泉](https://cn.bing.com/th?id=OHR.IcelandGeyser_ZH-CN2136665867_1920x1080.webp)
-Today: [冰岛的史托克间歇泉](https://cn.bing.com/th?id=OHR.IcelandGeyser_ZH-CN2136665867_1920x1080.webp) - 力量沸腾
+![波尔图，葡萄牙](https://cn.bing.com/th?id=OHR.PortoSunset_ZH-CN2388246668_1920x1080.webp)
+Today: [波尔图，葡萄牙](https://cn.bing.com/th?id=OHR.PortoSunset_ZH-CN2388246668_1920x1080.webp) - 波尔图的黄金时刻
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-01-24",
-    "headline": "力量沸腾",
-    "title": "冰岛的史托克间歇泉",
-    "description": "还有什么比一场充满乐趣与野性的盛宴更能温暖寒冬呢？臭食节作为冰岛的冬至节，邀请人们深入体验传统文化。这一庆祝活动围绕生存、文化和社区展开，可追溯至维京时代，当时冰岛人用它祭祀雷神托尔。如今，人们聚在一起，通过享用发酵鲨鱼肉、熏羊肉、黑麦面包及‘黑死神’布伦尼温烈酒等当地美食来庆祝这一节日。",
-    "image_url": "https://cn.bing.com/th?id=OHR.IcelandGeyser_ZH-CN2136665867_1920x1080.webp",
-    "main_text": "如今，臭食节已成为冰岛常见的节庆活动，形式多样，既有亲朋好友的非正式聚餐，也有舞台表演和餐后舞会等大型活动。这些大型庆典通常由社团组织、冰岛侨民协会或乡村地方节日主办。"
+    "headline": "波尔图的黄金时刻",
+    "title": "波尔图，葡萄牙",
+    "description": "今日图片带我们走进一座大胆而质朴，却充满魅力的城市。虽然波尔图以波特酒闻名，但这座葡萄牙城市还有更多值得探索的地方。漫步波尔图街头，你会注意到装饰着锡釉陶瓷砖的建筑。这种彩绘釉面瓷砖在葡萄牙和西班牙十分常见。此外，历史悠久的圣弗朗西斯科教堂和横跨蜿蜒杜罗河的标志性建筑——路易一世大桥，都令人印象深刻。",
+    "image_url": "https://cn.bing.com/th?id=OHR.PortoSunset_ZH-CN2388246668_1920x1080.webp",
+    "main_text": "波特酒是葡萄牙最著名的出口商品之一，因波尔图而得名。该都会区，尤其是维拉诺瓦德盖亚酒窖，负责这种加强型葡萄酒的包装、运输与出口。"
 }
 ```
 
-UpdataTime：2025-01-24 08:29:33
+UpdataTime：2025-01-24 16:29:28
