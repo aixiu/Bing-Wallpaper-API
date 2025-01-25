@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![波尔图，葡萄牙](https://cn.bing.com/th?id=OHR.PortoSunset_ZH-CN2388246668_1920x1080.webp)
-Today: [波尔图，葡萄牙](https://cn.bing.com/th?id=OHR.PortoSunset_ZH-CN2388246668_1920x1080.webp) - 波尔图的黄金时刻
+![比利时的欧洲山毛榉森林](https://cn.bing.com/th?id=OHR.FrostedBeech_ZH-CN2845716018_1920x1080.webp)
+Today: [比利时的欧洲山毛榉森林](https://cn.bing.com/th?id=OHR.FrostedBeech_ZH-CN2845716018_1920x1080.webp) - 优雅地老去
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-01-25",
-    "headline": "波尔图的黄金时刻",
-    "title": "波尔图，葡萄牙",
-    "description": "今日图片带我们走进一座大胆而质朴，却充满魅力的城市。虽然波尔图以波特酒闻名，但这座葡萄牙城市还有更多值得探索的地方。漫步波尔图街头，你会注意到装饰着锡釉陶瓷砖的建筑。这种彩绘釉面瓷砖在葡萄牙和西班牙十分常见。此外，历史悠久的圣弗朗西斯科教堂和横跨蜿蜒杜罗河的标志性建筑——路易一世大桥，都令人印象深刻。",
-    "image_url": "https://cn.bing.com/th?id=OHR.PortoSunset_ZH-CN2388246668_1920x1080.webp",
-    "main_text": "波特酒是葡萄牙最著名的出口商品之一，因波尔图而得名。该都会区，尤其是维拉诺瓦德盖亚酒窖，负责这种加强型葡萄酒的包装、运输与出口。"
+    "headline": "优雅地老去",
+    "title": "比利时的欧洲山毛榉森林",
+    "description": "山毛榉树堪称大自然的奇迹。虽然全球有多个品种，但在欧洲，欧洲山毛榉尤为引人注目。正如今日图片展示的比利时森林，欧洲山毛榉以光滑的灰色树皮、短粗的树干和宽展的枝条脱颖而出。这种树生长于温带地区，偏爱排水良好、土壤肥沃的环境，通常需30年才能成熟。欧洲山毛榉树高可达160英尺，不仅是森林的主角，其木材还广泛用于制作家具、地板和厨房工具，以坚固耐用闻名。",
+    "image_url": "https://cn.bing.com/th?id=OHR.FrostedBeech_ZH-CN2845716018_1920x1080.webp",
+    "main_text": "山毛榉是雌雄同株植物，同一棵树上会同时开出雄花和雌花。这些小花为单性花，雌花成对生长，而雄花则通过风授粉，以柔荑花的形式出现。"
 }
 ```
 
-UpdataTime：2025-01-25 08:27:03
+UpdataTime：2025-01-25 16:28:22
