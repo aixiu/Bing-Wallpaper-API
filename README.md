@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-01-26",
+    "date": "2025-01-27",
     "headline": "激发你的好奇心",
     "title": "琐罗亚斯德神庙，大峡谷国家公园，亚利桑那州，美国",
     "description": "大峡谷的岩层记录了地球近20亿年的历史，这些岩层由科罗拉多河长期侵蚀形成。尽管地质学家对大峡谷的形成过程仍存在一些争议，但最新研究表明，科罗拉多河大约在500万到600万年前开始在这一地区开凿出河道。从那时起，这条河流不断加深和拓宽峡谷，最终塑造出如今壮观的地质奇观。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-01-26 16:26:14
+UpdataTime：2025-01-27 01:50:16
