@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![琐罗亚斯德神庙，大峡谷国家公园，亚利桑那州，美国](https://cn.bing.com/th?id=OHR.CanyonSnow_ZH-CN3910130781_1920x1080.webp)
-Today: [琐罗亚斯德神庙，大峡谷国家公园，亚利桑那州，美国](https://cn.bing.com/th?id=OHR.CanyonSnow_ZH-CN3910130781_1920x1080.webp) - 激发你的好奇心
+![夜空中的烟花表演，长沙，湖南省，中国](https://cn.bing.com/th?id=OHR.LunarNewYearEve25Y_ZH-CN6059625695_1920x1080.webp)
+Today: [夜空中的烟花表演，长沙，湖南省，中国](https://cn.bing.com/th?id=OHR.LunarNewYearEve25Y_ZH-CN6059625695_1920x1080.webp) - 祝您阖家欢乐，万事如意！
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-01-27",
-    "headline": "激发你的好奇心",
-    "title": "琐罗亚斯德神庙，大峡谷国家公园，亚利桑那州，美国",
-    "description": "大峡谷的岩层记录了地球近20亿年的历史，这些岩层由科罗拉多河长期侵蚀形成。尽管地质学家对大峡谷的形成过程仍存在一些争议，但最新研究表明，科罗拉多河大约在500万到600万年前开始在这一地区开凿出河道。从那时起，这条河流不断加深和拓宽峡谷，最终塑造出如今壮观的地质奇观。",
-    "image_url": "https://cn.bing.com/th?id=OHR.CanyonSnow_ZH-CN3910130781_1920x1080.webp",
-    "main_text": "琐罗亚斯德神庙名字来源于古代伊朗先知琐罗亚斯德，由美国摄影师乔治·沃顿·詹姆斯和地质学家克拉伦斯·达顿共同命名。"
+    "headline": "祝您阖家欢乐，万事如意！",
+    "title": "夜空中的烟花表演，长沙，湖南省，中国",
+    "description": "今天是除夕夜，中国农历\"龙年\"的最后一天。“年”称为“岁除”，那天晚上叫“除夕”。它与新年首尾相连，是除旧迎新的重要时间交界点。岁除之日，民间尤为重视，家家户户忙忙碌碌或清扫庭舍，除旧布新，张灯结彩，家人相聚，共同来迎接新的一年。",
+    "image_url": "https://cn.bing.com/th?id=OHR.LunarNewYearEve25Y_ZH-CN6059625695_1920x1080.webp",
+    "main_text": "早在先秦时期就有相对比较完整的生肖系统。"
 }
 ```
 
-UpdataTime：2025-01-27 08:31:03
+UpdataTime：2025-01-27 16:29:10
