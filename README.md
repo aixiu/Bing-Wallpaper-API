@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-01-27",
+    "date": "2025-01-28",
     "headline": "祝您阖家欢乐，万事如意！",
     "title": "夜空中的烟花表演，长沙，湖南省，中国",
     "description": "今天是除夕夜，中国农历\"龙年\"的最后一天。“年”称为“岁除”，那天晚上叫“除夕”。它与新年首尾相连，是除旧迎新的重要时间交界点。岁除之日，民间尤为重视，家家户户忙忙碌碌或清扫庭舍，除旧布新，张灯结彩，家人相聚，共同来迎接新的一年。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-01-27 16:29:10
+UpdataTime：2025-01-28 01:47:34
