@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-01-28",
+    "date": "2025-01-29",
     "headline": "春节快乐！",
     "title": "南京夫子庙的春节许愿牌，江苏省，中国",
     "description": "春节，是中国民间最隆重也最富有特色的传统节日之一。春节期间的民俗众多，活动内容也是丰富多彩，且具有重要的历史、艺术和文化价值。其中逛庙会、赏灯会，更是春节最具特色的民俗活动之一。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-01-28 16:29:49
+UpdataTime：2025-01-29 01:47:30
