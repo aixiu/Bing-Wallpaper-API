@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![南京夫子庙的春节许愿牌，江苏省，中国](https://cn.bing.com/th?id=OHR.SpringFestival25Y_ZH-CN6133182159_1920x1080.webp)
-Today: [南京夫子庙的春节许愿牌，江苏省，中国](https://cn.bing.com/th?id=OHR.SpringFestival25Y_ZH-CN6133182159_1920x1080.webp) - 春节快乐！
+![罗兰多山口，奥德萨和佩迪多山国家公园，西班牙](https://cn.bing.com/th?id=OHR.OrdesaSpain_ZH-CN1445868068_1920x1080.webp)
+Today: [罗兰多山口，奥德萨和佩迪多山国家公园，西班牙](https://cn.bing.com/th?id=OHR.OrdesaSpain_ZH-CN1445868068_1920x1080.webp) - 再次冲向战斗
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-01-29",
-    "headline": "春节快乐！",
-    "title": "南京夫子庙的春节许愿牌，江苏省，中国",
-    "description": "春节，是中国民间最隆重也最富有特色的传统节日之一。春节期间的民俗众多，活动内容也是丰富多彩，且具有重要的历史、艺术和文化价值。其中逛庙会、赏灯会，更是春节最具特色的民俗活动之一。",
-    "image_url": "https://cn.bing.com/th?id=OHR.SpringFestival25Y_ZH-CN6133182159_1920x1080.webp",
-    "main_text": "夫子庙饮食文化源远流长，传统食品和风味小吃不下200种。经过历代改进融合已经形成了以“秦淮八绝”为代表的秦淮风味小吃。"
+    "headline": "再次冲向战斗",
+    "title": "罗兰多山口，奥德萨和佩迪多山国家公园，西班牙",
+    "description": "在比利牛斯山脉高处，有一个山间缺口，罗兰缺口。这道缺口高约300 多英尺，宽 131 英尺，是令人惊叹的自然奇观。那么罗兰是谁？他是公元八世纪查理曼大帝统治时期的法兰克军事领袖。传说他在战败后用剑在山脉砍出一个缺口，有人说是为了毁掉自己的宝剑，也有人说是为了最后再看一眼祖国法兰西。",
+    "image_url": "https://cn.bing.com/th?id=OHR.OrdesaSpain_ZH-CN1445868068_1920x1080.webp",
+    "main_text": "自 1997 年起，奥德萨和佩迪杜山国家公园被联合国教科文组织列入奥德萨-维纳马拉生物圈保护区。同年，因其壮观的地质地貌，该公园还被列入比利牛斯-佩尔迪多山世界自然遗产的一部分。"
 }
 ```
 
-UpdataTime：2025-01-29 08:29:52
+UpdataTime：2025-01-29 16:30:30
