@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-01-29",
+    "date": "2025-01-30",
     "headline": "再次冲向战斗",
     "title": "罗兰多山口，奥德萨和佩迪多山国家公园，西班牙",
     "description": "在比利牛斯山脉高处，有一个山间缺口，罗兰缺口。这道缺口高约300 多英尺，宽 131 英尺，是令人惊叹的自然奇观。那么罗兰是谁？他是公元八世纪查理曼大帝统治时期的法兰克军事领袖。传说他在战败后用剑在山脉砍出一个缺口，有人说是为了毁掉自己的宝剑，也有人说是为了最后再看一眼祖国法兰西。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-01-29 16:30:30
+UpdataTime：2025-01-30 01:46:18
