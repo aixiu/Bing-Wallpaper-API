@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![盛开的樱花树上的红头长尾山雀](https://cn.bing.com/th?id=OHR.BeginningofSpring25Y_ZH-CN7356156800_1920x1080.webp)
-Today: [盛开的樱花树上的红头长尾山雀](https://cn.bing.com/th?id=OHR.BeginningofSpring25Y_ZH-CN7356156800_1920x1080.webp) - 春光明媚的日子
+![金桥，巴拿山，岘港，越南](https://cn.bing.com/th?id=OHR.GoldenBridge_ZH-CN2910740727_1920x1080.webp)
+Today: [金桥，巴拿山，岘港，越南](https://cn.bing.com/th?id=OHR.GoldenBridge_ZH-CN2910740727_1920x1080.webp) - 云端漫步
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-02-03",
-    "headline": "春光明媚的日子",
-    "title": "盛开的樱花树上的红头长尾山雀",
-    "description": "立春到啦，新的四季轮回已经开启。虽然我们已经开始步入了春天，但中国幅员辽阔，南北跨度大，很多地区都是只是刚刚进入春天的前奏阶段。",
-    "image_url": "https://cn.bing.com/th?id=OHR.BeginningofSpring25Y_ZH-CN7356156800_1920x1080.webp",
-    "main_text": "黑喉丛山雀具有很强的社会性，它们会成群迁徙，最多可有40只鸟。"
+    "headline": "云端漫步",
+    "title": "金桥，巴拿山，岘港，越南",
+    "description": "两只巨大的石手托起一条闪闪发光的金色步道，仿佛是周围的群山将其献给天空。这就是金桥，位于越南中部岘港附近群山中的步行桥。自2018年开放以来，这座桥凭借独特设计和壮丽景观迅速成为全球瞩目的景点，吸引无数游客前来打卡。",
+    "image_url": "https://cn.bing.com/th?id=OHR.GoldenBridge_ZH-CN2910740727_1920x1080.webp",
+    "main_text": "越南中部，尤其是岘港的美食，在国内外都享有盛誉，知名度不断提升。"
 }
 ```
 
-UpdataTime：2025-02-03 08:30:36
+UpdataTime：2025-02-03 16:30:37
