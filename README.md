@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![金桥，巴拿山，岘港，越南](https://cn.bing.com/th?id=OHR.GoldenBridge_ZH-CN2910740727_1920x1080.webp)
-Today: [金桥，巴拿山，岘港，越南](https://cn.bing.com/th?id=OHR.GoldenBridge_ZH-CN2910740727_1920x1080.webp) - 云端漫步
+![拱门群岛，瓦拉里基海滩，南岛，新西兰](https://cn.bing.com/th?id=OHR.ScottishSheep_ZH-CN3051181797_1920x1080.webp)
+Today: [拱门群岛，瓦拉里基海滩，南岛，新西兰](https://cn.bing.com/th?id=OHR.ScottishSheep_ZH-CN3051181797_1920x1080.webp) - 对国家遗产的思考
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-02-04",
-    "headline": "云端漫步",
-    "title": "金桥，巴拿山，岘港，越南",
-    "description": "两只巨大的石手托起一条闪闪发光的金色步道，仿佛是周围的群山将其献给天空。这就是金桥，位于越南中部岘港附近群山中的步行桥。自2018年开放以来，这座桥凭借独特设计和壮丽景观迅速成为全球瞩目的景点，吸引无数游客前来打卡。",
-    "image_url": "https://cn.bing.com/th?id=OHR.GoldenBridge_ZH-CN2910740727_1920x1080.webp",
-    "main_text": "越南中部，尤其是岘港的美食，在国内外都享有盛誉，知名度不断提升。"
+    "headline": "对国家遗产的思考",
+    "title": "拱门群岛，瓦拉里基海滩，南岛，新西兰",
+    "description": "1840年，500多位毛利酋长与英国王室代表共同签署了一份条约，新西兰人至今仍在怀唐伊日纪念这一历史时刻。这一天，签署的《怀唐伊条约》确立了两种文化共存的原则。在怀唐伊条约签署地，庆典活动包括毛利传统表演、演讲和精彩的独木舟比赛。从奥克兰和惠灵顿的节日与音乐会，到低调的社区聚会，这一天的核心精神是联系与文化。",
+    "image_url": "https://cn.bing.com/th?id=OHR.ScottishSheep_ZH-CN3051181797_1920x1080.webp",
+    "main_text": "自2014年以来，新西兰作家协会在怀唐伊日颁发文学荣誉奖，以纪念这一天的特殊意义。"
 }
 ```
 
-UpdataTime：2025-02-04 08:29:57
+UpdataTime：2025-02-04 16:30:45
