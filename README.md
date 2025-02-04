@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-02-03",
+    "date": "2025-02-04",
     "headline": "云端漫步",
     "title": "金桥，巴拿山，岘港，越南",
     "description": "两只巨大的石手托起一条闪闪发光的金色步道，仿佛是周围的群山将其献给天空。这就是金桥，位于越南中部岘港附近群山中的步行桥。自2018年开放以来，这座桥凭借独特设计和壮丽景观迅速成为全球瞩目的景点，吸引无数游客前来打卡。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-02-03 16:30:37
+UpdataTime：2025-02-04 01:48:20
