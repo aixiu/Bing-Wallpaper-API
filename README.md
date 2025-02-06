@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![拱门群岛，瓦拉里基海滩，南岛，新西兰](https://cn.bing.com/th?id=OHR.WhararikiBeach_ZH-CN7232913389_1920x1080.webp)
-Today: [拱门群岛，瓦拉里基海滩，南岛，新西兰](https://cn.bing.com/th?id=OHR.WhararikiBeach_ZH-CN7232913389_1920x1080.webp) - 对国家遗产的思考
+![特隆赫姆的蓝色时刻，挪威](https://cn.bing.com/th?id=OHR.BlueNorway_ZH-CN7489077966_1920x1080.webp)
+Today: [特隆赫姆的蓝色时刻，挪威](https://cn.bing.com/th?id=OHR.BlueNorway_ZH-CN7489077966_1920x1080.webp) - 沉浸在蓝调时分
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-02-06",
-    "headline": "对国家遗产的思考",
-    "title": "拱门群岛，瓦拉里基海滩，南岛，新西兰",
-    "description": "1840年，500多位毛利酋长与英国王室代表共同签署了一份条约，新西兰人至今仍在怀唐伊日纪念这一历史时刻。这一天，签署的《怀唐伊条约》确立了两种文化共存的原则。在怀唐伊条约签署地，庆典活动包括毛利传统表演、演讲和精彩的独木舟比赛。从奥克兰和惠灵顿的节日与音乐会，到低调的社区聚会，这一天的核心精神是联系与文化。",
-    "image_url": "https://cn.bing.com/th?id=OHR.WhararikiBeach_ZH-CN7232913389_1920x1080.webp",
-    "main_text": "自2014年以来，新西兰作家协会在怀唐伊日颁发文学荣誉奖，以纪念这一天的特殊意义。"
+    "headline": "沉浸在蓝调时分",
+    "title": "特隆赫姆的蓝色时刻，挪威",
+    "description": "在挪威，冬季不仅是一个季节，更是一种独特的体验。在挪威北部，黑夜长达20小时，有时甚至整周太阳都隐匿在地平线之下。这听起来或许有些阴郁，但这种特殊的时节也展现出独特的魅力。通常在下午1点至2点之间，柔和的光线从白雪覆盖的地面和深蓝色海面反射而来。这形成了一种令人惊叹的如玻璃般湛蓝的光辉，笼罩着整片大地。这种蓝调时分每天都会来得稍晚一些，温柔地提醒人们太阳正缓缓准备重新升起。",
+    "image_url": "https://cn.bing.com/th?id=OHR.BlueNorway_ZH-CN7489077966_1920x1080.webp",
+    "main_text": "蓝调时分指的是日出前或日落后，太阳位于地平线下-4至-6度之间的时间段，此时天空呈现出一种静谧的蓝色调。"
 }
 ```
 
-UpdataTime：2025-02-06 08:30:09
+UpdataTime：2025-02-06 16:29:27
