@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![阿尔斯特罗姆角，鲍威尔湖，犹他州，美国](https://cn.bing.com/th?id=OHR.AlstromPoint_ZH-CN7844819126_1920x1080.webp)
-Today: [阿尔斯特罗姆角，鲍威尔湖，犹他州，美国](https://cn.bing.com/th?id=OHR.AlstromPoint_ZH-CN7844819126_1920x1080.webp) - 值得深思的高地
+![雨伞艺术装置，博罗市场，伦敦，英国](https://cn.bing.com/th?id=OHR.UmbrellaDay_ZH-CN8024305066_1920x1080.webp)
+Today: [雨伞艺术装置，博罗市场，伦敦，英国](https://cn.bing.com/th?id=OHR.UmbrellaDay_ZH-CN8024305066_1920x1080.webp) - 在伞下
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-02-09",
-    "headline": "值得深思的高地",
-    "title": "阿尔斯特罗姆角，鲍威尔湖，犹他州，美国",
-    "description": "如果你向往壮丽的日落和令人惊叹的美景，不妨来到阿尔斯特罗姆角。阿尔斯特罗姆角位于犹他州南部凯恩县的格伦峡谷国家休闲区，海拔达4685英尺。阿尔斯特罗姆角主要由恩特拉达砂岩构成，与附近的罗马纳梅萨主峰及东侧的冈赛特山共享相同的地质起源。",
-    "image_url": "https://cn.bing.com/th?id=OHR.AlstromPoint_ZH-CN7844819126_1920x1080.webp",
-    "main_text": "阿尔斯特罗姆角是绝佳的摄影和露营地点。还曾在 1968 年的电影《人猿星球》中短暂亮相。"
+    "headline": "在伞下",
+    "title": "雨伞艺术装置，博罗市场，伦敦，英国",
+    "description": "今天是国际伞日，这一充满趣味的节日旨在纪念人类历史上最简单却重要的发明之一：雨伞或阳伞。早在4000多年前，伞已出现在古埃及、亚述和中国，最初用于遮挡阳光。直到17世纪，我们今天所熟知的雨伞才在欧洲流行，最初作为专为女性设计的奢侈品。几个世纪以来，雨伞不仅成为日常生活的必需品，也成为流行文化的象征。例如，玛丽·波平斯的标志性飞行雨伞，以及蕾哈娜的热门歌曲《雨伞》。",
+    "image_url": "https://cn.bing.com/th?id=OHR.UmbrellaDay_ZH-CN8024305066_1920x1080.webp",
+    "main_text": "伞如今已成为全球畅销的消费品。据统计，截至2008年，全球大部分的伞产自中国，主要集中于广东、福建和浙江等省份。"
 }
 ```
 
-UpdataTime：2025-02-09 08:27:00
+UpdataTime：2025-02-09 16:26:21
