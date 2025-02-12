@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![上海豫园的灯会，元宵节，上海市，中国](https://cn.bing.com/th?id=OHR.LanterFestival25Y_ZH-CN8547998003_1920x1080.webp)
-Today: [上海豫园的灯会，元宵节，上海市，中国](https://cn.bing.com/th?id=OHR.LanterFestival25Y_ZH-CN8547998003_1920x1080.webp) - 喜气洋洋的元宵节
+![泰瑞尔湖，维多利亚州，澳大利亚](https://cn.bing.com/th?id=OHR.LakeTyrrell_ZH-CN8860948292_1920x1080.webp)
+Today: [泰瑞尔湖，维多利亚州，澳大利亚](https://cn.bing.com/th?id=OHR.LakeTyrrell_ZH-CN8860948292_1920x1080.webp) - 大地之盐
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-02-12",
-    "headline": "喜气洋洋的元宵节",
-    "title": "上海豫园的灯会，元宵节，上海市，中国",
-    "description": "元宵节（Lantern Festival），是新年第一个月圆之夜，又可以称为“闹元宵”，是中国春节年俗活动的“压轴戏”。人们在这一天可以出门赏月、燃灯放焰、喜猜灯谜、共吃元宵、汤圆，合家团聚、同庆佳节，其乐融融。观赏花灯是中国人在这一天一项重大活动。上海豫园的灯会尤其精彩。",
-    "image_url": "https://cn.bing.com/th?id=OHR.LanterFestival25Y_ZH-CN8547998003_1920x1080.webp",
-    "main_text": "今年是“豫园灯会30周年，邀请了许多国家级非遗“灯彩”项目的代表性传承人来参与此次灯会。"
+    "headline": "大地之盐",
+    "title": "泰瑞尔湖，维多利亚州，澳大利亚",
+    "description": "澳大利亚南部的泰瑞尔湖，是天空与大地交汇之地，形成了令人炫目的奇景。泰瑞尔湖是维多利亚州最大的盐湖，形成于约12万年前。随着气候变化，湖泊水位逐渐下降，如今大部分时间干涸，仅在冬季覆盖约2英寸的水层。“泰瑞尔”这个名字源自当地沃加亚语中的“天空”，致敬了博罗恩原住民对天文学的浓厚兴趣。泰瑞尔湖面积超过70平方英里，是野生动物的天堂，栖息着马利地区的爬行动物、袋鼠和鸸鹋。",
+    "image_url": "https://cn.bing.com/th?id=OHR.LakeTyrrell_ZH-CN8860948292_1920x1080.webp",
+    "main_text": "旅游业是澳大利亚维多利亚州的重要产业之一。首府墨尔本是澳大利亚第二大人口城市，截至2017年12月的一年，该州共接待了270万国际过夜游客和930万国内过夜游客。"
 }
 ```
 
-UpdataTime：2025-02-12 08:30:46
+UpdataTime：2025-02-12 16:31:35
