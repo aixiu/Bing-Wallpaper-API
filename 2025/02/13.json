@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-![泰瑞尔湖，维多利亚州，澳大利亚](https://cn.bing.com/th?id=OHR.LakeTyrrell_ZH-CN8860948292_1920x1080.webp)
-Today: [泰瑞尔湖，维多利亚州，澳大利亚](https://cn.bing.com/th?id=OHR.LakeTyrrell_ZH-CN8860948292_1920x1080.webp) - 大地之盐
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2025-02-13",
     "headline": "大地之盐",
@@ -42,6 +6,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url": "https://cn.bing.com/th?id=OHR.LakeTyrrell_ZH-CN8860948292_1920x1080.webp",
     "main_text": "旅游业是澳大利亚维多利亚州的重要产业之一。首府墨尔本是澳大利亚第二大人口城市，截至2017年12月的一年，该州共接待了270万国际过夜游客和930万国内过夜游客。"
 }
-```
-
-UpdataTime：2025-02-13 01:50:34
