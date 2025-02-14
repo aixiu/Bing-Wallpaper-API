@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![两只麦哲伦企鹅，福克兰群岛](https://cn.bing.com/th?id=OHR.PenguinLove_ZH-CN9124008164_1920x1080.webp)
-Today: [两只麦哲伦企鹅，福克兰群岛](https://cn.bing.com/th?id=OHR.PenguinLove_ZH-CN9124008164_1920x1080.webp) - 瞧这对恩爱的情侣
+![三十槌冰柱，秩父市，日本](https://cn.bing.com/th?id=OHR.Misotsuchi2025_ZH-CN9260395680_1920x1080.webp)
+Today: [三十槌冰柱，秩父市，日本](https://cn.bing.com/th?id=OHR.Misotsuchi2025_ZH-CN9260395680_1920x1080.webp) - 冰雪奇景
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-02-14",
-    "headline": "瞧这对恩爱的情侣",
-    "title": "两只麦哲伦企鹅，福克兰群岛",
-    "description": "今天是情人节，空气中弥漫着浓浓爱意。全球范围内，数百万束鲜花将被赠送，浪漫餐厅也会因情人节约会座无虚席。情人节起源于圣瓦伦丁的故事。据传，这位罗马基督徒曾为那些被禁止结婚的基督徒士兵主持婚礼。如同今天庆祝节日的人类情侣，自然界中也有许多浪漫故事。",
-    "image_url": "https://cn.bing.com/th?id=OHR.PenguinLove_ZH-CN9124008164_1920x1080.webp",
-    "main_text": "麦哲伦企鹅生活在南美洲大西洋沿岸，与加岛环企鹅相比，它们的食物供应更加稳定，不易面临严重的食物短缺。"
+    "headline": "冰雪奇景",
+    "title": "三十槌冰柱，秩父市，日本",
+    "description": "看，这就是日本秩父市的三十槌冰柱奇观！这道令人叹为观止的天然冰墙宽约98英尺，高约33英尺，由泉水沿岩壁流下结冰而成。这一景观每年仅在1月中旬至2月中旬开放，夜幕降临时还会点亮彩灯，仿佛置身于冬日童话世界。",
+    "image_url": "https://cn.bing.com/th?id=OHR.Misotsuchi2025_ZH-CN9260395680_1920x1080.webp",
+    "main_text": "在适宜条件下，类似的冰柱也可能由海冰下沉的盐水形成。"
 }
 ```
 
-UpdataTime：2025-02-14 08:29:58
+UpdataTime：2025-02-14 16:29:07
