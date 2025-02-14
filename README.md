@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-02-13",
+    "date": "2025-02-14",
     "headline": "瞧这对恩爱的情侣",
     "title": "两只麦哲伦企鹅，福克兰群岛",
     "description": "今天是情人节，空气中弥漫着浓浓爱意。全球范围内，数百万束鲜花将被赠送，浪漫餐厅也会因情人节约会座无虚席。情人节起源于圣瓦伦丁的故事。据传，这位罗马基督徒曾为那些被禁止结婚的基督徒士兵主持婚礼。如同今天庆祝节日的人类情侣，自然界中也有许多浪漫故事。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-02-13 16:31:38
+UpdataTime：2025-02-14 01:49:56
