@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-02-14",
+    "date": "2025-02-15",
     "headline": "冰雪奇景",
     "title": "三十槌冰柱，秩父市，日本",
     "description": "看，这就是日本秩父市的三十槌冰柱奇观！这道令人叹为观止的天然冰墙宽约98英尺，高约33英尺，由泉水沿岩壁流下结冰而成。这一景观每年仅在1月中旬至2月中旬开放，夜幕降临时还会点亮彩灯，仿佛置身于冬日童话世界。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-02-14 16:29:07
+UpdataTime：2025-02-15 01:48:32
