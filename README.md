@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-02-16",
+    "date": "2025-02-17",
     "headline": "冰雪边界",
     "title": "Coll d'Ares，加泰罗尼亚比利牛斯​​山脉",
     "description": "阿雷斯山口位于海拔1,512米，是穿越雄伟比利牛斯山脉、连接西班牙和法国的山间通道。山口位于加泰罗尼亚里波列斯地区的莫洛与法国奥克西塔尼亚的普拉茨德莫洛拉普雷斯特之间。冬季，这里白雪皑皑，景色令人叹为观止。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-02-16 16:27:10
+UpdataTime：2025-02-17 01:53:53
