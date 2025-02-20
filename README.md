@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![马鹿，加拿大](https://cn.bing.com/th?id=OHR.CanadaDeer_ZH-CN0631345798_1920x1080.webp)
-Today: [马鹿，加拿大](https://cn.bing.com/th?id=OHR.CanadaDeer_ZH-CN0631345798_1920x1080.webp) - 高贵的双影
+![希莫加附近的 Champaka Sarasi 池塘，卡纳塔克邦，印度](https://cn.bing.com/th?id=OHR.ChampakaSarasi_ZH-CN0254940579_1920x1080.webp)
+Today: [希莫加附近的 Champaka Sarasi 池塘，卡纳塔克邦，印度](https://cn.bing.com/th?id=OHR.ChampakaSarasi_ZH-CN0254940579_1920x1080.webp) - 静水流深的传说
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-02-20",
-    "headline": "高贵的双影",
-    "title": "马鹿，加拿大",
-    "description": "马鹿因其雄伟与力量而备受人类敬畏与尊崇。马鹿分布于欧洲、亚洲、北非部分地区及其他少数区域。在加拿大，马鹿主要栖息于艾伯塔省，马鹿市周边的草原和公园地带为其提供了理想的生存环境。雄鹿的鹿角每年生长一次，完全成熟时通常超过70厘米，重量约为1千克。鹿角自古以来象征力量，也是唯一能够完全再生的哺乳动物器官。雌鹿体型较小且无角，正如今日图片所展示。繁殖季节是雄鹿激烈争夺配偶的时期，它们通过吼叫和鹿角交锋展现力量。马鹿在文化中象征自然的生命循环。从中世纪的手稿到现代雕塑，艺术创作常以马鹿为主题，展现其优雅与力量。",
-    "image_url": "https://cn.bing.com/th?id=OHR.CanadaDeer_ZH-CN0631345798_1920x1080.webp",
-    "main_text": "马鹿的蹄印或‘蹄槽’非常大，特征显著，可能与羊或山羊的蹄印混淆。受步态或地面软硬程度的影响，蹄槽形状可能有所变化。雄鹿的前蹄长度通常为8至9厘米。"
+    "headline": "静水流深的传说",
+    "title": "希莫加附近的 Champaka Sarasi 池塘，卡纳塔克邦，印度",
+    "description": "从瀑布到寺庙，位于印度南部卡纳塔克邦的希瓦莫加，拥有众多等待探索的奇观。这座城市历史悠久，在印度史诗《罗摩衍那》和《摩诃婆罗多》中均有提及。这两部史诗以诗歌形式创作，背景设定在印度古代印度教王国。希瓦莫加这个名字本身具有宗教意义，源自梵语“Shiva-Mukha”，意为“湿婆的面容”，湿婆是印度教三大主神之一。这里有许多寺庙，包括供奉湿婆的沙拉瓦蒂寺，以及位于科达查德里山的一座寺庙，登临此地可俯瞰西高止山脉的壮丽景色。",
+    "image_url": "https://cn.bing.com/th?id=OHR.ChampakaSarasi_ZH-CN0254940579_1920x1080.webp",
+    "main_text": "希瓦莫加有印度最大的槟榔市场，以采购优质槟榔而闻名。其他农产品如大米、玉米、辣椒、椰子等，也在农产品市场理事会进行交易。"
 }
 ```
 
-UpdataTime：2025-02-20 08:31:16
+UpdataTime：2025-02-20 16:32:41
