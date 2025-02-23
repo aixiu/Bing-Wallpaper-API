@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-02-22",
+    "date": "2025-02-23",
     "headline": "清晨的美好精致",
     "title": "日出时分的富士山, 河口湖, 日本",
     "description": "在东京西南约 60 英里处，矗立着日本的文化象征之一：富士山。这座日本最高峰海拔近12,000英尺，其近乎完美对称的火山锥，每年约有五个月被积雪覆盖，形成壮丽景观。几个世纪以来，富士山一直被视为神圣之山。在神道信仰中，富士山被奉为本宫浅间大社的圣山，并在其视野范围内建有供奉它的神社。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-02-22 16:27:20
+UpdataTime：2025-02-23 01:57:33
