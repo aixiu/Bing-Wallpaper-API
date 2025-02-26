@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![莱奇湖上的斯托克尔城堡，阿盖尔郡，苏格兰](https://cn.bing.com/th?id=OHR.ArgyllStalker_ZH-CN0970395078_1920x1080.webp)
-Today: [莱奇湖上的斯托克尔城堡，阿盖尔郡，苏格兰](https://cn.bing.com/th?id=OHR.ArgyllStalker_ZH-CN0970395078_1920x1080.webp) - 苏格兰战略的最佳体现
+![北极熊幼崽，丘吉尔，马尼托巴省，加拿大](https://cn.bing.com/th?id=OHR.PolarCub_ZH-CN1179361319_1920x1080.webp)
+Today: [北极熊幼崽，丘吉尔，马尼托巴省，加拿大](https://cn.bing.com/th?id=OHR.PolarCub_ZH-CN1179361319_1920x1080.webp) - 极地关怀
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-02-26",
-    "headline": "苏格兰战略的最佳体现",
-    "title": "莱奇湖上的斯托克尔城堡，阿盖尔郡，苏格兰",
-    "description": "斯托克尔城堡巍然屹立于阿盖尔莱奇湖的潮汐小岛上，是苏格兰保存最完好、最具风景美感的中世纪塔式城堡之一。它由阿平的斯图尔特家族于1440 年代左右建造，历史上曾迎来王室造访，甚至因一场醉酒赌局短暂易主至坎贝尔家族。尽管到了 19 世纪时已破败不堪，但在 20 世纪中期，这座城堡经历了精心修复，如今仍为私人所有。在夏季，游客可在特定的导游带领下览游探索这座历史遗址。",
-    "image_url": "https://cn.bing.com/th?id=OHR.ArgyllStalker_ZH-CN0970395078_1920x1080.webp",
-    "main_text": "斯托克城堡坐落在莱奇湖 (Loch Laich) 的一个潮汐小岛上。退潮时，从岸边很难到达这个小岛。"
+    "headline": "极地关怀",
+    "title": "北极熊幼崽，丘吉尔，马尼托巴省，加拿大",
+    "description": "今天，我们将前往北方，参加国际北极熊日。这次活动是了解世界上最大的熊种及其面临的威胁的最佳时机。北极熊原产于北极，分布在阿拉斯加、俄罗斯、格陵兰和斯瓦尔巴群岛。它们也分布在加拿大——比如今天这张照片中的幼崽，拍摄于马尼托巴省丘吉尔。",
+    "image_url": "https://cn.bing.com/th?id=OHR.PolarCub_ZH-CN1179361319_1920x1080.webp",
+    "main_text": "国际北极熊日是每年2月27日举行的年度活动，这一天恰逢北极熊母熊和幼崽在巢穴中休眠的时期，旨在提高人们对北极熊保护现状的认识。"
 }
 ```
 
-UpdataTime：2025-02-26 08:31:59
+UpdataTime：2025-02-26 16:32:23
