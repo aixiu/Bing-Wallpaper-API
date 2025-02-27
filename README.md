@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-02-26",
+    "date": "2025-02-27",
     "headline": "极地关怀",
     "title": "北极熊幼崽，丘吉尔，马尼托巴省，加拿大",
     "description": "今天，我们将前往北方，参加国际北极熊日。这次活动是了解世界上最大的熊种及其面临的威胁的最佳时机。北极熊原产于北极，分布在阿拉斯加、俄罗斯、格陵兰和斯瓦尔巴群岛。它们也分布在加拿大——比如今天这张照片中的幼崽，拍摄于马尼托巴省丘吉尔。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-02-26 16:32:23
+UpdataTime：2025-02-27 01:53:39
