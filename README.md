@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![虎穴寺，不丹](https://cn.bing.com/th?id=OHR.BhutanMonastery_ZH-CN2469401011_1920x1080.webp)
-Today: [虎穴寺，不丹](https://cn.bing.com/th?id=OHR.BhutanMonastery_ZH-CN2469401011_1920x1080.webp) - 在虎穴小憩
+![玛琳湖精灵岛上空的北极光，贾斯珀国家公园，加拿大](https://cn.bing.com/th?id=OHR.MaligneLakeJasper_ZH-CN2664289451_1920x1080.webp)
+Today: [玛琳湖精灵岛上空的北极光，贾斯珀国家公园，加拿大](https://cn.bing.com/th?id=OHR.MaligneLakeJasper_ZH-CN2664289451_1920x1080.webp) - 天空之镜
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-02-28",
-    "headline": "在虎穴小憩",
-    "title": "虎穴寺，不丹",
-    "description": "今日图片带我们来到不丹海拔10000英尺的虎穴寺，这座佛教寺院和圣地也被称为帕罗虎穴寺，它建于1692年，围绕塔克桑森给桑杜普洞穴而建。据传，这里是莲花生大师修行和传授金刚乘佛教给弟子的地方，他是将该教派引入不丹的重要人物。帕罗虎穴寺由四座主殿组成，主殿之间通过凿刻在悬崖上的阶梯相连，并有几座摇摇欲坠的吊桥横跨其中。",
-    "image_url": "https://cn.bing.com/th?id=OHR.BhutanMonastery_ZH-CN2469401011_1920x1080.webp",
-    "main_text": "1998 年4月19日，虎穴寺的主建筑发生火灾，导致珍贵的壁画、文物和雕像被焚毁。据推测，火灾可能是由电路短路或酥油灯火焰接触悬挂的壁毯所引起的。"
+    "date": "2025-03-01",
+    "headline": "天空之镜",
+    "title": "玛琳湖精灵岛上空的北极光，贾斯珀国家公园，加拿大",
+    "description": "有些地方仿佛被时间遗忘。在加拿大阿尔伯塔省贾斯珀国家公园深处，就有这样一个世外桃源：玛琳湖。这条长达22 公里的蜿蜒湖泊，穿越巍峨群山，是加拿大落基山脉中最大的天然湖泊。这里，高耸的山峰、冰川融水和无尽的天空交汇，构成了一幅震撼人心的画面。",
+    "image_url": "https://cn.bing.com/th?id=OHR.MaligneLakeJasper_ZH-CN2664289451_1920x1080.webp",
+    "main_text": "在这座高海拔贫营养湖畔，野生动物数量惊人。灰熊、黑熊、骡鹿、北美驯鹿、狼、麋鹿和大角羊等大型哺乳动物，都会在夏季来到湖区。白头海雕、金雕和鱼鹰也常出没于此，以湖中的鱼群为食。"
 }
 ```
 
-UpdataTime：2025-02-28 08:30:52
+UpdataTime：2025-03-01 02:00:07
