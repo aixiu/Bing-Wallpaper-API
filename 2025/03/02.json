@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-![桉树，梅加龙谷，蓝山山脉国家公园，新南威尔士州，澳大利亚](https://cn.bing.com/th?id=OHR.EucalyptusForest_ZH-CN3052498076_1920x1080.webp)
-Today: [桉树，梅加龙谷，蓝山山脉国家公园，新南威尔士州，澳大利亚](https://cn.bing.com/th?id=OHR.EucalyptusForest_ZH-CN3052498076_1920x1080.webp) - 桉树奇景
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2025-03-02",
     "headline": "桉树奇景",
@@ -42,6 +6,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url": "https://cn.bing.com/th?id=OHR.EucalyptusForest_ZH-CN3052498076_1920x1080.webp",
     "main_text": "蓝山国家公园是新南威尔士州游客最多的国家公园，其中超过半数的国内游客来自悉尼，这里也是在悉尼地区最容易看到野生袋鼠的地方之一。"
 }
-```
-
-UpdataTime：2025-03-02 01:59:07
