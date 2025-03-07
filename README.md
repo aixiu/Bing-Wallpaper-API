@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![中国的梅花](https://cn.bing.com/th?id=OHR.PlumBlossom_ZH-CN5888621119_1920x1080.webp)
-Today: [中国的梅花](https://cn.bing.com/th?id=OHR.PlumBlossom_ZH-CN5888621119_1920x1080.webp) - 花开中国
+![石勒苏益格-荷尔斯泰因州瓦登海国家公园，德国](https://cn.bing.com/th?id=OHR.WaddenSeaBiosphereReserve_ZH-CN9012125146_1920x1080.webp)
+Today: [石勒苏益格-荷尔斯泰因州瓦登海国家公园，德国](https://cn.bing.com/th?id=OHR.WaddenSeaBiosphereReserve_ZH-CN9012125146_1920x1080.webp) - 原始纯净的自然天堂
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-03-07",
-    "headline": "花开中国",
-    "title": "中国的梅花",
-    "description": "在杭州西湖，这些转瞬即逝的花朵吸引了无数游客，他们纷纷前来欣赏这短暂而绚丽的美景。在中国文化中，梅花象征着纯洁和春天的到来，而在日本，它则代表新的开始。梅花即使在严寒的冬季也能傲然绽放，这种特性使其成为坚毅与希望的象征。目前已知的梅花品种超过 300 种，适应各种园林环境，呈现出丰富多样的形态和颜色。除了视觉上的吸引力，梅花还被用于传统美食，如花茶和酸甜可口的梅子蜜饯。看到这里，为何不亲自去感受这份独特的魅力呢？",
-    "image_url": "https://cn.bing.com/th?id=OHR.PlumBlossom_ZH-CN5888621119_1920x1080.webp",
-    "main_text": "在中国传统文化中，梅以它的高洁、坚强、谦虚的品格，给人以立志奋发的激励。"
+    "headline": "原始纯净的自然天堂",
+    "title": "石勒苏益格-荷尔斯泰因州瓦登海国家公园，德国",
+    "description": "作为联合国教科文组织世界遗产的一部分，石勒苏益格-荷尔斯泰因瓦登海国家公园不仅是一片珍贵的生态系统，同时也是德国北海海岸上的真正自然天堂。公园占地面积达 4410 平方公里，是德国最大的国家公园。在这里，游客可以近距离感受潮汐的奇妙变化，探索这片独特的生态景观。这里栖息着大量鸟类、鱼类和海洋哺乳动物，展现出令人惊叹的生物多样性。",
+    "image_url": "https://cn.bing.com/th?id=OHR.WaddenSeaBiosphereReserve_ZH-CN9012125146_1920x1080.webp",
+    "main_text": "石勒苏益格-荷尔斯泰因瓦登海国家公园与下萨克森瓦登海国家公园、汉堡瓦登海国家公园以及不属于自然保护区的易北河口部分，共同构成了德国瓦登海的一部分。"
 }
 ```
 
-UpdataTime：2025-03-07 08:31:27
+UpdataTime：2025-03-07 16:31:10
