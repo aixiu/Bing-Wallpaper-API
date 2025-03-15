@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-![罗马广场上的罗马萨图尔诺农神庙，罗马，意大利](https://cn.bing.com/th?id=OHR.ForumRomanum_ZH-CN5873120178_1920x1080.webp)
-Today: [罗马广场上的罗马萨图尔诺农神庙，罗马，意大利](https://cn.bing.com/th?id=OHR.ForumRomanum_ZH-CN5873120178_1920x1080.webp) - “朋友们，罗马人，同胞们…”
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2025-03-15",
     "headline": "“朋友们，罗马人，同胞们…”",
@@ -42,6 +6,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url": "https://cn.bing.com/th?id=OHR.ForumRomanum_ZH-CN5873120178_1920x1080.webp",
     "main_text": "这座神庙最初的落成时间传统上可追溯至公元前497年，但古代文献对于此地的历史存在极大分歧。"
 }
-```
-
-UpdataTime：2025-03-15 01:54:00
