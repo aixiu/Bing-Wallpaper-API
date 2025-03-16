@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-03-15",
+    "date": "2025-03-16",
     "headline": "回归黑白世界",
     "title": "雪地里的大熊猫宝宝，中国",
     "description": "让我们一起庆祝大自然最毛茸茸的珍宝之一：大熊猫。这些标志性的黑白色熊原产于中国，不仅仅因可爱而闻名。它们在竹林生态系统中发挥着关键作用，通过传播种子和促进植被生长，造福无数动植物。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-03-15 16:28:15
+UpdataTime：2025-03-16 02:02:52
