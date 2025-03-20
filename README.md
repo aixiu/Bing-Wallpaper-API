@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![美丽盛开的樱花，杭州的春天，中国](https://cn.bing.com/th?id=OHR.SpringequinoxY25_ZH-CN1635828827_1920x1080.webp)
-Today: [美丽盛开的樱花，杭州的春天，中国](https://cn.bing.com/th?id=OHR.SpringequinoxY25_ZH-CN1635828827_1920x1080.webp) - 春日仙境
+![低地雨林上空的薄雾，丹浓谷，沙巴，婆罗洲，马来西亚](https://cn.bing.com/th?id=OHR.DanumValley_ZH-CN5786482012_1920x1080.webp)
+Today: [低地雨林上空的薄雾，丹浓谷，沙巴，婆罗洲，马来西亚](https://cn.bing.com/th?id=OHR.DanumValley_ZH-CN5786482012_1920x1080.webp) - 树木万岁
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-03-20",
-    "headline": "春日仙境",
-    "title": "美丽盛开的樱花，杭州的春天，中国",
-    "description": "春分有两个含义。其一是 “四季相等”。传统上，从立春到立夏之间的这段时间被称为春季，春分点位于两个节气之间，平分了春季。春分的另一个含义是 “昼夜相等”。春分时节，太阳直射赤道，昼夜等长，各为 12 小时。春分过后，除青藏高原、东北、西北和华北北部地区外，全中国进入明媚的春天。",
-    "image_url": "https://cn.bing.com/th?id=OHR.SpringequinoxY25_ZH-CN1635828827_1920x1080.webp",
-    "main_text": "樱花在中国分布很广，北起黑龙江、华北各省，南至海南、云南、广东、广西，西到青海、甘肃、新疆。"
+    "headline": "树木万岁",
+    "title": "低地雨林上空的薄雾，丹浓谷，沙巴，婆罗洲，马来西亚",
+    "description": "3月21日是国际森林日，这一全球性纪念日旨在庆祝森林在支持生物多样性和应对气候变化方面发挥的重要作用。国际森林日由联合国于2013年首次设立，鼓励全球开展植树活动，以提高人们对森林对未来世代重要性的认识。",
+    "image_url": "https://cn.bing.com/th?id=OHR.DanumValley_ZH-CN5786482012_1920x1080.webp",
+    "main_text": "低地热带雨林是神秘的眼镜花啄鸟唯一被记录到的栖息地。"
 }
 ```
 
-UpdataTime：2025-03-20 08:32:38
+UpdataTime：2025-03-20 16:33:26
