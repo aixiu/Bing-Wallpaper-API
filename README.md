@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-03-20",
+    "date": "2025-03-21",
     "headline": "树木万岁",
     "title": "低地雨林上空的薄雾，丹浓谷，沙巴，婆罗洲，马来西亚",
     "description": "3月21日是国际森林日，这一全球性纪念日旨在庆祝森林在支持生物多样性和应对气候变化方面发挥的重要作用。国际森林日由联合国于2013年首次设立，鼓励全球开展植树活动，以提高人们对森林对未来世代重要性的认识。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-03-20 16:33:26
+UpdataTime：2025-03-21 01:58:35
