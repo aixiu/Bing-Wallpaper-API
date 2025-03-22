@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-03-21",
+    "date": "2025-03-22",
     "headline": "水的奇妙世界！",
     "title": "尼特哈天然井水面上的睡莲，图卢姆，墨西哥",
     "description": "3 月 22 日是世界水日，这是联合国发起的一项倡议，旨在强调淡水及其保护的重要性。这一天不仅提高了人们对全球水危机的认识，并推动采取行动以确保所有人都能获得清洁水源。淡水不仅是生命之源，还是维持生态平衡、农业发展，甚至文化传承的重要基石。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-03-21 16:32:39
+UpdataTime：2025-03-22 01:55:09
