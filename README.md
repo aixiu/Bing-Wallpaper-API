@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-03-22",
+    "date": "2025-03-23",
     "headline": "雷鸣不可阻挡",
     "title": "鲍曼附近日落时分的闪电和风暴云，布拉斯加州，美国",
     "description": "今天，我们庆祝世界气象日，这一纪念日旨在纪念1950年世界气象组织的成立。每年的世界气象日都会关注一个重要的全球气象议题。2025 年的主题“携手缩小预警差距”，强调及时的天气预警和早期行动对于减少灾害损失的重要性。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-03-22 16:29:02
+UpdataTime：2025-03-23 02:04:09
