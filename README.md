@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-03-25",
+    "date": "2025-03-26",
     "headline": "水面下的生命",
     "title": "水晶河的海牛，佛罗里达州，美国",
     "description": "海牛的生活节奏从不匆忙，它们悠然自得地漂浮在温暖的水域中，咀嚼着海草，静静地度过数百万年的岁月。然而，尽管它们天性温顺，却正面临严峻的生存威胁。为此，每年 3 月的最后一个星期三被定为海牛感恩日，旨在提高人们对海牛保护的意识。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-03-25 16:31:28
+UpdataTime：2025-03-26 01:58:25
