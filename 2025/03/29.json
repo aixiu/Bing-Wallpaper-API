@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-![卡里佐平原国家纪念碑的超级花期，加利福尼亚州，美国](https://cn.bing.com/th?id=OHR.CarrizoBloom_ZH-CN7967467357_1920x1080.webp)
-Today: [卡里佐平原国家纪念碑的超级花期，加利福尼亚州，美国](https://cn.bing.com/th?id=OHR.CarrizoBloom_ZH-CN7967467357_1920x1080.webp) - 花海绽放
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2025-03-29",
     "headline": "花海绽放",
@@ -42,6 +6,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url": "https://cn.bing.com/th?id=OHR.CarrizoBloom_ZH-CN7967467357_1920x1080.webp",
     "main_text": "在南非西海岸，从开普敦到纳马夸兰的干旱地带，每逢雨季，就会出现类似的花海现象。"
 }
-```
-
-UpdataTime：2025-03-29 01:57:06
