@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-03-30",
+    "date": "2025-03-31",
     "headline": "普利亚的“白色之城”",
     "title": "黄昏下的奥斯图尼, 普利亚, 意大利",
     "description": "这座历史悠久的城市坐落在亚得里亚海的山顶，以其迷宫般的白色建筑、蜿蜒的小巷和阳光普照的广场吸引着游客。欢迎来到意大利普利亚大区的奥斯图尼！普利亚位于意大利“靴子”形版图的“脚后跟”，拥有该国大陆地区最长的海岸线，这里不仅有迷人的海滩、壮丽的悬崖，还有如今日图片中的奥斯图尼这样美丽的城市。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-03-30 16:29:34
+UpdataTime：2025-03-31 02:04:41
