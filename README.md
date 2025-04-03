@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![沃森峰上空的彩虹, 巨人柱国家公园, 亚利桑那州, 美国](https://cn.bing.com/th?id=OHR.SaguaroRainbow_ZH-CN0139056375_1920x1080.webp)
-Today: [沃森峰上空的彩虹, 巨人柱国家公园, 亚利桑那州, 美国](https://cn.bing.com/th?id=OHR.SaguaroRainbow_ZH-CN0139056375_1920x1080.webp) - 天空无极限
+![苏州古镇风景，江苏省，中国](https://cn.bing.com/th?id=OHR.QingMingY25_ZH-CN9818431198_1920x1080.webp)
+Today: [苏州古镇风景，江苏省，中国](https://cn.bing.com/th?id=OHR.QingMingY25_ZH-CN9818431198_1920x1080.webp) - 春和景明
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-04-03",
-    "headline": "天空无极限",
-    "title": "沃森峰上空的彩虹, 巨人柱国家公园, 亚利桑那州, 美国",
-    "description": "您是否曾偶然发现彩虹，并感受到一股幸福感？你是否曾想在雨后捕捉阳光下的七彩奇观？从北欧神话中的众神，到爱尔兰妖精的聚宝盆，彩虹一直被赋予神秘的意义。但除了传说，彩虹背后的科学同样引人入胜，德国物理学家狄奥多里克在1304年给出了第一个合理的解释。他发现，阳光进入雨滴后会发生折射，然后在雨滴内反射，再折射出雨滴。这个过程将光线分解成不同的颜色，形成我们看到的光谱。虽然我们知道 “ROYGBIV”（红、橙、黄、绿、蓝、靛、紫）是彩虹的基本颜色，但彩虹实际上包含了数百万种颜色的渐变混合物。",
-    "image_url": "https://cn.bing.com/th?id=OHR.SaguaroRainbow_ZH-CN0139056375_1920x1080.webp",
-    "main_text": "月虹，是在月光下出现的彩虹，又叫黑夜彩虹、黑虹。由于月虹的出现需各种天气因素的配合，所以是非常罕见的自然现象。"
+    "headline": "春和景明",
+    "title": "苏州古镇风景，江苏省，中国",
+    "description": "清明是中国二十四节气之一，源于古代祖先信仰和春祭。至今，扫墓、踏青仍是清明节的主要活动。清明节，春回大地，万物生机，正是人们出门赏春的好时节。",
+    "image_url": "https://cn.bing.com/th?id=OHR.QingMingY25_ZH-CN9818431198_1920x1080.webp",
+    "main_text": "同里古镇位于苏州，也是江南六大古镇之一。古镇内有许多精致的园林，古色古香，极具江南特色。"
 }
 ```
 
-UpdataTime：2025-04-03 08:33:59
+UpdataTime：2025-04-03 16:32:32
