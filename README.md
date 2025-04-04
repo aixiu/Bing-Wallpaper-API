@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-04-03",
+    "date": "2025-04-04",
     "headline": "春和景明",
     "title": "苏州古镇风景，江苏省，中国",
     "description": "清明是中国二十四节气之一，源于古代祖先信仰和春祭。至今，扫墓、踏青仍是清明节的主要活动。清明节，春回大地，万物生机，正是人们出门赏春的好时节。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-04-03 16:32:32
+UpdataTime：2025-04-04 01:59:08
