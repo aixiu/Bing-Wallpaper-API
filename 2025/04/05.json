@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-![日落时分的加兹特鲁加特岛 , 巴斯克地区, 西班牙](https://cn.bing.com/th?id=OHR.GaztelugatxeSunset_ZH-CN0553703567_1920x1080.webp)
-Today: [日落时分的加兹特鲁加特岛 , 巴斯克地区, 西班牙](https://cn.bing.com/th?id=OHR.GaztelugatxeSunset_ZH-CN0553703567_1920x1080.webp) - 朝圣圣胡安·德·加兹特鲁加特
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2025-04-05",
     "headline": "朝圣圣胡安·德·加兹特鲁加特",
@@ -42,6 +6,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url": "https://cn.bing.com/th?id=OHR.GaztelugatxeSunset_ZH-CN0553703567_1920x1080.webp",
     "main_text": "这座教堂随着时间的推移逐渐破败，最终于 1886 年被拆除，随后从零开始重建。不幸的是，在拆除过程中，地下出土的所有文物，如硬币和炮弹，均被弃入大海，令人惋惜。"
 }
-```
-
-UpdataTime：2025-04-05 01:57:20
