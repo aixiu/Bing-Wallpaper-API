@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![春天的水仙花在清晨绽放](https://cn.bing.com/th?id=OHR.SpringDaffodils_ZH-CN6737270212_1920x1080.webp)
-Today: [春天的水仙花在清晨绽放](https://cn.bing.com/th?id=OHR.SpringDaffodils_ZH-CN6737270212_1920x1080.webp) - 芬芳清新的春天
+![纳克索斯岛的蓝色时刻，基克拉泽斯群岛，希腊](https://cn.bing.com/th?id=OHR.BlueNaxos_ZH-CN7863097040_1920x1080.webp)
+Today: [纳克索斯岛的蓝色时刻，基克拉泽斯群岛，希腊](https://cn.bing.com/th?id=OHR.BlueNaxos_ZH-CN7863097040_1920x1080.webp) - 在繁星闪耀之前
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-04-08",
-    "headline": "芬芳清新的春天",
-    "title": "春天的水仙花在清晨绽放",
-    "description": "春天百花盛开，而水仙花是最著名的花卉之一。几百年来，人们不断在诗歌和绘画中描绘水仙花，它们在不同国家的文化中都占有重要地位。中国水仙属于多花水仙的一种，已有上千年的栽培历史。它们是传统的观赏花卉，并被列为中国十大名花之一。中国水仙美丽、清新、纯净、优雅，具有独特的气质，这使得古代文人墨客为其作诗咏颂，留下了许多脍炙人口的诗篇。",
-    "image_url": "https://cn.bing.com/th?id=OHR.SpringDaffodils_ZH-CN6737270212_1920x1080.webp",
-    "main_text": "水仙花最适宜在充足的阳光下生长，尽管它们在半阴的环境中也能存活。一般来说，它们对土壤要求不高，但良好的排水性至关重要，因为过湿的环境容易导致根部腐烂。"
+    "headline": "在繁星闪耀之前",
+    "title": "纳克索斯岛的蓝色时刻，基克拉泽斯群岛，希腊",
+    "description": "当白昼消退或黎明降临，希腊的纳克索斯岛便笼罩在一片深邃的蓝色光辉之中，沉浸在蓝色时刻的神秘魅力里。在这短暂的时间里，当太阳位于地平线下方，余晖映照，使天空呈现出浓郁的蓝色。",
+    "image_url": "https://cn.bing.com/th?id=OHR.BlueNaxos_ZH-CN7863097040_1920x1080.webp",
+    "main_text": "纳克索斯岛的大理石开采可追溯至公元前550年以前。纳克索斯大理石曾被用于古奥林匹亚遗址的屋顶瓦片及雅典卫城的建筑。"
 }
 ```
 
-UpdataTime：2025-04-08 08:34:21
+UpdataTime：2025-04-08 16:34:04
