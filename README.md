@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-04-08",
+    "date": "2025-04-09",
     "headline": "在繁星闪耀之前",
     "title": "纳克索斯岛的蓝色时刻，基克拉泽斯群岛，希腊",
     "description": "当白昼消退或黎明降临，希腊的纳克索斯岛便笼罩在一片深邃的蓝色光辉之中，沉浸在蓝色时刻的神秘魅力里。在这短暂的时间里，当太阳位于地平线下方，余晖映照，使天空呈现出浓郁的蓝色。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-04-08 16:34:04
+UpdataTime：2025-04-09 02:00:00
