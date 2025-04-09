@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![纳克索斯岛的蓝色时刻，基克拉泽斯群岛，希腊](https://cn.bing.com/th?id=OHR.BlueNaxos_ZH-CN7863097040_1920x1080.webp)
-Today: [纳克索斯岛的蓝色时刻，基克拉泽斯群岛，希腊](https://cn.bing.com/th?id=OHR.BlueNaxos_ZH-CN7863097040_1920x1080.webp) - 在繁星闪耀之前
+![靠近巢穴的红狐幼崽](https://cn.bing.com/th?id=OHR.LittleFoxes_ZH-CN8622806156_1920x1080.webp)
+Today: [靠近巢穴的红狐幼崽](https://cn.bing.com/th?id=OHR.LittleFoxes_ZH-CN8622806156_1920x1080.webp) - 野性本能
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-04-09",
-    "headline": "在繁星闪耀之前",
-    "title": "纳克索斯岛的蓝色时刻，基克拉泽斯群岛，希腊",
-    "description": "当白昼消退或黎明降临，希腊的纳克索斯岛便笼罩在一片深邃的蓝色光辉之中，沉浸在蓝色时刻的神秘魅力里。在这短暂的时间里，当太阳位于地平线下方，余晖映照，使天空呈现出浓郁的蓝色。",
-    "image_url": "https://cn.bing.com/th?id=OHR.BlueNaxos_ZH-CN7863097040_1920x1080.webp",
-    "main_text": "纳克索斯岛的大理石开采可追溯至公元前550年以前。纳克索斯大理石曾被用于古奥林匹亚遗址的屋顶瓦片及雅典卫城的建筑。"
+    "headline": "野性本能",
+    "title": "靠近巢穴的红狐幼崽",
+    "description": "每年4月10日，童年的争吵、玩笑、抢玩具的回忆便浮现脑海。今天是兄弟姐妹日，这是一个感恩那些曾经告状、争夺玩具，却依然是你最坚定支持者的人的日子。尽管兄弟姐妹日尚未成为官方法定节日，但它已在多个国家得到认可。该节日由克劳迪娅·埃瓦特创立，以纪念她已故的兄弟姐妹。自1995 年以来，兄弟姐妹日基金会一直致力于推广这一节日，以庆祝兄弟姐妹之间独特的联系。",
+    "image_url": "https://cn.bing.com/th?id=OHR.LittleFoxes_ZH-CN8622806156_1920x1080.webp",
+    "main_text": "红狐能利用地球磁场寻找猎物。它们依靠猎物的影子与声音，精准判断最佳捕猎时机。"
 }
 ```
 
-UpdataTime：2025-04-09 08:36:13
+UpdataTime：2025-04-09 16:34:06
