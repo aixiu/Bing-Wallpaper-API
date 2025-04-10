@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![靠近巢穴的红狐幼崽](https://cn.bing.com/th?id=OHR.LittleFoxes_ZH-CN8622806156_1920x1080.webp)
-Today: [靠近巢穴的红狐幼崽](https://cn.bing.com/th?id=OHR.LittleFoxes_ZH-CN8622806156_1920x1080.webp) - 野性本能
+![郁金香，荷兰](https://cn.bing.com/th?id=OHR.TulipsWindmill_ZH-CN0665142956_1920x1080.webp)
+Today: [郁金香，荷兰](https://cn.bing.com/th?id=OHR.TulipsWindmill_ZH-CN0665142956_1920x1080.webp) - 盛放的美好时光
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-04-10",
-    "headline": "野性本能",
-    "title": "靠近巢穴的红狐幼崽",
-    "description": "每年4月10日，童年的争吵、玩笑、抢玩具的回忆便浮现脑海。今天是兄弟姐妹日，这是一个感恩那些曾经告状、争夺玩具，却依然是你最坚定支持者的人的日子。尽管兄弟姐妹日尚未成为官方法定节日，但它已在多个国家得到认可。该节日由克劳迪娅·埃瓦特创立，以纪念她已故的兄弟姐妹。自1995 年以来，兄弟姐妹日基金会一直致力于推广这一节日，以庆祝兄弟姐妹之间独特的联系。",
-    "image_url": "https://cn.bing.com/th?id=OHR.LittleFoxes_ZH-CN8622806156_1920x1080.webp",
-    "main_text": "红狐能利用地球磁场寻找猎物。它们依靠猎物的影子与声音，精准判断最佳捕猎时机。"
+    "headline": "盛放的美好时光",
+    "title": "郁金香，荷兰",
+    "description": "从著名的郁金香花田到世界上最大的花卉拍卖市场，荷兰与郁金香的渊源悠久。有趣的是，郁金香的原产地并非荷兰。这些绚丽的花朵最早于 16 世纪末由奥斯曼帝国传入荷兰。到了 17 世纪，郁金香的价值飙升，甚至一颗郁金香球茎的价格曾超过一栋房屋。这一时期被称为“郁金香狂热”，常被视为是最早有记录的金融泡沫之一。1637 年价格崩盘后，许多人一夜破产，但荷兰人对郁金香的喜爱却从未消退。",
+    "image_url": "https://cn.bing.com/th?id=OHR.TulipsWindmill_ZH-CN0665142956_1920x1080.webp",
+    "main_text": "郁金香的花瓣可食用。其口感因品种和季节而异，类似于生菜或其他沙拉蔬菜。"
 }
 ```
 
-UpdataTime：2025-04-10 08:33:50
+UpdataTime：2025-04-10 16:33:59
