@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![圣玛丽亚岛附近的大西洋细吻海豚，亚速尔群岛，葡萄牙](https://cn.bing.com/th?id=OHR.SpottedDolphins_ZH-CN1257100316_1920x1080.webp)
-Today: [圣玛丽亚岛附近的大西洋细吻海豚，亚速尔群岛，葡萄牙](https://cn.bing.com/th?id=OHR.SpottedDolphins_ZH-CN1257100316_1920x1080.webp) - 追逐开始！
+![卡拉奥拉城堡，格拉纳达，西班牙](https://cn.bing.com/th?id=OHR.CerezoEnFlor_ZH-CN2951543796_1920x1080.webp)
+Today: [卡拉奥拉城堡，格拉纳达，西班牙](https://cn.bing.com/th?id=OHR.CerezoEnFlor_ZH-CN2951543796_1920x1080.webp) - 梦幻城堡！
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-04-14",
-    "headline": "追逐开始！",
-    "title": "圣玛丽亚岛附近的大西洋细吻海豚，亚速尔群岛，葡萄牙",
-    "description": "今日图片的主角，大西洋斑点海豚，以其身上的斑点而闻名，这些斑点会随着年龄的增长逐渐增多并变得更密集。它们生活在大西洋温带和热带海域，通常成群合作捕食鱼类。速度快、机动性强的它们不仅是高效的猎手，也是海洋中令人惊叹的存在。美国海域也生活着多种海豚，其中包括宽吻海豚、普通海豚、里索海豚和飞旋海豚等。每个物种都在维持海洋生态平衡中发挥着至关重要的作用，这也提醒我们：保护海豚的栖息地刻不容缓。",
-    "image_url": "https://cn.bing.com/th?id=OHR.SpottedDolphins_ZH-CN1257100316_1920x1080.webp",
-    "main_text": "这种海豚能发出大约十种不同的声波进行交流，包括哨声、嗡嗡声、尖叫声和吠叫声，每种声音都对应着不同的行为模式。"
+    "headline": "梦幻城堡！",
+    "title": "卡拉奥拉城堡，格拉纳达，西班牙",
+    "description": "在瓜迪克斯地区，群山与山谷之间，坐落着拉卡拉奥拉小镇，一座宏伟的文艺复兴时期城堡便矗立于此。这座建筑瑰宝建于16世纪，由第一代塞内特侯爵修建，既具备坚固的军事防御功能，又融入了意大利宫殿的优雅风格，是西班牙最早的文艺复兴建筑之一。",
+    "image_url": "https://cn.bing.com/th?id=OHR.CerezoEnFlor_ZH-CN2951543796_1920x1080.webp",
+    "main_text": "这座城堡位于海拔 1250 米的高处，最近因被选为瑞安·康达尔和乔治·R·R·马丁创作的电视剧《龙之家族》的拍摄地而声名鹊起。"
 }
 ```
 
-UpdataTime：2025-04-14 08:34:58
+UpdataTime：2025-04-14 16:33:42
