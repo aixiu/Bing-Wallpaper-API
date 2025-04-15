@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-04-14",
+    "date": "2025-04-15",
     "headline": "梦幻城堡！",
     "title": "卡拉奥拉城堡，格拉纳达，西班牙",
     "description": "在瓜迪克斯地区，群山与山谷之间，坐落着拉卡拉奥拉小镇，一座宏伟的文艺复兴时期城堡便矗立于此。这座建筑瑰宝建于16世纪，由第一代塞内特侯爵修建，既具备坚固的军事防御功能，又融入了意大利宫殿的优雅风格，是西班牙最早的文艺复兴建筑之一。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-04-14 16:33:42
+UpdataTime：2025-04-15 02:03:39
