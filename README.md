@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![卡帕多西亚格雷梅国家公园上空的热气球，土耳其](https://cn.bing.com/th?id=OHR.GoremeTurkey_ZH-CN0255739302_1920x1080.webp)
-Today: [卡帕多西亚格雷梅国家公园上空的热气球，土耳其](https://cn.bing.com/th?id=OHR.GoremeTurkey_ZH-CN0255739302_1920x1080.webp) - 纪念历史
+![锡安国家公园，犹他州，美国](https://cn.bing.com/th?id=OHR.ZionValley_ZH-CN0611524754_1920x1080.webp)
+Today: [锡安国家公园，犹他州，美国](https://cn.bing.com/th?id=OHR.ZionValley_ZH-CN0611524754_1920x1080.webp) - 国家公园周开始了
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-04-18",
-    "headline": "纪念历史",
-    "title": "卡帕多西亚格雷梅国家公园上空的热气球，土耳其",
-    "description": "试想一个没有金字塔、长城或古老洞穴城市的世界。是不是很难想象？这正是为什么 4月18日被定为“国际古迹遗址日”的原因。这个由联合国教科文组织认可的纪念日，致力于保护全球的文化瑰宝。这个日子旨在庆祝我们的历史，提升对濒危遗址的认识，并确保后代也能欣赏到这些宝贵遗产。",
-    "image_url": "https://cn.bing.com/th?id=OHR.GoremeTurkey_ZH-CN0255739302_1920x1080.webp",
-    "main_text": "人们利用这种松软的凝灰岩凿出地下居所。据认为，卡帕多西亚最早的修道活动出现在公元四世纪，当时隐士开始在岩石中凿出自己的居所。"
+    "headline": "国家公园周开始了",
+    "title": "锡安国家公园，犹他州，美国",
+    "description": "穿上你的登山靴——国家公园周开始了！这个为期九天的活动从今天开始，鼓励人们探索并欣赏国家公园的自然美景与文化遗产。这是一个了解这些受保护区域、参与保护工作、并享受壮丽景观的绝佳时机。可以通过参观国家公园、分享这些自然宝藏的信息，来加入这一庆祝活动，同时也感受它们在国家遗产中所扮演的重要角色。",
+    "image_url": "https://cn.bing.com/th?id=OHR.ZionValley_ZH-CN0611524754_1920x1080.webp",
+    "main_text": "人类在该地区的居住始于大约 8,000 年前，当时由美洲原住民的小型家庭群体组成。"
 }
 ```
 
-UpdataTime：2025-04-18 08:32:47
+UpdataTime：2025-04-18 16:32:06
