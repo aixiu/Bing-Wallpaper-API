@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-04-18",
+    "date": "2025-04-19",
     "headline": "国家公园周开始了",
     "title": "锡安国家公园，犹他州，美国",
     "description": "穿上你的登山靴——国家公园周开始了！这个为期九天的活动从今天开始，鼓励人们探索并欣赏国家公园的自然美景与文化遗产。这是一个了解这些受保护区域、参与保护工作、并享受壮丽景观的绝佳时机。可以通过参观国家公园、分享这些自然宝藏的信息，来加入这一庆祝活动，同时也感受它们在国家遗产中所扮演的重要角色。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-04-18 16:32:06
+UpdataTime：2025-04-19 01:56:30
