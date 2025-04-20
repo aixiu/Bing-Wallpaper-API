@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-04-19",
+    "date": "2025-04-20",
     "headline": "复活节兔子要来了",
     "title": "春天里的野生小兔子",
     "description": "复活节快乐！今天是全世界数十亿基督徒的重要节日，这是一个重生、庆祝与传承传统并存的时刻。复活节，也被称为“逾越节”或“复活主日”，纪念《新约》中所描述的耶稣基督的复活事件。这也是一个充满节日传统的时刻，从日出礼拜到寻找复活节彩蛋活动，当然还有深受大家喜爱的复活节兔子！",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-04-19 16:31:22
+UpdataTime：2025-04-20 02:08:28
