@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![大棱镜彩泉，黄石国家公园，怀俄明州，美国](https://cn.bing.com/th?id=OHR.YellowstoneSpring_ZH-CN2643482467_1920x1080.webp)
-Today: [大棱镜彩泉，黄石国家公园，怀俄明州，美国](https://cn.bing.com/th?id=OHR.YellowstoneSpring_ZH-CN2643482467_1920x1080.webp) - 我们的能源，我们的星球
+![海利根港斯坦沃德海滩上的沙滩椅，石勒苏益格-荷尔斯泰因州，德国](https://cn.bing.com/th?id=OHR.BeachChairsSteinwarder_ZH-CN2947390092_1920x1080.webp)
+Today: [海利根港斯坦沃德海滩上的沙滩椅，石勒苏益格-荷尔斯泰因州，德国](https://cn.bing.com/th?id=OHR.BeachChairsSteinwarder_ZH-CN2947390092_1920x1080.webp) - 波罗的海的魔力
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-04-22",
-    "headline": "我们的能源，我们的星球",
-    "title": "大棱镜彩泉，黄石国家公园，怀俄明州，美国",
-    "description": "在地球日这一天，让我们前往大自然最壮观的地热奇观之一，位于美国怀俄明州黄石国家公园的大棱镜温泉。这是美国最大的温泉，直径达 370 英尺，水温高达 160 华氏度。这一地热奇观由地表下巨大的黄石火山所产生的强大热能驱动。温泉中色彩斑斓的蓝色、绿色、黄色和橙色环带是由生活在富含矿物质的热水中的嗜热微生物（称为嗜热菌）所形成的。",
-    "image_url": "https://cn.bing.com/th?id=OHR.YellowstoneSpring_ZH-CN2643482467_1920x1080.webp",
-    "main_text": "2025年世界地球日的主题是“我们的能源，我们的星球”，呼吁全球团结一致，支持可再生能源，并在2030年前将全球清洁电力的产量提高三倍。"
+    "headline": "波罗的海的魔力",
+    "title": "海利根港斯坦沃德海滩上的沙滩椅，石勒苏益格-荷尔斯泰因州，德国",
+    "description": "沙滩椅最早是在 19 世纪被发明的，用于防风和防止细沙侵扰。即便是在风暴天气下，如今日照片中石瓦尔德码头前的场景，沙滩椅依旧有其特别的魅力。石瓦尔德是一个风景如画的半岛，最初仅通过盐沼和艾希霍尔茨低地与大陆相连。如今，它是追求宁静与自然的度假者的天堂。",
+    "image_url": "https://cn.bing.com/th?id=OHR.BeachChairsSteinwarder_ZH-CN2947390092_1920x1080.webp",
+    "main_text": "在海利根港的海滩上，有超过 900 把沙滩椅可供租用。如果你深深爱上了这种户外家具，甚至还可以买下来——无论是新的还是二手的。"
 }
 ```
 
-UpdataTime：2025-04-22 08:34:33
+UpdataTime：2025-04-22 16:33:29
