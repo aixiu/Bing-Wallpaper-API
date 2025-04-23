@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-04-22",
+    "date": "2025-04-23",
     "headline": "波罗的海的魔力",
     "title": "海利根港斯坦沃德海滩上的沙滩椅，石勒苏益格-荷尔斯泰因州，德国",
     "description": "沙滩椅最早是在 19 世纪被发明的，用于防风和防止细沙侵扰。即便是在风暴天气下，如今日照片中石瓦尔德码头前的场景，沙滩椅依旧有其特别的魅力。石瓦尔德是一个风景如画的半岛，最初仅通过盐沼和艾希霍尔茨低地与大陆相连。如今，它是追求宁静与自然的度假者的天堂。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-04-22 16:33:29
+UpdataTime：2025-04-23 02:03:05
