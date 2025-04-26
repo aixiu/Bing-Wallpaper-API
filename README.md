@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-04-25",
+    "date": "2025-04-26",
     "headline": "悬崖、洞穴与清澈的水域",
     "title": "印第安头湾, 布鲁斯半岛国家公园, 安大略, 加拿大",
     "description": "布鲁斯半岛国家公园是安大略省一段令人叹为观止的尼亚加拉断崖地貌，由时间与水流共同雕琢而成。该公园于 1987 年设立，保护着高耸的石灰岩悬崖、隐秘的洞穴、茂密的森林和未被破坏的湖岸线。作为联合国教科文组织生物圈保护区的一部分，这里是多种适应崎岖地形的野生动物的避难所，比如黑熊、大响尾蛇和白尾鹿。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-04-25 16:33:02
+UpdataTime：2025-04-26 08:30:38
