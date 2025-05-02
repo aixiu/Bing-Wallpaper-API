@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-05-01",
+    "date": "2025-05-02",
     "headline": "绿鹭",
     "title": "维多利亚睡莲上的绿鹭，潘塔纳尔 ，巴西",
     "description": "在巴西郁郁葱葱的潘塔纳尔湿地，一只绿鹭栖息在一片维多利亚王莲的叶面上。这种水鸟，也被称为红树鹭，约16英寸高，是耐心的猎手，擅长埋伏猎物。它会采用聪明的策略，例如投下羽毛或昆虫引诱鱼类上钩。绿鹭常见于南美洲的湿地，也分布于北美、澳大利亚、非洲、亚洲、新几内亚和太平洋岛屿。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-05-01 16:33:41
+UpdataTime：2025-05-02 02:04:52
