@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-05-05",
+    "date": "2025-05-06",
     "headline": "不一般的沙漠之旅",
     "title": "一架超轻型飞机飞越纳米比亚沙漠",
     "description": "想象一下，在轻型飞行器中翱翔于天空，风呼啸而过，俯瞰着如画的风景。下方是世界上最古老的沙漠：纳米布沙漠，在5500万年的风力作用下形成并不断演变。这就是纳米比亚，一片由高耸沙丘、干涸河床和流沙构成的超现实梦幻般的景观。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-05-05 16:34:28
+UpdataTime：2025-05-06 08:35:23
