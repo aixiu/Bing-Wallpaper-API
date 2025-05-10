@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-05-09",
+    "date": "2025-05-10",
     "headline": "童话烟囱！",
     "title": "巴尔德纳斯雷亚尔斯自然公园的卡斯蒂尔德蒂拉，纳瓦拉，西班牙",
     "description": "在西班牙纳瓦拉自治区这片独特的半沙漠景观中心，矗立着一座标志性的岩石地貌：卡斯蒂尔德蒂耶拉。它如天然石塔般的轮廓，是风与水共同侵蚀的杰作，也是这一地区的象征。此地已被联合国教科文组织列为生物圈保护区。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-05-09 16:33:03
+UpdataTime：2025-05-10 08:31:11
