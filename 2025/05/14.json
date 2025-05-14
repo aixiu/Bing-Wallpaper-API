@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-![弗拉维亚港, 苏尔西斯-伊格莱西恩特, 撒丁岛, 意大利](https://cn.bing.com/th?id=OHR.SardiniaFlavia_ZH-CN6784449568_1920x1080.webp)
-Today: [弗拉维亚港, 苏尔西斯-伊格莱西恩特, 撒丁岛, 意大利](https://cn.bing.com/th?id=OHR.SardiniaFlavia_ZH-CN6784449568_1920x1080.webp) - 矿石与传奇
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2025-05-14",
     "headline": "矿石与传奇",
@@ -42,6 +6,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url": "https://cn.bing.com/th?id=OHR.SardiniaFlavia_ZH-CN6784449568_1920x1080.webp",
     "main_text": "波尔图弗拉维亚是一处联合国教科文组织保护的遗址，也是该地区采矿和工业考古之旅的推荐目的地之一。如今，隧道内每天都有导览行程，由曾在此工作的工人或IGEA矿业技术人员亲自讲解。"
 }
-```
-
-UpdataTime：2025-05-14 02:06:18
