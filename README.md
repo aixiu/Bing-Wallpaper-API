@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-05-15",
+    "date": "2025-05-16",
     "headline": "守护濒危生命的一天",
     "title": "大绿金刚鹦鹉, 墨西哥",
     "description": "每年五月的第三个星期五，全球都会迎来“濒危物种日”。这是一个为濒危野生动植物而庆祝、学习并付诸行动的日子。该活动由濒危物种联盟及环保主义者大卫·罗宾逊于 2006 年共同发起，旨在激励全球各地的人们保护濒危动物及其栖息地。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-05-15 16:35:29
+UpdataTime：2025-05-16 02:08:03
