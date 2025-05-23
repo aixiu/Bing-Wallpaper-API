@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-![停在黄头侧颈龟鼻子上的茱莉亚蝶，亚马逊地区，厄瓜多尔](https://cn.bing.com/th?id=OHR.ButterflyTurtle_ZH-CN5706515924_1920x1080.webp)
-Today: [停在黄头侧颈龟鼻子上的茱莉亚蝶，亚马逊地区，厄瓜多尔](https://cn.bing.com/th?id=OHR.ButterflyTurtle_ZH-CN5706515924_1920x1080.webp) - 为龟喝彩！
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2025-05-23",
     "headline": "为龟喝彩！",
@@ -42,6 +6,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url": "https://cn.bing.com/th?id=OHR.ButterflyTurtle_ZH-CN5706515924_1920x1080.webp",
     "main_text": "根据种类的不同，海龟可分为草食性、肉食性和杂食性。它们的食物范围涵盖了植物、水果、昆虫和鱼类。"
 }
-```
-
-UpdataTime：2025-05-23 02:07:27
