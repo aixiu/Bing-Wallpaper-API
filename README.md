@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-05-23",
+    "date": "2025-05-24",
     "headline": "欧洲的野性之美",
     "title": "挪威尤通黑门山国家公园",
     "description": "今天是“欧洲公园日”，旨在庆祝那些塑造各国自然特性的国家公园和保护区。该纪念日由欧洲公园联盟于1999年创立，以纪念1909年在瑞典建立的九座欧洲最早的国家公园。该节日旨在推动保护自然栖息地、野生动植物及文化遗产的行动，同时鼓励可持续旅游与户外活动。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-05-23 16:33:51
+UpdataTime：2025-05-24 02:02:57
