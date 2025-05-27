@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-![梦娜维尔岩池，悉尼，澳大利亚](https://cn.bing.com/th?id=OHR.MonaValePool_ZH-CN7968271596_1920x1080.webp)
-Today: [梦娜维尔岩池，悉尼，澳大利亚](https://cn.bing.com/th?id=OHR.MonaValePool_ZH-CN7968271596_1920x1080.webp) - 一处海滨奇观
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2025-05-27",
     "headline": "一处海滨奇观",
@@ -42,6 +6,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url": "https://cn.bing.com/th?id=OHR.MonaValePool_ZH-CN7968271596_1920x1080.webp",
     "main_text": "莫纳维尔实际上由两片独立的海滩组成，中间由一块宽广的海洋岩石平台所分隔。海浪沿平台南缘涌入一条沟壑，在此形成平稳而强劲的破浪现象。"
 }
-```
-
-UpdataTime：2025-05-27 02:07:09
