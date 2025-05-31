@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-05-30",
+    "date": "2025-05-31",
     "headline": "充满节日氛围节装饰",
     "title": "用彩色丝线串成的香囊，端午节前夕的庙会上，吉林省吉林市，中国",
     "description": "端午节，是中国四大传统节日之一，端午节除了吃粽子，还有许多富有特色的民间习俗，比如今天图片中的彩色丝线串成的香囊。这是在吉林市的端午节前夕就开始的庙会上售卖的。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-05-30 16:34:52
+UpdataTime：2025-05-31 02:05:45
