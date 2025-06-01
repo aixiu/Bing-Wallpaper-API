@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-![格朗特尔岛附近的堡礁，法属新喀里多尼亚](https://cn.bing.com/th?id=OHR.GrandeTerreReef_ZH-CN7463701309_1920x1080.webp)
-Today: [格朗特尔岛附近的堡礁，法属新喀里多尼亚](https://cn.bing.com/th?id=OHR.GrandeTerreReef_ZH-CN7463701309_1920x1080.webp) - 海底世界
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2025-06-01",
     "headline": "海底世界",
@@ -42,6 +6,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url": "https://cn.bing.com/th?id=OHR.GrandeTerreReef_ZH-CN7463701309_1920x1080.webp",
     "main_text": "珊瑚礁最早出现在约4.85亿年前的奥陶纪早期，取代了寒武纪时期的微生物礁和海绵礁。"
 }
-```
-
-UpdataTime：2025-06-01 02:34:04
