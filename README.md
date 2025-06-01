@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![格朗特尔岛附近的堡礁，法属新喀里多尼亚](https://cn.bing.com/th?id=OHR.GrandeTerreReef_ZH-CN7463701309_1920x1080.webp)
-Today: [格朗特尔岛附近的堡礁，法属新喀里多尼亚](https://cn.bing.com/th?id=OHR.GrandeTerreReef_ZH-CN7463701309_1920x1080.webp) - 海底世界
+![一只停在紫锥菊上的灰蝶，洛克菲勒州立公园，纽约](https://cn.bing.com/th?id=OHR.EchinaceaButterfly_ZH-CN7877489878_1920x1080.webp)
+Today: [一只停在紫锥菊上的灰蝶，洛克菲勒州立公园，纽约](https://cn.bing.com/th?id=OHR.EchinaceaButterfly_ZH-CN7877489878_1920x1080.webp) - 花的力量
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-06-01",
-    "headline": "海底世界",
-    "title": "格朗特尔岛附近的堡礁，法属新喀里多尼亚",
-    "description": "“海底的世界比陆地上的任何地方都要美好。” 迪士尼动画电影《小美人鱼》中，赛巴斯汀曾这样对爱丽儿说道。然而，我们是否真的为保护这一海底世界做得足够多？6月1日是世界珊瑚礁意识日，这是一个唤起人们关注珊瑚礁生态系统之美及其脆弱性的日子。一个壮丽的范例是新喀里多尼亚的大堡礁，它环绕着新喀里多尼亚最大的岛屿格兰德特尔岛。这条珊瑚礁长达930多英里，是世界上最长的连续堡礁之一。其广阔的9,300平方英里泻湖孕育着2300多种鱼类、濒危的儒艮、绿海龟以及迁徙的座头鲸。",
-    "image_url": "https://cn.bing.com/th?id=OHR.GrandeTerreReef_ZH-CN7463701309_1920x1080.webp",
-    "main_text": "珊瑚礁最早出现在约4.85亿年前的奥陶纪早期，取代了寒武纪时期的微生物礁和海绵礁。"
+    "headline": "花的力量",
+    "title": "一只停在紫锥菊上的灰蝶，洛克菲勒州立公园，纽约",
+    "description": "今日图片中展示的是一只灰蝶，它以迅速、跳跃式的飞行方式而闻名，正停驻在一朵鲜艳的紫锥菊上，亦称松果菊。紫锥菊原产于北美，以其耐寒的花朵和独特的刺状花心而广受园艺爱好者和传粉昆虫的喜爱。",
+    "image_url": "https://cn.bing.com/th?id=OHR.EchinaceaButterfly_ZH-CN7877489878_1920x1080.webp",
+    "main_text": "研究表明，仅仅观赏花园就能降低血压和减轻压力。"
 }
 ```
 
-UpdataTime：2025-06-01 08:32:54
+UpdataTime：2025-06-01 16:32:13
