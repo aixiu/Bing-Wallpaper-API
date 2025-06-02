@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![一只停在紫锥菊上的灰蝶，洛克菲勒州立公园，纽约](https://cn.bing.com/th?id=OHR.EchinaceaButterfly_ZH-CN7877489878_1920x1080.webp)
-Today: [一只停在紫锥菊上的灰蝶，洛克菲勒州立公园，纽约](https://cn.bing.com/th?id=OHR.EchinaceaButterfly_ZH-CN7877489878_1920x1080.webp) - 花的力量
+![乌得勒支桥上的自行车，荷兰](https://cn.bing.com/th?id=OHR.BicyclesUtrecht_ZH-CN8016028978_1920x1080.webp)
+Today: [乌得勒支桥上的自行车，荷兰](https://cn.bing.com/th?id=OHR.BicyclesUtrecht_ZH-CN8016028978_1920x1080.webp) - 为快乐而刹车
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-06-02",
-    "headline": "花的力量",
-    "title": "一只停在紫锥菊上的灰蝶，洛克菲勒州立公园，纽约",
-    "description": "今日图片中展示的是一只灰蝶，它以迅速、跳跃式的飞行方式而闻名，正停驻在一朵鲜艳的紫锥菊上，亦称松果菊。紫锥菊原产于北美，以其耐寒的花朵和独特的刺状花心而广受园艺爱好者和传粉昆虫的喜爱。",
-    "image_url": "https://cn.bing.com/th?id=OHR.EchinaceaButterfly_ZH-CN7877489878_1920x1080.webp",
-    "main_text": "研究表明，仅仅观赏花园就能降低血压和减轻压力。"
+    "headline": "为快乐而刹车",
+    "title": "乌得勒支桥上的自行车，荷兰",
+    "description": "两个轮子，无需燃料，却承载着深远的意义：骑行不仅经济、环保，更对地球友好。如此简单的一项活动，便能显著改善健康状况。将汽车出行替换为骑行，是保持活力的便捷方式。此外，骑行有助于减少污染、缓解交通拥堵，并为无驾照者提供一种经济实惠的交通选择。正因其多重益处，联合国将每年6月3日设立为“世界自行车日”，以庆祝这种双轮工具所承载的全部价值。",
+    "image_url": "https://cn.bing.com/th?id=OHR.BicyclesUtrecht_ZH-CN8016028978_1920x1080.webp",
+    "main_text": "尽管“bike”和“cycle”这两个词在大多数情况下可以互换使用，均指代两轮交通工具，但它们在世界各地的具体用法仍略有不同。"
 }
 ```
 
-UpdataTime：2025-06-02 08:37:25
+UpdataTime：2025-06-02 16:36:02
