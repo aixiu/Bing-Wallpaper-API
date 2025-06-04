@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![乌得勒支桥上的自行车，荷兰](https://cn.bing.com/th?id=OHR.BicyclesUtrecht_ZH-CN8016028978_1920x1080.webp)
-Today: [乌得勒支桥上的自行车，荷兰](https://cn.bing.com/th?id=OHR.BicyclesUtrecht_ZH-CN8016028978_1920x1080.webp) - 为快乐而刹车
+![卡拉卢纳海滩, 撒丁岛, 意大利](https://cn.bing.com/th?id=OHR.CalaLuna_ZH-CN8174946414_1920x1080.webp)
+Today: [卡拉卢纳海滩, 撒丁岛, 意大利](https://cn.bing.com/th?id=OHR.CalaLuna_ZH-CN8174946414_1920x1080.webp) - 卡拉卢纳海滩, 撒丁岛, 意大利
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-06-03",
-    "headline": "为快乐而刹车",
-    "title": "乌得勒支桥上的自行车，荷兰",
-    "description": "两个轮子，无需燃料，却承载着深远的意义：骑行不仅经济、环保，更对地球友好。如此简单的一项活动，便能显著改善健康状况。将汽车出行替换为骑行，是保持活力的便捷方式。此外，骑行有助于减少污染、缓解交通拥堵，并为无驾照者提供一种经济实惠的交通选择。正因其多重益处，联合国将每年6月3日设立为“世界自行车日”，以庆祝这种双轮工具所承载的全部价值。",
-    "image_url": "https://cn.bing.com/th?id=OHR.BicyclesUtrecht_ZH-CN8016028978_1920x1080.webp",
-    "main_text": "尽管“bike”和“cycle”这两个词在大多数情况下可以互换使用，均指代两轮交通工具，但它们在世界各地的具体用法仍略有不同。"
+    "date": "2025-06-04",
+    "headline": "卡拉卢纳海滩, 撒丁岛, 意大利",
+    "title": "卡拉卢纳海滩, 撒丁岛, 意大利",
+    "description": "意大利撒丁岛以其崎岖的悬崖、隐秘的海滩以及层层叠叠的蓝色海水，堪称地中海的一颗明珠。全岛海岸线长度超过1100英里。尽管岛上自然河流稀少，其中提尔索河为最长河流，撒丁岛通过水利工程建设了54座人工湖与水坝。其中最重要的两座为奥莫代奥湖与科吉纳斯湖，分别为当地的重要水源及电力供应地。",
+    "image_url": "https://cn.bing.com/th?id=OHR.CalaLuna_ZH-CN8174946414_1920x1080.webp",
+    "main_text": "因其非凡的美丽与野性魅力，卡拉卢纳海滩曾被选为意大利经典电影《踩过界》的拍摄地，同时也是由国际巨星麦当娜主演的同名电影翻拍版的取景地。"
 }
 ```
 
-UpdataTime：2025-06-03 08:37:50
+UpdataTime：2025-06-04 02:16:07
