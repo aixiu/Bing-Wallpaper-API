@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-06-04",
+    "date": "2025-06-05",
     "headline": "隐藏的美景",
     "title": "福玛萨瀑布，迪亚曼蒂纳，巴西",
     "description": "今日图片带我们走近迪亚曼蒂纳高地国家公园中最壮观、却极少有人踏足的瀑布之一福玛萨瀑布。该瀑布位于巴伊亚州，垂直落差约为100米。通往瀑布的小径始于巴伊绍村，由于地形陡峭，被评为高难度路线。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-06-04 16:31:07
+UpdataTime：2025-06-05 02:09:26
