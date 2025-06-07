@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-![松山顶峰, 洛杉矶国家森林公园, 加利福尼亚州, 美国](https://cn.bing.com/th?id=OHR.PacificCrestTrail_ZH-CN9582395021_1920x1080.webp)
-Today: [松山顶峰, 洛杉矶国家森林公园, 加利福尼亚州, 美国](https://cn.bing.com/th?id=OHR.PacificCrestTrail_ZH-CN9582395021_1920x1080.webp) - 走上高远之路
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2025-06-07",
     "headline": "走上高远之路",
@@ -42,6 +6,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url": "https://cn.bing.com/th?id=OHR.PacificCrestTrail_ZH-CN9582395021_1920x1080.webp",
     "main_text": "国家步道日的历史可以追溯至五十多年前。最初，美国尚未建立统一的官方步道体系。直到1968年10月，林登·约翰逊总统签署《国家步道法》，才正式建立起供公众旅游与休闲的国家步道网络。"
 }
-```
-
-UpdataTime：2025-06-07 02:07:59
