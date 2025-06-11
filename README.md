@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-06-10",
+    "date": "2025-06-11",
     "headline": "潮汐间的芭蕾",
     "title": "大红鹳，吕德里茨，纳米比亚",
     "description": "在纳米比亚吕德里茨，这些鸟类并非过客，而是真正“站稳脚跟”的居民，字面意义上，仅用一条腿支撑。它们便是大红鹳，为南大西洋沿岸狂风席卷的纳米比亚海岸增添了一抹亮丽的粉色。作为所有鹳类中体型最大的一种，大红鹳毫不吝啬地展示自身风采：身高可达59英寸，具有匙状弯曲喙和修长的双腿，极具辨识度。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-06-10 16:35:46
+UpdataTime：2025-06-11 08:36:42
