@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-06-12",
+    "date": "2025-06-13",
     "headline": "海洋的隐秘心跳",
     "title": "维拉弗兰卡岛，圣米格尔岛，亚速尔群岛，葡萄牙",
     "description": "位于葡萄牙亚速尔群岛圣米格尔岛附近的维拉弗兰卡岛，是一座无人居住的绿色火山岛，静静地坐落在弗兰卡村镇的南侧。尽管今日宁静怡人，这座小岛却拥有悠久而多变的历史。早在1537年，文献中便有定居者向西扩展至此的记载，使维拉弗兰卡岛正式登上历史舞台。它曾先后作为军事要塞、避风港、葡萄园种植地，乃至观鲸瞭望台。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-06-12 16:35:19
+UpdataTime：2025-06-13 02:16:52
