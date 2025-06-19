@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-06-18",
+    "date": "2025-06-19",
     "headline": "潮汐与时间交汇之地",
     "title": "圣卡塔琳娜州的海滩, 巴西",
     "description": "圣卡塔琳娜州位于巴西南部，其海岸线沿大西洋延展超过560公里，是一处汇聚历史演进与人类活动的多元文化地带。在欧洲航海者首次抵达前，图皮瓜拉尼族等原住民族群已在此定居，依赖捕鱼与农业生计，并与自然环境建立了密切联系。1529年，随着航海探险的发展，该地区被绘入地图，“圣卡塔琳娜”一名首次出现在世界地理文献中。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-06-18 16:36:19
+UpdataTime：2025-06-19 02:17:19
