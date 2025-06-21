@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-06-20",
+    "date": "2025-06-21",
     "headline": "此花端合在瑶池",
     "title": "雾中莲花，中国佛山",
     "description": "夏至既是二十四节气之一，“夏至”是盛夏的起点，这个季节也是荷花盛开的季节。今天图片中的美景位于广东佛山地区的盛开的荷花。晨曦在水面上织就一层丝丝薄纱。漫步岸边，仿佛置身于云雾缭绕的仙境，每一次呼吸都模糊了虚实的界限。这便是“朦胧”的精髓——这种诗意的朦胧感曾深深触动过中国古代文人，激发出无数颂扬莲花空灵之美的诗句。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-06-20 16:34:32
+UpdataTime：2025-06-21 02:08:32
