@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-06-21",
+    "date": "2025-06-22",
     "headline": "一路丛林",
     "title": "亚马逊雨林，厄瓜多尔",
     "description": "“世界雨林日”不仅是日历上的一个纪念日，更是一项行动号召。该节日由非营利环保组织“雨林伙伴关系”于2017年设立，旨在提升公众对雨林重要性的认识，并推动全球范围内的保护工作。在美国，人们通过社区植树、学校项目以及社交媒体活动参与纪念，宣传雨林保护的成功案例。许多植物园会举办特别展览，而环保组织则发起筹款挑战，以支持实地保护项目。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-06-21 16:32:31
+UpdataTime：2025-06-22 02:26:47
