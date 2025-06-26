@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![马头岩上空的银河, 新南威尔士州, 澳大利亚](https://cn.bing.com/th?id=OHR.HorseheadRock_ZH-CN9319651125_1920x1080.webp)
-Today: [马头岩上空的银河, 新南威尔士州, 澳大利亚](https://cn.bing.com/th?id=OHR.HorseheadRock_ZH-CN9319651125_1920x1080.webp) - 海岸线附近的“马戏”
+![Knuthöjdsmossen自然保护区, 海勒福什市, 瑞典](https://cn.bing.com/th?id=OHR.SwedenReserve_ZH-CN9963744170_1920x1080.webp)
+Today: [Knuthöjdsmossen自然保护区, 海勒福什市, 瑞典](https://cn.bing.com/th?id=OHR.SwedenReserve_ZH-CN9963744170_1920x1080.webp) - 古冰川遗迹之地
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-06-26",
-    "headline": "海岸线附近的“马戏”",
-    "title": "马头岩上空的银河, 新南威尔士州, 澳大利亚",
-    "description": "人们常说：“你可以牵马到水边，却无法强迫它饮水。”当然，马头岩除外。这块岩石屹立于澳大利亚新南威尔士州伯马吉附近的蓝宝石海岸。如今日图片所示，这块古老的岩石宛如大自然亲手雕刻的一匹神话中的骏马，永远在低头畅饮海水。据估计，马头岩已有5亿年历史，其酷似一匹弯颈饮水的马，这正是风蚀与海浪侵蚀共同作用的结果。作为该地区最古老且最具象征意义的地质地标之一，马头岩全年吸引着徒步旅行者、摄影师与自然爱好者前来观赏。最佳观景点位于骆驼岩与穆鲁纳角之间的高地步道，而更富冒险精神的访客则可在退潮时，从骆驼岩冲浪海滩绕行至此。",
-    "image_url": "https://cn.bing.com/th?id=OHR.HorseheadRock_ZH-CN9319651125_1920x1080.webp",
-    "main_text": "1880年，政府地质学家拉蒙特·杨与另外四人在从伯马吉出海途中神秘失踪，该海湾的命名正与这起事件有关。"
+    "headline": "古冰川遗迹之地",
+    "title": "Knuthöjdsmossen自然保护区, 海勒福什市, 瑞典",
+    "description": "克努特霍德斯莫森自然保护区位于瑞典海勒福什市附近，占地近250英亩。这片宁静的绿洲拥有环形木栈道，穿越沼泽地带，沿途分布着多个小湖泊、沙丘、湿地与松林。其中部分路段无障碍设计，适合轮椅和婴儿车通行。",
+    "image_url": "https://cn.bing.com/th?id=OHR.SwedenReserve_ZH-CN9963744170_1920x1080.webp",
+    "main_text": "最佳造访时间为每年4月至5月。若运气不错，你甚至可能在步道旁发现鸟巢。请注意：在4月1日至7月15日的鸟类繁殖期内，请务必留在步道上，以避免惊扰野生鸟类。"
 }
 ```
 
-UpdataTime：2025-06-26 08:37:20
+UpdataTime：2025-06-26 16:35:39
