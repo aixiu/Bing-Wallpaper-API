@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-06-26",
+    "date": "2025-06-27",
     "headline": "古冰川遗迹之地",
     "title": "Knuthöjdsmossen自然保护区, 海勒福什市, 瑞典",
     "description": "克努特霍德斯莫森自然保护区位于瑞典海勒福什市附近，占地近250英亩。这片宁静的绿洲拥有环形木栈道，穿越沼泽地带，沿途分布着多个小湖泊、沙丘、湿地与松林。其中部分路段无障碍设计，适合轮椅和婴儿车通行。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-06-26 16:35:39
+UpdataTime：2025-06-27 02:18:33
