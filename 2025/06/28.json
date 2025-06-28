@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-![曼海姆水塔, 德国](https://cn.bing.com/th?id=OHR.WatertowerMannheim_ZH-CN0692039329_1920x1080.webp)
-Today: [曼海姆水塔, 德国](https://cn.bing.com/th?id=OHR.WatertowerMannheim_ZH-CN0692039329_1920x1080.webp) - 从实用建筑到地标象征
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2025-06-28",
     "headline": "从实用建筑到地标象征",
@@ -42,6 +6,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url": "https://cn.bing.com/th?id=OHR.WatertowerMannheim_ZH-CN0692039329_1920x1080.webp",
     "main_text": "凭借其巴洛克风格的设计与核心地理位置，曼海姆水塔已成为这座城市最具代表性的标志性建筑。这座塔坐落于弗里德里希广场以新艺术风格闻名的宏伟景观花园中央，四周环绕着喷泉与精美的花卉布景，呈现出一幅赏心悦目的城市画卷。"
 }
-```
-
-UpdataTime：2025-06-28 02:08:17
