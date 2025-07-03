@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-07-02",
+    "date": "2025-07-03",
     "headline": "彩虹河的清澈拥抱",
     "title": "彩虹泉州立公园的彩虹河，佛罗里达州，美国",
     "description": "坐落于佛罗里达州北部墨西哥湾沿岸的，是彩虹泉州立公园。数百年来，这片区域一直作为自然资源，为人类与动物所依赖。穿越公园蜿蜒流淌的彩虹河，正是其中的关键生态要素。河水源自佛罗里达州最大型的泉水之一彩虹泉，其水体汇集自770平方英里的广阔集水区，最终流入威特拉库奇河。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-07-02 16:35:32
+UpdataTime：2025-07-03 02:19:07
