@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-07-04",
+    "date": "2025-07-05",
     "headline": "优雅而低调的巨人",
     "title": "Cize-Bolozon viaduct crossing the Ain gorge, France",
     "description": "想象一座桥梁，它连接的不仅是两岸，更是时间与记忆的延续。坐落于法国东部安省的锡兹博洛宗高架桥，它建于1950年，这座桥取代了战争中被摧毁的前代桥梁，成为重建与希望的象征。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-07-04 16:34:12
+UpdataTime：2025-07-05 02:08:05
