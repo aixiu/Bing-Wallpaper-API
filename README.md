@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![潜水捕鱼的北方鲣鸟，设得兰群岛，苏格兰](https://cn.bing.com/th?id=OHR.ShetlandGannets_ZH-CN7279521125_1920x1080.webp)
-Today: [潜水捕鱼的北方鲣鸟，设得兰群岛，苏格兰](https://cn.bing.com/th?id=OHR.ShetlandGannets_ZH-CN7279521125_1920x1080.webp) - 闪电俯冲、水花四溅，然后开吃
+![塞切达，多洛米蒂山脉的山峰，南蒂罗尔，意大利](https://cn.bing.com/th?id=OHR.SecedaPeak_ZH-CN7633793128_1920x1080.webp)
+Today: [塞切达，多洛米蒂山脉的山峰，南蒂罗尔，意大利](https://cn.bing.com/th?id=OHR.SecedaPeak_ZH-CN7633793128_1920x1080.webp) - 锋芒毕露的美
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-07-07",
-    "headline": "闪电俯冲、水花四溅，然后开吃",
-    "title": "潜水捕鱼的北方鲣鸟，设得兰群岛，苏格兰",
-    "description": "优雅、有力，且令人难以忽视的北方鲣鸟是北大西洋海域体型最大的海鸟之一。它们大部分时间都在辽阔的海面上滑翔，只有在繁殖季节才会返回陆地。这些海鸟以其庞大而喧嚣的繁殖群体著称，被称为“鲣鸟群”，通常选择在陡峭悬崖、偏远岩岛，或突兀于海中的海蚀柱上筑巢。",
-    "image_url": "https://cn.bing.com/th?id=OHR.ShetlandGannets_ZH-CN7279521125_1920x1080.webp",
-    "main_text": "这些羽毛具备防水特性，使得该类鸟能够在水中停留较长时间。羽毛表面覆盖着一种由皮脂腺分泌的防水物质，鸟类通常会用喙或头部将其涂抹至全身。"
+    "headline": "锋芒毕露的美",
+    "title": "塞切达，多洛米蒂山脉的山峰，南蒂罗尔，意大利",
+    "description": "意大利多洛米蒂山脉不仅雄伟耸立，更如施展魔法般，使每一条山路都变成一个故事。人们亲切地称它们为“苍白山脉”，这一名字源自其主要构成矿物白云石。这片山脉坐落于意大利北部阿尔卑斯山脉，占地超过34.5万英亩，拥有18座海拔超过9,500英尺的高峰。其地貌特征包括陡峭的悬崖、雄伟的岩壁和蜿蜒狭窄的山谷。",
+    "image_url": "https://cn.bing.com/th?id=OHR.SecedaPeak_ZH-CN7633793128_1920x1080.webp",
+    "main_text": "塞切达位于瓦尔加迪纳山谷向阳的一侧，冬季可欣赏令人惊叹的美景，是一个应有尽有的滑雪胜地。夏季，这里为游客提供了无限的户外活动机会。"
 }
 ```
 
-UpdataTime：2025-07-07 08:39:03
+UpdataTime：2025-07-07 16:36:22
