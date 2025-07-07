@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-07-06",
+    "date": "2025-07-07",
     "headline": "闪电俯冲、水花四溅，然后开吃",
     "title": "潜水捕鱼的北方鲣鸟，设得兰群岛，苏格兰",
     "description": "优雅、有力，且令人难以忽视的北方鲣鸟是北大西洋海域体型最大的海鸟之一。它们大部分时间都在辽阔的海面上滑翔，只有在繁殖季节才会返回陆地。这些海鸟以其庞大而喧嚣的繁殖群体著称，被称为“鲣鸟群”，通常选择在陡峭悬崖、偏远岩岛，或突兀于海中的海蚀柱上筑巢。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-07-06 16:33:15
+UpdataTime：2025-07-07 02:24:25
