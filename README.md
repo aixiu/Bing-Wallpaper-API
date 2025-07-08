@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-07-07",
+    "date": "2025-07-08",
     "headline": "锋芒毕露的美",
     "title": "塞切达，多洛米蒂山脉的山峰，南蒂罗尔，意大利",
     "description": "意大利多洛米蒂山脉不仅雄伟耸立，更如施展魔法般，使每一条山路都变成一个故事。人们亲切地称它们为“苍白山脉”，这一名字源自其主要构成矿物白云石。这片山脉坐落于意大利北部阿尔卑斯山脉，占地超过34.5万英亩，拥有18座海拔超过9,500英尺的高峰。其地貌特征包括陡峭的悬崖、雄伟的岩壁和蜿蜒狭窄的山谷。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-07-07 16:36:22
+UpdataTime：2025-07-08 02:19:21
