@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-07-08",
+    "date": "2025-07-09",
     "headline": "具有纪念意义的火车站",
     "title": "宪法火车站，布宜诺斯艾利斯，阿根廷",
     "description": "今天是阿根廷的独立日。这片拥有辽阔潘帕斯草原、丰富文化遗产与鲜明民族认同的南美国家，于1816年在图库曼省圣米格尔市正式宣告独立，摆脱西班牙的殖民统治。通往独立的道路充满挑战，伴随着长期内战与政治动荡；而阿根廷的独立运动也深受美国和法国独立运动的影响。最终，阿根廷人民以坚定不移的意志赢得了国家的自由。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-07-08 16:36:45
+UpdataTime：2025-07-09 02:20:49
