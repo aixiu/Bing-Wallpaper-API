@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-07-09",
+    "date": "2025-07-10",
     "headline": "奔向自由之浪",
     "title": "巴哈马的绿松石色水域",
     "description": "今天，巴哈马以缤纷的色彩、音乐与自豪感迎来国家独立日的庆祝。1492年，克里斯托弗·哥伦布首次抵达这些岛屿，自此被欧洲人记录在案。最初，这些岛屿处于西班牙统治之下，之后曾短暂由美国控制，随后成为英国殖民地。经过数十年的法律谈判与日益高涨的自治诉求，巴哈马最终于1973年7月10日实现完全独立。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-07-09 16:36:26
+UpdataTime：2025-07-10 02:20:55
