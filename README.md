@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-07-11",
+    "date": "2025-07-12",
     "headline": "跟随妈妈的脚步",
     "title": "汤氏瞪羚母亲和小鹿，马赛马拉，肯尼亚",
     "description": "在肯尼亚西南部的马赛马拉稀树草原上，金色阳光洒落大地，野生动物穿梭其间，形成一幅动人画面。这片草原上野生动物众多，有在灌木丛中漫步的大象，地平线上搜寻猎物的猎豹等。然而，真正吸引目光的，往往是那些体型较小却灵动可爱的动物，比如今日图片中的汤氏瞪羚。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-07-11 16:36:08
+UpdataTime：2025-07-12 02:24:09
