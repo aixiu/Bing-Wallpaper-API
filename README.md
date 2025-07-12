@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![汤氏瞪羚母亲和小鹿，马赛马拉，肯尼亚](https://cn.bing.com/th?id=OHR.ThomsonGazelle_ZH-CN0413171014_1920x1080.webp)
-Today: [汤氏瞪羚母亲和小鹿，马赛马拉，肯尼亚](https://cn.bing.com/th?id=OHR.ThomsonGazelle_ZH-CN0413171014_1920x1080.webp) - 跟随妈妈的脚步
+![卡尔夫沙马尔斯维克湾玄武岩柱，斯卡吉半岛，冰岛](https://cn.bing.com/th?id=OHR.BasaltColumns_ZH-CN0743036217_1920x1080.webp)
+Today: [卡尔夫沙马尔斯维克湾玄武岩柱，斯卡吉半岛，冰岛](https://cn.bing.com/th?id=OHR.BasaltColumns_ZH-CN0743036217_1920x1080.webp) - 层层叠叠的岩石
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-07-12",
-    "headline": "跟随妈妈的脚步",
-    "title": "汤氏瞪羚母亲和小鹿，马赛马拉，肯尼亚",
-    "description": "在肯尼亚西南部的马赛马拉稀树草原上，金色阳光洒落大地，野生动物穿梭其间，形成一幅动人画面。这片草原上野生动物众多，有在灌木丛中漫步的大象，地平线上搜寻猎物的猎豹等。然而，真正吸引目光的，往往是那些体型较小却灵动可爱的动物，比如今日图片中的汤氏瞪羚。",
-    "image_url": "https://cn.bing.com/th?id=OHR.ThomsonGazelle_ZH-CN0413171014_1920x1080.webp",
-    "main_text": "2016年迪士尼动画电影《疯狂动物城》中，一位拟人化的流行歌手“汤氏瞪羚”由歌手夏奇拉配音，令人印象深刻。"
+    "headline": "层层叠叠的岩石",
+    "title": "卡尔夫沙马尔斯维克湾玄武岩柱，斯卡吉半岛，冰岛",
+    "description": "你觉得岩石只是……岩石吗？这些天然的矿物组合不仅仅只是静静地待在原地，它们是地球地壳的基本组成单位，从石器时代的工具到为现代文明提供动力的矿物，岩石在人类发展史中发挥了重要作用。国际岩石日的设立，正是为了庆祝岩石在自然界及人类社会中的深远影响，激发公众对地质科学的兴趣，并鼓励人们欣赏岩石所展现的自然之美与多样性。",
+    "image_url": "https://cn.bing.com/th?id=OHR.BasaltColumns_ZH-CN0743036217_1920x1080.webp",
+    "main_text": "玄武岩是火星表面常见的岩石类型之一，这一事实已通过来自火星探测任务的数据与陨石分析得到了证实。"
 }
 ```
 
-UpdataTime：2025-07-12 08:34:03
+UpdataTime：2025-07-12 16:33:50
