@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-07-12",
+    "date": "2025-07-13",
     "headline": "层层叠叠的岩石",
     "title": "卡尔夫沙马尔斯维克湾玄武岩柱，斯卡吉半岛，冰岛",
     "description": "你觉得岩石只是……岩石吗？这些天然的矿物组合不仅仅只是静静地待在原地，它们是地球地壳的基本组成单位，从石器时代的工具到为现代文明提供动力的矿物，岩石在人类发展史中发挥了重要作用。国际岩石日的设立，正是为了庆祝岩石在自然界及人类社会中的深远影响，激发公众对地质科学的兴趣，并鼓励人们欣赏岩石所展现的自然之美与多样性。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-07-12 16:33:50
+UpdataTime：2025-07-13 02:32:52
