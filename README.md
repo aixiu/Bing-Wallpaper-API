@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![英仙座流星雨和一棵古老刺果松，大盆地国家公园，内华达州，美国](https://cn.bing.com/th?id=OHR.PerseidsPine_ZH-CN1081004815_1920x1080.webp)
-Today: [英仙座流星雨和一棵古老刺果松，大盆地国家公园，内华达州，美国](https://cn.bing.com/th?id=OHR.PerseidsPine_ZH-CN1081004815_1920x1080.webp) - 永恒的光芒
+![菲莱神庙 (aka Temple of Isis), 阿斯旺, 埃及](https://cn.bing.com/th?id=OHR.TemplePhilae_ZH-CN1232015188_1920x1080.webp)
+Today: [菲莱神庙 (aka Temple of Isis), 阿斯旺, 埃及](https://cn.bing.com/th?id=OHR.TemplePhilae_ZH-CN1232015188_1920x1080.webp) - 伊西斯女神的光辉照耀下
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-07-15",
-    "headline": "永恒的光芒",
-    "title": "英仙座流星雨和一棵古老刺果松，大盆地国家公园，内华达州，美国",
-    "description": "准备迎接一年中最耀眼的天文奇观之一英仙座流星雨吧！该流星雨每年活跃期为7月中旬至8月下旬，而今年的峰值将于8月12日夜间至13日凌晨上演璀璨盛景。当地球穿越彗星斯威夫特-塔特尔留下的冰岩碎片轨道时，形成了这一流星雨。这颗彗星上一次接近地球是在1992年。当这些尘埃颗粒以高速进入地球大气层时，会因摩擦而燃烧，划出一道道明亮的光痕。",
-    "image_url": "https://cn.bing.com/th?id=OHR.PerseidsPine_ZH-CN1081004815_1920x1080.webp",
-    "main_text": "英仙座流星雨之所以得名，是因为这些流星看起来像是从英仙座方向划破夜空。“Perseids”一词源自希腊语，意为“英仙的子孙”。"
+    "headline": "伊西斯女神的光辉照耀下",
+    "title": "菲莱神庙 (aka Temple of Isis), 阿斯旺, 埃及",
+    "description": "菲莱神庙，常被称为伊西斯神庙，是埃及最迷人的古迹之一。它最初建在菲莱岛上，后来为避免被洪水淹没而迁至附近的阿吉勒基亚岛。这项迁移工程是20世纪60年代由联合国教科文组织发起的国际文物拯救项目，历时多年，搬运了逾4万块石块，才得以完整重建并保存这座古老神庙。如今，它坐落在尼罗河环绕的静谧之地，是乘船游览和探寻往昔的绝佳去处。",
+    "image_url": "https://cn.bing.com/th?id=OHR.TemplePhilae_ZH-CN1232015188_1920x1080.webp",
+    "main_text": "菲莱岛虽小，仅长约450米、宽不足150米，却自古以来便吸引着无数前来埃及的游客。因其秀美的景致，这座小岛素有“埃及明珠”之称。"
 }
 ```
 
-UpdataTime：2025-07-15 08:39:02
+UpdataTime：2025-07-15 16:37:46
