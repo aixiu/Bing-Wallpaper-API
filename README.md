@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-07-16",
+    "date": "2025-07-17",
     "headline": "追随香气的地平线",
     "title": "瓦朗索勒高原的薰衣草田，法国",
     "description": "若你正在寻找一场充满芬芳的夏日旅程，法国普罗旺斯的瓦朗索勒高原无疑是理想之选。从六月下旬至七月中旬，这片高原便会被紫色花海覆盖，宛如香气四溢的天然画布。高原坐落于海拔约1,900英尺的地带，面积达约300平方英里，是法国规模最大的薰衣草种植区之一。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-07-16 16:38:11
+UpdataTime：2025-07-17 02:25:01
