@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-![塞里雅兰瀑布日落美景，冰岛](https://cn.bing.com/th?id=OHR.IcelandSolstice_ZH-CN6073168622_1920x1080.webp)
-Today: [塞里雅兰瀑布日落美景，冰岛](https://cn.bing.com/th?id=OHR.IcelandSolstice_ZH-CN6073168622_1920x1080.webp) - 一切准备就绪，等待日落
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2025-07-18",
     "headline": "一切准备就绪，等待日落",
@@ -42,6 +6,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url": "https://cn.bing.com/th?id=OHR.IcelandSolstice_ZH-CN6073168622_1920x1080.webp",
     "main_text": "仲夏节是这里一个重要的节日，是一个庆祝一年中白天最长的节日。它在斯堪的纳维亚国家尤其受欢迎，那里的传统包括围绕五朔节花柱跳舞、盛宴和点燃篝火。"
 }
-```
-
-UpdataTime：2025-07-18 02:26:27
