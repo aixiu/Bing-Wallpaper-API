@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![望远镜下的月球表面照片](https://cn.bing.com/th?id=OHR.BigMoon_ZH-CN2508603883_1920x1080.webp)
-Today: [望远镜下的月球表面照片](https://cn.bing.com/th?id=OHR.BigMoon_ZH-CN2508603883_1920x1080.webp) - 在月光下起舞
+![浅海中的鹿角珊瑚](https://cn.bing.com/th?id=OHR.AcroporaReef_ZH-CN2622120276_1920x1080.webp)
+Today: [浅海中的鹿角珊瑚](https://cn.bing.com/th?id=OHR.AcroporaReef_ZH-CN2622120276_1920x1080.webp) - 海洋中的热带雨林
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-07-20",
-    "headline": "在月光下起舞",
-    "title": "望远镜下的月球表面照片",
-    "description": "每年7月20日是国家月球日，纪念1969年尼尔·阿姆斯特朗首次踏上月球这一具有历史意义的时刻。他的那句宣言：“这是我个人的一小步，却是人类的一大步”，也随之载入史册。紧随其后的是巴兹·奥尔德林，成为第二位登上月球的人。",
-    "image_url": "https://cn.bing.com/th?id=OHR.BigMoon_ZH-CN2508603883_1920x1080.webp",
-    "main_text": "月球也会发生地震，这类震动被称为“月震”。部分月震可能在月球表面形成裂缝，导致气体逸出。对当年的阿波罗宇航员而言，那无疑是一片既陌生又神秘的着陆景观。"
+    "headline": "海洋中的热带雨林",
+    "title": "浅海中的鹿角珊瑚",
+    "description": "每年七月的第三周被定为珊瑚礁意识周，旨在提醒人们：在广袤海洋的表层之下，存在一个生态复杂度堪比热带雨林的系统。尽管珊瑚礁仅覆盖不到1%的海底面积，却孕育了约25%的海洋生物。以今日图片中的鹿角珊瑚为例，这类珊瑚构成了关键的生态基底，为众多海洋物种提供庇护和栖息空间。这些生态系统不仅维系着海洋生物多样性，也在缓冲海岸侵蚀方面发挥重要作用，并通过旅游业与渔业促进沿海地区经济发展。",
+    "image_url": "https://cn.bing.com/th?id=OHR.AcroporaReef_ZH-CN2622120276_1920x1080.webp",
+    "main_text": "珊瑚斑斓的色彩来源于其体内共生的微小藻类。这些藻类不仅赋予珊瑚颜色，还通过光合作用为其提供所需的营养物质。"
 }
 ```
 
-UpdataTime：2025-07-20 08:35:06
+UpdataTime：2025-07-20 16:34:22
