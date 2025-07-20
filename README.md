@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-07-19",
+    "date": "2025-07-20",
     "headline": "在月光下起舞",
     "title": "望远镜下的月球表面照片",
     "description": "每年7月20日是国家月球日，纪念1969年尼尔·阿姆斯特朗首次踏上月球这一具有历史意义的时刻。他的那句宣言：“这是我个人的一小步，却是人类的一大步”，也随之载入史册。紧随其后的是巴兹·奥尔德林，成为第二位登上月球的人。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-07-19 16:34:31
+UpdataTime：2025-07-20 02:35:36
