@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-07-21",
+    "date": "2025-07-22",
     "headline": "天山上的蓝宝石",
     "title": "夏季的赛里木湖，博尔塔拉蒙古自治州博乐县, 中国新疆维吾尔自治区",
     "description": "大暑是中国传统农历的第十二个节气，也是夏季的最后一个节气，象征着“暑气逼人”——一年中阳光最强烈、气温最热、湿度最高的时期。炎炎夏日来临，何不逃离尘嚣，前往新疆天山附近赛里木湖畔的绝美风景区呢？",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-07-21 16:38:01
+UpdataTime：2025-07-22 02:25:56
