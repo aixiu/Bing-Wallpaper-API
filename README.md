@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-07-25",
+    "date": "2025-07-26",
     "headline": "潮汐的守护者",
     "title": "黄昏时的红树林，瓦拉基里海滩，松巴岛，印度尼西亚",
     "description": "当暮色降临印度尼西亚松巴岛的瓦拉基里海滩时，红树林的剪影宛如潮汐中的哨兵般矗立，既优雅又坚韧，充满生命力。今天是国际红树林生态系统保护日，让我们向这些在维系地球生命中发挥至关重要作用的非凡树木致以敬意。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-07-25 16:37:26
+UpdataTime：2025-07-26 02:21:56
