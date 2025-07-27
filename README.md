@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![黑鳍梭鱼群，鲨鱼礁，拉斯穆罕默德国家公园，西奈半岛，埃及](https://cn.bing.com/th?id=OHR.BlackfinBarracuda_ZH-CN3850642551_1920x1080.webp)
-Today: [黑鳍梭鱼群，鲨鱼礁，拉斯穆罕默德国家公园，西奈半岛，埃及](https://cn.bing.com/th?id=OHR.BlackfinBarracuda_ZH-CN3850642551_1920x1080.webp) - 同步闪耀
+![蒙古草原上的蒙古包](https://cn.bing.com/th?id=OHR.MongoliaYurts_ZH-CN4015475887_1920x1080.webp)
+Today: [蒙古草原上的蒙古包](https://cn.bing.com/th?id=OHR.MongoliaYurts_ZH-CN4015475887_1920x1080.webp) - 领先一步
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-07-27",
-    "headline": "同步闪耀",
-    "title": "黑鳍梭鱼群，鲨鱼礁，拉斯穆罕默德国家公园，西奈半岛，埃及",
-    "description": "在埃及拉斯穆罕默德国家公园的鲨鱼礁，当你遇见一群黑鳍梭鱼时，就仿佛被一圈银色的漩涡所环绕。这些体型流畅、带有明显V形条纹的鱼类，几乎以完美的同步移动。它们缓慢而有序地盘旋，并非随意而为，而是进化出的行为策略，既可保障群体安全，也能在捕猎时占据优势。黑鳍梭鱼广泛分布于热带海域，从红海一直延伸至中太平洋。白天，它们在珊瑚礁附近紧密集结成群，黄昏时才会分散，追逐猎物。",
-    "image_url": "https://cn.bing.com/th?id=OHR.BlackfinBarracuda_ZH-CN3850642551_1920x1080.webp",
-    "main_text": "拉斯穆罕默德国家公园栖息着超过1,000种鱼类、40种海星、25种海胆、100多种软体动物以及150种甲壳类动物。"
+    "headline": "领先一步",
+    "title": "蒙古草原上的蒙古包",
+    "description": "每年7月28日的世界自然保护日提醒我们，保护自然不是可有可无的选择，而是一种必要的责任。今日图片所介绍的蒙古广袤草原正是这一理念的有力证明。这些生态系统是地球上最大且保持相对完整的温带草原之一，绵延数百万英亩的开阔土地。它们不仅养育了大约20万游牧牧民家庭，也为蒙古黄羊、雪豹等珍稀物种提供了重要的栖息地。",
+    "image_url": "https://cn.bing.com/th?id=OHR.MongoliaYurts_ZH-CN4015475887_1920x1080.webp",
+    "main_text": "冬季，草原上的草变得干燥且极易燃烧，使得野火更加频繁。草在火灾后通常能迅速恢复，但树木却无法如此，这在一定程度上解释了该地区树木稀少的原因。"
 }
 ```
 
-UpdataTime：2025-07-27 08:35:32
+UpdataTime：2025-07-27 16:35:08
