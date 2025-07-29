@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-07-28",
+    "date": "2025-07-29",
     "headline": "丛林女王",
     "title": "雌性孟加拉虎，坎哈国家公园，印度",
     "description": "你觉得自己能听到寂静吗？试着坐在印度心脏地带的坎哈国家公园的吉普车里，静静等待一只孟加拉虎现身。每年的国际老虎日都会引发人们对这种强大却濒危的大型猫科动物的关注。孟加拉虎不仅因其醒目的橙色皮毛和黑色条纹而闻名，更是顶级掠食者，对其所栖息生态系统的健康与平衡至关重要。通过控制鹿和野猪等猎物的数量，老虎帮助维护植被格局，并支撑其环境的整体生物多样性。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-07-28 16:39:15
+UpdataTime：2025-07-29 02:38:12
