@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![雌性孟加拉虎，坎哈国家公园，印度](https://cn.bing.com/th?id=OHR.TigerDay_ZH-CN4359136631_1920x1080.webp)
-Today: [雌性孟加拉虎，坎哈国家公园，印度](https://cn.bing.com/th?id=OHR.TigerDay_ZH-CN4359136631_1920x1080.webp) - 丛林女王
+![里瓦德塞利亚，阿斯图里亚斯，西班牙](https://cn.bing.com/th?id=OHR.RibadesellaSummer_ZH-CN4852547359_1920x1080.webp)
+Today: [里瓦德塞利亚，阿斯图里亚斯，西班牙](https://cn.bing.com/th?id=OHR.RibadesellaSummer_ZH-CN4852547359_1920x1080.webp) - 理想的世界！
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-07-29",
-    "headline": "丛林女王",
-    "title": "雌性孟加拉虎，坎哈国家公园，印度",
-    "description": "你觉得自己能听到寂静吗？试着坐在印度心脏地带的坎哈国家公园的吉普车里，静静等待一只孟加拉虎现身。每年的国际老虎日都会引发人们对这种强大却濒危的大型猫科动物的关注。孟加拉虎不仅因其醒目的橙色皮毛和黑色条纹而闻名，更是顶级掠食者，对其所栖息生态系统的健康与平衡至关重要。通过控制鹿和野猪等猎物的数量，老虎帮助维护植被格局，并支撑其环境的整体生物多样性。",
-    "image_url": "https://cn.bing.com/th?id=OHR.TigerDay_ZH-CN4359136631_1920x1080.webp",
-    "main_text": "老虎是印度河流域文明帕苏帕提印章上的动物之一。"
+    "headline": "理想的世界！",
+    "title": "里瓦德塞利亚，阿斯图里亚斯，西班牙",
+    "description": "在这个夏天，阿斯图里亚斯以其独特的景观迎接你的到来。里瓦德塞利亚崎岖壮丽的海岸线分布着圣玛丽娜和瓜达米亚等海滩，海与山在此交汇，勾勒出独一无二的景观。附近的世界遗产提托·布斯蒂略洞穴，洞壁画距今已有14000多年，为你开启一段跨越时空的探索之旅。",
+    "image_url": "https://cn.bing.com/th?id=OHR.RibadesellaSummer_ZH-CN4852547359_1920x1080.webp",
+    "main_text": "里瓦德塞利亚位于西班牙阿斯图里亚斯，这里有著名的提托·布斯蒂略洞穴，该洞因史前动物与人物岩画而闻名，被列入联合国教科文组织世界遗产“西班牙北部旧石器时代洞穴艺术”。"
 }
 ```
 
-UpdataTime：2025-07-29 08:39:55
+UpdataTime：2025-07-29 16:38:05
