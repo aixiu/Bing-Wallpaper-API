@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![里瓦德塞利亚，阿斯图里亚斯，西班牙](https://cn.bing.com/th?id=OHR.RibadesellaSummer_ZH-CN4852547359_1920x1080.webp)
-Today: [里瓦德塞利亚，阿斯图里亚斯，西班牙](https://cn.bing.com/th?id=OHR.RibadesellaSummer_ZH-CN4852547359_1920x1080.webp) - 理想的世界！
+![纳帕利海岸的卡拉劳海滩, 可爱岛, 夏威夷, 美国](https://cn.bing.com/th?id=OHR.NaPaliKauai_ZH-CN5070149838_1920x1080.webp)
+Today: [纳帕利海岸的卡拉劳海滩, 可爱岛, 夏威夷, 美国](https://cn.bing.com/th?id=OHR.NaPaliKauai_ZH-CN5070149838_1920x1080.webp) - 远离尘嚣
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-07-30",
-    "headline": "理想的世界！",
-    "title": "里瓦德塞利亚，阿斯图里亚斯，西班牙",
-    "description": "在这个夏天，阿斯图里亚斯以其独特的景观迎接你的到来。里瓦德塞利亚崎岖壮丽的海岸线分布着圣玛丽娜和瓜达米亚等海滩，海与山在此交汇，勾勒出独一无二的景观。附近的世界遗产提托·布斯蒂略洞穴，洞壁画距今已有14000多年，为你开启一段跨越时空的探索之旅。",
-    "image_url": "https://cn.bing.com/th?id=OHR.RibadesellaSummer_ZH-CN4852547359_1920x1080.webp",
-    "main_text": "里瓦德塞利亚位于西班牙阿斯图里亚斯，这里有著名的提托·布斯蒂略洞穴，该洞因史前动物与人物岩画而闻名，被列入联合国教科文组织世界遗产“西班牙北部旧石器时代洞穴艺术”。"
+    "headline": "远离尘嚣",
+    "title": "纳帕利海岸的卡拉劳海滩, 可爱岛, 夏威夷, 美国",
+    "description": "这里没有路标，也没有纪念品摊位，只有一条长达11英里的泥泞小径、险峻的峭壁以及开阔的视野，通向夏威夷最为偏远的海滩之一。卡拉劳海滩位于考艾岛卡拉劳步道的尽头，是所有辛苦徒步者最终踏上沙滩的奖赏。唯一的陆路就是这条小径，它穿越山谷，沿着海岸峭壁蜿蜒前行。夏季，一些游客会选择划皮划艇抵达，但无论采用哪种方式，所有在此停留的人都需要提前获得许可。",
+    "image_url": "https://cn.bing.com/th?id=OHR.NaPaliKauai_ZH-CN5070149838_1920x1080.webp",
+    "main_text": "卡拉劳海滩及其周边栖息着多样的野生动物，包括夏威夷本地鸟类、野山羊以及色彩斑斓的热带植物。"
 }
 ```
 
-UpdataTime：2025-07-30 08:40:38
+UpdataTime：2025-07-30 16:37:02
