@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![皇家英里大道, 爱丁堡, 苏格兰](https://cn.bing.com/th?id=OHR.EdinburghFringe_ZH-CN5243292664_1920x1080.webp)
-Today: [皇家英里大道, 爱丁堡, 苏格兰](https://cn.bing.com/th?id=OHR.EdinburghFringe_ZH-CN5243292664_1920x1080.webp) - 惊喜随时上演
+![圆顶礁国家公园弗鲁塔附近的岩画, 犹他州, 美国](https://cn.bing.com/th?id=OHR.FruitaPetroglyphs_ZH-CN5423905955_1920x1080.webp)
+Today: [圆顶礁国家公园弗鲁塔附近的岩画, 犹他州, 美国](https://cn.bing.com/th?id=OHR.FruitaPetroglyphs_ZH-CN5423905955_1920x1080.webp) - 古老的岩画
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-08-01",
-    "headline": "惊喜随时上演",
-    "title": "皇家英里大道, 爱丁堡, 苏格兰",
-    "description": "每年八月，爱丁堡就不再仅仅是一座城市，而是彻底活跃起来，几乎可以说是字面意义上的活跃。从酒吧地下室到公园长椅，舞台会在最意想不到的地方冒出来，表演也会在宁静的街道上突然出现。欢迎来到爱丁堡艺穗节。这个节日的故事始于1947年，当时有八个剧团在未受邀请的情况下出现在爱丁堡国际艺术节上，但他们依然坚持演出。这种叛逆的精神从此延续下来，艺穗节由此诞生。",
-    "image_url": "https://cn.bing.com/th?id=OHR.EdinburghFringe_ZH-CN5243292664_1920x1080.webp",
-    "main_text": "爱丁堡艺穗节完全向所有人开放，任何有故事想讲，并能找到愿意接纳他们的场地的人，都可以登上这个舞台。"
+    "headline": "古老的岩画",
+    "title": "圆顶礁国家公园弗鲁塔附近的岩画, 犹他州, 美国",
+    "description": "圆顶礁国家公园拥有一种亘古不变的魅力。在这里，红色的岩石峭壁、蜿蜒的峡谷与古老的故事，在犹他州沙漠的天空下彼此交织。1971年，这里被正式指定为国家公园。它不仅因鲜明的地质景观而引人驻足，更因那刻印在大地上的古老叙事与文化遗产而让人驻足沉思。",
+    "image_url": "https://cn.bing.com/th?id=OHR.FruitaPetroglyphs_ZH-CN5423905955_1920x1080.webp",
+    "main_text": "圆顶礁国家公园被认为是美国所有国家公园中夜空最黑暗的地方之一。"
 }
 ```
 
-UpdataTime：2025-08-01 02:40:30
+UpdataTime：2025-08-01 16:39:06
