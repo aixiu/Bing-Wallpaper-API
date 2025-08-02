@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-08-01",
+    "date": "2025-08-02",
     "headline": "古老的岩画",
     "title": "圆顶礁国家公园弗鲁塔附近的岩画, 犹他州, 美国",
     "description": "圆顶礁国家公园拥有一种亘古不变的魅力。在这里，红色的岩石峭壁、蜿蜒的峡谷与古老的故事，在犹他州沙漠的天空下彼此交织。1971年，这里被正式指定为国家公园。它不仅因鲜明的地质景观而引人驻足，更因那刻印在大地上的古老叙事与文化遗产而让人驻足沉思。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-08-01 16:39:06
+UpdataTime：2025-08-02 02:22:48
