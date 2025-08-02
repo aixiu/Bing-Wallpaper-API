@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![圆顶礁国家公园弗鲁塔附近的岩画, 犹他州, 美国](https://cn.bing.com/th?id=OHR.FruitaPetroglyphs_ZH-CN5423905955_1920x1080.webp)
-Today: [圆顶礁国家公园弗鲁塔附近的岩画, 犹他州, 美国](https://cn.bing.com/th?id=OHR.FruitaPetroglyphs_ZH-CN5423905955_1920x1080.webp) - 古老的岩画
+![夏天田野里盛开的向日葵](https://cn.bing.com/th?id=OHR.HappySunflower_ZH-CN5840993161_1920x1080.webp)
+Today: [夏天田野里盛开的向日葵](https://cn.bing.com/th?id=OHR.HappySunflower_ZH-CN5840993161_1920x1080.webp) - 你好，黄色！
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-08-02",
-    "headline": "古老的岩画",
-    "title": "圆顶礁国家公园弗鲁塔附近的岩画, 犹他州, 美国",
-    "description": "圆顶礁国家公园拥有一种亘古不变的魅力。在这里，红色的岩石峭壁、蜿蜒的峡谷与古老的故事，在犹他州沙漠的天空下彼此交织。1971年，这里被正式指定为国家公园。它不仅因鲜明的地质景观而引人驻足，更因那刻印在大地上的古老叙事与文化遗产而让人驻足沉思。",
-    "image_url": "https://cn.bing.com/th?id=OHR.FruitaPetroglyphs_ZH-CN5423905955_1920x1080.webp",
-    "main_text": "圆顶礁国家公园被认为是美国所有国家公园中夜空最黑暗的地方之一。"
+    "headline": "你好，黄色！",
+    "title": "夏天田野里盛开的向日葵",
+    "description": "向日葵色彩鲜艳、姿态大胆，深受蜜蜂、鸟类以及几乎所有人的喜爱。它们的属名“Helianthus”源自希腊语，意为“太阳之花”。这些一年生植物因其硕大、形似雏菊的花朵和迷人的魅力而广受赞誉。虽然向日葵也有红色、橙色和深红色等不同品种，但最常见的仍是那些带有棕色花心的经典黄色花朵。",
+    "image_url": "https://cn.bing.com/th?id=OHR.HappySunflower_ZH-CN5840993161_1920x1080.webp",
+    "main_text": "向日葵是一种生长在开阔地带的植物，通常扎根于潮湿的土壤中。它常见于大草原及其他草地、荒地、道路两旁、铁路沿线、稀树草原以及森林边缘。"
 }
 ```
 
-UpdataTime：2025-08-02 08:36:03
+UpdataTime：2025-08-02 16:35:17
