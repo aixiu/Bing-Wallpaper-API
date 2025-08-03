@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-08-02",
+    "date": "2025-08-03",
     "headline": "你好，黄色！",
     "title": "夏天田野里盛开的向日葵",
     "description": "向日葵色彩鲜艳、姿态大胆，深受蜜蜂、鸟类以及几乎所有人的喜爱。它们的属名“Helianthus”源自希腊语，意为“太阳之花”。这些一年生植物因其硕大、形似雏菊的花朵和迷人的魅力而广受赞誉。虽然向日葵也有红色、橙色和深红色等不同品种，但最常见的仍是那些带有棕色花心的经典黄色花朵。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-08-02 16:35:17
+UpdataTime：2025-08-03 02:39:23
