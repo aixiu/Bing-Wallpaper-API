@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-08-07",
+    "date": "2025-08-08",
     "headline": "奔流不息，为你为我",
     "title": "伊瓜苏瀑布的三火枪瀑布, 阿根廷",
     "description": "没有任何声音能盖过伊瓜苏瀑布的轰鸣。但令人震撼的不仅是那轰鸣的声浪。这座横跨阿根廷与巴西边境的自然奇观，以其磅礴气势令人无法抗拒。广阔的瀑布群绵延近两英里，汇聚了270多道独立瀑布，每一处都展现出独特的水流奔腾和水雾蒸腾之景。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-08-07 16:39:26
+UpdataTime：2025-08-08 02:30:00
