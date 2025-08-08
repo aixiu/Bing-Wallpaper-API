@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![伊瓜苏瀑布的三火枪瀑布, 阿根廷](https://cn.bing.com/th?id=OHR.IguazuArgentina_ZH-CN4457051931_1920x1080.webp)
-Today: [伊瓜苏瀑布的三火枪瀑布, 阿根廷](https://cn.bing.com/th?id=OHR.IguazuArgentina_ZH-CN4457051931_1920x1080.webp) - 奔流不息，为你为我
+![陶波湖上的 Ngātoroirangi 矿湾毛利石刻, 新西兰](https://cn.bing.com/th?id=OHR.MaoriRock_ZH-CN5614685493_1920x1080.webp)
+Today: [陶波湖上的 Ngātoroirangi 矿湾毛利石刻, 新西兰](https://cn.bing.com/th?id=OHR.MaoriRock_ZH-CN5614685493_1920x1080.webp) - 致敬原住民之声
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-08-08",
-    "headline": "奔流不息，为你为我",
-    "title": "伊瓜苏瀑布的三火枪瀑布, 阿根廷",
-    "description": "没有任何声音能盖过伊瓜苏瀑布的轰鸣。但令人震撼的不仅是那轰鸣的声浪。这座横跨阿根廷与巴西边境的自然奇观，以其磅礴气势令人无法抗拒。广阔的瀑布群绵延近两英里，汇聚了270多道独立瀑布，每一处都展现出独特的水流奔腾和水雾蒸腾之景。",
-    "image_url": "https://cn.bing.com/th?id=OHR.IguazuArgentina_ZH-CN4457051931_1920x1080.webp",
-    "main_text": "“伊瓜苏”这个名字源自瓜拉尼语或图皮语，其中“y”意为“水”，“uasu”意为“巨大”，合起来即“巨大的水”。"
+    "headline": "致敬原住民之声",
+    "title": "陶波湖上的 Ngātoroirangi 矿湾毛利石刻, 新西兰",
+    "description": "每年8月9日，联合国都会庆祝“世界土著人民国际日”，这一日是纪念原住民社区坚韧精神、智慧和丰富文化的时刻。在美国，这一天也成为反思美洲原住民部落历史与贡献的契机，同时鼓励人们与全球各地的土著人民携手共进。",
+    "image_url": "https://cn.bing.com/th?id=OHR.MaoriRock_ZH-CN5614685493_1920x1080.webp",
+    "main_text": "在陶波湖深水之上的悬崖峭壁上，高达14米的石刻由艺术家马塔希·布赖特韦尔创作，已成为新西兰北岛最受欢迎的旅游景点之一。"
 }
 ```
 
-UpdataTime：2025-08-08 08:40:50
+UpdataTime：2025-08-08 16:35:48
