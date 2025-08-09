@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![陶波湖上的 Ngātoroirangi 矿湾毛利石刻, 新西兰](https://cn.bing.com/th?id=OHR.MaoriRock_ZH-CN5614685493_1920x1080.webp)
-Today: [陶波湖上的 Ngātoroirangi 矿湾毛利石刻, 新西兰](https://cn.bing.com/th?id=OHR.MaoriRock_ZH-CN5614685493_1920x1080.webp) - 致敬原住民之声
+![马赛马拉国家保护区的雌狮,肯尼亚](https://cn.bing.com/th?id=OHR.LionessKenya_ZH-CN6791029673_1920x1080.webp)
+Today: [马赛马拉国家保护区的雌狮,肯尼亚](https://cn.bing.com/th?id=OHR.LionessKenya_ZH-CN6791029673_1920x1080.webp) - 为正义怒吼
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-08-09",
-    "headline": "致敬原住民之声",
-    "title": "陶波湖上的 Ngātoroirangi 矿湾毛利石刻, 新西兰",
-    "description": "每年8月9日，联合国都会庆祝“世界土著人民国际日”，这一日是纪念原住民社区坚韧精神、智慧和丰富文化的时刻。在美国，这一天也成为反思美洲原住民部落历史与贡献的契机，同时鼓励人们与全球各地的土著人民携手共进。",
-    "image_url": "https://cn.bing.com/th?id=OHR.MaoriRock_ZH-CN5614685493_1920x1080.webp",
-    "main_text": "在陶波湖深水之上的悬崖峭壁上，高达14米的石刻由艺术家马塔希·布赖特韦尔创作，已成为新西兰北岛最受欢迎的旅游景点之一。"
+    "headline": "为正义怒吼",
+    "title": "马赛马拉国家保护区的雌狮,肯尼亚",
+    "description": "狮子的怒吼在非洲大草原上回荡，千百年来激发着人类的想象力。每年的8月10日是世界狮子日，这一天邀请我们共同庆祝这些具有象征意义的猛兽，同时唤起人们对它们数量日益减少以及保护工作的紧迫性的关注。",
+    "image_url": "https://cn.bing.com/th?id=OHR.LionessKenya_ZH-CN6791029673_1920x1080.webp",
+    "main_text": "和许多动物一样，狮子能够通过解谜来获取食物。与众不同的是，它们还能通过观察其他狮子如何解开谜题，从而学会应对同样的挑战。"
 }
 ```
 
-UpdataTime：2025-08-09 08:35:04
+UpdataTime：2025-08-09 16:34:19
