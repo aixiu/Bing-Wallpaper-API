@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-08-09",
+    "date": "2025-08-10",
     "headline": "为正义怒吼",
     "title": "马赛马拉国家保护区的雌狮,肯尼亚",
     "description": "狮子的怒吼在非洲大草原上回荡，千百年来激发着人类的想象力。每年的8月10日是世界狮子日，这一天邀请我们共同庆祝这些具有象征意义的猛兽，同时唤起人们对它们数量日益减少以及保护工作的紧迫性的关注。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-08-09 16:34:19
+UpdataTime：2025-08-10 02:34:17
