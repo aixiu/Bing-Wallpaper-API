@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-08-10",
+    "date": "2025-08-11",
     "headline": "来自山巅的明信片",
     "title": "圣玛格达莱娜, 多洛米蒂山, 意大利",
     "description": "位于意大利北部阿尔卑斯山的南蒂罗尔州，圣玛格达莱娜村坐落于福内斯山谷中，宛如明信片上描绘的理想村落。村中标志性的尖顶教堂，背后耸立着刀削斧刻般的多洛米蒂山峰，是该地区最常被拍摄的景致之一。多洛米蒂山脉本身被联合国教科文组织列为世界遗产，山体主要由淡色石灰岩构成，日落时泛起柔和的粉红色光芒，当地人称之为“日照粉红”现象。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-08-10 16:34:31
+UpdataTime：2025-08-11 02:30:09
