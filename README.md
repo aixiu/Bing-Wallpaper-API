@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-08-13",
+    "date": "2025-08-14",
     "headline": "从山顶俯瞰",
     "title": "皮兹奈尔山缆车站, 格劳宾登州, 瑞士",
     "description": "瑞士有一座山，它总是在俯瞰着你，但别太在意。皮茨奈尔峰坐落于阿尔布拉阿尔卑斯山脉，海拔高达10,026英尺，俯视着格劳宾登州的恩加丁山谷。从圣莫里茨出发，先乘坐缆索铁路抵达科尔维利亚，再换乘缆车直达山顶。登顶后，等待你的是观景平台、著名的阿尔卑斯野山羊雕像，以及一间独具特色的玻璃立方体餐厅，在这里可享受 360 度全景用餐体验。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-08-13 16:31:41
+UpdataTime：2025-08-14 02:19:50
