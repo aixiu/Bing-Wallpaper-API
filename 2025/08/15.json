@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-![斑点鹞鲼，圣克里斯托瓦尔岛‌，‌加拉帕戈斯群岛，厄瓜多尔](https://cn.bing.com/th?id=OHR.SpottedEagleRay_ZH-CN9894613260_1920x1080.webp)
-Today: [斑点鹞鲼，圣克里斯托瓦尔岛‌，‌加拉帕戈斯群岛，厄瓜多尔](https://cn.bing.com/th?id=OHR.SpottedEagleRay_ZH-CN9894613260_1920x1080.webp) - 水下翱翔
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2025-08-15",
     "headline": "水下翱翔",
@@ -42,6 +6,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url": "https://cn.bing.com/th?id=OHR.SpottedEagleRay_ZH-CN9894613260_1920x1080.webp",
     "main_text": "斑点鹞鲼通常栖息于海湾与珊瑚礁之间，偶尔也会进入河口水域。在中国，它分布于东海、台湾沿岸以及南海地区。"
 }
-```
-
-UpdataTime：2025-08-15 02:20:28
