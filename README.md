@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![色彩斑斓的蜂巢, 意大利](https://cn.bing.com/th?id=OHR.ColorfulBeehives_ZH-CN0180195770_1920x1080.webp)
-Today: [色彩斑斓的蜂巢, 意大利](https://cn.bing.com/th?id=OHR.ColorfulBeehives_ZH-CN0180195770_1920x1080.webp) - 成为改变的一“蜂”
+![灵维格灯塔，维泽桑讷，丹麦](https://cn.bing.com/th?id=OHR.LyngvigLighthouse_ZH-CN0836204503_1920x1080.webp)
+Today: [灵维格灯塔，维泽桑讷，丹麦](https://cn.bing.com/th?id=OHR.LyngvigLighthouse_ZH-CN0836204503_1920x1080.webp) - 眺望大海的高塔
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-08-16",
-    "headline": "成为改变的一“蜂”",
-    "title": "色彩斑斓的蜂巢, 意大利",
-    "description": "如果你以为蜜蜂的存在只是为了蜇人，那就大错特错了。这些小小的有翅工匠，正在从事世界上最甜蜜也最重要的工作，而且它们还有属于自己的节日：每年 8 月第三个星期六的“世界蜜蜂日”。 全球约 35% 的粮食作物产量依赖动物传粉，其中蜜蜂是最重要的传粉者之一。由蜜蜂完成授粉的作物，其经济价值估计高达数千亿美元。尽管拥有这般“超能力”，蜜蜂的生存却正面临危机：栖息地丧失、杀虫剂使用、疾病蔓延以及气候变化，都在让蜂巢生活日益艰难。",
-    "image_url": "https://cn.bing.com/th?id=OHR.ColorfulBeehives_ZH-CN0180195770_1920x1080.webp",
-    "main_text": "蜜蜂通过复杂的“摇摆舞”与蜂巢中的其他蜜蜂沟通，传达食物来源的位置。"
+    "headline": "眺望大海的高塔",
+    "title": "灵维格灯塔，维泽桑讷，丹麦",
+    "description": "为抵御风暴并引导船只安全靠岸，灯塔最初应运而生。如今，它们不仅是导航工具，更成为文化遗产、建筑奇迹和人类与海洋之间深厚联结的象征。每年 8 月的第三个周末，世界各地都会迎来“国际灯塔灯船周”活动，让人们齐聚一堂，共同庆祝这些海岸地标。该活动由苏格兰艾尔业余无线电小组成员约翰·福赛思和迈克·达尔里姆普尔于 1998年发起，旨在提高对灯塔与灯船保护的意识，同时推广业余无线电通信，并促进国际友好交流。",
+    "image_url": "https://cn.bing.com/th?id=OHR.LyngvigLighthouse_ZH-CN0836204503_1920x1080.webp",
+    "main_text": "灯船的使用有着悠久的历史。早在 1311 年，中国就在江苏太仓刘家港西岸的沙嘴上设立了两艘标志船，并竖起旗帜，为粮船导航。这些装置可视为灯船的早期雏形。"
 }
 ```
 
-UpdataTime：2025-08-16 08:33:50
+UpdataTime：2025-08-16 16:32:22
