@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-08-22",
+    "date": "2025-08-23",
     "headline": "彩林叠翠间的瀑布",
     "title": "秋季九寨沟国家公园里的诺日朗瀑布, 四川省, 中国",
     "description": "立秋是秋季的第二个节气。这意味着夏季的炎热将从此消失。不过，天气依然闷热，不像秋天。人们称这种天气为 “秋老虎”，通常从8月22日左右开始，到8月24日左右结束。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-08-22 16:33:48
+UpdataTime：2025-08-23 02:00:03
