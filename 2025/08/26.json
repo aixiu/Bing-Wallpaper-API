@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-![阿尔贝罗贝洛的特鲁洛建筑，普利亚大区，意大利](https://cn.bing.com/th?id=OHR.TrulliHouses_ZH-CN3856452406_1920x1080.webp)
-Today: [阿尔贝罗贝洛的特鲁洛建筑，普利亚大区，意大利](https://cn.bing.com/th?id=OHR.TrulliHouses_ZH-CN3856452406_1920x1080.webp) - 一座非凡的特鲁洛小镇
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2025-08-26",
     "headline": "一座非凡的特鲁洛小镇",
@@ -42,6 +6,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url": "https://cn.bing.com/th?id=OHR.TrulliHouses_ZH-CN3856452406_1920x1080.webp",
     "main_text": "阿尔贝罗贝洛字面意思是“美丽的树”；是意大利南部普利亚大区巴里大都会区的一个小镇和市镇。"
 }
-```
-
-UpdataTime：2025-08-26 02:05:36
