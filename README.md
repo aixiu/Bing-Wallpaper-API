@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-08-29",
+    "date": "2025-08-30",
     "headline": "有鳍且惊艳",
     "title": "阿里夫达鲁环礁海岸的鲸鲨, 马尔代夫",
     "description": "如果你从未见过一条近40英尺长、身上布满斑点的鲸鲨在珊瑚礁间优雅游弋，那你可就错过了精彩的一幕。今天是国际鲸鲨日，提醒我们这些行动缓慢的巨型生物需要我们的关注。自2008年首次设立以来，这一天被研究人员和海洋保护倡导者用来聚焦保护工作，并警示船只撞击、塑料污染和无序旅游等威胁。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-08-29 16:32:49
+UpdataTime：2025-08-30 01:54:52
