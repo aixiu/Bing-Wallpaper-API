@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![杰灵的斯科茨布拉夫国家纪念碑‌, 内布拉斯加州,美国](https://cn.bing.com/th?id=OHR.ScottsBluff_ZH-CN0292735112_1920x1080.webp)
-Today: [杰灵的斯科茨布拉夫国家纪念碑‌, 内布拉斯加州,美国](https://cn.bing.com/th?id=OHR.ScottsBluff_ZH-CN0292735112_1920x1080.webp) - 彩绘的云，静默的悬崖
+![凯撒施图尔，巴登-符腾堡，德国](https://cn.bing.com/th?id=OHR.FieldKaiserstuhl_ZH-CN0467488834_1920x1080.webp)
+Today: [凯撒施图尔，巴登-符腾堡，德国](https://cn.bing.com/th?id=OHR.FieldKaiserstuhl_ZH-CN0467488834_1920x1080.webp) - 风景如画的葡萄园
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-08-31",
-    "headline": "彩绘的云，静默的悬崖",
-    "title": "杰灵的斯科茨布拉夫国家纪念碑‌, 内布拉斯加州,美国",
-    "description": "在GPS问世之前，像斯科茨布卢夫（Scotts Bluff）这样的自然地标就已高耸于大草原之上，为西行的旅人指明方向。在1887年杰林镇（Gering）建镇之前，以及内布拉斯加州于1867年成为美国州份的数十年之前，这些砂岩和泥岩地貌已然引导着成千上万的旅人沿着俄勒冈小径、加利福尼亚小径和摩门教徒小径前行。斯科茨布卢夫国家纪念碑（Scotts Bluff National Monument）以皮毛商人希拉姆·斯科特（Hiram Scott）命名，他曾是落基山皮毛公司（Rocky Mountain Fur Company）的成员，于19世纪20年代在附近地区因神秘原因去世。",
-    "image_url": "https://cn.bing.com/th?id=OHR.ScottsBluff_ZH-CN0292735112_1920x1080.webp",
-    "main_text": "纪念碑博物馆展出了该地区的人类和自然历史展品，并收藏了边疆摄影师兼艺术家威廉·亨利·杰克逊（William Henry Jackson）的一系列独特水彩画作品。"
+    "headline": "风景如画的葡萄园",
+    "title": "凯撒施图尔，巴登-符腾堡，德国",
+    "description": "凯撒施图尔山是巴登-符腾堡州南部一座低矮的小山脉，靠近弗莱堡，是德国阳光最充沛的地区之一。凯泽斯图尔因奥托三世皇帝于994年在此统治而得名。这片风景如画的地区是自然爱好者、寻求放松身心人士以及葡萄酒鉴赏家的天堂。肥沃的土壤和温和的气候，使灰皮诺和黑皮诺等葡萄品种在这里茁壮成长。过去的火山活动留下了富含矿物质的土壤，赋予了该地区葡萄酒独特的风味。连绵起伏的丘陵、田园诗般的村庄以及包括珍稀绿蜥蜴在内的多种野生动物，使凯泽斯图尔成为自然爱好者的迷人目的地。",
+    "image_url": "https://cn.bing.com/th?id=OHR.FieldKaiserstuhl_ZH-CN0467488834_1920x1080.webp",
+    "main_text": "巴登-符腾堡州是德国自然风光最迷人的地区之一，拥有七处景点被列为联合国教科文组织世界遗产。"
 }
 ```
 
-UpdataTime：2025-08-31 08:30:08
+UpdataTime：2025-08-31 16:30:17
