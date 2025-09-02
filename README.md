@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-09-01",
+    "date": "2025-09-02",
     "headline": "死谷的幽灵",
     "title": "骆驼刺树, 死亡谷, 纳米布-诺克卢福国家公园, 纳米比亚",
     "description": "乍一看，这仿佛是一件超现实的艺术装置：黑暗的树木凝固在黏土平原上，背后是沙丘和闪烁的天空。但这幅来自纳米比亚纳米布-诺克卢夫国家公园的德阿夫莱（Deadvlei）的景象，完全是自然形成的。德阿夫莱（Deadvlei）这个名字意为“死沼泽”——这是曾经填满这个盆地的湿地的遗迹。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-09-01 16:32:26
+UpdataTime：2025-09-02 02:02:37
