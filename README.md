@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![骆驼刺树, 死亡谷, 纳米布-诺克卢福国家公园, 纳米比亚](https://cn.bing.com/th?id=OHR.DeadvleiTrees_ZH-CN0967414858_1920x1080.webp)
-Today: [骆驼刺树, 死亡谷, 纳米布-诺克卢福国家公园, 纳米比亚](https://cn.bing.com/th?id=OHR.DeadvleiTrees_ZH-CN0967414858_1920x1080.webp) - 死谷的幽灵
+![边界水域独木舟区荒野区, 明尼苏达州, 美国](https://cn.bing.com/th?id=OHR.MinnesotaWaters_ZH-CN6078521418_1920x1080.webp)
+Today: [边界水域独木舟区荒野区, 明尼苏达州, 美国](https://cn.bing.com/th?id=OHR.MinnesotaWaters_ZH-CN6078521418_1920x1080.webp) - 享受宁静
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-09-02",
-    "headline": "死谷的幽灵",
-    "title": "骆驼刺树, 死亡谷, 纳米布-诺克卢福国家公园, 纳米比亚",
-    "description": "乍一看，这仿佛是一件超现实的艺术装置：黑暗的树木凝固在黏土平原上，背后是沙丘和闪烁的天空。但这幅来自纳米比亚纳米布-诺克卢夫国家公园的德阿夫莱（Deadvlei）的景象，完全是自然形成的。德阿夫莱（Deadvlei）这个名字意为“死沼泽”——这是曾经填满这个盆地的湿地的遗迹。",
-    "image_url": "https://cn.bing.com/th?id=OHR.DeadvleiTrees_ZH-CN0967414858_1920x1080.webp",
-    "main_text": "纳米比亚的鸟类、啮齿类动物和人类都以骆驼刺树为食。该树的种子可以研磨成细粉，用作咖啡替代品，而树上分泌的树胶也可食用。"
+    "headline": "享受宁静",
+    "title": "边界水域独木舟区荒野区, 明尼苏达州, 美国",
+    "description": "这里是位于明尼苏达州东北部的边界水域独木舟荒野区。该区域跨越超过100万英亩，由相互连接的湖泊、河流和针叶林组成。这里的地貌由冰川雕琢的水道、岩石露头和茂密林地交织而成，为驼鹿、狼、鸥鸟及无数其他物种提供了理想栖息地。该地区拥有超过1200英里的皮划艇航线和2000多个露营地，为人们提供了难得的与自然亲密接触、享受宁静的机会。",
+    "image_url": "https://cn.bing.com/th?id=OHR.MinnesotaWaters_ZH-CN6078521418_1920x1080.webp",
+    "main_text": "边境水域独木舟荒野区（BWCAW）被美国国家地理旅游杂志评为人生50个必游景点之一。"
 }
 ```
 
-UpdataTime：2025-09-02 08:35:08
+UpdataTime：2025-09-02 16:33:52
