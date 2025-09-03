@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![边界水域独木舟区荒野区, 明尼苏达州, 美国](https://cn.bing.com/th?id=OHR.MinnesotaWaters_ZH-CN6078521418_1920x1080.webp)
-Today: [边界水域独木舟区荒野区, 明尼苏达州, 美国](https://cn.bing.com/th?id=OHR.MinnesotaWaters_ZH-CN6078521418_1920x1080.webp) - 享受宁静
+![灰熊摔跤, 卡特迈国家公园及自然保护区, 阿拉斯加, 美国](https://cn.bing.com/th?id=OHR.WrestlingBears_ZH-CN6430637848_1920x1080.webp)
+Today: [灰熊摔跤, 卡特迈国家公园及自然保护区, 阿拉斯加, 美国](https://cn.bing.com/th?id=OHR.WrestlingBears_ZH-CN6430637848_1920x1080.webp) - 力量的角逐
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-09-03",
-    "headline": "享受宁静",
-    "title": "边界水域独木舟区荒野区, 明尼苏达州, 美国",
-    "description": "这里是位于明尼苏达州东北部的边界水域独木舟荒野区。该区域跨越超过100万英亩，由相互连接的湖泊、河流和针叶林组成。这里的地貌由冰川雕琢的水道、岩石露头和茂密林地交织而成，为驼鹿、狼、鸥鸟及无数其他物种提供了理想栖息地。该地区拥有超过1200英里的皮划艇航线和2000多个露营地，为人们提供了难得的与自然亲密接触、享受宁静的机会。",
-    "image_url": "https://cn.bing.com/th?id=OHR.MinnesotaWaters_ZH-CN6078521418_1920x1080.webp",
-    "main_text": "边境水域独木舟荒野区（BWCAW）被美国国家地理旅游杂志评为人生50个必游景点之一。"
+    "headline": "力量的角逐",
+    "title": "灰熊摔跤, 卡特迈国家公园及自然保护区, 阿拉斯加, 美国",
+    "description": "今天图片中正在进行摔跤角逐的是力量型选手——灰熊。年轻的灰熊常常通过“嬉戏打斗”来增强体力、磨练技能并建立社会联系。这些重量级冠军体重可达900磅，但仍能以每小时35英里的速度疾驰，比大多数人类跑得更快。在中国主要分布在新疆、青藏高原和东北山林地区。灰熊广泛分布于北半球各大陆，包括北美洲、亚洲与欧洲的北部。在中国主要分布在新疆、青藏高原和东北山林地区。",
+    "image_url": "https://cn.bing.com/th?id=OHR.WrestlingBears_ZH-CN6430637848_1920x1080.webp",
+    "main_text": "灰熊的嗅觉极为敏锐，能够在20英里外嗅到食物——其嗅觉灵敏度是血猎犬的七倍。"
 }
 ```
 
-UpdataTime：2025-09-03 08:33:36
+UpdataTime：2025-09-03 16:32:49
