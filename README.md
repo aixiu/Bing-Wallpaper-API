@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-09-06",
+    "date": "2025-09-07",
     "headline": "淡彩的梦境和静水",
     "title": "位于莫特拉瓦河河畔的格但斯克市，波兰",
     "description": "格但斯克是波兰滨海省一座充满活力的城市，鹅卵石铺就的魅力与清凉的海岸交相辉映。它是格但斯克湾沿岸的三联城（Tricity）的一部分，该区域包括邻近的沿海城市索波特和格丁尼亚市以及周边城镇。这座城市的名字很可能源于“Gdania”，这是流经该市的莫特拉瓦河（Motława）的早期名称。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-09-06 16:28:28
+UpdataTime：2025-09-07 02:03:51
