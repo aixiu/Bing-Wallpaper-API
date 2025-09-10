@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-09-09",
+    "date": "2025-09-10",
     "headline": "阳光明媚，赶紧打草",
     "title": "干草捆，北约克郡，英格兰",
     "description": "“趁着阳光明媚，赶紧打草”这句谚语听起来可能有些陈旧，但在农业领域，它却是实实在在的真理。打草捆在全球农业中扮演着至关重要的角色。这一过程包括割草、晾干和包装草料，以便在寒冷季节喂养牲畜。整个流程高度依赖天气条件：草料必须在打捆前完全干燥，否则容易发霉。农民必须在干旱天气来临时迅速行动，因此这成为了一场季节性的赛跑。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-09-09 16:33:26
+UpdataTime：2025-09-10 01:55:28
