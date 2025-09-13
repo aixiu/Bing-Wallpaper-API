@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![烟囱岩, 雷斯岬国家海岸, 加利福尼亚州, 美国](https://cn.bing.com/th?id=OHR.PointReyesSeashore_ZH-CN0076789582_1920x1080.webp)
-Today: [烟囱岩, 雷斯岬国家海岸, 加利福尼亚州, 美国](https://cn.bing.com/th?id=OHR.PointReyesSeashore_ZH-CN0076789582_1920x1080.webp) - 崎岖而狂野
+![奥林匹克国家公园的瀑布, 华盛顿, 美国](https://cn.bing.com/th?id=OHR.HohWaterfall_ZH-CN0297269806_1920x1080.webp)
+Today: [奥林匹克国家公园的瀑布, 华盛顿, 美国](https://cn.bing.com/th?id=OHR.HohWaterfall_ZH-CN0297269806_1920x1080.webp) - 苔藓与薄雾
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-09-13",
-    "headline": "崎岖而狂野",
-    "title": "烟囱岩, 雷斯岬国家海岸, 加利福尼亚州, 美国",
-    "description": "这里没有经过精心打磨或精心策划——而这正是它的精髓所在。从旧金山向北驱车仅需一个多小时，便可抵达点雷斯岬国家海岸公园——一个雾气缓缓飘荡、 tule 鹿自由漫步、时间仿佛停滞的地方。该公园于1962年的今天由国会设立，旨在保护这片海岸线，供公众游览和环境保护之用。公园面积超过100平方英里，拥有令人惊叹的景观，从沿海草原和风吹雨打的岬角，到沙滩和道格拉斯冷杉林。",
-    "image_url": "https://cn.bing.com/th?id=OHR.PointReyesSeashore_ZH-CN0076789582_1920x1080.webp",
-    "main_text": "当象海豹（Mirounga angustirostris）于1981年在点雷耶斯国家海岸公园建立繁殖地时，该公园成为全球唯一同时拥有繁殖哺乳动物和鳍足类动物的国家公园。"
+    "headline": "苔藓与薄雾",
+    "title": "奥林匹克国家公园的瀑布, 华盛顿, 美国",
+    "description": "奥林匹克国家公园拥有罕见的多元地形——这正是其独特魅力所在。这里汇聚了高山脊岭、宁静的森林，以及美国本土48州中最长的未开发海岸线之一。这片占地近1400平方英里的华盛顿州区域，作为联合国教科文组织世界遗产地，在2024年吸引了超过370万名游客。该地区最初于1909年由西奥多·罗斯福总统以“奥林匹斯山国家纪念碑”之名设立为保护区，并于1938年正式成为国家公园。",
+    "image_url": "https://cn.bing.com/th?id=OHR.HohWaterfall_ZH-CN0297269806_1920x1080.webp",
+    "main_text": "奥林匹克半岛以多雨著称，而雨水也带来了汹涌的河流，这些河流最终形成美丽的瀑布。其中一些瀑布可供轮椅通行，还有少数瀑布可通过船只或皮划艇抵达。"
 }
 ```
 
-UpdataTime：2025-09-13 08:29:44
+UpdataTime：2025-09-13 16:27:27
