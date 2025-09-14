@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-![奥林匹克国家公园的瀑布, 华盛顿, 美国](https://cn.bing.com/th?id=OHR.HohWaterfall_ZH-CN0297269806_1920x1080.webp)
-Today: [奥林匹克国家公园的瀑布, 华盛顿, 美国](https://cn.bing.com/th?id=OHR.HohWaterfall_ZH-CN0297269806_1920x1080.webp) - 苔藓与薄雾
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2025-09-14",
     "headline": "苔藓与薄雾",
@@ -42,6 +6,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url": "https://cn.bing.com/th?id=OHR.HohWaterfall_ZH-CN0297269806_1920x1080.webp",
     "main_text": "奥林匹克半岛以多雨著称，而雨水也带来了汹涌的河流，这些河流最终形成美丽的瀑布。其中一些瀑布可供轮椅通行，还有少数瀑布可通过船只或皮划艇抵达。"
 }
-```
-
-UpdataTime：2025-09-14 02:03:23
