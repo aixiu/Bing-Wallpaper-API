@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-09-16",
+    "date": "2025-09-17",
     "headline": "成长中的冠冕",
     "title": "迪纳利国家公园中的一头年轻雄性驼鹿, 阿拉斯加, 美国",
     "description": "他虽年轻，但这副鹿角已预示着未来的征战。在阿拉斯加的丹纳利国家公园，一只年轻的雄性驯鹿将头颅高高扬起，超越灌木丛的高度。此时，它的鹿角更像是冠冕而非武器——仍覆盖着绒毛。但即便如此，它们已隐约透露出一种由本能、较量与支配欲望悄然塑造的生命轨迹。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-09-16 16:33:16
+UpdataTime：2025-09-17 01:55:11
