@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-09-17",
+    "date": "2025-09-18",
     "headline": "爱尔兰岛的西端",
     "title": "邓金码头的蛇形楼梯, 凯里郡, 爱尔兰",
     "description": "这片令人惊叹的景色——天空与大西洋的浩瀚水域相接之处——只能徒步抵达。位于爱尔兰荒野而美丽的丁格尔半岛上，邓金码头是凯里郡最适合拍照的景点之一。这座小型码头以蜿蜒曲折的盘山小径闻名，小径如丝带般在悬崖边剧烈蜿蜒而下。这些陡峭的弯道不仅带来刺激感，更是通往下方码头的唯一路径，从这里出发的船只将驶向偏远的布拉斯凯特群岛。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-09-17 16:33:18
+UpdataTime：2025-09-18 01:55:36
