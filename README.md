@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![千岛群岛地区，圣劳伦斯河，美加边境](https://cn.bing.com/th?id=OHR.ThousandIslands_ZH-CN3197750437_1920x1080.webp)
-Today: [千岛群岛地区，圣劳伦斯河，美加边境](https://cn.bing.com/th?id=OHR.ThousandIslands_ZH-CN3197750437_1920x1080.webp) - 千般理由，邀您探索
+![慕尼黑啤酒节上的旋转木马，慕尼黑，巴伐利亚，德国](https://cn.bing.com/th?id=OHR.OktoberfestSwing_ZH-CN5270146600_1920x1080.webp)
+Today: [慕尼黑啤酒节上的旋转木马，慕尼黑，巴伐利亚，德国](https://cn.bing.com/th?id=OHR.OktoberfestSwing_ZH-CN5270146600_1920x1080.webp) - 关于啤酒和风景的故事
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-09-19",
-    "headline": "千般理由，邀您探索",
-    "title": "千岛群岛地区，圣劳伦斯河，美加边境",
-    "description": "听到“千岛”这个词，你可能会想到一罐沙拉酱，但在这浓郁的酱汁背后，是北美最迷人的地区之一。千岛群岛是圣劳伦斯河上的一个群岛，横跨美国纽约州和加拿大安大略省。它由1800多个岛屿组成。有些岛屿上矗立着童话般的城堡，有些岛屿则狭小得几乎容不下一张吊床。此外，还有一座名为“刚好够住的岛”（Just Room Enough Island），岛上只有一栋房子和一棵孤树，名副其实。",
-    "image_url": "https://cn.bing.com/th?id=OHR.ThousandIslands_ZH-CN3197750437_1920x1080.webp",
-    "main_text": "该地区于2002年被联合国教科文组织指定为世界生物圈保护区。"
+    "headline": "关于啤酒和风景的故事",
+    "title": "慕尼黑啤酒节上的旋转木马，慕尼黑，巴伐利亚，德国",
+    "description": "每年秋天，德国慕尼黑的特蕾莎草地都会摇身一变，成为全球最大的节日之一——慕尼黑啤酒节。啤酒节最初于1810年为庆祝一场皇室婚礼而举办，如今已发展成为一个持续16至18天的传统节日，吸引着来自世界各地的600多万人参加。啤酒节的规模令人叹为观止：场地占地约450万平方英尺，设有14个主帐篷，每个帐篷可容纳数千人。每年，游客们会喝掉约700万升啤酒，以及堆积如山的椒盐脆饼、香肠和姜饼心。慕尼黑啤酒节上供应的所有啤酒均来自慕尼黑啤酒厂，并符合德国啤酒纯度法（Reinheitsgebot）的严格标准。",
+    "image_url": "https://cn.bing.com/th?id=OHR.OktoberfestSwing_ZH-CN5270146600_1920x1080.webp",
+    "main_text": "该活动每年吸引约700万游客；2023年，游客人数达到创纪录的720万人。同年，游客们喝掉了约740万升特制的慕尼黑啤酒节啤酒。"
 }
 ```
 
-UpdataTime：2025-09-19 08:33:48
+UpdataTime：2025-09-19 16:31:50
