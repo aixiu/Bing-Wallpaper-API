@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![秋日的白杨树，鱼湖国家森林，犹他州，美国](https://cn.bing.com/th?id=OHR.AspenEquinox_ZH-CN5474695693_1920x1080.webp)
-Today: [秋日的白杨树，鱼湖国家森林，犹他州，美国](https://cn.bing.com/th?id=OHR.AspenEquinox_ZH-CN5474695693_1920x1080.webp) - 到冬天的中途
+![航拍中国江苏省常州翠竹公园](https://cn.bing.com/th?id=OHR.AutumnalEquinoxY25_ZH-CN5692548297_1920x1080.webp)
+Today: [航拍中国江苏省常州翠竹公园](https://cn.bing.com/th?id=OHR.AutumnalEquinoxY25_ZH-CN5692548297_1920x1080.webp) - 树树皆秋色
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-09-22",
-    "headline": "到冬天的中途",
-    "title": "秋日的白杨树，鱼湖国家森林，犹他州，美国",
-    "description": "随着九月的到来，今天图片中看到的白杨树开始了一年一度的变迁，呈现出鲜艳的黄色，在山丘上荡漾开来。这片森林覆盖了超过2300平方英里的湖泊、小径和山脉，秋天的色彩闪耀着光芒。看着季节与有着比我们遵循的公历更古老的事物同步变化，让人感到一种踏实的感觉。",
-    "image_url": "https://cn.bing.com/th?id=OHR.AspenEquinox_ZH-CN5474695693_1920x1080.webp",
-    "main_text": "一些白杨克隆树，例如犹他州的潘多树林，是地球上最大、最古老的生物之一，其单一根系支撑着数千个基因相同的茎。"
+    "headline": "树树皆秋色",
+    "title": "航拍中国江苏省常州翠竹公园",
+    "description": "又是一年的秋分时节，众所周知，在这一天，全球各地昼夜的时间几乎是相等的。在幅员辽阔的中国，自南向北开始，秋季在每个地区有着不同颜色和不同的温度。大部分地区雨季在此时刚刚结束，秋天的凉意才刚刚开始，此时正是碧空万里，风和日丽的时节。中国的秋季颜色是叠翠鎏金的，许多植物的颜色由此时节开始，由苍翠的绿转为金黄或者橙红色。",
+    "image_url": "https://cn.bing.com/th?id=OHR.AutumnalEquinoxY25_ZH-CN5692548297_1920x1080.webp",
+    "main_text": "秋分曾是传统的“祭月节”，中秋节由“秋夕祭月”演变而来。"
 }
 ```
 
-UpdataTime：2025-09-22 08:35:59
+UpdataTime：2025-09-22 16:34:02
