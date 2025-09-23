@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![航拍中国江苏省常州翠竹公园](https://cn.bing.com/th?id=OHR.AutumnalEquinoxY25_ZH-CN5692548297_1920x1080.webp)
-Today: [航拍中国江苏省常州翠竹公园](https://cn.bing.com/th?id=OHR.AutumnalEquinoxY25_ZH-CN5692548297_1920x1080.webp) - 树树皆秋色
+![魔鬼塔国家纪念碑, 怀俄明州，美国](https://cn.bing.com/th?id=OHR.BearLodge_ZH-CN5880511888_1920x1080.webp)
+Today: [魔鬼塔国家纪念碑, 怀俄明州，美国](https://cn.bing.com/th?id=OHR.BearLodge_ZH-CN5880511888_1920x1080.webp) - 孤独的巨人
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-09-23",
-    "headline": "树树皆秋色",
-    "title": "航拍中国江苏省常州翠竹公园",
-    "description": "又是一年的秋分时节，众所周知，在这一天，全球各地昼夜的时间几乎是相等的。在幅员辽阔的中国，自南向北开始，秋季在每个地区有着不同颜色和不同的温度。大部分地区雨季在此时刚刚结束，秋天的凉意才刚刚开始，此时正是碧空万里，风和日丽的时节。中国的秋季颜色是叠翠鎏金的，许多植物的颜色由此时节开始，由苍翠的绿转为金黄或者橙红色。",
-    "image_url": "https://cn.bing.com/th?id=OHR.AutumnalEquinoxY25_ZH-CN5692548297_1920x1080.webp",
-    "main_text": "秋分曾是传统的“祭月节”，中秋节由“秋夕祭月”演变而来。"
+    "headline": "孤独的巨人",
+    "title": "魔鬼塔国家纪念碑, 怀俄明州，美国",
+    "description": "在怀俄明州东北部辽阔的草原上，矗立着魔鬼塔——一座从开阔平原拔地而起的岩石地貌。这座山丘原名熊屋，在1875年理查德·欧文·道奇上校率领的探险队中获得现名，据推测可能源于一名翻译将原住民的表述误译为“恶神之塔”。其官方名称省略的撇号符合标准地理命名惯例——因此路标均标注为“魔鬼塔”。1906年，西奥多·罗斯福总统将其指定为美国首个国家纪念碑，这一里程碑事件的周年纪念日正值今日。",
+    "image_url": "https://cn.bing.com/th?id=OHR.BearLodge_ZH-CN5880511888_1920x1080.webp",
+    "main_text": "这块巨石的土著名称包括“熊屋”或“熊屋”。而魔鬼塔这个名字则是起源一位探险队翻译将一个土著名称误解为“恶神之塔”，后来被延用了。"
 }
 ```
 
-UpdataTime：2025-09-23 08:34:22
+UpdataTime：2025-09-23 16:33:38
