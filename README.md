@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![最小花栗鼠, 库特奈国家公园, 蒙大拿州, 美国](https://cn.bing.com/th?id=OHR.AutumnChipmunk_ZH-CN6224482683_1920x1080.webp)
-Today: [最小花栗鼠, 库特奈国家公园, 蒙大拿州, 美国](https://cn.bing.com/th?id=OHR.AutumnChipmunk_ZH-CN6224482683_1920x1080.webp) - 速度与毛茸茸
+![坦克湖 (Tank Lakes), 高山湖泊荒野区, 华盛顿州, 美国](https://cn.bing.com/th?id=OHR.TankLakes_ZH-CN6402368934_1920x1080.webp)
+Today: [坦克湖 (Tank Lakes), 高山湖泊荒野区, 华盛顿州, 美国](https://cn.bing.com/th?id=OHR.TankLakes_ZH-CN6402368934_1920x1080.webp) - 美丽的星空
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-09-26",
-    "headline": "速度与毛茸茸",
-    "title": "最小花栗鼠, 库特奈国家公园, 蒙大拿州, 美国",
-    "description": "在林地动物的世界里，体型最小的花栗鼠或许看起来像是“小松鼠”——但别小看它。凭借着敏锐的生存智慧和迅捷的双足，这种小型啮齿动物证明了“体型最小”并不意味着放弃你的潜力。它的体重还不到一副扑克牌，从鼻子到尾巴的长度不到10英寸（约25厘米），是北美体型最小的花栗鼠。",
-    "image_url": "https://cn.bing.com/th?id=OHR.AutumnChipmunk_ZH-CN6224482683_1920x1080.webp",
-    "main_text": "一旦某个区域没有更多的食物可供觅食，最小的花栗鼠就会用尿液标记该区域，并且不会再回到该区域，直到重新供应为止。"
+    "headline": "美丽的星空",
+    "title": "坦克湖 (Tank Lakes), 高山湖泊荒野区, 华盛顿州, 美国",
+    "description": "今天图片中璀璨的星空来自于坦克湖，它位于高山湖泊荒野区。高山湖泊荒野占地超过40万英亩，位于风景如画的华盛顿州中部喀斯喀特山脉。荒野位于喀斯喀特山脉北段的斯诺夸米山口和史蒂文斯山口之间，其中包括被称为韦纳奇山脉的子山脉，该山脉构成了韦纳奇-雅基马分水岭。",
+    "image_url": "https://cn.bing.com/th?id=OHR.TankLakes_ZH-CN6402368934_1920x1080.webp",
+    "main_text": "要前往坦克湖，首先要踏上18英里长的东福克福斯步道，进入项链谷，然后才能到达拉博恩峡谷和坦克湖/焚风湖地区。步道从这里开始变得崎岖不平，有时甚至无人维护。"
 }
 ```
 
-UpdataTime：2025-09-26 08:35:01
+UpdataTime：2025-09-26 16:33:21
