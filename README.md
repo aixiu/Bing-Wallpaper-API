@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-09-25",
+    "date": "2025-09-26",
     "headline": "速度与毛茸茸",
     "title": "最小花栗鼠, 库特奈国家公园, 蒙大拿州, 美国",
     "description": "在林地动物的世界里，体型最小的花栗鼠或许看起来像是“小松鼠”——但别小看它。凭借着敏锐的生存智慧和迅捷的双足，这种小型啮齿动物证明了“体型最小”并不意味着放弃你的潜力。它的体重还不到一副扑克牌，从鼻子到尾巴的长度不到10英寸（约25厘米），是北美体型最小的花栗鼠。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-09-25 16:33:25
+UpdataTime：2025-09-26 01:57:45
