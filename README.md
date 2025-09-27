@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-09-26",
+    "date": "2025-09-27",
     "headline": "美丽的星空",
     "title": "坦克湖 (Tank Lakes), 高山湖泊荒野区, 华盛顿州, 美国",
     "description": "今天图片中璀璨的星空来自于坦克湖，它位于高山湖泊荒野区。高山湖泊荒野占地超过40万英亩，位于风景如画的华盛顿州中部喀斯喀特山脉。荒野位于喀斯喀特山脉北段的斯诺夸米山口和史蒂文斯山口之间，其中包括被称为韦纳奇山脉的子山脉，该山脉构成了韦纳奇-雅基马分水岭。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-09-26 16:33:21
+UpdataTime：2025-09-27 01:53:08
