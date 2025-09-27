@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![坦克湖 (Tank Lakes), 高山湖泊荒野区, 华盛顿州, 美国](https://cn.bing.com/th?id=OHR.TankLakes_ZH-CN6402368934_1920x1080.webp)
-Today: [坦克湖 (Tank Lakes), 高山湖泊荒野区, 华盛顿州, 美国](https://cn.bing.com/th?id=OHR.TankLakes_ZH-CN6402368934_1920x1080.webp) - 美丽的星空
+![托斯卡纳的皮恩扎镇, 意大利](https://cn.bing.com/th?id=OHR.PienzaItaly_ZH-CN6564335348_1920x1080.webp)
+Today: [托斯卡纳的皮恩扎镇, 意大利](https://cn.bing.com/th?id=OHR.PienzaItaly_ZH-CN6564335348_1920x1080.webp) - 品味皮恩扎
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-09-27",
-    "headline": "美丽的星空",
-    "title": "坦克湖 (Tank Lakes), 高山湖泊荒野区, 华盛顿州, 美国",
-    "description": "今天图片中璀璨的星空来自于坦克湖，它位于高山湖泊荒野区。高山湖泊荒野占地超过40万英亩，位于风景如画的华盛顿州中部喀斯喀特山脉。荒野位于喀斯喀特山脉北段的斯诺夸米山口和史蒂文斯山口之间，其中包括被称为韦纳奇山脉的子山脉，该山脉构成了韦纳奇-雅基马分水岭。",
-    "image_url": "https://cn.bing.com/th?id=OHR.TankLakes_ZH-CN6402368934_1920x1080.webp",
-    "main_text": "要前往坦克湖，首先要踏上18英里长的东福克福斯步道，进入项链谷，然后才能到达拉博恩峡谷和坦克湖/焚风湖地区。步道从这里开始变得崎岖不平，有时甚至无人维护。"
+    "headline": "品味皮恩扎",
+    "title": "托斯卡纳的皮恩扎镇, 意大利",
+    "description": "有些城镇历经数个世纪缓慢演变。皮恩扎？15世纪，一位教皇为了证明某种观点——或许也为了炫耀——彻底重塑了它。这座意大利小镇坐落在奥尔恰山谷之上，周围环绕着连绵起伏的群山，其景象与你想象中的托斯卡纳一模一样：柏树成荫，蜿蜒的土路，偶尔还能看到几只绵羊。它宁静祥和。而当你踏入城墙，它便会变得灵动起来。",
+    "image_url": "https://cn.bing.com/th?id=OHR.PienzaItaly_ZH-CN6564335348_1920x1080.webp",
+    "main_text": "皮恩扎历史中心作为文艺复兴人文主义城市设计理念的首次应用，在意大利乃至全球的后续城市发展中发挥了重要作用。"
 }
 ```
 
-UpdataTime：2025-09-27 01:53:08
+UpdataTime：2025-09-27 16:29:06
