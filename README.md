@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-09-27",
+    "date": "2025-09-28",
     "headline": "品味皮恩扎",
     "title": "托斯卡纳的皮恩扎镇, 意大利",
     "description": "有些城镇历经数个世纪缓慢演变。皮恩扎？15世纪，一位教皇为了证明某种观点——或许也为了炫耀——彻底重塑了它。这座意大利小镇坐落在奥尔恰山谷之上，周围环绕着连绵起伏的群山，其景象与你想象中的托斯卡纳一模一样：柏树成荫，蜿蜒的土路，偶尔还能看到几只绵羊。它宁静祥和。而当你踏入城墙，它便会变得灵动起来。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-09-27 16:29:06
+UpdataTime：2025-09-28 02:07:33
