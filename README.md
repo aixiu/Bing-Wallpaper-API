@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-09-28",
+    "date": "2025-09-29",
     "headline": "彩虹骑行与宁静氛围",
     "title": "豪滕镇的彩虹屋, 荷兰",
     "description": "你不会找到纪念品商店或旅游地图指引方向——但沿着豪滕的里特普拉斯湖畔，你会偶然发现荷兰最令人意想不到的上镜景点之一。虽然许多人涌向阿姆斯特丹的运河或鹿特丹的方块屋，但这座宁静的通勤小镇却拥有独特的建筑风格。彩虹屋如海市蜃楼般鳞次栉比，闪耀着大胆的绘画色彩——一个住宅区变成了一个低调的文化地标。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-09-28 16:27:57
+UpdataTime：2025-09-29 02:01:25
