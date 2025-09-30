@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-09-29",
+    "date": "2025-09-30",
     "headline": "坚持重要的事情",
     "title": "桉树上的考拉, 大奥特维国家公园, 澳大利亚",
     "description": "在大奥特维国家公园茂密的桉树林中，考拉如同沉睡的哨兵，守护着澳大利亚的野性灵魂。这些有袋动物常被误称为“考拉熊”，但实际上它们与袋熊的体型更接近，它们结实的无尾身躯、毛茸茸的耳朵和柔软的黑色鼻子很容易辨认。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-09-29 16:27:42
+UpdataTime：2025-09-30 01:55:54
