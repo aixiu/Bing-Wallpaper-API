@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![中欧森林里的鬼鸮](https://cn.bing.com/th?id=OHR.TeacherOwl_ZH-CN8289875605_1920x1080.webp)
-Today: [中欧森林里的鬼鸮](https://cn.bing.com/th?id=OHR.TeacherOwl_ZH-CN8289875605_1920x1080.webp) - 庆祝智慧！
+![安顺桥中秋灯展，成都，中国](https://cn.bing.com/th?id=OHR.AnshunBridge_ZH-CN8392458102_1920x1080.webp)
+Today: [安顺桥中秋灯展，成都，中国](https://cn.bing.com/th?id=OHR.AnshunBridge_ZH-CN8392458102_1920x1080.webp) - 千里共婵娟
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-10-05",
-    "headline": "庆祝智慧！",
-    "title": "中欧森林里的鬼鸮",
-    "description": "教书育人的传统在整个人类历史中根深蒂固。今天，我们向那些倾注心血传播知识、塑造思想的教育者致敬。祝所有老师世界教师节快乐，感谢你们帮助我们成为更好的自己。",
-    "image_url": "https://cn.bing.com/th?id=OHR.TeacherOwl_ZH-CN8289875605_1920x1080.webp",
-    "main_text": "北方鸮分布于北美洲北部和欧洲地区，它们栖息于茂密的针叶林和混交林之中。"
+    "headline": "千里共婵娟",
+    "title": "安顺桥中秋灯展，成都，中国",
+    "description": "当秋月当空，空气中已透出冬日的气息，那份战栗感总会在记忆中久久萦绕。中秋节——亦称月节——作为中国最珍视的节日之一，为丰收时节的尾声增添了又一抹神话色彩。它在农历八月十五日庆祝，今年恰逢10月6日。相传此夜，月神嫦娥正俯瞰人间。",
+    "image_url": "https://cn.bing.com/th?id=OHR.AnshunBridge_ZH-CN8392458102_1920x1080.webp",
+    "main_text": "中秋节时还有一些地方特色型习俗，例如：广东等地的舞火龙、湖南湘西等地象征性的“偷南瓜”等等。"
 }
 ```
 
-UpdataTime：2025-10-05 08:29:30
+UpdataTime：2025-10-05 16:29:01
