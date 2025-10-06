@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-10-05",
+    "date": "2025-10-06",
     "headline": "千里共婵娟",
     "title": "安顺桥中秋灯展，成都，中国",
     "description": "当秋月当空，空气中已透出冬日的气息，那份战栗感总会在记忆中久久萦绕。中秋节——亦称月节——作为中国最珍视的节日之一，为丰收时节的尾声增添了又一抹神话色彩。它在农历八月十五日庆祝，今年恰逢10月6日。相传此夜，月神嫦娥正俯瞰人间。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-10-05 16:29:01
+UpdataTime：2025-10-06 01:59:28
