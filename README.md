@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-10-07",
+    "date": "2025-10-08",
     "headline": "动态伪装",
     "title": "白日章鱼, 毛伊岛, 夏威夷, 美国",
     "description": "八只触手，魅力十足，今天的主角是章鱼！值此世界章鱼日，当我们赞叹它们的智慧时，更要意识到：即便是这些海洋天才，也无法逃避气候变化和污染威胁。守护它们的家园，就是守护海洋的未来。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-10-07 16:33:31
+UpdataTime：2025-10-08 01:56:27
