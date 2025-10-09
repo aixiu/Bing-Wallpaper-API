@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-10-08",
+    "date": "2025-10-09",
     "headline": "宇宙在绽放",
     "title": "‌詹姆斯·韦伯太空望远镜观测的创生之柱",
     "description": "随着世界空间周接近尾声，宇宙依然不断给予我们仰望的理由。想象一下云朵——不是在天空中飘动，而是在浩瀚星海中延展，孕育着新星的诞生。这正是NASA的詹姆斯·韦布太空望远镜所捕捉到的“创生之柱”景象。如图所示，色彩与细节前所未见，令人震撼。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-10-08 16:33:31
+UpdataTime：2025-10-09 01:57:54
