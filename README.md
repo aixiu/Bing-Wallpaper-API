@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-10-12",
+    "date": "2025-10-13",
     "headline": "水声低语",
     "title": "温巴赫峡谷瀑布，巴伐利亚州，德国",
     "description": "陡峭的岩石峡谷，湍急的水流，还有如画般的风景：位于贝希特斯加登国家公园拉姆绍附近的温巴赫峡谷，是巴伐利亚最壮观的峡谷之一。在今日图片中，温巴赫溪在约200米长的狭窄岩层间奔流而下，形成层层小瀑布，并在长年累月中于岩石上雕刻出令人惊叹的纹理。色彩斑斓的岩层揭示了数千年前的地质过程。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-10-12 16:29:29
+UpdataTime：2025-10-13 08:37:43
