@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-![伊亚镇，圣托里尼岛，希腊](https://cn.bing.com/th?id=OHR.OiaSantorini_ZH-CN0531650189_1920x1080.webp)
-Today: [伊亚镇，圣托里尼岛，希腊](https://cn.bing.com/th?id=OHR.OiaSantorini_ZH-CN0531650189_1920x1080.webp) - 蓝与白的梦境
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2025-10-14",
     "headline": "蓝与白的梦境",
@@ -42,6 +6,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url": "https://cn.bing.com/th?id=OHR.OiaSantorini_ZH-CN0531650189_1920x1080.webp",
     "main_text": "伊亚镇的日落之美举世无双，绝非浪得虚名。观赏日落的最佳地点当属位于村尾的圣尼古拉城堡遗址，那里视野开阔，海景与地平线一览无余。"
 }
-```
-
-UpdataTime：2025-10-14 01:58:35
