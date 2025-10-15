@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-10-14",
+    "date": "2025-10-15",
     "headline": "孢子奇遇记",
     "title": "紫蜡蘑，西贝克，华盛顿州，美国",
     "description": "你知道吗？蘑菇也有属于自己的节日。每年的10月15日是“全国蘑菇日”，这一天邀请我们走进它们奇妙的世界。比如图中的紫蜡蘑，又称“紫晶欺骗菇”。它在幼年时紫色明艳、光彩夺目，但随着时间和环境的变化，颜色逐渐褪去，辨认起来就不那么容易了。尽管外表娇嫩而多变，这种宝石般的真菌不仅可以食用，还在生态系统中发挥着重要作用。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-10-14 16:34:15
+UpdataTime：2025-10-15 02:01:38
