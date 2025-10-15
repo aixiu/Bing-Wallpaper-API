@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![紫蜡蘑，西贝克，华盛顿州，美国](https://cn.bing.com/th?id=OHR.AmethystLaccaria_ZH-CN0643667280_1920x1080.webp)
-Today: [紫蜡蘑，西贝克，华盛顿州，美国](https://cn.bing.com/th?id=OHR.AmethystLaccaria_ZH-CN0643667280_1920x1080.webp) - 孢子奇遇记
+![欧亚猞猁，西伯利亚](https://cn.bing.com/th?id=OHR.SiberianLynx_ZH-CN0749166653_1920x1080.webp)
+Today: [欧亚猞猁，西伯利亚](https://cn.bing.com/th?id=OHR.SiberianLynx_ZH-CN0749166653_1920x1080.webp) - 幽灵之猫
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-10-15",
-    "headline": "孢子奇遇记",
-    "title": "紫蜡蘑，西贝克，华盛顿州，美国",
-    "description": "你知道吗？蘑菇也有属于自己的节日。每年的10月15日是“全国蘑菇日”，这一天邀请我们走进它们奇妙的世界。比如图中的紫蜡蘑，又称“紫晶欺骗菇”。它在幼年时紫色明艳、光彩夺目，但随着时间和环境的变化，颜色逐渐褪去，辨认起来就不那么容易了。尽管外表娇嫩而多变，这种宝石般的真菌不仅可以食用，还在生态系统中发挥着重要作用。",
-    "image_url": "https://cn.bing.com/th?id=OHR.AmethystLaccaria_ZH-CN0643667280_1920x1080.webp",
-    "main_text": "因为它那鲜艳的紫水晶色会随着年龄增长和风吹雨打逐渐褪去，从而难以辨认，所以有了“欺骗者”这个俗名。"
+    "headline": "幽灵之猫",
+    "title": "欧亚猞猁，西伯利亚",
+    "description": "想象一只能在森林中悄然隐去的猫科动物——这就是欧亚猞猁。它耳尖上的簇毛和锐利的目光令人过目难忘。作为四种猞猁中体型最大的一种，它体长可达42 英寸，肩高可达30英寸，身形矫健，兼具力量与敏捷。厚实的脚掌不仅能帮助它悄无声息地移动，还像雪鞋一样分散体重，使其能在厚厚的积雪中追逐猎物。它大多在夜间出没，白天则隐匿在灌木丛或岩石洞穴中，夜幕降临才悄然出击，捕猎鹿、野兔和松鼠。",
+    "image_url": "https://cn.bing.com/th?id=OHR.SiberianLynx_ZH-CN0749166653_1920x1080.webp",
+    "main_text": "在一些文化中认为猞猁拥有超自然的视力，甚至能看穿坚实的物体。"
 }
 ```
 
-UpdataTime：2025-10-15 08:37:35
+UpdataTime：2025-10-15 16:31:09
