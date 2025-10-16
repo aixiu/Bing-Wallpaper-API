@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![欧亚猞猁，西伯利亚](https://cn.bing.com/th?id=OHR.SiberianLynx_ZH-CN0749166653_1920x1080.webp)
-Today: [欧亚猞猁，西伯利亚](https://cn.bing.com/th?id=OHR.SiberianLynx_ZH-CN0749166653_1920x1080.webp) - 幽灵之猫
+![罗克河瀑布，上半岛，密歇根州，美国](https://cn.bing.com/th?id=OHR.RockRiverFalls_ZH-CN6532185546_1920x1080.webp)
+Today: [罗克河瀑布，上半岛，密歇根州，美国](https://cn.bing.com/th?id=OHR.RockRiverFalls_ZH-CN6532185546_1920x1080.webp) - 爱上密歇根
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-10-16",
-    "headline": "幽灵之猫",
-    "title": "欧亚猞猁，西伯利亚",
-    "description": "想象一只能在森林中悄然隐去的猫科动物——这就是欧亚猞猁。它耳尖上的簇毛和锐利的目光令人过目难忘。作为四种猞猁中体型最大的一种，它体长可达42 英寸，肩高可达30英寸，身形矫健，兼具力量与敏捷。厚实的脚掌不仅能帮助它悄无声息地移动，还像雪鞋一样分散体重，使其能在厚厚的积雪中追逐猎物。它大多在夜间出没，白天则隐匿在灌木丛或岩石洞穴中，夜幕降临才悄然出击，捕猎鹿、野兔和松鼠。",
-    "image_url": "https://cn.bing.com/th?id=OHR.SiberianLynx_ZH-CN0749166653_1920x1080.webp",
-    "main_text": "在一些文化中认为猞猁拥有超自然的视力，甚至能看穿坚实的物体。"
+    "headline": "爱上密歇根",
+    "title": "罗克河瀑布，上半岛，密歇根州，美国",
+    "description": "密歇根州罗克河峡谷深处，罗克河瀑布在冰川雕琢的景观中悄然显现，周遭密林环绕，层层历史沉淀。在上半岛这片土地上，人类足迹绵延数千年：原住民阿尔冈昆语族之后，法国与英国探险者接踵而至；19世纪采矿与伐木业繁荣时期，芬兰、瑞典及法裔加拿大移民在此定居。如今这片人烟稀少的区域仅容纳着密歇根州3%的居民，森林与瀑布依旧保留着近乎原始的宁静。",
+    "image_url": "https://cn.bing.com/th?id=OHR.RockRiverFalls_ZH-CN6532185546_1920x1080.webp",
+    "main_text": "该森林拥有超过100英里（160公里）的海岸线。两个区域均毗邻苏必利尔湖和密歇根湖。"
 }
 ```
 
-UpdataTime：2025-10-16 08:37:07
+UpdataTime：2025-10-16 16:34:45
