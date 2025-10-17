@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-10-16",
+    "date": "2025-10-17",
     "headline": "爱上密歇根",
     "title": "罗克河瀑布，上半岛，密歇根州，美国",
     "description": "密歇根州罗克河峡谷深处，罗克河瀑布在冰川雕琢的景观中悄然显现，周遭密林环绕，层层历史沉淀。在上半岛这片土地上，人类足迹绵延数千年：原住民阿尔冈昆语族之后，法国与英国探险者接踵而至；19世纪采矿与伐木业繁荣时期，芬兰、瑞典及法裔加拿大移民在此定居。如今这片人烟稀少的区域仅容纳着密歇根州3%的居民，森林与瀑布依旧保留着近乎原始的宁静。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-10-16 16:34:45
+UpdataTime：2025-10-17 01:59:28
