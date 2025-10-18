@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-10-17",
+    "date": "2025-10-18",
     "headline": "那座铭记往昔的山丘",
     "title": "西尔布利山的新石器时代遗址，蒂尔斯黑德，威尔特郡，英国",
     "description": "每年十月的第三个星期六是国际考古日，它鼓励我们“深入地表”，探索尘封的历史与文明的根源。该纪念日由美国考古学会（AIA）于2011年设立，如今世界各地通过举办活动、组织参观和亲身体验挖掘等方式来庆祝。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-10-17 16:33:13
+UpdataTime：2025-10-18 01:53:57
