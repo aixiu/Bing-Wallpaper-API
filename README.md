@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![即将收获的苹果，明尼苏达州，美国](https://cn.bing.com/th?id=OHR.AppleHarvest_ZH-CN7317228007_1920x1080.webp)
-Today: [即将收获的苹果，明尼苏达州，美国](https://cn.bing.com/th?id=OHR.AppleHarvest_ZH-CN7317228007_1920x1080.webp) - 痴迷科学
+![霍氏树懒，厄瓜多尔](https://cn.bing.com/th?id=OHR.HoffmansSloth_ZH-CN7563408641_1920x1080.webp)
+Today: [霍氏树懒，厄瓜多尔](https://cn.bing.com/th?id=OHR.HoffmansSloth_ZH-CN7563408641_1920x1080.webp) - 慢节奏的生活
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-10-19",
-    "headline": "痴迷科学",
-    "title": "即将收获的苹果，明尼苏达州，美国",
-    "description": "在明尼苏达州，秋天不仅是红叶纷飞的季节，更是苹果飘香的时节。从八月中旬到十月下旬，全州各地的果园都敞开大门，迎接前来采摘的游客，园里种满了蜜脆、哈拉尔森等数十种苹果，每一品种都因风味、耐寒性和口感而闻名。今日图片定格了这一瞬间：枝头挂满成熟的果实，静待采收。",
-    "image_url": "https://cn.bing.com/th?id=OHR.AppleHarvest_ZH-CN7317228007_1920x1080.webp",
-    "main_text": "苹果通过丝绸之路等早期贸易路线从中亚传播开来，先抵达古代中国，继而传入波斯，最终影响了古希腊和古罗马。"
+    "headline": "慢节奏的生活",
+    "title": "霍氏树懒，厄瓜多尔",
+    "description": "你是否曾幻想过整天什么都不做，只是悠闲地发发呆？对树懒来说，这就是它们的日常。每年的国际树懒日，正是为了向这些慢节奏的动物致敬，也提醒我们：生活不一定总要匆匆忙忙。树懒是一种生活在中美洲和南美洲的树栖哺乳动物。它们行动缓慢，不是因为懒惰，而是一种聪明的生存策略。缓慢的动作不仅帮助它们节省能量，还能避开天敌的注意。更有趣的是，树懒的毛发上常年生长着藻类，使它们在树冠中呈现绿色伪装，进一步增强了隐蔽性。图中展示的是霍氏树懒，它是树懒家族中典型的“慢生活”代表。它们几乎整天挂在树上，只有在需要换树时才会缓缓爬到地面。",
+    "image_url": "https://cn.bing.com/th?id=OHR.HoffmansSloth_ZH-CN7563408641_1920x1080.webp",
+    "main_text": "树懒的力量约为人类的三倍，它们能紧紧抓住树枝，足以抵御美洲豹的袭击。"
 }
 ```
 
-UpdataTime：2025-10-19 08:30:16
+UpdataTime：2025-10-19 16:30:21
