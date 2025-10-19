@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-10-18",
+    "date": "2025-10-19",
     "headline": "痴迷科学",
     "title": "即将收获的苹果，明尼苏达州，美国",
     "description": "在明尼苏达州，秋天不仅是红叶纷飞的季节，更是苹果飘香的时节。从八月中旬到十月下旬，全州各地的果园都敞开大门，迎接前来采摘的游客，园里种满了蜜脆、哈拉尔森等数十种苹果，每一品种都因风味、耐寒性和口感而闻名。今日图片定格了这一瞬间：枝头挂满成熟的果实，静待采收。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-10-18 16:30:05
+UpdataTime：2025-10-19 02:18:05
