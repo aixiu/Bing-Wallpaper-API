@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-10-22",
+    "date": "2025-10-23",
     "headline": "雪中深情",
     "title": "雪豹和她的幼崽, 斯皮提谷, 寒冷沙漠生物圈保护区, 印度",
     "description": "你可曾尝试在野外寻找雪豹的踪迹？它被称为\"山中幽灵\"绝非空穴来风——你更可能看到它的爪印，而不是它本尊的身影。但每年10月23日，这位神秘的高原猎手会走到聚光灯下，因为这一天是专为它设立的“国际雪豹日”，旨在呼吁保护这种难得一见的掠食者及其崎岖的栖息地。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-10-22 16:36:25
+UpdataTime：2025-10-23 02:01:10
