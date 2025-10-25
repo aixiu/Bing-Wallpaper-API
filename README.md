@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-10-24",
+    "date": "2025-10-25",
     "headline": "芬兰的活泥炭地",
     "title": "马蒂莫阿帕沼泽保护区泥炭地鸟瞰图, 芬兰",
     "description": "芬兰的沼泽大多是由泥炭地组成，它们源自大约 12,000 年前上一个冰河时期结束后，沉积物与苔藓不断堆积、分解而成。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-10-24 16:34:33
+UpdataTime：2025-10-25 01:59:03
