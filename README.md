@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![法纳尔森林里的古老月桂树，马德拉群岛，葡萄牙](https://cn.bing.com/th?id=OHR.FanalForest_ZH-CN2203572101_1920x1080.webp)
-Today: [法纳尔森林里的古老月桂树，马德拉群岛，葡萄牙](https://cn.bing.com/th?id=OHR.FanalForest_ZH-CN2203572101_1920x1080.webp) - 时光扎根
+![杰伊瑟尔梅尔的骆驼, 拉贾斯坦邦, 印度](https://cn.bing.com/th?id=OHR.PushkarFair_ZH-CN2069143641_1920x1080.webp)
+Today: [杰伊瑟尔梅尔的骆驼, 拉贾斯坦邦, 印度](https://cn.bing.com/th?id=OHR.PushkarFair_ZH-CN2069143641_1920x1080.webp) - 蹄声、色彩与传承
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-10-29",
-    "headline": "时光扎根",
-    "title": "法纳尔森林里的古老月桂树，马德拉群岛，葡萄牙",
-    "description": "葡萄牙的马德拉岛位于本土西南约600英里处，这里隐藏着一片与众不同的森林。在岛的北坡上坐落着法纳尔森林，薄雾在古老的月桂树间飘荡。这些树是马德拉岛亚热带常绿林的一部分，亚热带常绿林是曾经广泛分布的月桂树林的杰出遗迹。它是现存规模最大的同类森林，其中约90%被认定为原始林。这里孕育着独特的动植物群，包括马德拉长趾鸽等特有物种，堪称一座活着的自然历史博物馆。",
-    "image_url": "https://cn.bing.com/th?id=OHR.FanalForest_ZH-CN2203572101_1920x1080.webp",
-    "main_text": "这是马德拉岛和加那利群岛月桂林中的常见树种，富含精油，刚砍伐时木材会散发出刺鼻气味。"
+    "headline": "蹄声、色彩与传承",
+    "title": "杰伊瑟尔梅尔的骆驼, 拉贾斯坦邦, 印度",
+    "description": "每到秋季，印度拉贾斯坦邦的沙漠小镇普什卡都会因一场普什卡骆驼节而热闹非凡。这一节庆与印度教的卡提克月相对应，通常在公历10月下旬至11月初举行。今年的庆典自今日起至11月5日，成为了当地一年中最令人期待的季节。",
+    "image_url": "https://cn.bing.com/th?id=OHR.PushkarFair_ZH-CN2069143641_1920x1080.webp",
+    "main_text": "骆驼奶比牛奶略咸，维生素C含量是牛奶的三倍，富含铁、不饱和脂肪酸和B族维生素。"
 }
 ```
 
-UpdataTime：2025-10-29 08:37:39
+UpdataTime：2025-10-29 16:37:37
