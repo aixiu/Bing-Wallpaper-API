@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-10-29",
+    "date": "2025-10-30",
     "headline": "蹄声、色彩与传承",
     "title": "杰伊瑟尔梅尔的骆驼, 拉贾斯坦邦, 印度",
     "description": "每到秋季，印度拉贾斯坦邦的沙漠小镇普什卡都会因一场普什卡骆驼节而热闹非凡。这一节庆与印度教的卡提克月相对应，通常在公历10月下旬至11月初举行。今年的庆典自今日起至11月5日，成为了当地一年中最令人期待的季节。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-10-29 16:37:37
+UpdataTime：2025-10-30 02:07:52
