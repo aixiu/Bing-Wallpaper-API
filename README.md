@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-10-31",
+    "date": "2025-11-01",
     "headline": "古老血脉的兽群",
     "title": "野牛在温泉边吃草,  黄石国家公园, 怀俄明州, 美国",
     "description": "野牛体现了一种矛盾：巨大的力量与沉静的气质并存。这些体型庞大的动物体重可达200​​0磅，身高6英尺（约1.8米），成群结队地漫游在北美的草原和河谷。这张照片拍摄于怀俄明州的黄石国家公园，它们的数量曾达数千万头，但在19世纪几乎灭绝——这一灭绝事件重塑了生态系统，扰乱了人们的生活方式。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-10-31 16:35:14
+UpdataTime：2025-11-01 02:08:15
