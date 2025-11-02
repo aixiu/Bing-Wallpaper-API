@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-11-01",
+    "date": "2025-11-02",
     "headline": "竹林吐纳清气，枫叶绚烂如火",
     "title": "岚山缤纷的枫叶与竹林, 京都, 日本",
     "description": "今日，我们前往京都岚山地区，这里以迷人的四季风光闻名于世。此处，鲜艳的日本红枫与静谧的竹林交织出色彩与宁静的和谐画卷。这些以纤细深裂叶片著称的枫树，每逢秋日便幻化成炽烈的红、橙、金三色，吸引着全球游客纷至沓来。它们不仅因绝美姿态备受推崇，更承载着象征优雅、平和与生命无常的文化意蕴。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-11-01 16:29:51
+UpdataTime：2025-11-02 02:17:10
