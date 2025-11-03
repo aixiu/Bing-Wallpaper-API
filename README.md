@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-11-02",
+    "date": "2025-11-03",
     "headline": "随波轻舞",
     "title": "在太平洋中游泳的水母, 格雷罗, 墨西哥",
     "description": "它们没有大脑、骨骼，甚至没有心脏，却已在地球海洋中游弋了五亿年。今天，世界水母日，这些摇曳生姿的奇妙生物终于迎来了属于它们的高光时刻——至少在海底世界如此。这一节日旨在推动保护水母栖息地，抵御污染、富营养化径流和海洋酸化等威胁。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-11-02 16:30:56
+UpdataTime：2025-11-03 02:11:23
