@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-11-03",
+    "date": "2025-11-04",
     "headline": "小心空隙，桥面将开启！",
     "title": "塔桥, 伦敦, 英格兰",
     "description": "有些桥梁只是连接两岸，而伦敦塔桥则连接着历史、工程与戏剧张力。自1894年起，这座伦敦地标矗立于伦敦塔旁，横跨泰晤士河，既能振奋人心，又能疏导交通。双塔矗立，蓝白相间的漆面，以及能像巨型吊桥般开启的活动桥面，塔桥不仅是交通解决方案，更像是一位舞台表演者。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-11-03 16:33:31
+UpdataTime：2025-11-04 02:05:16
