@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![佩尼亚罗亚山毛榉森林, 蒙卡约自然公园, 萨拉戈萨, 阿拉贡, 西班牙](https://cn.bing.com/th?id=OHR.MoncayoAutumn_ZH-CN5187959516_1920x1080.webp)
-Today: [佩尼亚罗亚山毛榉森林, 蒙卡约自然公园, 萨拉戈萨, 阿拉贡, 西班牙](https://cn.bing.com/th?id=OHR.MoncayoAutumn_ZH-CN5187959516_1920x1080.webp) - 秋天来了，你开心吗？
+![哈里朋柴佛塔寺的彩色灯笼, 南奔府, 泰国](https://cn.bing.com/th?id=OHR.LanternsThailand_ZH-CN3419382923_1920x1080.webp)
+Today: [哈里朋柴佛塔寺的彩色灯笼, 南奔府, 泰国](https://cn.bing.com/th?id=OHR.LanternsThailand_ZH-CN3419382923_1920x1080.webp) - 满天心愿
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-11-05",
-    "headline": "秋天来了，你开心吗？",
-    "title": "佩尼亚罗亚山毛榉森林, 蒙卡约自然公园, 萨拉戈萨, 阿拉贡, 西班牙",
-    "description": "西班牙的阿拉贡地区，一般让人想到的是阳光和灌木，而不是森林的阴凉与静谧。然而，当你沿着蒙卡约山坡向上攀登，故事会出现意想不到的转折：一片浓密、低语的山毛榉林悄然迎面而来。这座山犹如气候过山车：山脚是地中海灌木，半山腰是橡树和松林，再往上，霎时间你便置身佩尼亚罗亚，这片山毛榉仙境仿佛在宣告：\"由我来演绎秋天吧！\"",
-    "image_url": "https://cn.bing.com/th?id=OHR.MoncayoAutumn_ZH-CN5187959516_1920x1080.webp",
-    "main_text": "对于游客、徒步旅行者和好奇的游客来说，公园的一大亮点是它所拥有的真菌世界。"
+    "headline": "满天心愿",
+    "title": "哈里朋柴佛塔寺的彩色灯笼, 南奔府, 泰国",
+    "description": "如果一盏天灯能承载你的心愿，你会许下什么？今晚，在泰国北部，义蓬节为你带来这样的机会。这个延续数百年的兰纳传统，在农历十二月举行，人们点亮孔明灯以纪念佛陀。相传每一盏灯都能带走厄运，照亮通往美好未来的道路。孩子们扶稳灯架，长者低声祈福，成百上千的灯火缓缓升起，越过树梢，点亮夜空。同一轮满月下，南方的水灯节也在进行，烛光点点的花船在水面缓缓漂流。",
+    "image_url": "https://cn.bing.com/th?id=OHR.LanternsThailand_ZH-CN3419382923_1920x1080.webp",
+    "main_text": "天灯这个名字来源于中国，又可以叫孔明灯。它是一种古老的汉族手工艺品，属于高空明火飞行物。"
 }
 ```
 
-UpdataTime：2025-11-05 08:37:23
+UpdataTime：2025-11-05 16:37:06
