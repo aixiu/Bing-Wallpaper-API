@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![班登海滩的海蚀柱，俄勒冈州，美国](https://cn.bing.com/th?id=OHR.BandonBeach_ZH-CN3684356649_1920x1080.webp)
-Today: [班登海滩的海蚀柱，俄勒冈州，美国](https://cn.bing.com/th?id=OHR.BandonBeach_ZH-CN3684356649_1920x1080.webp) - 班登的明星岩石
+![礁湖星云中的星际云，由哈勃太空望远镜拍摄](https://cn.bing.com/th?id=OHR.LagoonNebula_ZH-CN3890147543_1920x1080.webp)
+Today: [礁湖星云中的星际云，由哈勃太空望远镜拍摄](https://cn.bing.com/th?id=OHR.LagoonNebula_ZH-CN3890147543_1920x1080.webp) - 从前有一颗星星
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-11-08",
-    "headline": "班登的明星岩石",
-    "title": "班登海滩的海蚀柱，俄勒冈州，美国",
-    "description": "驶出101号公路，俄勒冈州的班登便迎来了来访者，这里弥漫着咸咸的空气和轻柔的港口钟声。这座小镇始建于19世纪50年代，最初只是个小聚居地，后来发展成为木材和鲑鱼捕捞中心。蔓越莓成为当地的主要作物，至今仍是每年九月蔓越莓节的庆祝活动。老城区的木板路咖啡馆和画廊反映了那段历史，而科基尔河灯塔则矗立在布拉兹海滩，经过修复，依然屹立在那里，提醒着人们当年它曾指引船只的航向。",
-    "image_url": "https://cn.bing.com/th?id=OHR.BandonBeach_ZH-CN3684356649_1920x1080.webp",
-    "main_text": "海蚀柱在中国的沿海地区常可见到。大连的黑石礁、北戴河的鹰角石、山东青岛的石老人,以及东南的部分沿海地区亦有分布．"
+    "headline": "从前有一颗星星",
+    "title": "礁湖星云中的星际云，由哈勃太空望远镜拍摄",
+    "description": "宇宙生机勃勃，生生不息。图中的礁湖星云中，一个名为NGC 6530的星团正在孕育新生恒星，这光芒提醒着我们，宇宙的起源早已交织其中。它距离我们约4350光年，已有数百万年历史，目前仍处于恒星形成的早期阶段。",
+    "image_url": "https://cn.bing.com/th?id=OHR.LagoonNebula_ZH-CN3890147543_1920x1080.webp",
+    "main_text": "礁湖星云中存在着一些被称为“博克球状体（Bok globules）（Burnham）的暗星云，成为最值得注意的特征之一。"
 }
 ```
 
-UpdataTime：2025-11-08 08:32:38
+UpdataTime：2025-11-08 16:31:08
