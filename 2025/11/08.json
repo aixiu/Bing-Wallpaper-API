@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-![班登海滩的海蚀柱，俄勒冈州，美国](https://cn.bing.com/th?id=OHR.BandonBeach_ZH-CN3684356649_1920x1080.webp)
-Today: [班登海滩的海蚀柱，俄勒冈州，美国](https://cn.bing.com/th?id=OHR.BandonBeach_ZH-CN3684356649_1920x1080.webp) - 班登的明星岩石
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2025-11-08",
     "headline": "班登的明星岩石",
@@ -42,6 +6,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url": "https://cn.bing.com/th?id=OHR.BandonBeach_ZH-CN3684356649_1920x1080.webp",
     "main_text": "海蚀柱在中国的沿海地区常可见到。大连的黑石礁、北戴河的鹰角石、山东青岛的石老人,以及东南的部分沿海地区亦有分布．"
 }
-```
-
-UpdataTime：2025-11-08 01:59:11
