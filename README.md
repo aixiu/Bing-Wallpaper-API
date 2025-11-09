@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-11-08",
+    "date": "2025-11-09",
     "headline": "从前有一颗星星",
     "title": "礁湖星云中的星际云，由哈勃太空望远镜拍摄",
     "description": "宇宙生机勃勃，生生不息。图中的礁湖星云中，一个名为NGC 6530的星团正在孕育新生恒星，这光芒提醒着我们，宇宙的起源早已交织其中。它距离我们约4350光年，已有数百万年历史，目前仍处于恒星形成的早期阶段。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-11-08 16:31:08
+UpdataTime：2025-11-09 02:10:47
