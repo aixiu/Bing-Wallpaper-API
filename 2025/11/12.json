@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-![斗兽场鸟瞰图，罗马，意大利](https://cn.bing.com/th?id=OHR.ColosseumRome_ZH-CN4305271578_1920x1080.webp)
-Today: [斗兽场鸟瞰图，罗马，意大利](https://cn.bing.com/th?id=OHR.ColosseumRome_ZH-CN4305271578_1920x1080.webp) - 条条大路通罗马
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2025-11-12",
     "headline": "条条大路通罗马",
@@ -42,6 +6,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url": "https://cn.bing.com/th?id=OHR.ColosseumRome_ZH-CN4305271578_1920x1080.webp",
     "main_text": "从1928年到2000年的夏季奥运会奖牌上，都印有由朱塞佩·卡西奥利设计的图案：罗马斗兽场的形象。"
 }
-```
-
-UpdataTime：2025-11-12 02:06:43
