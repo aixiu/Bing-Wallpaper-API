@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-11-13",
+    "date": "2025-11-14",
     "headline": "快节奏时代，别忘了慢下来",
     "title": "海牛妈妈和幼崽，水晶河，佛罗里达州，美国",
     "description": "11月不仅是火鸡大餐和南瓜派的季节，它还有一个特别的主题——海牛保护宣传月。相比翻腾的海豚和抢镜的鲨鱼，海牛凭借“什么都不做”赢得了人们的喜爱，这就是它们的独特魅力。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-11-13 16:35:05
+UpdataTime：2025-11-14 02:07:14
