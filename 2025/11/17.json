@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-![谢南多厄国家公园的秋色，弗吉尼亚州，美国](https://cn.bing.com/th?id=OHR.ShenandoahTrail_ZH-CN8626326726_1920x1080.webp)
-Today: [谢南多厄国家公园的秋色，弗吉尼亚州，美国](https://cn.bing.com/th?id=OHR.ShenandoahTrail_ZH-CN8626326726_1920x1080.webp) - 小径在召唤
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2025-11-17",
     "headline": "小径在召唤",
@@ -42,6 +6,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url": "https://cn.bing.com/th?id=OHR.ShenandoahTrail_ZH-CN8626326726_1920x1080.webp",
     "main_text": "该公园最著名的景点当属天际线公路，这条全长105英里（169公里）的道路沿着山脊贯穿整个公园，风景壮丽，四季皆宜。此外，阿巴拉契亚步道中长达101英里（163公里）的路段也位于此公园内。"
 }
-```
-
-UpdataTime：2025-11-17 02:08:33
