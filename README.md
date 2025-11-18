@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-11-17",
+    "date": "2025-11-18",
     "headline": "秋日里的羽翼明星",
     "title": "雄性棕胁秋沙鸭，俄勒冈州，美国",
     "description": "每到秋季，俄勒冈州静谧的水道就成了棕胁秋沙鸭的季节性驿站——它们是北美特有的小型潜水鸭，潜水灵活，能迅速扎入水下捕捉鱼类和其他猎物。雄性棕胁秋沙鸭最显眼，头顶扇形白冠，深色头部，体侧呈栗棕色；雌鸭则呈灰褐色，冠羽较小。俄勒冈的湖泊和湿地为这些鸟类提供了安全的觅食地，它们在迁徙或越冬途中会在此停留。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-11-17 16:38:04
+UpdataTime：2025-11-18 02:06:53
