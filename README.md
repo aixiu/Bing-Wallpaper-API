@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-11-19",
+    "date": "2025-11-20",
     "headline": "颂扬保护与美",
     "title": "查帕达迪亚曼蒂纳国家公园，巴伊亚州，巴西",
     "description": "查帕达迪亚曼蒂纳国家公园拥有宛如梦境般的自然美景，该公园创建于1985年，今年迎来了其40周年的保护纪念日。这座位于巴伊亚州腹地的公园，拥有约15.2万公顷的壮丽景观，是巴西最令人惊叹的生态旅游目的地之一。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-11-19 16:37:33
+UpdataTime：2025-11-20 02:04:39
