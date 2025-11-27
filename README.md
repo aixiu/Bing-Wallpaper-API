@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-11-26",
+    "date": "2025-11-27",
     "headline": "潮起潮落的坚守",
     "title": "伊斯特本码头, 东萨塞克斯郡, 英格兰",
     "description": "作为英国海滨的地标之一，伊斯特本码头不仅掀起浪花，更在浪潮中屹立了150余年。它于 1870年正式开放，这座维多利亚时代的奇迹经历了风暴、火灾，甚至战争的洗礼。码头优雅地伸向英吉利海峡，最初作为蒸汽船的停靠点，后来随着时间的推移，逐渐演变为一处可以漫步于海面之上，在游戏机前投入几枚硬币，收获几段美好回忆的休闲胜地。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-11-26 16:37:29
+UpdataTime：2025-11-27 02:05:43
