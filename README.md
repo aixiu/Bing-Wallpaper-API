@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![伊斯特本码头, 东萨塞克斯郡, 英格兰](https://cn.bing.com/th?id=OHR.PierOfEastbourne2025_ZH-CN7178301269_1920x1080.webp)
-Today: [伊斯特本码头, 东萨塞克斯郡, 英格兰](https://cn.bing.com/th?id=OHR.PierOfEastbourne2025_ZH-CN7178301269_1920x1080.webp) - 潮起潮落的坚守
+![瓦尔·布兰德特, 布雷西亚, 伦巴第大区, 意大利](https://cn.bing.com/th?id=OHR.InvernoItalia_ZH-CN1329490862_1920x1080.webp)
+Today: [瓦尔·布兰德特, 布雷西亚, 伦巴第大区, 意大利](https://cn.bing.com/th?id=OHR.InvernoItalia_ZH-CN1329490862_1920x1080.webp) - 白色回响
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-11-27",
-    "headline": "潮起潮落的坚守",
-    "title": "伊斯特本码头, 东萨塞克斯郡, 英格兰",
-    "description": "作为英国海滨的地标之一，伊斯特本码头不仅掀起浪花，更在浪潮中屹立了150余年。它于 1870年正式开放，这座维多利亚时代的奇迹经历了风暴、火灾，甚至战争的洗礼。码头优雅地伸向英吉利海峡，最初作为蒸汽船的停靠点，后来随着时间的推移，逐渐演变为一处可以漫步于海面之上，在游戏机前投入几枚硬币，收获几段美好回忆的休闲胜地。",
-    "image_url": "https://cn.bing.com/th?id=OHR.PierOfEastbourne2025_ZH-CN7178301269_1920x1080.webp",
-    "main_text": "第二次世界大战期间，伊斯特本码头的尽头安装了机枪平台，这座原本轻松欢快的海滨游乐地一度化身为抵御敌军登陆的防御工事。"
+    "headline": "白色回响",
+    "title": "瓦尔·布兰德特, 布雷西亚, 伦巴第大区, 意大利",
+    "description": "伦巴第大区的亚当洛公园深处，瓦尔·布兰德特静卧于雪的怀抱，冬日的静谧在此化作诗意的低语。我们身处科尔泰诺·高尔基小镇，这座以诺贝尔医学奖得主高尔基命名的小镇，承载着他的记忆与荣耀。这里不仅有科学的印记，更有自然的纯美，是历史与风景交织的圣地。",
+    "image_url": "https://cn.bing.com/th?id=OHR.InvernoItalia_ZH-CN1329490862_1920x1080.webp",
+    "main_text": "卡米洛·高尔基是首位荣获诺贝尔医学奖的意大利人，该奖项于1906年授予他，以表彰其在神经系统研究领域的发现。他因发现对细胞功能至关重要的高尔基体而闻名于世。"
 }
 ```
 
-UpdataTime：2025-11-27 08:38:23
+UpdataTime：2025-11-27 16:35:34
