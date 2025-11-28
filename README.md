@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-11-27",
+    "date": "2025-11-28",
     "headline": "白色回响",
     "title": "瓦尔·布兰德特, 布雷西亚, 伦巴第大区, 意大利",
     "description": "伦巴第大区的亚当洛公园深处，瓦尔·布兰德特静卧于雪的怀抱，冬日的静谧在此化作诗意的低语。我们身处科尔泰诺·高尔基小镇，这座以诺贝尔医学奖得主高尔基命名的小镇，承载着他的记忆与荣耀。这里不仅有科学的印记，更有自然的纯美，是历史与风景交织的圣地。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-11-27 16:35:34
+UpdataTime：2025-11-28 02:05:21
