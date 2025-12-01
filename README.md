@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-11-30",
+    "date": "2025-12-01",
     "headline": "冰雪凝息之处",
     "title": "冰山上天然形成的拱门, 南极洲",
     "description": "有些照片定格了自然的宏伟瞬间，而真正出色的作品更能揭示深层的故事：在一帧之中，力量与脆弱的微妙平衡，提醒我们地球的脆弱与伟大。今日这张展现南极冰山天然拱门的照片正是如此，它开启了关于宏伟、脆弱、环境与未来的对话。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-11-30 16:33:26
+UpdataTime：2025-12-01 02:34:57
