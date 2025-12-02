@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-![柳树湖与布莱克本山, 兰格尔－圣伊利亚斯国家公园暨保护区, 阿拉斯加州, 美国](https://cn.bing.com/th?id=OHR.WillowLake_ZH-CN9798614021_1920x1080.webp)
-Today: [柳树湖与布莱克本山, 兰格尔－圣伊利亚斯国家公园暨保护区, 阿拉斯加州, 美国](https://cn.bing.com/th?id=OHR.WillowLake_ZH-CN9798614021_1920x1080.webp) - 一景胜千言
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2025-12-02",
     "headline": "一景胜千言",
@@ -42,6 +6,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url": "https://cn.bing.com/th?id=OHR.WillowLake_ZH-CN9798614021_1920x1080.webp",
     "main_text": "该公园和保护区面积超过瑞士国土，从阿拉斯加湾一路延展至内陆，海拔自海平面攀升至近6000米，造就了丰富的生命栖息地。这里，巍峨的群峰披着永恒的冰雪，冰川与冰原在阳光下闪耀，仿佛时间凝固的世界。"
 }
-```
-
-UpdataTime：2025-12-02 02:12:55
