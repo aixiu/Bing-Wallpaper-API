@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-12-06",
+    "date": "2025-12-07",
     "headline": "雪落下的声音",
     "title": "雪中的故宫，中国北京",
     "description": "今天是中国传统二十四节气中的大雪节气。大雪的到来预示着气温将逐渐降低，冬季降水量也将增加。大雪期间，中国大部分地区已进入严冬，北方部分地区的气温甚至会降至零度以下。北方大地呈现出“万里冰封”的壮丽景象，而南方则展现出“雪花飘舞，万物银装素裹”的迷人景色。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-12-06 16:33:10
+UpdataTime：2025-12-07 02:26:12
