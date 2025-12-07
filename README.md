@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![雪中的故宫，中国北京](https://cn.bing.com/th?id=OHR.TheGreatSnowY25_ZH-CN2448918230_1920x1080.webp)
-Today: [雪中的故宫，中国北京](https://cn.bing.com/th?id=OHR.TheGreatSnowY25_ZH-CN2448918230_1920x1080.webp) - 雪落下的声音
+![多马索的建筑上的圣诞彩灯，科莫湖，意大利](https://cn.bing.com/th?id=OHR.ComoChristmas_ZH-CN2565627033_1920x1080.webp)
+Today: [多马索的建筑上的圣诞彩灯，科莫湖，意大利](https://cn.bing.com/th?id=OHR.ComoChristmas_ZH-CN2565627033_1920x1080.webp) - 一切安详，一切明亮
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-12-07",
-    "headline": "雪落下的声音",
-    "title": "雪中的故宫，中国北京",
-    "description": "今天是中国传统二十四节气中的大雪节气。大雪的到来预示着气温将逐渐降低，冬季降水量也将增加。大雪期间，中国大部分地区已进入严冬，北方部分地区的气温甚至会降至零度以下。北方大地呈现出“万里冰封”的壮丽景象，而南方则展现出“雪花飘舞，万物银装素裹”的迷人景色。",
-    "image_url": "https://cn.bing.com/th?id=OHR.TheGreatSnowY25_ZH-CN2448918230_1920x1080.webp",
-    "main_text": "紫禁城是世界上规模最大、保存最完好的古代木构建筑群之一。"
+    "headline": "一切安详，一切明亮",
+    "title": "多马索的建筑上的圣诞彩灯，科莫湖，意大利",
+    "description": "当意大利科莫湖上闪烁的灯光比星辰更耀眼时，你就会知道，圣诞节已在多马索登场。这个昔日的渔村，如今每到冬季便化身为闪亮的节日舞台：粉彩色的房屋、古老的教堂与湖畔别墅被光带缠绕，交织成一幅梦幻的圣诞画卷。",
+    "image_url": "https://cn.bing.com/th?id=OHR.ComoChristmas_ZH-CN2565627033_1920x1080.webp",
+    "main_text": "科莫湖，又名拉里奥湖，是意大利伦巴第大区的一座冰川湖。它是意大利第三大湖，仅次于加尔达湖和马焦雷湖。湖深超过400米，是欧洲最深的湖泊之一。"
 }
 ```
 
-UpdataTime：2025-12-07 08:33:47
+UpdataTime：2025-12-07 16:32:37
