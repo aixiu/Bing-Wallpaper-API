@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-12-07",
+    "date": "2025-12-08",
     "headline": "一切安详，一切明亮",
     "title": "多马索的建筑上的圣诞彩灯，科莫湖，意大利",
     "description": "当意大利科莫湖上闪烁的灯光比星辰更耀眼时，你就会知道，圣诞节已在多马索登场。这个昔日的渔村，如今每到冬季便化身为闪亮的节日舞台：粉彩色的房屋、古老的教堂与湖畔别墅被光带缠绕，交织成一幅梦幻的圣诞画卷。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-12-07 16:32:37
+UpdataTime：2025-12-08 02:17:40
