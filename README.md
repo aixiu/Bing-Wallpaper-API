@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![从伦佐拉山口眺望珠穆朗玛峰日落时分的峰顶，尼泊尔](https://cn.bing.com/th?id=OHR.EverestGlow_ZH-CN4985720231_1920x1080.webp)
-Today: [从伦佐拉山口眺望珠穆朗玛峰日落时分的峰顶，尼泊尔](https://cn.bing.com/th?id=OHR.EverestGlow_ZH-CN4985720231_1920x1080.webp) - 天地相接之处
+![有斑点的一品红](https://cn.bing.com/th?id=OHR.SpeckledPoinsettia_ZH-CN3726763235_1920x1080.webp)
+Today: [有斑点的一品红](https://cn.bing.com/th?id=OHR.SpeckledPoinsettia_ZH-CN3726763235_1920x1080.webp) - 点亮节日的红色植物
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-12-11",
-    "headline": "天地相接之处",
-    "title": "从伦佐拉山口眺望珠穆朗玛峰日落时分的峰顶，尼泊尔",
-    "description": "每年12月11日，我们庆祝“国际山岳日”， 以此致敬塑造地球的雄伟山脉与哺育生命的冰川。从起伏的阿尔卑斯山到巍峨的喜马拉雅，山地覆盖了地球陆地面积的近四分之一，栖息着全球约 15% 的人口与近一半的生物多样性热点地区。世界最高峰珠穆朗玛峰，海拔逾29,000英尺，象征着人类的追求与自然的壮丽。其冰川滋养着无数河流，维系着数以百万计的生命，证明了山脉不仅是风景，更是地球的生命线。",
-    "image_url": "https://cn.bing.com/th?id=OHR.EverestGlow_ZH-CN4985720231_1920x1080.webp",
-    "main_text": "位于珠穆朗玛峰北坡脚下的绒布河由冰川融水汇成。近年随着冰川加速融化，径流量明显增加，为下游地区提供了更多水资源。"
+    "headline": "点亮节日的红色植物",
+    "title": "有斑点的一品红",
+    "description": "有些植物只是静静地待在窗台上，而一品红却注定要闪耀。它鲜艳夺目，红得像鲁道夫的鼻尖，是十二月的明星，甚至拥有自己的节日——12月12日的一品红日。在成为圣诞装饰之前，这种灌木经历了漫长旅程。很久以前，它生长在墨西哥的野地，阿兹特克人用它制染料、做药材。直到19世纪20年代，美国外交官乔尔·罗伯茨·波因塞特被它的魅力吸引，将它带回家。之后的故事，便是历史与植物学的篇章。",
+    "image_url": "https://cn.bing.com/th?id=OHR.SpeckledPoinsettia_ZH-CN3726763235_1920x1080.webp",
+    "main_text": "在墨西哥，一品红被称为\"圣诞夜之花\"，自17世纪起，它便成为圣诞庆典的传统装饰。"
 }
 ```
 
-UpdataTime：2025-12-11 08:40:36
+UpdataTime：2025-12-11 16:44:54
