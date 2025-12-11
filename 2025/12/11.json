@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-![从伦佐拉山口眺望珠穆朗玛峰日落时分的峰顶，尼泊尔](https://cn.bing.com/th?id=OHR.EverestGlow_ZH-CN4985720231_1920x1080.webp)
-Today: [从伦佐拉山口眺望珠穆朗玛峰日落时分的峰顶，尼泊尔](https://cn.bing.com/th?id=OHR.EverestGlow_ZH-CN4985720231_1920x1080.webp) - 天地相接之处
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2025-12-11",
     "headline": "天地相接之处",
@@ -42,6 +6,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url": "https://cn.bing.com/th?id=OHR.EverestGlow_ZH-CN4985720231_1920x1080.webp",
     "main_text": "位于珠穆朗玛峰北坡脚下的绒布河由冰川融水汇成。近年随着冰川加速融化，径流量明显增加，为下游地区提供了更多水资源。"
 }
-```
-
-UpdataTime：2025-12-11 02:20:49
