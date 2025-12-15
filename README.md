@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-12-14",
+    "date": "2025-12-15",
     "headline": "静谧水波，闪耀灯影",
     "title": "斯皮格尔运河上的灯光装饰, 阿姆斯特丹, 荷兰",
     "description": "你有没有想过，运河如何影响城市的演变？几千年来，人们修筑运河，用于运输、控水和连接各地。从古代美索不达米亚和埃及，到中世纪的欧洲，运河让威尼斯、布鲁日等城市成为繁荣的贸易枢纽。到了17世纪，荷兰更进一步，规划出影响城市格局的水道，阿姆斯特丹便是其中的典范。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-12-14 16:34:05
+UpdataTime：2025-12-15 02:24:46
