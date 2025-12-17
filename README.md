@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![在诺森伯兰郡的欧亚红松鼠, 英格兰](https://cn.bing.com/th?id=OHR.FrostySquirrel_ZH-CN4613360783_1920x1080.webp)
-Today: [在诺森伯兰郡的欧亚红松鼠, 英格兰](https://cn.bing.com/th?id=OHR.FrostySquirrel_ZH-CN4613360783_1920x1080.webp) - 皮毛、霜冻和盛宴
+![太阳神庙，圆顶礁国家公园, 犹他州, 美国](https://cn.bing.com/th?id=OHR.CathedralValley_ZH-CN5237441521_1920x1080.webp)
+Today: [太阳神庙，圆顶礁国家公园, 犹他州, 美国](https://cn.bing.com/th?id=OHR.CathedralValley_ZH-CN5237441521_1920x1080.webp) - 犹他州的时光层叠
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-12-17",
-    "headline": "皮毛、霜冻和盛宴",
-    "title": "在诺森伯兰郡的欧亚红松鼠, 英格兰",
-    "description": "谁能抗拒这张软乎乎的小脸？一只欧亚红松鼠栖息在积雪覆盖的松枝上，前爪紧紧抓着松果，仿佛那是世上最后的美食。这些灵巧的小家伙全年忙碌：夏季采集坚果、种子和菌类，冬季则靠储存的松果维持生活。",
-    "image_url": "https://cn.bing.com/th?id=OHR.FrostySquirrel_ZH-CN4613360783_1920x1080.webp",
-    "main_text": "红松鼠只要挺过第一个寒冬，通常能活3年左右。有的能活到7岁，而在圈养状态下，其寿命可延长至10年。"
+    "headline": "犹他州的时光层叠",
+    "title": "太阳神庙，圆顶礁国家公园, 犹他州, 美国",
+    "description": "数百万年的岩层沉积，伴随地壳的巨大弯曲，造就了这片沙漠独一无二的地质窗口。这里是犹他州的圆顶礁国家公园，砂岩峭壁与峡谷像一本打开的历史书，记录着地球的沧桑。1971年12月18日，它被正式列为国家公园。今日的图片聚焦大教堂谷的砂岩巨石，其中包括壮丽的“太阳神殿”，彰显这片景观的非凡魅力。",
+    "image_url": "https://cn.bing.com/th?id=OHR.CathedralValley_ZH-CN5237441521_1920x1080.webp",
+    "main_text": "圆顶礁国家公园涵盖多种生态区，包括高海拔、凉爽的常绿林峰，植被茂密的河岸地带，以及干燥炎热的沙漠。"
 }
 ```
 
-UpdataTime：2025-12-17 08:41:48
+UpdataTime：2025-12-17 16:40:55
