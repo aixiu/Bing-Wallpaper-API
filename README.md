@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-12-17",
+    "date": "2025-12-18",
     "headline": "犹他州的时光层叠",
     "title": "太阳神庙，圆顶礁国家公园, 犹他州, 美国",
     "description": "数百万年的岩层沉积，伴随地壳的巨大弯曲，造就了这片沙漠独一无二的地质窗口。这里是犹他州的圆顶礁国家公园，砂岩峭壁与峡谷像一本打开的历史书，记录着地球的沧桑。1971年12月18日，它被正式列为国家公园。今日的图片聚焦大教堂谷的砂岩巨石，其中包括壮丽的“太阳神殿”，彰显这片景观的非凡魅力。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-12-17 16:40:55
+UpdataTime：2025-12-18 02:17:04
