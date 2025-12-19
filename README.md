@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![博尔米奥的雪景，伦巴第大区，意大利](https://cn.bing.com/th?id=OHR.BormioItaly_ZH-CN5397313772_1920x1080.webp)
-Today: [博尔米奥的雪景，伦巴第大区，意大利](https://cn.bing.com/th?id=OHR.BormioItaly_ZH-CN5397313772_1920x1080.webp) - 高山的悠久历史
+![圣诞星形灯笼，德国](https://cn.bing.com/th?id=OHR.StarLanterns_ZH-CN5598071900_1920x1080.webp)
+Today: [圣诞星形灯笼，德国](https://cn.bing.com/th?id=OHR.StarLanterns_ZH-CN5598071900_1920x1080.webp) - 闪烁的纸星星
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-12-19",
-    "headline": "高山的悠久历史",
-    "title": "博尔米奥的雪景，伦巴第大区，意大利",
-    "description": "博尔米奥位于意大利北部伦巴第大区的阿尔卑斯山中，靠近斯泰尔维奥山口。这片地势险峻的山地数百年来连接着不同山谷中的社区，塑造了当地人生活与迁徙的方式。今日图片中的冬季景观，正映照出这座高山小镇的地理特征与它与群峰之间延续千年的纽带。",
-    "image_url": "https://cn.bing.com/th?id=OHR.BormioItaly_ZH-CN5397313772_1920x1080.webp",
-    "main_text": "博尔米奥保留着独特的中世纪古镇中心，吸引着众多游客。它也将成为2026年冬季奥运会高山滑雪项目的举办地。"
+    "headline": "闪烁的纸星星",
+    "title": "圣诞星形灯笼，德国",
+    "description": "随着圣诞临近，星形灯笼开始在各处亮起：闪烁在阳台上，点亮橱窗，照亮集市摊位。它们的光芒穿透漫长的冬夜，为街道和家中带来欢乐、色彩与节日的温暖。然而，这些节日装饰背后，有着一个和它们的光芒一样迷人的故事。",
+    "image_url": "https://cn.bing.com/th?id=OHR.StarLanterns_ZH-CN5598071900_1920x1080.webp",
+    "main_text": "尽管“圣诞之星”已成为节日中最受喜爱的象征之一，但它所代表的“伯利恒之星”在《圣经》中其实只被提及过一次。"
 }
 ```
 
-UpdataTime：2025-12-19 08:40:34
+UpdataTime：2025-12-19 16:37:29
