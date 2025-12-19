@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-12-18",
+    "date": "2025-12-19",
     "headline": "高山的悠久历史",
     "title": "博尔米奥的雪景，伦巴第大区，意大利",
     "description": "博尔米奥位于意大利北部伦巴第大区的阿尔卑斯山中，靠近斯泰尔维奥山口。这片地势险峻的山地数百年来连接着不同山谷中的社区，塑造了当地人生活与迁徙的方式。今日图片中的冬季景观，正映照出这座高山小镇的地理特征与它与群峰之间延续千年的纽带。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-12-18 16:42:35
+UpdataTime：2025-12-19 02:20:09
