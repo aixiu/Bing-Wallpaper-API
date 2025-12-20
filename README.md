@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-12-19",
+    "date": "2025-12-20",
     "headline": "闪烁的纸星星",
     "title": "圣诞星形灯笼，德国",
     "description": "随着圣诞临近，星形灯笼开始在各处亮起：闪烁在阳台上，点亮橱窗，照亮集市摊位。它们的光芒穿透漫长的冬夜，为街道和家中带来欢乐、色彩与节日的温暖。然而，这些节日装饰背后，有着一个和它们的光芒一样迷人的故事。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-12-19 16:37:29
+UpdataTime：2025-12-20 08:35:27
