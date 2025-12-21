@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-12-20",
+    "date": "2025-12-21",
     "headline": "美丽的雾凇景色",
     "title": "美丽的雾凇景色，大庆市，黑龙江省，中国",
     "description": "当2025年的冬至如期而至，北国大地被银装素裹，东北的雾凇奇景更添了几分童话般的浪漫。漫步在雾凇林中，脚下是松软的积雪，发出细微的沙沙声，仿佛是大自然最轻柔的私语。空气中弥漫着清新的气息，仿佛能净化一切尘埃，让人心旷神怡。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-12-20 16:33:54
+UpdataTime：2025-12-21 08:36:04
