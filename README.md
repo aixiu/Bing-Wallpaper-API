@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-12-23",
+    "date": "2025-12-24",
     "headline": "流动的传统",
     "title": "巴伐利亚阿尔卑斯山脉的雪中教堂与圣诞树，德国",
     "description": "随着平安夜的到来，数以百万计的人们拥抱那些将我们与根源相连的习俗，或者接触全新的文化。如今日图片中所见的那样，在德国巴伐利亚阿尔卑斯山的雪景中，节日灯光在寒冬中闪耀；而在地球的另一端，比如加勒比海、澳大利亚或巴西，耀眼阳光洒在金色海滩上，圣诞节的画面则截然不同",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-12-23 16:38:56
+UpdataTime：2025-12-24 02:19:28
