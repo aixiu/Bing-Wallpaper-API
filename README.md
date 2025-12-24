@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![巴伐利亚阿尔卑斯山脉的雪中教堂与圣诞树，德国](https://cn.bing.com/th?id=OHR.ElmauChapel_ZH-CN6919330333_1920x1080.webp)
-Today: [巴伐利亚阿尔卑斯山脉的雪中教堂与圣诞树，德国](https://cn.bing.com/th?id=OHR.ElmauChapel_ZH-CN6919330333_1920x1080.webp) - 流动的传统
+![海德堡圣诞市场上的雪球，德国](https://cn.bing.com/th?id=OHR.SantaGlobe_ZH-CN7032279153_1920x1080.webp)
+Today: [海德堡圣诞市场上的雪球，德国](https://cn.bing.com/th?id=OHR.SantaGlobe_ZH-CN7032279153_1920x1080.webp) - 微缩世界，无尽奇想
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-12-24",
-    "headline": "流动的传统",
-    "title": "巴伐利亚阿尔卑斯山脉的雪中教堂与圣诞树，德国",
-    "description": "随着平安夜的到来，数以百万计的人们拥抱那些将我们与根源相连的习俗，或者接触全新的文化。如今日图片中所见的那样，在德国巴伐利亚阿尔卑斯山的雪景中，节日灯光在寒冬中闪耀；而在地球的另一端，比如加勒比海、澳大利亚或巴西，耀眼阳光洒在金色海滩上，圣诞节的画面则截然不同",
-    "image_url": "https://cn.bing.com/th?id=OHR.ElmauChapel_ZH-CN6919330333_1920x1080.webp",
-    "main_text": "传统的圣诞节点心包括姜饼、德国圣诞果脯面包、奶油酥饼，以及杏仁软糖。"
+    "headline": "微缩世界，无尽奇想",
+    "title": "海德堡圣诞市场上的雪球，德国",
+    "description": "在德国海德堡的冬日天空下，集市摊位间闪烁着一只只雪花水晶球，每个玻璃球都以微缩世界的形式捕捉着节日的氛围。如今的圣诞节一个关于信仰、光明与团聚的基督教庆典，邀请我们在一年中最寒冷的日子里迎来温暖与欢乐。在世界各地，窗台上的烛光温柔摇曳，花环装点着街巷与家门，常青树装饰一新，枝头挂满饰品，树下的礼物静静等待被打开。",
+    "image_url": "https://cn.bing.com/th?id=OHR.SantaGlobe_ZH-CN7032279153_1920x1080.webp",
+    "main_text": "在大多数西方国家，圣诞节是一年中商业活动最为冷清的一天；几乎所有零售店、商铺和公共机构都会关门停业，几乎所有行业也都会暂停运作，无论法律是否有此规定。"
 }
 ```
 
-UpdataTime：2025-12-24 08:40:09
+UpdataTime：2025-12-24 16:36:12
