@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-12-26",
+    "date": "2025-12-27",
     "headline": "冬之碎片",
     "title": "苏必利尔湖沿岸的冰层，大马雷，明尼苏达州，美国",
     "description": "在明尼苏达的苏必利尔湖，冬季来临时，湖岸会出现一种名为“板冰”的奇特景象：薄冰在温度变化下破裂，随风漂移并堆叠，最终形成倾斜的冰片，如同玻璃碎片般闪耀。蓝色与银色交织的半透明冰面在阳光下折射出锐利的光影，使湖边看起来更像艺术雕塑，而非冰封。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-12-26 16:34:58
+UpdataTime：2025-12-27 08:36:54
