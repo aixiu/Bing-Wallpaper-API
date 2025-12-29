@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-12-28",
+    "date": "2025-12-29",
     "headline": "一座比城市更悠久的教堂",
     "title": "阿尼遗址的圣格雷戈里教堂，卡尔斯省，土耳其",
     "description": "在土耳其东部与亚美尼亚接壤的边境地带，一片风吹草低的台地上，阿尼古城遗址在荒野中清晰浮现。千年前，这里是丝绸之路上的繁华都城，城墙巍峨，街市喧闹，商旅往来不息，文化在此交汇。如今，风声取代了人声，但那沧桑的轮廓，仍默默诉说着昔日的辉煌。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-12-28 16:35:56
+UpdataTime：2025-12-29 02:31:37
