@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-12-30",
+    "date": "2025-12-31",
     "headline": "柏林，新年之桥",
     "title": "除夕夜，奥伯鲍姆桥，柏林，德国",
     "description": "三、二、一……等等，先按下暂停键。新年还没到，但柏林的奥伯鲍姆桥仿佛已经提前按下了“庆祝”按钮。今晚，这座桥不再只是河上的通道，而是一条通往新年的跑道：引擎低鸣，烟花预热，人群齐声练习着那句“新年快乐！”",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-12-30 16:38:36
+UpdataTime：2025-12-31 08:40:31
