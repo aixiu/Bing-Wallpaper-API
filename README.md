@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![除夕夜，奥伯鲍姆桥，柏林，德国](https://cn.bing.com/th?id=OHR.GermanyNewYear_ZH-CN9155122755_1920x1080.webp)
-Today: [除夕夜，奥伯鲍姆桥，柏林，德国](https://cn.bing.com/th?id=OHR.GermanyNewYear_ZH-CN9155122755_1920x1080.webp) - 柏林，新年之桥
+![正在睡觉的北极狐](https://cn.bing.com/th?id=OHR.NewYearFox_ZH-CN9312618796_1920x1080.webp)
+Today: [正在睡觉的北极狐](https://cn.bing.com/th?id=OHR.NewYearFox_ZH-CN9312618796_1920x1080.webp) - 伸个懒腰，迈向新年！
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2025-12-31",
-    "headline": "柏林，新年之桥",
-    "title": "除夕夜，奥伯鲍姆桥，柏林，德国",
-    "description": "三、二、一……等等，先按下暂停键。新年还没到，但柏林的奥伯鲍姆桥仿佛已经提前按下了“庆祝”按钮。今晚，这座桥不再只是河上的通道，而是一条通往新年的跑道：引擎低鸣，烟花预热，人群齐声练习着那句“新年快乐！”",
-    "image_url": "https://cn.bing.com/th?id=OHR.GermanyNewYear_ZH-CN9155122755_1920x1080.webp",
-    "main_text": "新年的脚步由时区决定。最先跨入新年的，是国际日期变更线以西的太平洋岛屿：基里巴斯的莱恩群岛、萨摩亚，以及汤加。"
+    "headline": "伸个懒腰，迈向新年！",
+    "title": "正在睡觉的北极狐",
+    "description": "是否感觉需要补足整整一年的休息？今日图片上的这只北极狐懂你，它正窝在冰原岩石间，享受惬意时光。无论新年伴随寒风还是暖阳而来，请给自己五分钟，让身体舒展，再迎接接下来的365天。",
+    "image_url": "https://cn.bing.com/th?id=OHR.NewYearFox_ZH-CN9312618796_1920x1080.webp",
+    "main_text": "格里高利历在儒略历的基础上优化了闰年制度，让历法更精准，避免季节随时间逐渐错位。"
 }
 ```
 
-UpdataTime：2025-12-31 08:40:31
+UpdataTime：2025-12-31 16:36:38
