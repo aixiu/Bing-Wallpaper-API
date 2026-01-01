@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2025-12-31",
+    "date": "2026-01-01",
     "headline": "伸个懒腰，迈向新年！",
     "title": "正在睡觉的北极狐",
     "description": "是否感觉需要补足整整一年的休息？今日图片上的这只北极狐懂你，它正窝在冰原岩石间，享受惬意时光。无论新年伴随寒风还是暖阳而来，请给自己五分钟，让身体舒展，再迎接接下来的365天。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2025-12-31 16:36:38
+UpdataTime：2026-01-01 02:34:26
