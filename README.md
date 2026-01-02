@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![威尼斯鸟瞰图, 意大利](https://cn.bing.com/th?id=OHR.VeniceView_ZH-CN3088407995_1920x1080.webp)
-Today: [威尼斯鸟瞰图, 意大利](https://cn.bing.com/th?id=OHR.VeniceView_ZH-CN3088407995_1920x1080.webp) - 威尼斯的灵魂
+![劳特布隆嫩的施陶巴赫瀑布, 伯尔尼州, 瑞士](https://cn.bing.com/th?id=OHR.LauterbrunnenValley_ZH-CN0118001217_1920x1080.webp)
+Today: [劳特布隆嫩的施陶巴赫瀑布, 伯尔尼州, 瑞士](https://cn.bing.com/th?id=OHR.LauterbrunnenValley_ZH-CN0118001217_1920x1080.webp) - 传奇故事前的篇章
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-01-02",
-    "headline": "威尼斯的灵魂",
-    "title": "威尼斯鸟瞰图, 意大利",
-    "description": "从高空俯瞰威尼斯，宛如一幅迷人的水上画卷，但这座意大利瑰宝真正的魅力，藏在古老墙垣与曲折水巷之间。公元5世纪，它在潟湖中的一簇岛屿上诞生，由沼泽蜕变为海上霸主。中世纪时期，威尼斯成为连接欧洲与东方的重要贸易枢纽，财富与文化在此交织。如今，哥特式宫殿、文艺复兴艺术，以及圣马可大教堂、公爵宫、里亚托桥等地标，仍在诉说这座城市的辉煌历史。",
-    "image_url": "https://cn.bing.com/th?id=OHR.VeniceView_ZH-CN3088407995_1920x1080.webp",
-    "main_text": "威尼斯的灵魂，古老而迷人，由118座岛屿织成水上锦图，400余座桥梁将它们串联。纵横的运河如脉络般流淌，贡多拉与船只穿梭不止，宛若一场永恒的奇迹。"
+    "headline": "传奇故事前的篇章",
+    "title": "劳特布隆嫩的施陶巴赫瀑布, 伯尔尼州, 瑞士",
+    "description": "今日图片带我们走进瑞士劳特布隆嫩小镇，静谧山谷间，远处的施陶巴赫瀑布在阳光下闪烁。1911年，年轻的托尔金曾在徒步旅行中穿越这里，那时他还未成为《魔戒》和《霍比特人》的作者。巍峨的峭壁、银白的瀑流和清冽的山风，深深印刻在他的记忆中，被认为启发了他笔下的瑞文戴尔——中土世界中隐秘的精灵圣地。",
+    "image_url": "https://cn.bing.com/th?id=OHR.LauterbrunnenValley_ZH-CN0118001217_1920x1080.webp",
+    "main_text": "劳特布隆嫩山谷以翼装低空跳伞胜地著称，峡谷狭长、岩壁陡峭，共有13个合法跳伞点，吸引世界各地的冒险者前来挑战。"
 }
 ```
 
-UpdataTime：2026-01-02 08:40:14
+UpdataTime：2026-01-02 16:36:49
