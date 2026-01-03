@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![劳特布隆嫩的施陶巴赫瀑布, 伯尔尼州, 瑞士](https://cn.bing.com/th?id=OHR.LauterbrunnenValley_ZH-CN0118001217_1920x1080.webp)
-Today: [劳特布隆嫩的施陶巴赫瀑布, 伯尔尼州, 瑞士](https://cn.bing.com/th?id=OHR.LauterbrunnenValley_ZH-CN0118001217_1920x1080.webp) - 传奇故事前的篇章
+![国王山, 楚加奇山脉, 阿拉斯加, 美国](https://cn.bing.com/th?id=OHR.KingMountain_ZH-CN0397508222_1920x1080.webp)
+Today: [国王山, 楚加奇山脉, 阿拉斯加, 美国](https://cn.bing.com/th?id=OHR.KingMountain_ZH-CN0397508222_1920x1080.webp) - 王者视野
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-01-03",
-    "headline": "传奇故事前的篇章",
-    "title": "劳特布隆嫩的施陶巴赫瀑布, 伯尔尼州, 瑞士",
-    "description": "今日图片带我们走进瑞士劳特布隆嫩小镇，静谧山谷间，远处的施陶巴赫瀑布在阳光下闪烁。1911年，年轻的托尔金曾在徒步旅行中穿越这里，那时他还未成为《魔戒》和《霍比特人》的作者。巍峨的峭壁、银白的瀑流和清冽的山风，深深印刻在他的记忆中，被认为启发了他笔下的瑞文戴尔——中土世界中隐秘的精灵圣地。",
-    "image_url": "https://cn.bing.com/th?id=OHR.LauterbrunnenValley_ZH-CN0118001217_1920x1080.webp",
-    "main_text": "劳特布隆嫩山谷以翼装低空跳伞胜地著称，峡谷狭长、岩壁陡峭，共有13个合法跳伞点，吸引世界各地的冒险者前来挑战。"
+    "headline": "王者视野",
+    "title": "国王山, 楚加奇山脉, 阿拉斯加, 美国",
+    "description": "在阿拉斯加楚加奇山脉，国王山不仅仅是远方的轮廓，它的雄浑之美足以让人停下脚步凝视。海拔逾5800英尺，坐落在帕尔默东北约22英里，俯瞰格伦公路第75英里段，这条公路因壮丽景观而闻名。山体的坡面刻满冰川遗痕，沟谷与山脊如同天然的冒险乐园。",
+    "image_url": "https://cn.bing.com/th?id=OHR.KingMountain_ZH-CN0397508222_1920x1080.webp",
+    "main_text": "国王山的气温可能骤降至极低水平，最低可降至零下4°F（约零下20 °C）。最佳的游览或攀登时节通常在5月至6月，这段时间天气更为宜人。"
 }
 ```
 
-UpdataTime：2026-01-03 08:37:10
+UpdataTime：2026-01-03 16:35:16
