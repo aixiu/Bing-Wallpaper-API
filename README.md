@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![国王山, 楚加奇山脉, 阿拉斯加, 美国](https://cn.bing.com/th?id=OHR.KingMountain_ZH-CN0397508222_1920x1080.webp)
-Today: [国王山, 楚加奇山脉, 阿拉斯加, 美国](https://cn.bing.com/th?id=OHR.KingMountain_ZH-CN0397508222_1920x1080.webp) - 王者视野
+![一群高角羚, 隆多洛齐野生动物保护区, 南非](https://cn.bing.com/th?id=OHR.ImpalaRooibok_ZH-CN2307890154_1920x1080.webp)
+Today: [一群高角羚, 隆多洛齐野生动物保护区, 南非](https://cn.bing.com/th?id=OHR.ImpalaRooibok_ZH-CN2307890154_1920x1080.webp) - 高角羚群紧急戒备
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-01-04",
-    "headline": "王者视野",
-    "title": "国王山, 楚加奇山脉, 阿拉斯加, 美国",
-    "description": "在阿拉斯加楚加奇山脉，国王山不仅仅是远方的轮廓，它的雄浑之美足以让人停下脚步凝视。海拔逾5800英尺，坐落在帕尔默东北约22英里，俯瞰格伦公路第75英里段，这条公路因壮丽景观而闻名。山体的坡面刻满冰川遗痕，沟谷与山脊如同天然的冒险乐园。",
-    "image_url": "https://cn.bing.com/th?id=OHR.KingMountain_ZH-CN0397508222_1920x1080.webp",
-    "main_text": "国王山的气温可能骤降至极低水平，最低可降至零下4°F（约零下20 °C）。最佳的游览或攀登时节通常在5月至6月，这段时间天气更为宜人。"
+    "headline": "高角羚群紧急戒备",
+    "title": "一群高角羚, 隆多洛齐野生动物保护区, 南非",
+    "description": "隆多洛齐野生动物保护区的独特之处，不仅在于草原上的野生动物，更在于其坚守了近百年的守护。自1926年起，这片58平方英里的土地持续支持着野生动物研究工作，并监测着动物在自然栖息地中的行为。它坐落于萨比桑私人保护区，是非洲五大兽的栖息地，并与克鲁格国家公园相连，构建开放的生态系统，让象群、犀牛、狮子、豹、斑马和众多羚羊物种得以在无围栏阻隔的广袤天地间自由迁徙。",
+    "image_url": "https://cn.bing.com/th?id=OHR.ImpalaRooibok_ZH-CN2307890154_1920x1080.webp",
+    "main_text": "根据国际自然保护联盟（IUCN）的分类，高角羚整体并不处于危险状态，被列为“无危”物种。但黑脸高角羚情况不同，它被认定为“易危”物种，截至2008年，野外数量估计不到1000只。"
 }
 ```
 
-UpdataTime：2026-01-04 08:38:11
+UpdataTime：2026-01-04 16:35:35
