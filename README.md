@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![一群高角羚, 隆多洛齐野生动物保护区, 南非](https://cn.bing.com/th?id=OHR.ImpalaRooibok_ZH-CN2307890154_1920x1080.webp)
-Today: [一群高角羚, 隆多洛齐野生动物保护区, 南非](https://cn.bing.com/th?id=OHR.ImpalaRooibok_ZH-CN2307890154_1920x1080.webp) - 高角羚群紧急戒备
+![努克, 格陵兰](https://cn.bing.com/th?id=OHR.NuukGreenland_ZH-CN2414771686_1920x1080.webp)
+Today: [努克, 格陵兰](https://cn.bing.com/th?id=OHR.NuukGreenland_ZH-CN2414771686_1920x1080.webp) - 努克的慵懒时光
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-01-05",
-    "headline": "高角羚群紧急戒备",
-    "title": "一群高角羚, 隆多洛齐野生动物保护区, 南非",
-    "description": "隆多洛齐野生动物保护区的独特之处，不仅在于草原上的野生动物，更在于其坚守了近百年的守护。自1926年起，这片58平方英里的土地持续支持着野生动物研究工作，并监测着动物在自然栖息地中的行为。它坐落于萨比桑私人保护区，是非洲五大兽的栖息地，并与克鲁格国家公园相连，构建开放的生态系统，让象群、犀牛、狮子、豹、斑马和众多羚羊物种得以在无围栏阻隔的广袤天地间自由迁徙。",
-    "image_url": "https://cn.bing.com/th?id=OHR.ImpalaRooibok_ZH-CN2307890154_1920x1080.webp",
-    "main_text": "根据国际自然保护联盟（IUCN）的分类，高角羚整体并不处于危险状态，被列为“无危”物种。但黑脸高角羚情况不同，它被认定为“易危”物种，截至2008年，野外数量估计不到1000只。"
+    "headline": "努克的慵懒时光",
+    "title": "努克, 格陵兰",
+    "description": "想象一下，日常通勤途中，映入眼底的是峡湾风光、漂移的冰块，以及天际舞动的极光——这不是梦，而是努克的日常。作为格陵兰的首都，这座小而灵动的北极城市，将因纽特文化与北欧现代气息交织融合。它的故事始于1728年，由丹麦-挪威传教士汉斯·埃格德创建，最初的名字叫“Godthaab”，寓意“美好希望”。",
+    "image_url": "https://cn.bing.com/th?id=OHR.NuukGreenland_ZH-CN2414771686_1920x1080.webp",
+    "main_text": "努克虽是小镇，却发展了贸易、商业、航运等产业。与格陵兰大部分地区一样，努克高度依赖丹麦的资金支持与整体拨款。"
 }
 ```
 
-UpdataTime：2026-01-05 08:47:22
+UpdataTime：2026-01-05 16:38:04
