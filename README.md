@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-01-05",
+    "date": "2026-01-06",
     "headline": "努克的慵懒时光",
     "title": "努克, 格陵兰",
     "description": "想象一下，日常通勤途中，映入眼底的是峡湾风光、漂移的冰块，以及天际舞动的极光——这不是梦，而是努克的日常。作为格陵兰的首都，这座小而灵动的北极城市，将因纽特文化与北欧现代气息交织融合。它的故事始于1728年，由丹麦-挪威传教士汉斯·埃格德创建，最初的名字叫“Godthaab”，寓意“美好希望”。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-01-05 16:38:04
+UpdataTime：2026-01-06 02:23:57
