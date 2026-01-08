@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-01-07",
+    "date": "2026-01-08",
     "headline": "废墟之上，椋鸟群舞",
     "title": "椋鸟群在布莱顿西码头废墟上空盘旋, 英格兰",
     "description": "椋鸟是天生的“舞台明星”，它们深谙抢镜之道：羽毛在阳光下闪烁绿紫光泽，叫声里还夹杂着模仿的趣味。椋鸟原产于欧亚大陆，如今已遍布全球。19世纪，一位痴迷莎士比亚作品的鸟类爱好者，将椋鸟引入纽约中央公园，从此开启了它们的美洲传奇。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-01-07 16:44:19
+UpdataTime：2026-01-08 02:24:09
