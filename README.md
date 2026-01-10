@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-01-09",
+    "date": "2026-01-10",
     "headline": "纯粹的瑞士魔力",
     "title": "日出时分，马特洪峰的倒影映照在斯特利湖中, 采尔马特, 瑞士",
     "description": "鲜有景致能像马特洪峰倒映在斯特利湖如镜的湖面上那般，完美呈现阿尔卑斯的灵魂。这座传奇山峰耸立在瑞士与意大利边境，海拔高达14,692英尺，象征着大自然的壮美与冒险精神，吸引着世界各地的攀登者、徒步者与追梦人。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-01-09 16:40:36
+UpdataTime：2026-01-10 02:20:35
