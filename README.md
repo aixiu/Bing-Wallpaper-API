@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-01-12",
+    "date": "2026-01-13",
     "headline": "苹果韵，旧时光",
     "title": "克卢伊德谷, 威尔士",
     "description": "大多数人会在一月的第一周就完成新年计划。然而威尔士有个迷人的传统，人们总会说：“等等，我们还有一场庆祝活动。”于是便有了“Hen Galan”——“旧新年”的庆祝活动，每年1月13日，在威尔士的几处乡地举行，尤其以格温山谷最为知名。这个日子源自古老的儒略历，虽然英国其他地方早就换成格里高利历了，但这里的人依旧沿用老传统。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-01-12 16:39:21
+UpdataTime：2026-01-13 02:22:31
