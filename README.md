@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![克卢伊德谷, 威尔士](https://cn.bing.com/th?id=OHR.WalesWinter_ZH-CN3692879767_1920x1080.webp)
-Today: [克卢伊德谷, 威尔士](https://cn.bing.com/th?id=OHR.WalesWinter_ZH-CN3692879767_1920x1080.webp) - 苹果韵，旧时光
+![帕拉米蒂要塞的阶梯, 纳夫普利翁, 希腊](https://cn.bing.com/th?id=OHR.PalamidiFortress_ZH-CN5420143053_1920x1080.webp)
+Today: [帕拉米蒂要塞的阶梯, 纳夫普利翁, 希腊](https://cn.bing.com/th?id=OHR.PalamidiFortress_ZH-CN5420143053_1920x1080.webp) - 帕拉米蒂的历史之阶
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-01-13",
-    "headline": "苹果韵，旧时光",
-    "title": "克卢伊德谷, 威尔士",
-    "description": "大多数人会在一月的第一周就完成新年计划。然而威尔士有个迷人的传统，人们总会说：“等等，我们还有一场庆祝活动。”于是便有了“Hen Galan”——“旧新年”的庆祝活动，每年1月13日，在威尔士的几处乡地举行，尤其以格温山谷最为知名。这个日子源自古老的儒略历，虽然英国其他地方早就换成格里高利历了，但这里的人依旧沿用老传统。",
-    "image_url": "https://cn.bing.com/th?id=OHR.WalesWinter_ZH-CN3692879767_1920x1080.webp",
-    "main_text": "克卢伊德谷生长的丹比赫李子几乎与威尔士的土地融为一体，这片土地被认为是全英国最富饶、最天然的沃土之一。"
+    "headline": "帕拉米蒂的历史之阶",
+    "title": "帕拉米蒂要塞的阶梯, 纳夫普利翁, 希腊",
+    "description": "爬楼梯日定于每年一月的第二个星期三，这个日子鼓励大家在日常里多动一动：少坐电梯，多爬几级楼梯，或者抽空去走走、骑骑车。虽然都是小动作，却能慢慢养成更健康的生活方式。在如今空气污染加重、许多人又有慢性肺病的情况下，这些看似简单的动作显得尤为重要。",
+    "image_url": "https://cn.bing.com/th?id=OHR.PalamidiFortress_ZH-CN5420143053_1920x1080.webp",
+    "main_text": "这些曾经在威尼斯人与土耳其人统治下改名多次的堡垒，最终又被希腊人重新命名。"
 }
 ```
 
-UpdataTime：2026-01-13 08:44:58
+UpdataTime：2026-01-13 16:46:07
