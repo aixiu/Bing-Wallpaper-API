@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-01-13",
+    "date": "2026-01-14",
     "headline": "帕拉米蒂的历史之阶",
     "title": "帕拉米蒂要塞的阶梯, 纳夫普利翁, 希腊",
     "description": "爬楼梯日定于每年一月的第二个星期三，这个日子鼓励大家在日常里多动一动：少坐电梯，多爬几级楼梯，或者抽空去走走、骑骑车。虽然都是小动作，却能慢慢养成更健康的生活方式。在如今空气污染加重、许多人又有慢性肺病的情况下，这些看似简单的动作显得尤为重要。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-01-13 16:46:07
+UpdataTime：2026-01-14 08:43:21
