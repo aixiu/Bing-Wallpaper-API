@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-01-14",
+    "date": "2026-01-15",
     "headline": "小村庄，大视野",
     "title": "雷讷渔村, 挪威",
     "description": "深藏在挪威北极圈的雷讷，宛如明信片上令人难以置信的梦幻之地，让人第一眼就怀疑它是否真实存在。这个仅有300余名居民的小渔村，因陡峭的山峰、安静的峡湾，以及沿着海岸散落的亮红色渔人小屋（rorbuer）而闻名。尽管渔村规模不大，雷讷每年仍吸引着成千上万的游客前来探访。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-01-14 16:45:22
+UpdataTime：2026-01-15 02:24:11
