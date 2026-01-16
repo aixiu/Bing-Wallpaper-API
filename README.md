@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![埃托沙国家公园的豹子，纳米比亚](https://cn.bing.com/th?id=OHR.EtoshaLeopard_ZH-CN6654006040_1920x1080.webp)
-Today: [埃托沙国家公园的豹子，纳米比亚](https://cn.bing.com/th?id=OHR.EtoshaLeopard_ZH-CN6654006040_1920x1080.webp) - 眼神对上了
+![保罗圣方济圣殿，那不勒斯，意大利](https://cn.bing.com/th?id=OHR.NaplesBasilica_ZH-CN6888150174_1920x1080.webp)
+Today: [保罗圣方济圣殿，那不勒斯，意大利](https://cn.bing.com/th?id=OHR.NaplesBasilica_ZH-CN6888150174_1920x1080.webp) - 普雷比希托广场上的穹顶
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-01-16",
-    "headline": "眼神对上了",
-    "title": "埃托沙国家公园的豹子，纳米比亚",
-    "description": "看过野生动物纪录片的人，都记得那一幕：镜头滑过安静的草原，风声微动，下一秒，一只猎豹悄然浮现于草影间，仿佛它原本就是那片风景的一部分。这样无声的登场，就是猎豹的生存之道——精准、隐秘、像影子一样游走于草叶与树枝间。猎豹身形紧实而轻盈，既能攀上树梢，也能在大地上疾驰，而它们身上那独一无二的玫瑰斑纹，从清晨到夜色，都是最完美的伪装。",
-    "image_url": "https://cn.bing.com/th?id=OHR.EtoshaLeopard_ZH-CN6654006040_1920x1080.webp",
-    "main_text": "埃托沙国家公园位于纳米比亚西北部，是非洲面积最大的国家公园之一。"
+    "headline": "普雷比希托广场上的穹顶",
+    "title": "保罗圣方济圣殿，那不勒斯，意大利",
+    "description": "走进意大利那不勒斯的任意一座大广场，城市的历史便会在眼前次第展开。拱廊、长长的柱廊、带着古典气息的圆顶争相吸引你的目光。街道风格不断变换——紧凑的巴洛克立面与开阔的新古典主义庭院交替出现。继续向前，你会来到一处宽阔的广场，广场上矗立着一座乍看之下仿佛来自古罗马的建筑。这便是位于普雷比希托广场西侧的保罗圣方济圣殿。",
+    "image_url": "https://cn.bing.com/th?id=OHR.NaplesBasilica_ZH-CN6888150174_1920x1080.webp",
+    "main_text": "在那不勒斯，保罗圣方济圣殿既是珍贵的城市文化遗产，也是新古典主义建筑中的瑰丽巨作。"
 }
 ```
 
-UpdataTime：2026-01-16 08:42:02
+UpdataTime：2026-01-16 16:42:28
