@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![白沙国家公园，新墨西哥州，美国](https://cn.bing.com/th?id=OHR.WhiteSandsNM_ZH-CN7070772772_1920x1080.webp)
-Today: [白沙国家公园，新墨西哥州，美国](https://cn.bing.com/th?id=OHR.WhiteSandsNM_ZH-CN7070772772_1920x1080.webp) - 伪装成沙漠的奇境
+![亚伯拉罕湖冰封景象，艾伯塔省，加拿大](https://cn.bing.com/th?id=OHR.BubblesAbraham_ZH-CN7203734882_1920x1080.webp)
+Today: [亚伯拉罕湖冰封景象，艾伯塔省，加拿大](https://cn.bing.com/th?id=OHR.BubblesAbraham_ZH-CN7203734882_1920x1080.webp) - 大自然的波普艺术
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-01-18",
-    "headline": "伪装成沙漠的奇境",
-    "title": "白沙国家公园，新墨西哥州，美国",
-    "description": "如果把《冰雪奇缘》里的冰换成白沙，画面大概就会像新墨西哥州的白沙国家公园——一望无际的洁白沙丘，乍看之下仿佛仍带着冰雪的凉意。193 年的今天，这里被设立为国家纪念地，用来保护一种罕见的地质奇观：世界最大的石膏沙丘群。这些沙丘由石膏晶体在数千年的风化中逐渐破碎堆积而成，形成了明亮起伏的沙浪，即使在盛夏也依然触手冰凉。",
-    "image_url": "https://cn.bing.com/th?id=OHR.WhiteSandsNM_ZH-CN7070772772_1920x1080.webp",
-    "main_text": "这片石膏沙丘是世界上同类地貌中规模最大的，沙层深度约30英尺（9.1米），沙丘最高可达60英尺（18米），蕴含的石膏砂总量约达45亿短吨（41亿公吨）。"
+    "headline": "大自然的波普艺术",
+    "title": "亚伯拉罕湖冰封景象，艾伯塔省，加拿大",
+    "description": "湖面看似繁忙，却静得出奇。洁白的气泡一层层叠在透明的冰下，仿佛时间在某个化学反应的中途被按下了暂停键。奇特吗？当然。不过那份神秘感，也只存在于你还没走近它之前。这里就是亚伯拉罕湖，加拿大阿尔伯塔省最大的水库，位于加拿大落基山脉前缘的库特尼平原地带。严冬来临时，正是这片水域将上升中的气体半途冻结，造就了这幅冰封气泡的奇景。",
+    "image_url": "https://cn.bing.com/th?id=OHR.BubblesAbraham_ZH-CN7203734882_1920x1080.webp",
+    "main_text": "如果你在初冬前往亚伯拉罕湖，观赏冰泡的最佳地点，就是湖区名为“牧师角”的那一段水域。"
 }
 ```
 
-UpdataTime：2026-01-18 08:37:09
+UpdataTime：2026-01-18 16:35:26
