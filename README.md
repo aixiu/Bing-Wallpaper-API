@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-01-18",
+    "date": "2026-01-19",
     "headline": "大自然的波普艺术",
     "title": "亚伯拉罕湖冰封景象，艾伯塔省，加拿大",
     "description": "湖面看似繁忙，却静得出奇。洁白的气泡一层层叠在透明的冰下，仿佛时间在某个化学反应的中途被按下了暂停键。奇特吗？当然。不过那份神秘感，也只存在于你还没走近它之前。这里就是亚伯拉罕湖，加拿大阿尔伯塔省最大的水库，位于加拿大落基山脉前缘的库特尼平原地带。严冬来临时，正是这片水域将上升中的气体半途冻结，造就了这幅冰封气泡的奇景。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-01-18 16:35:26
+UpdataTime：2026-01-19 02:31:32
