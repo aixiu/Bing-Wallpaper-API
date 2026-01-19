@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![亚伯拉罕湖冰封景象，艾伯塔省，加拿大](https://cn.bing.com/th?id=OHR.BubblesAbraham_ZH-CN7203734882_1920x1080.webp)
-Today: [亚伯拉罕湖冰封景象，艾伯塔省，加拿大](https://cn.bing.com/th?id=OHR.BubblesAbraham_ZH-CN7203734882_1920x1080.webp) - 大自然的波普艺术
+![栖息在树枝上的北长尾山雀，大庆市，中国黑龙江省](https://cn.bing.com/th?id=OHR.TheGreatColdY25_ZH-CN7239762815_1920x1080.webp)
+Today: [栖息在树枝上的北长尾山雀，大庆市，中国黑龙江省](https://cn.bing.com/th?id=OHR.TheGreatColdY25_ZH-CN7239762815_1920x1080.webp) - 冬季里的呆萌小可爱
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-01-19",
-    "headline": "大自然的波普艺术",
-    "title": "亚伯拉罕湖冰封景象，艾伯塔省，加拿大",
-    "description": "湖面看似繁忙，却静得出奇。洁白的气泡一层层叠在透明的冰下，仿佛时间在某个化学反应的中途被按下了暂停键。奇特吗？当然。不过那份神秘感，也只存在于你还没走近它之前。这里就是亚伯拉罕湖，加拿大阿尔伯塔省最大的水库，位于加拿大落基山脉前缘的库特尼平原地带。严冬来临时，正是这片水域将上升中的气体半途冻结，造就了这幅冰封气泡的奇景。",
-    "image_url": "https://cn.bing.com/th?id=OHR.BubblesAbraham_ZH-CN7203734882_1920x1080.webp",
-    "main_text": "如果你在初冬前往亚伯拉罕湖，观赏冰泡的最佳地点，就是湖区名为“牧师角”的那一段水域。"
+    "headline": "冬季里的呆萌小可爱",
+    "title": "栖息在树枝上的北长尾山雀，大庆市，中国黑龙江省",
+    "description": "大寒（Dahan）是二十四节气中的最后一个节气。它意味着一年中最寒冷的时刻。大寒过后，立春开始，标志着新一轮节气的开始。 随着大寒的临近，过年的喜庆气氛也随之浓厚起来。大寒节气往往与年末相吻合，许多相关习俗都蕴含着辞旧迎新的寓意。",
+    "image_url": "https://cn.bing.com/th?id=OHR.TheGreatColdY25_ZH-CN7239762815_1920x1080.webp",
+    "main_text": "它们常在取食时发出细微而尖细的“吇吇”声（sii-sii-sii）。"
 }
 ```
 
-UpdataTime：2026-01-19 08:47:44
+UpdataTime：2026-01-19 16:42:38
