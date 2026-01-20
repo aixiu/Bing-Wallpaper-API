@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-01-19",
+    "date": "2026-01-20",
     "headline": "冬季里的呆萌小可爱",
     "title": "栖息在树枝上的北长尾山雀，大庆市，中国黑龙江省",
     "description": "大寒（Dahan）是二十四节气中的最后一个节气。它意味着一年中最寒冷的时刻。大寒过后，立春开始，标志着新一轮节气的开始。 随着大寒的临近，过年的喜庆气氛也随之浓厚起来。大寒节气往往与年末相吻合，许多相关习俗都蕴含着辞旧迎新的寓意。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-01-19 16:42:38
+UpdataTime：2026-01-20 02:26:16
