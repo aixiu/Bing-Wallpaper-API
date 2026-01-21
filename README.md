@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-01-20",
+    "date": "2026-01-21",
     "headline": "冬日白雪中的一抹红",
     "title": "欧亚红松鼠",
     "description": "画面里，一只欧亚红松鼠蹲在雪地上，披着冬日特有的浓密绒毛，耳尖的小簇毛格外惹眼。它们原生于欧洲和亚洲部分地区的森林，主要以种子、坚果和真菌为食，把粮食分散藏在林中各处，并在高高的树洞里垒起巢窝，安度漫长寒冬。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-01-20 16:47:58
+UpdataTime：2026-01-21 02:28:59
