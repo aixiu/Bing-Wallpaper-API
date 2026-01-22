@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![卡罗维瓦利，波西米亚，捷克共和国](https://cn.bing.com/th?id=OHR.KarlovyVary_ZH-CN7585938362_1920x1080.webp)
-Today: [卡罗维瓦利，波西米亚，捷克共和国](https://cn.bing.com/th?id=OHR.KarlovyVary_ZH-CN7585938362_1920x1080.webp) - 波西米亚温泉故事
+![绵羊在雪地里吃草，冰岛](https://cn.bing.com/th?id=OHR.IcelandSheep_ZH-CN3931993073_1920x1080.webp)
+Today: [绵羊在雪地里吃草，冰岛](https://cn.bing.com/th?id=OHR.IcelandSheep_ZH-CN3931993073_1920x1080.webp) - 霜雪中的盛宴
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-01-22",
-    "headline": "波西米亚温泉故事",
-    "title": "卡罗维瓦利，波西米亚，捷克共和国",
-    "description": "在今天的图片中，冬意已悄悄落在捷克的卡罗维瓦利，这座坐落于浅色山谷中的城市，因山间温泉而闻名。关于这座城市的起源，可追溯到14世纪：据说当时的波希米亚国王、后来成为神圣罗马帝国皇帝的查理四世路经此地，恰好遇见一池冒着白雾的温热泉水。正是这次邂逅，引领波希米亚这片宁静的山谷走上了温泉疗养圣地的道路。",
-    "image_url": "https://cn.bing.com/th?id=OHR.KarlovyVary_ZH-CN7585938362_1920x1080.webp",
-    "main_text": "这座城市以举办卡罗维瓦利国际电影节而闻名，该电影节是世界上历史最悠久的电影节之一，也是欧洲最重要的电影盛事之一。"
+    "headline": "霜雪中的盛宴",
+    "title": "绵羊在雪地里吃草，冰岛",
+    "description": "一月寒意袭来时，冰岛人会借由“仲冬节”寻回温暖与传统。这个节日以北欧神话中的冬之精灵“托里”为名，起初是一场向诸神献祭、祈求度过漫冬的祭宴。如今，它演变成一场既带着古老气息，又洋溢欢聚之情的文化盛会。",
+    "image_url": "https://cn.bing.com/th?id=OHR.IcelandSheep_ZH-CN3931993073_1920x1080.webp",
+    "main_text": "19世纪末，一群冰岛学生复兴了“仲冬节”。二战结束后，民族主义推动文化复兴，冰岛人也让这项古老传统重新受到关注，甚至重新登上了各地餐厅的菜单。"
 }
 ```
 
-UpdataTime：2026-01-22 08:47:33
+UpdataTime：2026-01-22 16:47:47
