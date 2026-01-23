@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![绵羊在雪地里吃草，冰岛](https://cn.bing.com/th?id=OHR.IcelandSheep_ZH-CN3931993073_1920x1080.webp)
-Today: [绵羊在雪地里吃草，冰岛](https://cn.bing.com/th?id=OHR.IcelandSheep_ZH-CN3931993073_1920x1080.webp) - 霜雪中的盛宴
+![阿尔卑斯山脉的安德马特小镇，瑞士](https://cn.bing.com/th?id=OHR.AndermattSwiss_ZH-CN4112824348_1920x1080.webp)
+Today: [阿尔卑斯山脉的安德马特小镇，瑞士](https://cn.bing.com/th?id=OHR.AndermattSwiss_ZH-CN4112824348_1920x1080.webp) - 瑞士山间的短逃离
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-01-23",
-    "headline": "霜雪中的盛宴",
-    "title": "绵羊在雪地里吃草，冰岛",
-    "description": "一月寒意袭来时，冰岛人会借由“仲冬节”寻回温暖与传统。这个节日以北欧神话中的冬之精灵“托里”为名，起初是一场向诸神献祭、祈求度过漫冬的祭宴。如今，它演变成一场既带着古老气息，又洋溢欢聚之情的文化盛会。",
-    "image_url": "https://cn.bing.com/th?id=OHR.IcelandSheep_ZH-CN3931993073_1920x1080.webp",
-    "main_text": "19世纪末，一群冰岛学生复兴了“仲冬节”。二战结束后，民族主义推动文化复兴，冰岛人也让这项古老传统重新受到关注，甚至重新登上了各地餐厅的菜单。"
+    "headline": "瑞士山间的短逃离",
+    "title": "阿尔卑斯山脉的安德马特小镇，瑞士",
+    "description": "安德马特坐落于海拔约4,715英尺的乌尔塞伦山谷，被壮丽的阿尔卑斯山脉环绕，是瑞士最迷人的小镇之一。自古以来，它便是交通与文化的交汇点，由圣哥达、福尔卡和奥伯阿尔卑三大山口贯通，使这里成为贯穿南北、连结文化的重要门户。",
+    "image_url": "https://cn.bing.com/th?id=OHR.AndermattSwiss_ZH-CN4112824348_1920x1080.webp",
+    "main_text": "安德马特的群山因其野雪地形和深雪特性而广受欢迎。"
 }
 ```
 
-UpdataTime：2026-01-23 08:43:40
+UpdataTime：2026-01-23 16:44:58
