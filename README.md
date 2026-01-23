@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-01-22",
+    "date": "2026-01-23",
     "headline": "霜雪中的盛宴",
     "title": "绵羊在雪地里吃草，冰岛",
     "description": "一月寒意袭来时，冰岛人会借由“仲冬节”寻回温暖与传统。这个节日以北欧神话中的冬之精灵“托里”为名，起初是一场向诸神献祭、祈求度过漫冬的祭宴。如今，它演变成一场既带着古老气息，又洋溢欢聚之情的文化盛会。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-01-22 16:47:47
+UpdataTime：2026-01-23 02:26:11
