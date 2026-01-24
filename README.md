@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-01-23",
+    "date": "2026-01-24",
     "headline": "瑞士山间的短逃离",
     "title": "阿尔卑斯山脉的安德马特小镇，瑞士",
     "description": "安德马特坐落于海拔约4,715英尺的乌尔塞伦山谷，被壮丽的阿尔卑斯山脉环绕，是瑞士最迷人的小镇之一。自古以来，它便是交通与文化的交汇点，由圣哥达、福尔卡和奥伯阿尔卑三大山口贯通，使这里成为贯穿南北、连结文化的重要门户。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-01-23 16:44:58
+UpdataTime：2026-01-24 02:21:38
