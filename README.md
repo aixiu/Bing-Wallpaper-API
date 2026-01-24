@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![阿尔卑斯山脉的安德马特小镇，瑞士](https://cn.bing.com/th?id=OHR.AndermattSwiss_ZH-CN4112824348_1920x1080.webp)
-Today: [阿尔卑斯山脉的安德马特小镇，瑞士](https://cn.bing.com/th?id=OHR.AndermattSwiss_ZH-CN4112824348_1920x1080.webp) - 瑞士山间的短逃离
+![伯恩斯国家遗产公园，艾尔，南艾尔郡，苏格兰](https://cn.bing.com/th?id=OHR.BurnsPark_ZH-CN4442772228_1920x1080.webp)
+Today: [伯恩斯国家遗产公园，艾尔，南艾尔郡，苏格兰](https://cn.bing.com/th?id=OHR.BurnsPark_ZH-CN4442772228_1920x1080.webp) - 传统熠熠生辉
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-01-24",
-    "headline": "瑞士山间的短逃离",
-    "title": "阿尔卑斯山脉的安德马特小镇，瑞士",
-    "description": "安德马特坐落于海拔约4,715英尺的乌尔塞伦山谷，被壮丽的阿尔卑斯山脉环绕，是瑞士最迷人的小镇之一。自古以来，它便是交通与文化的交汇点，由圣哥达、福尔卡和奥伯阿尔卑三大山口贯通，使这里成为贯穿南北、连结文化的重要门户。",
-    "image_url": "https://cn.bing.com/th?id=OHR.AndermattSwiss_ZH-CN4112824348_1920x1080.webp",
-    "main_text": "安德马特的群山因其野雪地形和深雪特性而广受欢迎。"
+    "headline": "传统熠熠生辉",
+    "title": "伯恩斯国家遗产公园，艾尔，南艾尔郡，苏格兰",
+    "description": "每年1月25日，苏格兰人及世界各地喜爱伯恩斯的人们都会举杯庆祝，纪念这位深受爱戴的民族诗人。伯恩斯之夜的宴席温暖而有趣：主菜是香气浓郁的哈吉斯，搭配芜菁泥和土豆泥；其间穿插伯恩斯诗句的朗诵，再来一口威士忌，这场庆典最终总在《友谊地久天长》的合唱里被推向高潮。即使人在海外，也能轻松延续这份传统：摆盘、诵诗、举杯，让节日的温暖自然蔓延开来。",
+    "image_url": "https://cn.bing.com/th?id=OHR.BurnsPark_ZH-CN4442772228_1920x1080.webp",
+    "main_text": "罗伯特·伯恩斯，这位出身于苏格兰艾尔郡的农夫兼诗人，在英国文学史上留下了深刻印记。他的代表作《友谊地久天长》家喻户晓，而他所写的诗歌以苏格兰民谣的旋律、以及对自由与民主的颂扬而备受推崇。"
 }
 ```
 
-UpdataTime：2026-01-24 08:37:20
+UpdataTime：2026-01-24 16:35:56
