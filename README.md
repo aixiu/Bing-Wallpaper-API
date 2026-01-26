@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![新天鹅堡，巴伐利亚州，德国](https://cn.bing.com/th?id=OHR.NeuschwansteinWinter_ZH-CN4972014681_1920x1080.webp)
-Today: [新天鹅堡，巴伐利亚州，德国](https://cn.bing.com/th?id=OHR.NeuschwansteinWinter_ZH-CN4972014681_1920x1080.webp) - 巴伐利亚的瑰宝
+![卷羽鹈鹕，凯尔基尼湖，希腊](https://cn.bing.com/th?id=OHR.DalmationPelicans_ZH-CN5252732863_1920x1080.webp)
+Today: [卷羽鹈鹕，凯尔基尼湖，希腊](https://cn.bing.com/th?id=OHR.DalmationPelicans_ZH-CN5252732863_1920x1080.webp) - 羽翼预告：前方有鹈鹕
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-01-26",
-    "headline": "巴伐利亚的瑰宝",
-    "title": "新天鹅堡，巴伐利亚州，德国",
-    "description": "新天鹅堡的诞生源于巴伐利亚国王路德维希二世的浪漫构想——一个由中世纪神话与歌剧场景交织而成的梦境居所。城堡隐身于山林之间，塔尖纤细，精巧的石饰让整座建筑宛如漂浮在山谷之上。虽然建造始于十九世纪，但这座宫殿始终未完全竣工，因此也增添了一层淡淡的神秘。",
-    "image_url": "https://cn.bing.com/th?id=OHR.NeuschwansteinWinter_ZH-CN4972014681_1920x1080.webp",
-    "main_text": "新天鹅堡不仅是德国的标志性建筑，也是迪士尼城堡的灵感源头，因此又被称为“灰姑娘城堡”。作为德国拍摄次数最多的建筑，它也是最受游客喜爱的景点之一。"
+    "headline": "羽翼预告：前方有鹈鹕",
+    "title": "卷羽鹈鹕，凯尔基尼湖，希腊",
+    "description": "在冬日的凯尔基尼湖，你能捕捉到欧洲最震撼的卷羽鹈鹕身影。它们巨大的身形在平静的湖面上成群滑行，沉稳而优雅，令人难以忽视。卷羽鹈鹕翼展超过10英尺，是世界上体型最大的飞行鸟类之一。得益于凯尔基尼湖稳定的冬季气候，你可以近距离欣赏它们的巨大身姿、优雅姿态，以及群体滑行时那种令人着迷的默契。",
+    "image_url": "https://cn.bing.com/th?id=OHR.DalmationPelicans_ZH-CN5252732863_1920x1080.webp",
+    "main_text": "成年的卷羽鹈鹕羽色呈灰白色，头后方长着一撮卷曲、略显凌乱的冠羽，因此得名“卷羽鹈鹕”。"
 }
 ```
 
-UpdataTime：2026-01-26 08:48:21
+UpdataTime：2026-01-26 16:48:25
