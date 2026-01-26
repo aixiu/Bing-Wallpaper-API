@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-01-25",
+    "date": "2026-01-26",
     "headline": "巴伐利亚的瑰宝",
     "title": "新天鹅堡，巴伐利亚州，德国",
     "description": "新天鹅堡的诞生源于巴伐利亚国王路德维希二世的浪漫构想——一个由中世纪神话与歌剧场景交织而成的梦境居所。城堡隐身于山林之间，塔尖纤细，精巧的石饰让整座建筑宛如漂浮在山谷之上。虽然建造始于十九世纪，但这座宫殿始终未完全竣工，因此也增添了一层淡淡的神秘。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-01-25 16:37:03
+UpdataTime：2026-01-26 02:37:23
