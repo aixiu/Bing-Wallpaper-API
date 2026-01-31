@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-01-30",
+    "date": "2026-01-31",
     "headline": "一见钟情",
     "title": "平原斑马, 埃托沙国家公园, 纳米比亚",
     "description": "有些动物在荒野中悄悄穿行，但斑马不是。它们顶着一身醒目的黑白条纹，仿佛这是世界上最实用的“装备”——实际上也确实如此。每年的1月31日是国际斑马日，让这些黑白相间的主角从群体中走到聚光灯下，迎来属于自己的高光时刻。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-01-30 16:54:19
+UpdataTime：2026-01-31 08:43:29
