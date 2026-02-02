@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-02-01",
+    "date": "2026-02-02",
     "headline": "影子的承诺",
     "title": "阿尔卑斯山土拨鼠, 霍赫陶恩国家公园, 奥地利",
     "description": "每年2月2日，全世界的目光都会投向那只喜欢从洞里探出头的小毛球——土拨鼠。传说如果这位“小预报员”看见了自己的影子，冬天就会再多待六周；如果没看到，春天就快到了。这项古怪又有趣的传统，让一只小小的啮齿动物摇身一变，成了名副其实的“气象明星”。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-02-01 16:43:21
+UpdataTime：2026-02-02 03:14:52
