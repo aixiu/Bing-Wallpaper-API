@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-02-06",
+    "date": "2026-02-07",
     "headline": "在盐沼与天空之间，万物静谧",
     "title": "玻利维亚乌尤尼盐湖",
     "description": "玻利维亚的乌尤尼盐沼并不会循序渐进地展开视野，它仿佛一道由光线构成的地平线，瞬间闯入眼帘。这里是世界上最大的盐沼，面积约4000平方英里，海拔接近12000英尺。景观会随季节剧烈变化：雨季来临时，地面被薄薄的积水覆盖，化作一面巨大的天然镜子，天空与大地在倒影中融为一片耀眼的光面。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-02-06 16:58:55
+UpdataTime：2026-02-07 02:46:18
