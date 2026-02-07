@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![玻利维亚乌尤尼盐湖](https://cn.bing.com/th?id=OHR.SalarUyuni_ZH-CN4163237089_1920x1080.webp)
-Today: [玻利维亚乌尤尼盐湖](https://cn.bing.com/th?id=OHR.SalarUyuni_ZH-CN4163237089_1920x1080.webp) - 在盐沼与天空之间，万物静谧
+![科孚岛的夜晚, 希腊](https://cn.bing.com/th?id=OHR.CorfuGreece_ZH-CN4305970968_1920x1080.webp)
+Today: [科孚岛的夜晚, 希腊](https://cn.bing.com/th?id=OHR.CorfuGreece_ZH-CN4305970968_1920x1080.webp) - 从宁静的夜晚到充满冒险的白天
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-02-07",
-    "headline": "在盐沼与天空之间，万物静谧",
-    "title": "玻利维亚乌尤尼盐湖",
-    "description": "玻利维亚的乌尤尼盐沼并不会循序渐进地展开视野，它仿佛一道由光线构成的地平线，瞬间闯入眼帘。这里是世界上最大的盐沼，面积约4000平方英里，海拔接近12000英尺。景观会随季节剧烈变化：雨季来临时，地面被薄薄的积水覆盖，化作一面巨大的天然镜子，天空与大地在倒影中融为一片耀眼的光面。",
-    "image_url": "https://cn.bing.com/th?id=OHR.SalarUyuni_ZH-CN4163237089_1920x1080.webp",
-    "main_text": "这片盐沼几乎看不到野生动物和植被，唯一显眼的生命，是成片生长的巨型仙人掌。它们每年仅生长约1厘 米，最高可达12米。"
+    "headline": "从宁静的夜晚到充满冒险的白天",
+    "title": "科孚岛的夜晚, 希腊",
+    "description": "夜幕降临，希腊科孚岛展现出一种安静却耐人寻味的气息。温暖的路灯洒在石质立面上，古老的堡垒在夜色中勾勒出清晰的轮廓，狭窄的街巷层层延展，像一座仍在呼吸的迷宫老城。这里不仅保存着悠久的历史，也承载着真实的生活气息——多元文化在岁月流转中交叠，夜晚的节奏变得缓慢而从容，岛屿的生活气息，也在暗色中悄然浮现。",
+    "image_url": "https://cn.bing.com/th?id=OHR.CorfuGreece_ZH-CN4305970968_1920x1080.webp",
+    "main_text": "科孚岛属于大陆型岛屿，其动物群与对岸大陆十分相似，物种丰富，涵盖哺乳动物、鸟类、爬行动物以及多样的海洋生物。"
 }
 ```
 
-UpdataTime：2026-02-07 08:45:42
+UpdataTime：2026-02-07 16:44:46
