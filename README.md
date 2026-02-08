@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![科孚岛的夜晚, 希腊](https://cn.bing.com/th?id=OHR.CorfuGreece_ZH-CN4305970968_1920x1080.webp)
-Today: [科孚岛的夜晚, 希腊](https://cn.bing.com/th?id=OHR.CorfuGreece_ZH-CN4305970968_1920x1080.webp) - 从宁静的夜晚到充满冒险的白天
+![阿穆尔豹猫，俄罗斯](https://cn.bing.com/th?id=OHR.LeopardCat_ZH-CN4431427444_1920x1080.webp)
+Today: [阿穆尔豹猫，俄罗斯](https://cn.bing.com/th?id=OHR.LeopardCat_ZH-CN4431427444_1920x1080.webp) - 斑纹流转
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-02-08",
-    "headline": "从宁静的夜晚到充满冒险的白天",
-    "title": "科孚岛的夜晚, 希腊",
-    "description": "夜幕降临，希腊科孚岛展现出一种安静却耐人寻味的气息。温暖的路灯洒在石质立面上，古老的堡垒在夜色中勾勒出清晰的轮廓，狭窄的街巷层层延展，像一座仍在呼吸的迷宫老城。这里不仅保存着悠久的历史，也承载着真实的生活气息——多元文化在岁月流转中交叠，夜晚的节奏变得缓慢而从容，岛屿的生活气息，也在暗色中悄然浮现。",
-    "image_url": "https://cn.bing.com/th?id=OHR.CorfuGreece_ZH-CN4305970968_1920x1080.webp",
-    "main_text": "科孚岛属于大陆型岛屿，其动物群与对岸大陆十分相似，物种丰富，涵盖哺乳动物、鸟类、爬行动物以及多样的海洋生物。"
+    "headline": "斑纹流转",
+    "title": "阿穆尔豹猫，俄罗斯",
+    "description": "豹猫是一种体型较小的野生猫科动物，广泛分布于南亚、东南亚和东亚地区。它们体型与家猫相近，但四肢更修长、身形更为纤细，体长通常在15至30英寸之间，尾巴约7至12英寸。不同地区的成年豹猫体重差异较大，大致在1至16磅之间。外观变化也十分明显：南方种群多呈现温暖的金黄色皮毛，而分布在高纬度地区的豹猫则常拥有浅灰色皮毛，冬季时毛发会明显加厚。",
+    "image_url": "https://cn.bing.com/th?id=OHR.LeopardCat_ZH-CN4431427444_1920x1080.webp",
+    "main_text": "豹猫会游泳，但极少下水。它们的叫声与家猫相近。无论雌雄，都会通过喷洒尿液、在显眼处排便、蹭头和抓挠等方式标记领地。"
 }
 ```
 
-UpdataTime：2026-02-08 08:47:25
+UpdataTime：2026-02-08 16:44:42
