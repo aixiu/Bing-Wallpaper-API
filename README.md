@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-02-07",
+    "date": "2026-02-08",
     "headline": "从宁静的夜晚到充满冒险的白天",
     "title": "科孚岛的夜晚, 希腊",
     "description": "夜幕降临，希腊科孚岛展现出一种安静却耐人寻味的气息。温暖的路灯洒在石质立面上，古老的堡垒在夜色中勾勒出清晰的轮廓，狭窄的街巷层层延展，像一座仍在呼吸的迷宫老城。这里不仅保存着悠久的历史，也承载着真实的生活气息——多元文化在岁月流转中交叠，夜晚的节奏变得缓慢而从容，岛屿的生活气息，也在暗色中悄然浮现。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-02-07 16:44:46
+UpdataTime：2026-02-08 03:30:24
