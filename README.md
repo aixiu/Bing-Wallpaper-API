@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-02-09",
+    "date": "2026-02-10",
     "headline": "海妖歌唱之处",
     "title": "埃斯韦德拉岛和埃斯韦德拉内尔岛，伊维萨岛，西班牙",
     "description": "在西班牙伊维萨岛西南海域，矗立着两座无人居住的小岛——埃斯韦德拉和埃斯韦德拉内尔。它们属于受保护的自然保留区，以独特的生态价值和震撼的视觉效果闻名。埃斯韦德拉几乎垂直从海中升起，高约1300英尺，陡峭的石灰岩峭壁宛如一座孤立的山脉。不远处的埃斯韦德拉内尔轮廓锋利，因形似伏卧的巨龙而被称为“沉睡的巨龙”，与主岛的高峻挺拔相互映衬。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-02-09 17:10:06
+UpdataTime：2026-02-10 03:23:30
