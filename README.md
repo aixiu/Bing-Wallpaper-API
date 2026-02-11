@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "headline": "对比之谷",
     "title": "死亡谷国家公园恶水盆地的盐滩, 加利福尼亚州, 美国",
     "description": "死亡谷国家公园颠覆人们对沙漠的想象，横跨加利福尼亚州与内华达州，总面积约340万英亩，是美国面积最大的国家公园。盐沼、火山丘陵、流动沙丘与覆雪山峰交错分布，构成极端而多变的地貌。从海拔11000英尺的望远镜峰，到低于海平面282英尺的恶水盆地，这里呈现出鲜明且震撼的对比。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-02-10 17:14:40
+UpdataTime：2026-02-11 03:20:45
