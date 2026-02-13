@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![连接老挝和泰国的第三座泰老友谊大桥](https://cn.bing.com/th?id=OHR.FriendshipBridge_ZH-CN5199165736_1920x1080.webp)
-Today: [连接老挝和泰国的第三座泰老友谊大桥](https://cn.bing.com/th?id=OHR.FriendshipBridge_ZH-CN5199165736_1920x1080.webp) - 为拉近距离而建
+![荷包牡丹](https://cn.bing.com/th?id=OHR.ValentineHearts_ZH-CN5332774664_1920x1080.webp)
+Today: [荷包牡丹](https://cn.bing.com/th?id=OHR.ValentineHearts_ZH-CN5332774664_1920x1080.webp) - 爱意绽放
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-02-13",
-    "headline": "为拉近距离而建",
-    "title": "连接老挝和泰国的第三座泰老友谊大桥",
-    "description": "在没有桥梁的年代，河流决定人们能走多远；而随着桥梁的建立，节奏掌握开始在人的手中。这种转变正是跨境基础设施的重要意义所在，比如连接老挝与泰国的第三座大桥泰老友谊大桥。桥梁结构多样，各有针对性：拱桥应对压力，悬索桥跨越长距离，混凝土箱梁桥则追求稳定与高效承载。这座桥选择箱梁设计，正是为应对湄公河宽阔水面与快速水流的现实需求。",
-    "image_url": "https://cn.bing.com/th?id=OHR.FriendshipBridge_ZH-CN5199165736_1920x1080.webp",
-    "main_text": "泰国与老挝之间的第五座泰老友谊大桥于2025年12月25日正式通车，连接泰国汶干府与老挝博里坎赛省，这座桥不仅缩短了距离，也串联起两国更频繁的往来与合作。"
+    "headline": "爱意绽放",
+    "title": "荷包牡丹",
+    "description": "情人节象征着各种关于“心”的情感——热烈的、柔和的、充满希望的，或含蓄脆弱的。在众多象征之中，鲜少有植物能像荷包牡丹如此贴切地寓意情人节。它拥有醒目的心形花朵，每逢春季便悄然绽放，植株高约2英尺，展开宽度接近30英寸，营造出一种柔和优雅、富有诗意的景致。",
+    "image_url": "https://cn.bing.com/th?id=OHR.ValentineHearts_ZH-CN5332774664_1920x1080.webp",
+    "main_text": "情人节的起源可追溯至异教传统，其中最常被提及的是古罗马的卢珀卡利亚节，这一节日象征着生命以及春天的到来。"
 }
 ```
 
-UpdataTime：2026-02-13 08:56:39
+UpdataTime：2026-02-13 17:00:51
