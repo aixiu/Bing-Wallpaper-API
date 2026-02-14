@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![荷包牡丹](https://cn.bing.com/th?id=OHR.ValentineHearts_ZH-CN5332774664_1920x1080.webp)
-Today: [荷包牡丹](https://cn.bing.com/th?id=OHR.ValentineHearts_ZH-CN5332774664_1920x1080.webp) - 爱意绽放
+![蒙特雷湾的大翅鲸(座头鲸)，加利福尼亚州，美国](https://cn.bing.com/th?id=OHR.MontereyHumpbacks_ZH-CN5426789466_1920x1080.webp)
+Today: [蒙特雷湾的大翅鲸(座头鲸)，加利福尼亚州，美国](https://cn.bing.com/th?id=OHR.MontereyHumpbacks_ZH-CN5426789466_1920x1080.webp) - 浪涛下的歌谣
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-02-14",
-    "headline": "爱意绽放",
-    "title": "荷包牡丹",
-    "description": "情人节象征着各种关于“心”的情感——热烈的、柔和的、充满希望的，或含蓄脆弱的。在众多象征之中，鲜少有植物能像荷包牡丹如此贴切地寓意情人节。它拥有醒目的心形花朵，每逢春季便悄然绽放，植株高约2英尺，展开宽度接近30英寸，营造出一种柔和优雅、富有诗意的景致。",
-    "image_url": "https://cn.bing.com/th?id=OHR.ValentineHearts_ZH-CN5332774664_1920x1080.webp",
-    "main_text": "情人节的起源可追溯至异教传统，其中最常被提及的是古罗马的卢珀卡利亚节，这一节日象征着生命以及春天的到来。"
+    "headline": "浪涛下的歌谣",
+    "title": "蒙特雷湾的大翅鲸(座头鲸)，加利福尼亚州，美国",
+    "description": "世界鲸鱼日定于每年2月的第3个星期日，起源于20世纪80年代的夏威夷。当时，当地社区会庆祝座头鲸在迁徙季节重返近海。这一纪念日随后逐渐受到国际关注，尤其是在1986年国际捕鲸委员会通过商业捕鲸禁令之后，该举措成为全球鲸类保护的重要里程碑。",
+    "image_url": "https://cn.bing.com/th?id=OHR.MontereyHumpbacks_ZH-CN5426789466_1920x1080.webp",
+    "main_text": "座头鲸广泛分布于世界各大洋，在中国，它们的活动范围涵盖黄海、东海以及南海海域。"
 }
 ```
 
-UpdataTime：2026-02-14 02:48:14
+UpdataTime：2026-02-14 16:44:46
