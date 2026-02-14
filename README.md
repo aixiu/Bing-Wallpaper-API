@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-02-13",
+    "date": "2026-02-14",
     "headline": "爱意绽放",
     "title": "荷包牡丹",
     "description": "情人节象征着各种关于“心”的情感——热烈的、柔和的、充满希望的，或含蓄脆弱的。在众多象征之中，鲜少有植物能像荷包牡丹如此贴切地寓意情人节。它拥有醒目的心形花朵，每逢春季便悄然绽放，植株高约2英尺，展开宽度接近30英寸，营造出一种柔和优雅、富有诗意的景致。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-02-13 17:00:51
+UpdataTime：2026-02-14 02:48:14
