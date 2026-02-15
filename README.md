@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![蒙特雷湾的大翅鲸(座头鲸)，加利福尼亚州，美国](https://cn.bing.com/th?id=OHR.MontereyHumpbacks_ZH-CN5426789466_1920x1080.webp)
-Today: [蒙特雷湾的大翅鲸(座头鲸)，加利福尼亚州，美国](https://cn.bing.com/th?id=OHR.MontereyHumpbacks_ZH-CN5426789466_1920x1080.webp) - 浪涛下的歌谣
+![庆祝春节的龙形灯笼，中国西安](https://cn.bing.com/th?id=OHR.ChineseNewYearEveY26_ZH-CN7770318975_1920x1080.webp)
+Today: [庆祝春节的龙形灯笼，中国西安](https://cn.bing.com/th?id=OHR.ChineseNewYearEveY26_ZH-CN7770318975_1920x1080.webp) - 祝除夕团圆，新年顺遂！
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-02-15",
-    "headline": "浪涛下的歌谣",
-    "title": "蒙特雷湾的大翅鲸(座头鲸)，加利福尼亚州，美国",
-    "description": "世界鲸鱼日定于每年2月的第3个星期日，起源于20世纪80年代的夏威夷。当时，当地社区会庆祝座头鲸在迁徙季节重返近海。这一纪念日随后逐渐受到国际关注，尤其是在1986年国际捕鲸委员会通过商业捕鲸禁令之后，该举措成为全球鲸类保护的重要里程碑。",
-    "image_url": "https://cn.bing.com/th?id=OHR.MontereyHumpbacks_ZH-CN5426789466_1920x1080.webp",
-    "main_text": "座头鲸广泛分布于世界各大洋，在中国，它们的活动范围涵盖黄海、东海以及南海海域。"
+    "headline": "祝除夕团圆，新年顺遂！",
+    "title": "庆祝春节的龙形灯笼，中国西安",
+    "description": "除夕夜，街头的龙形灯笼正蜿蜒舒展，金鳞流转间仿佛蓄着时光的温度；而远处隐约响起的蹄声，恰似春风捎来骏马的问候——这是龙与马的相逢，是古老祥瑞与崭新朝气在岁月门楣的相会。",
+    "image_url": "https://cn.bing.com/th?id=OHR.ChineseNewYearEveY26_ZH-CN7770318975_1920x1080.webp",
+    "main_text": "“龙马精神”是一个富有深厚文化意蕴的中文成语，其核心含义是形容人像龙和马一样，拥有昂扬抖擞、健旺非凡的精神面貌和奋发向上的生命力。"
 }
 ```
 
-UpdataTime：2026-02-15 08:47:38
+UpdataTime：2026-02-15 16:44:34
