@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-02-14",
+    "date": "2026-02-15",
     "headline": "浪涛下的歌谣",
     "title": "蒙特雷湾的大翅鲸(座头鲸)，加利福尼亚州，美国",
     "description": "世界鲸鱼日定于每年2月的第3个星期日，起源于20世纪80年代的夏威夷。当时，当地社区会庆祝座头鲸在迁徙季节重返近海。这一纪念日随后逐渐受到国际关注，尤其是在1986年国际捕鲸委员会通过商业捕鲸禁令之后，该举措成为全球鲸类保护的重要里程碑。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-02-14 16:44:46
+UpdataTime：2026-02-15 03:18:01
