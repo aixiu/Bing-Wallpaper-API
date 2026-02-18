@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-02-17",
+    "date": "2026-02-18",
     "headline": "生而自由，永不驯服",
     "title": "普氏野马",
     "description": "普氏野马从未被驯化，自始至终按照自己的方式生存，被认为是地球上最后的野马。它们曾广泛分布于中亚地区，但在20世纪60年代，由于狩猎、栖息地丧失以及与家畜竞争，普氏野马在野外一度消失。幸运的是，少数在20世纪初被带入圈养环境的个体保存了这个物种的火种，也孕育了今天所有的普氏野马。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-02-17 17:09:45
+UpdataTime：2026-02-18 08:58:41
