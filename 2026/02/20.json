@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-![约塞米蒂国家公园里的火瀑布，加利福尼亚州，美国](https://cn.bing.com/th?id=OHR.AdamsFirefall_ZH-CN9409143565_1920x1080.webp)
-Today: [约塞米蒂国家公园里的火瀑布，加利福尼亚州，美国](https://cn.bing.com/th?id=OHR.AdamsFirefall_ZH-CN9409143565_1920x1080.webp) - 光照之处
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2026-02-20",
     "headline": "光照之处",
@@ -42,6 +6,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url": "https://cn.bing.com/th?id=OHR.AdamsFirefall_ZH-CN9409143565_1920x1080.webp",
     "main_text": "唯有水量充沛、天空澄明，且阳光以恰当的角度洒落，火焰般的水幕才会显现。而这样的奇遇，并不会每年发生。"
 }
-```
-
-UpdataTime：2026-02-20 02:50:31
