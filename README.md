@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-02-24",
+    "date": "2026-02-25",
     "headline": "冰，由内而外透出光芒",
     "title": "门登霍尔冰川的冰洞，阿拉斯加州，美国",
     "description": "阿拉斯加朱诺城外，门登霍尔冰川静静隐匿其间，内外皆仿佛幻境。走入罕见的蓝色冰洞，世界骤然安静，光线透过历经数百年压实的冰层，映照四周。冰川自朱诺冰原绵延约十三英里，缓缓流向下方山谷，在年复一年的流动中悄然改变形态。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-02-24 17:15:18
+UpdataTime：2026-02-25 02:54:59
