@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![门登霍尔冰川的冰洞，阿拉斯加州，美国](https://cn.bing.com/th?id=OHR.MendenhallCave_ZH-CN1850649760_1920x1080.webp)
-Today: [门登霍尔冰川的冰洞，阿拉斯加州，美国](https://cn.bing.com/th?id=OHR.MendenhallCave_ZH-CN1850649760_1920x1080.webp) - 冰，由内而外透出光芒
+![大峡谷和科罗拉多河，亚利桑那州，美国](https://cn.bing.com/th?id=OHR.GrandSunset_ZH-CN1905986519_1920x1080.webp)
+Today: [大峡谷和科罗拉多河，亚利桑那州，美国](https://cn.bing.com/th?id=OHR.GrandSunset_ZH-CN1905986519_1920x1080.webp) - 一幅壮丽的景象
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-02-25",
-    "headline": "冰，由内而外透出光芒",
-    "title": "门登霍尔冰川的冰洞，阿拉斯加州，美国",
-    "description": "阿拉斯加朱诺城外，门登霍尔冰川静静隐匿其间，内外皆仿佛幻境。走入罕见的蓝色冰洞，世界骤然安静，光线透过历经数百年压实的冰层，映照四周。冰川自朱诺冰原绵延约十三英里，缓缓流向下方山谷，在年复一年的流动中悄然改变形态。",
-    "image_url": "https://cn.bing.com/th?id=OHR.MendenhallCave_ZH-CN1850649760_1920x1080.webp",
-    "main_text": "2012年，冰川消退后，埋藏其下的树桩和原木逐渐显现，根系与树皮仍然完整。因长久埋藏在砾石之下，这层覆盖恰好成了天然的保护屏障，所以它们仍保持着原本的生长姿态。当这些遗存被揭开，科学家得以窥见冰川形成之前的生态环境。"
+    "headline": "一幅壮丽的景象",
+    "title": "大峡谷和科罗拉多河，亚利桑那州，美国",
+    "description": "大峡谷国家公园每天都有新的故事，但2月26日这一天格外特别，纪念的是1919年大峡谷正式成为国家公园的历史时刻。这一里程碑式的决定，守护了美国最具代表性的自然奇观。峡谷深处，科罗拉多河缓缓流淌，穿行于层叠的岩石之间，跨越数百英里，以季节为节拍，静静雕刻着峡谷的生命。",
+    "image_url": "https://cn.bing.com/th?id=OHR.GrandSunset_ZH-CN1905986519_1920x1080.webp",
+    "main_text": "国家公园管理局在园内多个观景点架设了实时网络摄像头，分享日出时刻、天气变化与峡谷的日常节律。"
 }
 ```
 
-UpdataTime：2026-02-25 09:02:07
+UpdataTime：2026-02-25 17:16:45
