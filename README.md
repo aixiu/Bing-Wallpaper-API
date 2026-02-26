@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-02-25",
+    "date": "2026-02-26",
     "headline": "一幅壮丽的景象",
     "title": "大峡谷和科罗拉多河，亚利桑那州，美国",
     "description": "大峡谷国家公园每天都有新的故事，但2月26日这一天格外特别，纪念的是1919年大峡谷正式成为国家公园的历史时刻。这一里程碑式的决定，守护了美国最具代表性的自然奇观。峡谷深处，科罗拉多河缓缓流淌，穿行于层叠的岩石之间，跨越数百英里，以季节为节拍，静静雕刻着峡谷的生命。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-02-25 17:16:45
+UpdataTime：2026-02-26 02:50:17
