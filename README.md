@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-02-26",
+    "date": "2026-02-27",
     "headline": "薄冰上的生活",
     "title": "北极熊幼崽走过浮冰, 北极国家野生动物保护区, 阿拉斯加州, 美国",
     "description": "2月27日是国际北极熊日，聚焦与冰封世界紧密相连的“北极巨兽”。作为世界上最大的陆地食肉动物，北极熊会为寻找食物在辽阔的极地景观中跋涉数百英里。它们高度适应海冰生活：宽大的前掌跨度可达约一英尺，不仅能稳稳踏雪行走，也能在冰冷海水中游出数英里。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-02-26 17:11:29
+UpdataTime：2026-02-27 02:48:23
