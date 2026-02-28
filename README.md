@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![奥洛乌佩纳瀑布, 莫洛凯岛, 夏威夷, 美国](https://cn.bing.com/th?id=OHR.OloupenaFalls_ZH-CN2980118660_1920x1080.webp)
-Today: [奥洛乌佩纳瀑布, 莫洛凯岛, 夏威夷, 美国](https://cn.bing.com/th?id=OHR.OloupenaFalls_ZH-CN2980118660_1920x1080.webp) - 洋溢着社区氛围
+![伊维萨岛, 巴利阿里群岛, 西班牙](https://cn.bing.com/th?id=OHR.BalearesDay_ZH-CN5024902433_1920x1080.webp)
+Today: [伊维萨岛, 巴利阿里群岛, 西班牙](https://cn.bing.com/th?id=OHR.BalearesDay_ZH-CN5024902433_1920x1080.webp) - 每一步，都是传承
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-02-28",
-    "headline": "洋溢着社区氛围",
-    "title": "奥洛乌佩纳瀑布, 莫洛凯岛, 夏威夷, 美国",
-    "description": "莫洛凯岛常被称为“最具夏威夷气息岛屿”，这里的节奏缓慢而从容，由自然环境与紧密相连的社区共同塑造。岛屿形成于一百多万年前的火山活动，占地约260平方英里，从太平洋中隆起，延展出修长的山脊与开阔的谷地。与喧闹的邻岛不同，莫洛凯岛拒绝大规模开发，保留了强烈的在地凝聚力，家庭、传统以及对土地的守护构成了这里的核心价值。人们的生活围绕着海洋、土地，以及代代相传的故事展开。",
-    "image_url": "https://cn.bing.com/th?id=OHR.OloupenaFalls_ZH-CN2980118660_1920x1080.webp",
-    "main_text": "这些瀑布极为偏远，只能从空中或海上远望。附近既没有公路，也没有步道。最近的城镇是考纳卡凯，这是岛上的主要城镇。"
+    "headline": "每一步，都是传承",
+    "title": "伊维萨岛, 巴利阿里群岛, 西班牙",
+    "description": "今天，我们一同庆祝西班牙迷人的巴利阿里群岛。巴利阿里群岛日致敬这一片多样却紧密相连的地中海土地——马略卡、梅诺卡、伊维萨与福门特拉，共同构成独特的群岛身份。这个日子同时纪念《巴利阿里自治法》，该法案于1983年3月1日正式生效，确立群岛作为西班牙的一个自治区。",
+    "image_url": "https://cn.bing.com/th?id=OHR.BalearesDay_ZH-CN5024902433_1920x1080.webp",
+    "main_text": "伊维萨岛不仅是游客青睐的度假胜地，更因狂欢不息的夜生活文化而闻名世界，由此被誉为“世界派对之都”。"
 }
 ```
 
-UpdataTime：2026-02-28 08:40:29
+UpdataTime：2026-02-28 16:37:47
