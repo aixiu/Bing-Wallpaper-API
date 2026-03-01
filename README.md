@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-02-28",
+    "date": "2026-03-01",
     "headline": "每一步，都是传承",
     "title": "伊维萨岛, 巴利阿里群岛, 西班牙",
     "description": "今天，我们一同庆祝西班牙迷人的巴利阿里群岛。巴利阿里群岛日致敬这一片多样却紧密相连的地中海土地——马略卡、梅诺卡、伊维萨与福门特拉，共同构成独特的群岛身份。这个日子同时纪念《巴利阿里自治法》，该法案于1983年3月1日正式生效，确立群岛作为西班牙的一个自治区。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-02-28 16:37:47
+UpdataTime：2026-03-01 08:44:28
