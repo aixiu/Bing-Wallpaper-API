@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-03-02",
+    "date": "2026-03-03",
     "headline": "花灯映月，团圆吉祥",
     "title": "元宵节期间悬挂的宫灯，北京自贡灯会现场，北京，中国",
     "description": "元宵节是中国农历新年的重要节日，通常在正月十五庆祝。人们会吃汤圆（象征团圆）并欣赏各式灯笼，寓意团圆、幸福与吉祥。节日期间，家庭聚会、赏灯和灯谜活动都非常受欢迎，是春节庆祝活动的延续。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-03-02 17:01:31
+UpdataTime：2026-03-03 02:53:50
