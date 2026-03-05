@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-03-04",
+    "date": "2026-03-05",
     "headline": "古老岩石，现代灯光",
     "title": "格雷梅的傍晚, 卡帕多西亚, 土耳其",
     "description": "黄昏时分，卡帕多西亚格雷梅地区的地貌逐渐显现。这片区域隶属于格雷梅国家公园与卡帕多西亚岩石遗址，1985年入选世界遗产名录。“精灵烟囱”等地貌源自安那托利亚火山喷发形成的火山灰层，随后经风与水长期侵蚀，雕刻出石柱、山脊与谷地。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-03-04 16:59:20
+UpdataTime：2026-03-05 02:49:20
