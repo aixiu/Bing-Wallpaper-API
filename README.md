@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![格雷梅的傍晚, 卡帕多西亚, 土耳其](https://cn.bing.com/th?id=OHR.GoremeTwilight_ZH-CN3731931947_1920x1080.webp)
-Today: [格雷梅的傍晚, 卡帕多西亚, 土耳其](https://cn.bing.com/th?id=OHR.GoremeTwilight_ZH-CN3731931947_1920x1080.webp) - 古老岩石，现代灯光
+![波浪住宅楼, 瓦埃勒, 丹麦](https://cn.bing.com/th?id=OHR.WaveDenmark_ZH-CN8825888678_1920x1080.webp)
+Today: [波浪住宅楼, 瓦埃勒, 丹麦](https://cn.bing.com/th?id=OHR.WaveDenmark_ZH-CN8825888678_1920x1080.webp) - 混凝土中铸造的波浪
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-03-05",
-    "headline": "古老岩石，现代灯光",
-    "title": "格雷梅的傍晚, 卡帕多西亚, 土耳其",
-    "description": "黄昏时分，卡帕多西亚格雷梅地区的地貌逐渐显现。这片区域隶属于格雷梅国家公园与卡帕多西亚岩石遗址，1985年入选世界遗产名录。“精灵烟囱”等地貌源自安那托利亚火山喷发形成的火山灰层，随后经风与水长期侵蚀，雕刻出石柱、山脊与谷地。",
-    "image_url": "https://cn.bing.com/th?id=OHR.GoremeTwilight_ZH-CN3731931947_1920x1080.webp",
-    "main_text": "格雷梅是一座由火山岩凿刻而成的小镇，是通往格雷梅国家公园的门户。这里被列入联合国教科文组织世界遗产名录，保存着10至11世纪的洞穴教堂，并以“精灵烟囱”般的岩石地貌闻名，深受世界各地的背包客喜爱。"
+    "headline": "混凝土中铸造的波浪",
+    "title": "波浪住宅楼, 瓦埃勒, 丹麦",
+    "description": "建筑融合了艺术与科技，并通过建筑形式得以展现。虽然许多设计主要侧重于功能，但也有一些建筑同样重视视觉冲击力。丹麦韦勒的“波浪”建筑群就是一个绝佳的例子，它将雕塑般的造型设计与实用的居住空间完美结合。",
+    "image_url": "https://cn.bing.com/th?id=OHR.WaveDenmark_ZH-CN8825888678_1920x1080.webp",
+    "main_text": "这座屡获殊荣的九层住宅楼代表着城市滨水区的复兴，也代表着丹麦小镇韦勒的新形象。"
 }
 ```
 
-UpdataTime：2026-03-05 08:56:28
+UpdataTime：2026-03-05 18:15:36
