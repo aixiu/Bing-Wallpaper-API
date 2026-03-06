@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-03-05",
+    "date": "2026-03-06",
     "headline": "混凝土中铸造的波浪",
     "title": "波浪住宅楼, 瓦埃勒, 丹麦",
     "description": "建筑融合了艺术与科技，并通过建筑形式得以展现。虽然许多设计主要侧重于功能，但也有一些建筑同样重视视觉冲击力。丹麦韦勒的“波浪”建筑群就是一个绝佳的例子，它将雕塑般的造型设计与实用的居住空间完美结合。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-03-05 18:15:36
+UpdataTime：2026-03-06 02:46:42
