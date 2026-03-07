@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-![布罗肯峰的日出, 哈尔茨国家公园, 德国](https://cn.bing.com/th?id=OHR.BrockenSunrise_ZH-CN4930790850_1920x1080.webp)
-Today: [布罗肯峰的日出, 哈尔茨国家公园, 德国](https://cn.bing.com/th?id=OHR.BrockenSunrise_ZH-CN4930790850_1920x1080.webp) - 治愈、宁静且充满希望
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2026-03-07",
     "headline": "治愈、宁静且充满希望",
@@ -42,6 +6,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url": "https://cn.bing.com/th?id=OHR.BrockenSunrise_ZH-CN4930790850_1920x1080.webp",
     "main_text": "在晴朗的冬季天气里，布罗肯山常常高耸于云海之上，形成壮观的“云上山峰”景象。由于山顶地势开阔且相对于周围地区海拔较高，这里经常出现强风和快速变化的天气状况，使其成为德国北部气候特征最为鲜明的地区之一。"
 }
-```
-
-UpdataTime：2026-03-07 02:40:53
