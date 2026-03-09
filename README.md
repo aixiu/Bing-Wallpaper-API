@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-03-08",
+    "date": "2026-03-09",
     "headline": "一次恰到好处的午睡",
     "title": "在海滩上睡觉的灰海豹, 奥克尼群岛, 苏格兰",
     "description": "全国午睡日真是选得恰到好处。它恰逢夏令时开始后的星期一，届时时钟会拨快一小时，我们所有人都会少睡一个小时。不妨把今天当作一个正式的理由，放慢脚步，好好补补觉。这张照片中，一只在苏格兰海岸边酣睡的灰海豹，正是对这一天的绝佳提醒：休息至关重要。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-03-08 16:41:30
+UpdataTime：2026-03-09 02:54:41
