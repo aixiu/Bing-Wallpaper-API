@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-03-10",
+    "date": "2026-03-11",
     "headline": "一个美好的春天",
     "title": "盛开的桃树, 谢萨, 穆尔西亚, 西班牙",
     "description": "在谢萨，春天的到来别具一格。它并非缓缓展开，而是色彩缤纷，绚烂夺目。每年二月至三月，这座位于西班牙穆尔西亚地区的小城便成为“花期”（La Floración）的中心，也就是桃树盛开的季节。短短几天内，超过12000英亩的土地——西班牙最大的城市桃园——便会变成我们今天看到的这片色彩斑斓的海洋。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-03-10 17:04:19
+UpdataTime：2026-03-11 02:45:47
