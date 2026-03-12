@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-03-11",
+    "date": "2026-03-12",
     "headline": "排练中的翅膀",
     "title": "幼年日鳽在巢穴附近展示求偶行为, 厄瓜多尔",
     "description": "在厄瓜多尔的云雾森林高处，一只幼年日鳽展开翅膀进行早期展示，橙色、黑色和白色的斑纹在透过树叶的绿色光影中闪现。突如其来的色彩对比穿透覆盖苔藓的枝干和叶影下的林下层，呈现出这一物种戏剧性的翅膀斑纹。成年的日鳽通常在防御展示时才会显露这些醒目的斑纹，短暂地将这只原本隐秘的鸟变成引人注目的视觉奇观。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-03-11 17:04:28
+UpdataTime：2026-03-12 02:51:12
