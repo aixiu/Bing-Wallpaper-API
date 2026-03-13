@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-03-12",
+    "date": "2026-03-13",
     "headline": "静谧的石之杰作",
     "title": "邦港圣母教堂拱顶，莱萨布勒多洛讷，法国",
     "description": "在法国西部海滨小镇莱萨布勒多洛讷的邦港圣母堂拱顶下，石质拱肋依旧引导着视线向上。高耸的拱顶自1646年开始建造，这座教堂自1993年被列为法国历史古迹，坐落在一座13世纪小礼拜堂的旧址上，静静讲述着大西洋沿岸悠久的精神文化与历史故事。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-03-12 17:07:05
+UpdataTime：2026-03-13 02:48:11
