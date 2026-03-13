@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![邦港圣母教堂拱顶，莱萨布勒多洛讷，法国](https://cn.bing.com/th?id=OHR.VendeeVaults_ZH-CN9885568795_1920x1080.webp)
-Today: [邦港圣母教堂拱顶，莱萨布勒多洛讷，法国](https://cn.bing.com/th?id=OHR.VendeeVaults_ZH-CN9885568795_1920x1080.webp) - 静谧的石之杰作
+![兰扬石门，位于英格兰康沃尔郡的一座兰扬新石器时代石棚墓，英国](https://cn.bing.com/th?id=OHR.CornwallDolmen_ZH-CN0045468799_1920x1080.webp)
+Today: [兰扬石门，位于英格兰康沃尔郡的一座兰扬新石器时代石棚墓，英国](https://cn.bing.com/th?id=OHR.CornwallDolmen_ZH-CN0045468799_1920x1080.webp) - 圆周率的古老启示
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-03-13",
-    "headline": "静谧的石之杰作",
-    "title": "邦港圣母教堂拱顶，莱萨布勒多洛讷，法国",
-    "description": "在法国西部海滨小镇莱萨布勒多洛讷的邦港圣母堂拱顶下，石质拱肋依旧引导着视线向上。高耸的拱顶自1646年开始建造，这座教堂自1993年被列为法国历史古迹，坐落在一座13世纪小礼拜堂的旧址上，静静讲述着大西洋沿岸悠久的精神文化与历史故事。",
-    "image_url": "https://cn.bing.com/th?id=OHR.VendeeVaults_ZH-CN9885568795_1920x1080.webp",
-    "main_text": "邦港圣母堂的18世纪管风琴，是教堂内的艺术珍宝，节日期间为音乐增添独特氛围。"
+    "headline": "圆周率的古老启示",
+    "title": "兰扬石门，位于英格兰康沃尔郡的一座兰扬新石器时代石棚墓，英国",
+    "description": "在圆周率尚未有名字之前，人们就被它的奥秘所吸引。每年的3月14日，被定为“圆周率日”，以纪念数学中最著名的常数之一。这个日期正好对应圆周率π的前三位数字(3.14)，即圆的周长与直径之比。圆周率无穷且不循环的小数部分长期以来一直令学者们着迷。现代的庆祝活动始于1988年，当时物理学家拉里·肖(Larry Shaw)用一种特别的方式纪念这一天：享用美味的派(pie)。",
+    "image_url": "https://cn.bing.com/th?id=OHR.CornwallDolmen_ZH-CN0045468799_1920x1080.webp",
+    "main_text": "兰扬石门的巨石排列展示了新石器时代工匠对材料选择和空间布局的智慧。它不仅是墓葬遗迹，也体现了当时人类对环境与自然力量的适应能力。"
 }
 ```
 
-UpdataTime：2026-03-13 08:54:13
+UpdataTime：2026-03-13 16:53:44
