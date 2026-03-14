@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![兰扬石门，位于英格兰康沃尔郡的一座兰扬新石器时代石棚墓，英国](https://cn.bing.com/th?id=OHR.CornwallDolmen_ZH-CN0045468799_1920x1080.webp)
-Today: [兰扬石门，位于英格兰康沃尔郡的一座兰扬新石器时代石棚墓，英国](https://cn.bing.com/th?id=OHR.CornwallDolmen_ZH-CN0045468799_1920x1080.webp) - 圆周率的古老启示
+![太平洋沿岸国家公园保护区，温哥华岛，加拿大](https://cn.bing.com/th?id=OHR.PacificRimNP_ZH-CN0350089584_1920x1080.webp)
+Today: [太平洋沿岸国家公园保护区，温哥华岛，加拿大](https://cn.bing.com/th?id=OHR.PacificRimNP_ZH-CN0350089584_1920x1080.webp) - 掠海而过
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-03-14",
-    "headline": "圆周率的古老启示",
-    "title": "兰扬石门，位于英格兰康沃尔郡的一座兰扬新石器时代石棚墓，英国",
-    "description": "在圆周率尚未有名字之前，人们就被它的奥秘所吸引。每年的3月14日，被定为“圆周率日”，以纪念数学中最著名的常数之一。这个日期正好对应圆周率π的前三位数字(3.14)，即圆的周长与直径之比。圆周率无穷且不循环的小数部分长期以来一直令学者们着迷。现代的庆祝活动始于1988年，当时物理学家拉里·肖(Larry Shaw)用一种特别的方式纪念这一天：享用美味的派(pie)。",
-    "image_url": "https://cn.bing.com/th?id=OHR.CornwallDolmen_ZH-CN0045468799_1920x1080.webp",
-    "main_text": "兰扬石门的巨石排列展示了新石器时代工匠对材料选择和空间布局的智慧。它不仅是墓葬遗迹，也体现了当时人类对环境与自然力量的适应能力。"
+    "headline": "掠海而过",
+    "title": "太平洋沿岸国家公园保护区，温哥华岛，加拿大",
+    "description": "在加拿大，“太平洋沿岸鲸鱼节”庆祝成千上万头灰鲸每年春季的迁徙盛况——它们沿着岛屿西海岸近岸而行，场面壮观。这项节日由当地社区于20世纪80年代发起，旨在纪念灰鲸从墨西哥下加利福尼亚的繁殖潟湖启程，踏上北返旅程的重要时刻。",
+    "image_url": "https://cn.bing.com/th?id=OHR.PacificRimNP_ZH-CN0350089584_1920x1080.webp",
+    "main_text": "太平洋沿岸鲸鱼节不仅是观鲸活动，还包括海洋主题艺术展、社区巡游和公众讲座，体现了当地居民对海洋文化的长期关注与参与。"
 }
 ```
 
-UpdataTime：2026-03-14 08:49:15
+UpdataTime：2026-03-14 16:44:40
