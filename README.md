@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-03-13",
+    "date": "2026-03-14",
     "headline": "圆周率的古老启示",
     "title": "兰扬石门，位于英格兰康沃尔郡的一座兰扬新石器时代石棚墓，英国",
     "description": "在圆周率尚未有名字之前，人们就被它的奥秘所吸引。每年的3月14日，被定为“圆周率日”，以纪念数学中最著名的常数之一。这个日期正好对应圆周率π的前三位数字(3.14)，即圆的周长与直径之比。圆周率无穷且不循环的小数部分长期以来一直令学者们着迷。现代的庆祝活动始于1988年，当时物理学家拉里·肖(Larry Shaw)用一种特别的方式纪念这一天：享用美味的派(pie)。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-03-13 16:53:44
+UpdataTime：2026-03-14 02:47:01
