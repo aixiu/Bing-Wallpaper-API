@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![正在吃竹子的大熊猫，中国](https://cn.bing.com/th?id=OHR.PandaForest_ZH-CN0545156080_1920x1080.webp)
-Today: [正在吃竹子的大熊猫，中国](https://cn.bing.com/th?id=OHR.PandaForest_ZH-CN0545156080_1920x1080.webp) - 走进熊猫世界
+![艾利赫格里安南环形堡，多内加尔，爱尔兰](https://cn.bing.com/th?id=OHR.DonegalFort_ZH-CN0718842170_1920x1080.webp)
+Today: [艾利赫格里安南环形堡，多内加尔，爱尔兰](https://cn.bing.com/th?id=OHR.DonegalFort_ZH-CN0718842170_1920x1080.webp) - 爱尔兰的精神十字路口
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-03-16",
-    "headline": "走进熊猫世界",
-    "title": "正在吃竹子的大熊猫，中国",
-    "description": "凭借黑白相间的毛色与温顺的性格，大熊猫已成为全球保护的象征。每年的3月16日被定为国家熊猫日，以关注这一标志性物种及其面临的保护挑战。大熊猫原产于中国，由于栖息地破坏和低出生率，曾一度濒临灭绝。得益于全球保护努力，它们的数量正在缓慢回升，但仍需更多工作来保障其未来。",
-    "image_url": "https://cn.bing.com/th?id=OHR.PandaForest_ZH-CN0545156080_1920x1080.webp",
-    "main_text": "虽然属于食肉动物，大熊猫的食物几乎全是竹子。由于竹子的营养价值不高，它们每天需要花费数小时进食才能满足能量需求。"
+    "headline": "爱尔兰的精神十字路口",
+    "title": "艾利赫格里安南环形堡，多内加尔，爱尔兰",
+    "description": "圣帕特里克是爱尔兰的守护圣人，约生于公元4世纪末至5世纪初的罗马不列颠。据传说，他在16岁时被爱尔兰掠夺者绑架，带到爱尔兰成为奴隶。逃回家乡后，他成为传教士，将基督教传播到整个爱尔兰岛。后来的传统中，他以三叶草来解释三位一体而闻名。圣帕特里克的信仰遗产，使得圣帕特里克节成为全球性的庆典。",
+    "image_url": "https://cn.bing.com/th?id=OHR.DonegalFort_ZH-CN0718842170_1920x1080.webp",
+    "main_text": "艾利赫格里安南环形堡曾是阿尔斯特国王的居所，其铁器时代的石墙与结构展示了古凯尔特人的防御智慧和社会组织能力。"
 }
 ```
 
-UpdataTime：2026-03-16 09:09:55
+UpdataTime：2026-03-16 17:13:52
