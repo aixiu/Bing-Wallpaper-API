@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-03-16",
+    "date": "2026-03-17",
     "headline": "爱尔兰的精神十字路口",
     "title": "艾利赫格里安南环形堡，多内加尔，爱尔兰",
     "description": "圣帕特里克是爱尔兰的守护圣人，约生于公元4世纪末至5世纪初的罗马不列颠。据传说，他在16岁时被爱尔兰掠夺者绑架，带到爱尔兰成为奴隶。逃回家乡后，他成为传教士，将基督教传播到整个爱尔兰岛。后来的传统中，他以三叶草来解释三位一体而闻名。圣帕特里克的信仰遗产，使得圣帕特里克节成为全球性的庆典。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-03-16 17:13:52
+UpdataTime：2026-03-17 02:51:02
