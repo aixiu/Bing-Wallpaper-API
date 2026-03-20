@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-03-19",
+    "date": "2026-03-20",
     "headline": "春日绯梦",
     "title": "春日樱花，上海，中国",
     "description": "在中国，春天的到来常常与樱花的绽放紧密相连。从南方到北方，公园与河畔逐渐被轻柔的花瓣装点，宛如铺展开来的粉色云霞。樱花象征着新生、希望，以及春日短暂却动人的美丽。每到花开时节，人们纷纷走进赏花胜地，感受早春的温暖与生机。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-03-19 17:09:00
+UpdataTime：2026-03-20 02:50:06
