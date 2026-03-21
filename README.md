@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![莱泰亚森林，多瑙河三角洲，罗马尼亚](https://cn.bing.com/th?id=OHR.LeteaForest_ZH-CN4153496399_1920x1080.webp)
-Today: [莱泰亚森林，多瑙河三角洲，罗马尼亚](https://cn.bing.com/th?id=OHR.LeteaForest_ZH-CN4153496399_1920x1080.webp) - 根系自由生长的地方
+![坦噶尼喀湖，非洲](https://cn.bing.com/th?id=OHR.TanganyikaWater_ZH-CN4884850067_1920x1080.webp)
+Today: [坦噶尼喀湖，非洲](https://cn.bing.com/th?id=OHR.TanganyikaWater_ZH-CN4884850067_1920x1080.webp) - 当水划出界线
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-03-21",
-    "headline": "根系自由生长的地方",
-    "title": "莱泰亚森林，多瑙河三角洲，罗马尼亚",
-    "description": "如果地球有一支“维护团队”，森林一定会冲在最前线。它们吸收碳排放，减少水土流失，保护生物多样性，影响降雨，并帮助维持清洁的水源。目前，森林仍覆盖着全球约31%的陆地面积，但其持续减少表明，这些自然系统正变得愈发脆弱。大片森林仍在被开垦，用于农业生产、基础设施建设和资源开发，使生态系统以令人担忧的速度不断削弱。",
-    "image_url": "https://cn.bing.com/th?id=OHR.LeteaForest_ZH-CN4153496399_1920x1080.webp",
-    "main_text": "联合国粮食及农业组织估计，每年约有2470万英亩（约1000万公顷）的森林被砍伐。"
+    "headline": "当水划出界线",
+    "title": "坦噶尼喀湖，非洲",
+    "description": "今天是世界水日。该纪念日由联合国于1992年设立，并于次年首次举行。人类已不能再随波逐流——我们必须守护那些维系生命的水流。在非洲东部大裂谷的坦噶尼喀湖，几乎最能体现这种紧迫感。从太空俯瞰，它宛如一条长约420英里（约676公里）的蓝色丝带，连接着坦桑尼亚、布隆迪、刚果民主共和国和赞比亚。在湖岸边，它则是一处拥有约1000万年历史的裂谷盆地，由地壳缓慢张裂形成。",
+    "image_url": "https://cn.bing.com/th?id=OHR.TanganyikaWater_ZH-CN4884850067_1920x1080.webp",
+    "main_text": "坦噶尼喀湖是世界上最长的淡水湖，也是世界第二深湖，仅次于俄罗斯的贝加尔湖。"
 }
 ```
 
-UpdataTime：2026-03-21 08:47:25
+UpdataTime：2026-03-21 16:43:31
