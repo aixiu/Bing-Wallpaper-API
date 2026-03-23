@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![坦噶尼喀湖，非洲](https://cn.bing.com/th?id=OHR.SonoranStorm_ZH-CN0579792563_1920x1080.webp)
-Today: [坦噶尼喀湖，非洲](https://cn.bing.com/th?id=OHR.SonoranStorm_ZH-CN0579792563_1920x1080.webp) - 当水划出界线
+![东湖樱花园的樱花，武汉，中国](https://cn.bing.com/th?id=OHR.WuhanCherryBlossom_ZH-CN1031985926_1920x1080.webp)
+Today: [东湖樱花园的樱花，武汉，中国](https://cn.bing.com/th?id=OHR.WuhanCherryBlossom_ZH-CN1031985926_1920x1080.webp) - 春天的形状
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-03-23",
-    "headline": "当水划出界线",
-    "title": "坦噶尼喀湖，非洲",
-    "description": "今天是世界水日。该纪念日由联合国于1992年设立，并于次年首次举行。人类已不能再随波逐流——我们必须守护那些维系生命的水流。在非洲东部大裂谷的坦噶尼喀湖，几乎最能体现这种紧迫感。从太空俯瞰，它宛如一条长约420英里（约676公里）的蓝色丝带，连接着坦桑尼亚、布隆迪、刚果民主共和国和赞比亚。在湖岸边，它则是一处拥有约1000万年历史的裂谷盆地，由地壳缓慢张裂形成。",
-    "image_url": "https://cn.bing.com/th?id=OHR.SonoranStorm_ZH-CN0579792563_1920x1080.webp",
-    "main_text": "坦噶尼喀湖是世界上最长的淡水湖，也是世界第二深湖，仅次于俄罗斯的贝加尔湖。"
+    "headline": "春天的形状",
+    "title": "东湖樱花园的樱花，武汉，中国",
+    "description": "从空中俯瞰，中国武汉的东湖樱花园宛如一朵淡紫色的云，轻柔地停驻在大地之上。成千上万株樱花同时盛放，浅色花瓣在公园中心一座金色五层宝塔周围织就出一片生机盎然的花海穹顶。宝塔以沉静而对称的姿态挺立，层层飞檐在柔和的春日色彩映衬下熠熠生辉。",
+    "image_url": "https://cn.bing.com/th?id=OHR.WuhanCherryBlossom_ZH-CN1031985926_1920x1080.webp",
+    "main_text": "武汉樱花花期很短，单株3—5天盛放，最佳观赏期常不足一周。气温每升高1℃，花期都会提前。"
 }
 ```
 
-UpdataTime：2026-03-23 09:09:32
+UpdataTime：2026-03-23 17:04:33
