@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-03-24",
+    "date": "2026-03-25",
     "headline": "海牛的秘密生活",
     "title": "淡水泉中的幼年海牛，水晶河，佛罗里达州，美国",
     "description": "海牛看起来行动缓慢、昏昏欲睡，但在水下却有不少令人惊讶的“本领”。首先，它们是少数会持续更换牙齿的哺乳动物之一。首先，它们是少数会持续更换牙齿的哺乳动物之一。当臼齿因咀嚼含沙的海草而磨损时，新牙会像传送带一样缓缓向前移动、替换旧牙——这对每天进食可达8小时的它们来说尤为重要。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-03-24 17:11:14
+UpdataTime：2026-03-25 03:14:18
