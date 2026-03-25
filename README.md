@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![淡水泉中的幼年海牛，水晶河，佛罗里达州，美国](https://cn.bing.com/th?id=OHR.ManateeSpring_ZH-CN5252847120_1920x1080.webp)
-Today: [淡水泉中的幼年海牛，水晶河，佛罗里达州，美国](https://cn.bing.com/th?id=OHR.ManateeSpring_ZH-CN5252847120_1920x1080.webp) - 海牛的秘密生活
+![洛根溪吊桥，西海岸步道，加拿大](https://cn.bing.com/th?id=OHR.LoganCreek_ZH-CN5372283365_1920x1080.webp)
+Today: [洛根溪吊桥，西海岸步道，加拿大](https://cn.bing.com/th?id=OHR.LoganCreek_ZH-CN5372283365_1920x1080.webp) - 凌驾荒野之上
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-03-25",
-    "headline": "海牛的秘密生活",
-    "title": "淡水泉中的幼年海牛，水晶河，佛罗里达州，美国",
-    "description": "海牛看起来行动缓慢、昏昏欲睡，但在水下却有不少令人惊讶的“本领”。首先，它们是少数会持续更换牙齿的哺乳动物之一。首先，它们是少数会持续更换牙齿的哺乳动物之一。当臼齿因咀嚼含沙的海草而磨损时，新牙会像传送带一样缓缓向前移动、替换旧牙——这对每天进食可达8小时的它们来说尤为重要。",
-    "image_url": "https://cn.bing.com/th?id=OHR.ManateeSpring_ZH-CN5252847120_1920x1080.webp",
-    "main_text": "海牛的新陈代谢非常缓慢，静息时心率通常只有每分钟约25次，比许多同体型哺乳动物都低。"
+    "headline": "凌驾荒野之上",
+    "title": "洛根溪吊桥，西海岸步道，加拿大",
+    "description": "沿着加拿大温哥华岛西南部偏远海岸延伸的西海岸步道，是该国最具传奇色彩的徒步路线之一。这条步道位于 太平洋沿岸国家公园保护区，全长约47英里，穿越雨林、沙滩和岩石海岸线。该步道始建于1907年，最初是一条为海难幸存者设立的救生通道，沿线海域曾被水手称为“太平洋墓地”。",
+    "image_url": "https://cn.bing.com/th?id=OHR.LoganCreek_ZH-CN5372283365_1920x1080.webp",
+    "main_text": "由于泥泞路段、木梯、河流以及多变而严酷的海岸天气，西海岸步道 通常需要6至8天才能完成。"
 }
 ```
 
-UpdataTime：2026-03-25 09:03:09
+UpdataTime：2026-03-25 17:14:46
