@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![洛根溪吊桥，西海岸步道，加拿大](https://cn.bing.com/th?id=OHR.LoganCreek_ZH-CN5372283365_1920x1080.webp)
-Today: [洛根溪吊桥，西海岸步道，加拿大](https://cn.bing.com/th?id=OHR.LoganCreek_ZH-CN5372283365_1920x1080.webp) - 凌驾荒野之上
+![纽约市的无线电城音乐厅, 美国](https://cn.bing.com/th?id=OHR.RadioCityHall_ZH-CN5492649461_1920x1080.webp)
+Today: [纽约市的无线电城音乐厅, 美国](https://cn.bing.com/th?id=OHR.RadioCityHall_ZH-CN5492649461_1920x1080.webp) - 依然明亮地燃烧着
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-03-26",
-    "headline": "凌驾荒野之上",
-    "title": "洛根溪吊桥，西海岸步道，加拿大",
-    "description": "沿着加拿大温哥华岛西南部偏远海岸延伸的西海岸步道，是该国最具传奇色彩的徒步路线之一。这条步道位于 太平洋沿岸国家公园保护区，全长约47英里，穿越雨林、沙滩和岩石海岸线。该步道始建于1907年，最初是一条为海难幸存者设立的救生通道，沿线海域曾被水手称为“太平洋墓地”。",
-    "image_url": "https://cn.bing.com/th?id=OHR.LoganCreek_ZH-CN5372283365_1920x1080.webp",
-    "main_text": "由于泥泞路段、木梯、河流以及多变而严酷的海岸天气，西海岸步道 通常需要6至8天才能完成。"
+    "headline": "依然明亮地燃烧着",
+    "title": "纽约市的无线电城音乐厅, 美国",
+    "description": "乍一看，无线电城音乐厅的内部装潢无疑会吸引你的目光，让你兴奋不已。仿佛置身于纽约市中心的阳光下——这是装饰艺术风格狂热的化身，展现了20世纪30年代人们对未来的憧憬。每年的3月27日是世界戏剧日，人们都会庆祝这种令人叹为观止的震撼体验。",
+    "image_url": "https://cn.bing.com/th?id=OHR.RadioCityHall_ZH-CN5492649461_1920x1080.webp",
+    "main_text": "世界戏剧日由国际戏剧协会（ITI）创立，并于1962年3月27日首次庆祝，当天也是巴黎“民族剧院”演出季的开幕日。此后，每年的这一天，世界戏剧日都会在全球范围内庆祝。"
 }
 ```
 
-UpdataTime：2026-03-26 09:09:55
+UpdataTime：2026-03-26 17:15:16
