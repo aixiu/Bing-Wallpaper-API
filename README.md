@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-03-26",
+    "date": "2026-03-27",
     "headline": "依然明亮地燃烧着",
     "title": "纽约市的无线电城音乐厅, 美国",
     "description": "乍一看，无线电城音乐厅的内部装潢无疑会吸引你的目光，让你兴奋不已。仿佛置身于纽约市中心的阳光下——这是装饰艺术风格狂热的化身，展现了20世纪30年代人们对未来的憧憬。每年的3月27日是世界戏剧日，人们都会庆祝这种令人叹为观止的震撼体验。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-03-26 17:15:16
+UpdataTime：2026-03-27 03:25:29
