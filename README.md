@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![非洲水牛, 恩戈罗恩戈罗火山口, 坦桑尼亚](https://cn.bing.com/th?id=OHR.CapeBuffalo_ZH-CN5591123662_1920x1080.webp)
-Today: [非洲水牛, 恩戈罗恩戈罗火山口, 坦桑尼亚](https://cn.bing.com/th?id=OHR.CapeBuffalo_ZH-CN5591123662_1920x1080.webp) - 未驯服的精神
+![佩吉角灯塔, 大西洋海岸, 新斯科舍省, 加拿大](https://cn.bing.com/th?id=OHR.PeggysLighthouse_ZH-CN5730463973_1920x1080.webp)
+Today: [佩吉角灯塔, 大西洋海岸, 新斯科舍省, 加拿大](https://cn.bing.com/th?id=OHR.PeggysLighthouse_ZH-CN5730463973_1920x1080.webp) - 海边的宁静
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-03-28",
-    "headline": "未驯服的精神",
-    "title": "非洲水牛, 恩戈罗恩戈罗火山口, 坦桑尼亚",
-    "description": "非洲水牛体型庞大，威风凛凛，漫步于坦桑尼亚的稀树草原和湿地，尤其是在恩戈罗恩戈罗保护区（NCA）内。它们以硕大弯曲的牛角和庞大的体型而闻名，是“非洲五霸”（水牛、大象、豹子、犀牛、狮子）之一，并因其力量和适应力而备受尊崇。恩戈罗恩戈罗保护区是联合国教科文组织世界遗产，为观察这些令人敬畏的食草动物提供了壮丽而丰富的生态环境。",
-    "image_url": "https://cn.bing.com/th?id=OHR.CapeBuffalo_ZH-CN5591123662_1920x1080.webp",
-    "main_text": "非洲水牛的视力和听力都比较差，但嗅觉却很灵敏。它们似乎也比较难调节体温——这也是它们主要在夜间觅食的原因。"
+    "headline": "海边的宁静",
+    "title": "佩吉角灯塔, 大西洋海岸, 新斯科舍省, 加拿大",
+    "description": "佩吉湾是新斯科舍省崎岖海岸线上一个迷人而小巧的村庄，展现了海滨生活的一角。村里最著名的地标是佩吉角灯塔（也称佩吉湾灯塔），它最初建于1868年，后于1915年被现在的灯塔所取代。一个多世纪以来，它指引着船只穿梭于变幻莫测的大西洋，成为海岸生活永恒的象征。周围的景色，海风吹拂，波涛汹涌，仿佛时间在这里停滞。",
+    "image_url": "https://cn.bing.com/th?id=OHR.PeggysLighthouse_ZH-CN5730463973_1920x1080.webp",
+    "main_text": "佩吉湾村周围是佩吉湾保护区，这是一片占地 1000 英亩的受保护土地，拥有敏感的生态系统。"
 }
 ```
 
-UpdataTime：2026-03-28 08:53:30
+UpdataTime：2026-03-28 16:47:33
