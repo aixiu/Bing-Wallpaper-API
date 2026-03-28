@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-03-27",
+    "date": "2026-03-28",
     "headline": "未驯服的精神",
     "title": "非洲水牛, 恩戈罗恩戈罗火山口, 坦桑尼亚",
     "description": "非洲水牛体型庞大，威风凛凛，漫步于坦桑尼亚的稀树草原和湿地，尤其是在恩戈罗恩戈罗保护区（NCA）内。它们以硕大弯曲的牛角和庞大的体型而闻名，是“非洲五霸”（水牛、大象、豹子、犀牛、狮子）之一，并因其力量和适应力而备受尊崇。恩戈罗恩戈罗保护区是联合国教科文组织世界遗产，为观察这些令人敬畏的食草动物提供了壮丽而丰富的生态环境。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-03-27 17:04:11
+UpdataTime：2026-03-28 03:11:34
