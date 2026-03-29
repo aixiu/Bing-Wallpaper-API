@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![佩吉角灯塔, 大西洋海岸, 新斯科舍省, 加拿大](https://cn.bing.com/th?id=OHR.PeggysLighthouse_ZH-CN5730463973_1920x1080.webp)
-Today: [佩吉角灯塔, 大西洋海岸, 新斯科舍省, 加拿大](https://cn.bing.com/th?id=OHR.PeggysLighthouse_ZH-CN5730463973_1920x1080.webp) - 海边的宁静
+![蓑羽鹤, 印度](https://cn.bing.com/th?id=OHR.IndiaCranes_ZH-CN5871338482_1920x1080.webp)
+Today: [蓑羽鹤, 印度](https://cn.bing.com/th?id=OHR.IndiaCranes_ZH-CN5871338482_1920x1080.webp) - 优雅的动态
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-03-29",
-    "headline": "海边的宁静",
-    "title": "佩吉角灯塔, 大西洋海岸, 新斯科舍省, 加拿大",
-    "description": "佩吉湾是新斯科舍省崎岖海岸线上一个迷人而小巧的村庄，展现了海滨生活的一角。村里最著名的地标是佩吉角灯塔（也称佩吉湾灯塔），它最初建于1868年，后于1915年被现在的灯塔所取代。一个多世纪以来，它指引着船只穿梭于变幻莫测的大西洋，成为海岸生活永恒的象征。周围的景色，海风吹拂，波涛汹涌，仿佛时间在这里停滞。",
-    "image_url": "https://cn.bing.com/th?id=OHR.PeggysLighthouse_ZH-CN5730463973_1920x1080.webp",
-    "main_text": "佩吉湾村周围是佩吉湾保护区，这是一片占地 1000 英亩的受保护土地，拥有敏感的生态系统。"
+    "headline": "优雅的动态",
+    "title": "蓑羽鹤, 印度",
+    "description": "蓑羽鹤是一种体型虽小却引人注目的候鸟，分布于中亚各地，繁殖地位于哈萨克斯坦、蒙古和中国北部的草原，越冬地则在印度、尼泊尔和非洲部分地区。它拥有优雅的外形——纤细的脖颈、修长的双腿和美丽的羽毛——常被认为是鹤类中最优雅的物种之一。蓑羽鹤以其精妙的求偶舞而闻名，求偶时，雌雄蓑羽鹤会同步地舞动和鸣叫，呈现出一场美妙绝伦的视觉盛宴。",
+    "image_url": "https://cn.bing.com/th?id=OHR.IndiaCranes_ZH-CN5871338482_1920x1080.webp",
+    "main_text": "在世界自然保护联盟濒危物种红色名录中，蓑羽鹤被评估为无危物种。"
 }
 ```
 
-UpdataTime：2026-03-29 08:54:05
+UpdataTime：2026-03-29 16:48:27
