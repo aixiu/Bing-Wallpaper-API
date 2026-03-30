@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-03-29",
+    "date": "2026-03-30",
     "headline": "优雅的动态",
     "title": "蓑羽鹤, 印度",
     "description": "蓑羽鹤是一种体型虽小却引人注目的候鸟，分布于中亚各地，繁殖地位于哈萨克斯坦、蒙古和中国北部的草原，越冬地则在印度、尼泊尔和非洲部分地区。它拥有优雅的外形——纤细的脖颈、修长的双腿和美丽的羽毛——常被认为是鹤类中最优雅的物种之一。蓑羽鹤以其精妙的求偶舞而闻名，求偶时，雌雄蓑羽鹤会同步地舞动和鸣叫，呈现出一场美妙绝伦的视觉盛宴。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-03-29 16:48:27
+UpdataTime：2026-03-30 03:33:39
