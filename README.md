@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![天堂洞, 峰牙-格邦国家公园, 越南](https://cn.bing.com/th?id=OHR.ParadiseCave_ZH-CN6371627729_1920x1080.webp)
-Today: [天堂洞, 峰牙-格邦国家公园, 越南](https://cn.bing.com/th?id=OHR.ParadiseCave_ZH-CN6371627729_1920x1080.webp) - 地下天堂
+![粉色牵牛花里的日本树蛙](https://cn.bing.com/th?id=OHR.JapaneseTreeFrog_ZH-CN6467379766_1920x1080.webp)
+Today: [粉色牵牛花里的日本树蛙](https://cn.bing.com/th?id=OHR.JapaneseTreeFrog_ZH-CN6467379766_1920x1080.webp) - 跃入四月
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-03-31",
-    "headline": "地下天堂",
-    "title": "天堂洞, 峰牙-格邦国家公园, 越南",
-    "description": "天堂洞给人的第一印象极其震撼，游客一踏入其中便会为之惊叹。这座巨大的石灰岩洞穴位于越南中部峰牙-己榜国家公园深处，该地区以崎岖的山脉和无数隐秘的洞穴而闻名。天堂洞绵延超过19英里，是亚洲最长的旱洞之一，其规模之宏大令人叹为观止。高耸的洞顶俯瞰着步道，富含矿物质的水流经数百万年形成层层叠叠的图案遍布洞壁。",
-    "image_url": "https://cn.bing.com/th?id=OHR.ParadiseCave_ZH-CN6371627729_1920x1080.webp",
-    "main_text": "天堂洞是亚洲最长的旱洞，全长31.4公里。然而，只有天堂洞的前1公里对公众开放，而7公里的探险之旅则允许游客进行更深入的探索。"
+    "headline": "跃入四月",
+    "title": "粉色牵牛花里的日本树蛙",
+    "description": "四月是全国青蛙月，让我们有机会欣赏大自然中体型最小却最杰出的使者之一——青蛙。青蛙有助于平衡昆虫种群数量，而且由于它们皮肤具有渗透性，能够迅速感知水质和空气质量的变化，因此它们常常是环境变化的早期指示物。它们的出现反映了栖息地的健康状况，因此，在这个月里，我们不妨停下来，好好欣赏它们所扮演的重要角色。",
+    "image_url": "https://cn.bing.com/th?id=OHR.JapaneseTreeFrog_ZH-CN6467379766_1920x1080.webp",
+    "main_text": "已知最古老的“原始蛙类”——马西诺特三叠蛙（Triadobatrachus massinoti）生活在大约2.5亿年前的三叠纪早期。"
 }
 ```
 
-UpdataTime：2026-03-31 09:13:40
+UpdataTime：2026-03-31 17:10:33
