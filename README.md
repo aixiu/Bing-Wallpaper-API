@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![粉色牵牛花里的日本树蛙](https://cn.bing.com/th?id=OHR.JapaneseTreeFrog_ZH-CN6467379766_1920x1080.webp)
-Today: [粉色牵牛花里的日本树蛙](https://cn.bing.com/th?id=OHR.JapaneseTreeFrog_ZH-CN6467379766_1920x1080.webp) - 跃入四月
+![野花绽放, 中央谷地, 加利福尼亚州, 美国](https://cn.bing.com/th?id=OHR.WildflowerValley_ZH-CN7048300331_1920x1080.webp)
+Today: [野花绽放, 中央谷地, 加利福尼亚州, 美国](https://cn.bing.com/th?id=OHR.WildflowerValley_ZH-CN7048300331_1920x1080.webp) - 春天的图案
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-04-01",
-    "headline": "跃入四月",
-    "title": "粉色牵牛花里的日本树蛙",
-    "description": "四月是全国青蛙月，让我们有机会欣赏大自然中体型最小却最杰出的使者之一——青蛙。青蛙有助于平衡昆虫种群数量，而且由于它们皮肤具有渗透性，能够迅速感知水质和空气质量的变化，因此它们常常是环境变化的早期指示物。它们的出现反映了栖息地的健康状况，因此，在这个月里，我们不妨停下来，好好欣赏它们所扮演的重要角色。",
-    "image_url": "https://cn.bing.com/th?id=OHR.JapaneseTreeFrog_ZH-CN6467379766_1920x1080.webp",
-    "main_text": "已知最古老的“原始蛙类”——马西诺特三叠蛙（Triadobatrachus massinoti）生活在大约2.5亿年前的三叠纪早期。"
+    "headline": "春天的图案",
+    "title": "野花绽放, 中央谷地, 加利福尼亚州, 美国",
+    "description": "春意盎然的加州中央谷地在冬雨过后，野花竞相绽放，宣告着春天的到来。这片南北绵延约450英里、面积约2万平方英里的山谷，是世界上农业生产力最高的地区之一。然而，在早春时节，这里又会短暂地展现出一种古老的景象。从三月到四月，当气温和土壤湿度达到适宜水平时，金盏花、整齐叶草和猫头鹰三叶草等本地一年生植物便会迅速发芽。它们争分夺秒地完成生命周期，以迎接漫长旱季的到来。",
+    "image_url": "https://cn.bing.com/th?id=OHR.WildflowerValley_ZH-CN7048300331_1920x1080.webp",
+    "main_text": "中央谷地以其农业生产力而闻名。它为加利福尼亚州提供了大部分食品，而加利福尼亚州又提供了美国一半以上的水果、蔬菜和坚果。"
 }
 ```
 
-UpdataTime：2026-04-01 09:19:19
+UpdataTime：2026-04-01 17:07:45
