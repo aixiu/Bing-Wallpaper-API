@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-04-03",
+    "date": "2026-04-04",
     "headline": "求偶展示场的故事",
     "title": "求偶展示场上对峙的雄性黑琴鸡，爱沙尼亚",
     "description": "在日出之前，荒原上的“生物时钟”已经开始运转，仿佛为一场特别的“舞会”拉开序幕。雄性黑琴鸡不会发出邀请函，它们用低沉而响亮的鸣声来宣告自己的到来。欢迎来到求偶展示季——在这里，爱情充满竞争，场面热闹而喧闹，而且一切都发生在广阔的野外。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-04-03 16:53:47
+UpdataTime：2026-04-04 02:53:52
