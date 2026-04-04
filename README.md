@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![求偶展示场上对峙的雄性黑琴鸡，爱沙尼亚](https://cn.bing.com/th?id=OHR.GrouseGuff_ZH-CN2647001885_1920x1080.webp)
-Today: [求偶展示场上对峙的雄性黑琴鸡，爱沙尼亚](https://cn.bing.com/th?id=OHR.GrouseGuff_ZH-CN2647001885_1920x1080.webp) - 求偶展示场的故事
+![春天的雪钟花](https://cn.bing.com/th?id=OHR.SpringSnowdrops_ZH-CN2933051747_1920x1080.webp)
+Today: [春天的雪钟花](https://cn.bing.com/th?id=OHR.SpringSnowdrops_ZH-CN2933051747_1920x1080.webp) - 静静绽放的变化
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-04-04",
-    "headline": "求偶展示场的故事",
-    "title": "求偶展示场上对峙的雄性黑琴鸡，爱沙尼亚",
-    "description": "在日出之前，荒原上的“生物时钟”已经开始运转，仿佛为一场特别的“舞会”拉开序幕。雄性黑琴鸡不会发出邀请函，它们用低沉而响亮的鸣声来宣告自己的到来。欢迎来到求偶展示季——在这里，爱情充满竞争，场面热闹而喧闹，而且一切都发生在广阔的野外。",
-    "image_url": "https://cn.bing.com/th?id=OHR.GrouseGuff_ZH-CN2647001885_1920x1080.webp",
-    "main_text": "雄性黑琴鸡在眼睛上方长有一块鲜艳的红色肉垂（皮肤组织）。在求偶展示时，它们会让这块红色皮肤鼓起并变得更加显眼，以吸引雌性的注意。"
+    "headline": "静静绽放的变化",
+    "title": "春天的雪钟花",
+    "description": "雪滴花是最早开放的花之一，常常在冬天尚未完全离去时，就从寒冷的土壤中探出身来。它低垂的钟形花朵看起来柔弱，却为早春而生。其细胞中含有特殊的抗冻蛋白，能够帮助植物抵御霜冻，使它们能够适应冬末多变而寒冷的天气。",
+    "image_url": "https://cn.bing.com/th?id=OHR.SpringSnowdrops_ZH-CN2933051747_1920x1080.webp",
+    "main_text": "痴迷于雪花莲的收藏者被称为“雪花莲爱好者”"
 }
 ```
 
-UpdataTime：2026-04-04 08:54:22
+UpdataTime：2026-04-04 16:49:42
