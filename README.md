@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-04-04",
+    "date": "2026-04-05",
     "headline": "静静绽放的变化",
     "title": "春天的雪钟花",
     "description": "雪滴花是最早开放的花之一，常常在冬天尚未完全离去时，就从寒冷的土壤中探出身来。它低垂的钟形花朵看起来柔弱，却为早春而生。其细胞中含有特殊的抗冻蛋白，能够帮助植物抵御霜冻，使它们能够适应冬末多变而寒冷的天气。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-04-04 16:49:42
+UpdataTime：2026-04-05 03:33:04
