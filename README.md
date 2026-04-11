@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-04-10",
+    "date": "2026-04-11",
     "headline": "火山外衣",
     "title": "帕帕加约海滩, 兰萨罗特, 加那利群岛, 西班牙",
     "description": "由火焰孕育而成的海滩很少能如此低调，而帕帕加约海滩正好做到了这一点。我们今天看到的海岸线位于西班牙加那利群岛兰萨罗特岛的南端。热带幻想？更像是火山般的精准。数百万年前，这片土地在海底火山喷发的推动下，逐层由玄武岩和火山灰堆积升起。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-04-10 17:01:16
+UpdataTime：2026-04-11 08:57:10
