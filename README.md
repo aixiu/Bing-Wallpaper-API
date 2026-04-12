@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-04-11",
+    "date": "2026-04-12",
     "headline": "离开地球的第一步",
     "title": "城市灯光在下方划过, 拍摄于国际空间站",
     "description": "今天，世界纪念国际载人航天日，这是联合国设立的纪念日，旨在纪念人类首次进入太空的旅程以及人类太空时代的开始。这个日期回忆起1961年4月12日，尤里·加加林绕地球飞行，证明人类可以离开地球并安全返回。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-04-11 16:51:06
+UpdataTime：2026-04-12 03:39:37
