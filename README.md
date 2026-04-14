@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-04-13",
+    "date": "2026-04-14",
     "headline": "珊瑚礁邻居",
     "title": "海葵中的普通小丑鱼, 拉贾安帕特群岛, 印度尼西亚",
     "description": "海葵看起来像水下花朵，但实际上是动物——与水母和珊瑚是近亲。它们附着在岩石或珊瑚礁上，利用黏性基部和顶端挥动的触手（触手上长有细小的刺细胞）来捕获过往的猎物。这些刺细胞能麻痹小型鱼类，但有一种著名的“邻居”却对此免疫。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-04-13 17:15:21
+UpdataTime：2026-04-14 03:35:18
