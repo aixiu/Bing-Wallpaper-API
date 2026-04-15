@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![光之采石场的文森特·梵高展览, 莱博德普罗旺斯, 法国](https://cn.bing.com/th?id=OHR.VanGoghFields_ZH-CN3495668941_1920x1080.webp)
-Today: [光之采石场的文森特·梵高展览, 莱博德普罗旺斯, 法国](https://cn.bing.com/th?id=OHR.VanGoghFields_ZH-CN3495668941_1920x1080.webp) - 走进这幅鲜活的画布
+![斯卡吉特谷地郁金香花田, 华盛顿, 美国](https://cn.bing.com/th?id=OHR.SkagitTulips_ZH-CN4234324174_1920x1080.webp)
+Today: [斯卡吉特谷地郁金香花田, 华盛顿, 美国](https://cn.bing.com/th?id=OHR.SkagitTulips_ZH-CN4234324174_1920x1080.webp) - 花瓣巡游
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-04-15",
-    "headline": "走进这幅鲜活的画布",
-    "title": "光之采石场的文森特·梵高展览, 莱博德普罗旺斯, 法国",
-    "description": "艺术无处不在。创造力和自我表达是人类身份认同的重要组成部分，塑造着我们的过去和未来。有些人毕生致力于艺术，而另一些人则是艺术家作品的受益者。4月15日的世界艺术日旨在庆祝艺术创作与社会之间这种永恒的联系，正是这种联系塑造了我们的文化。",
-    "image_url": "https://cn.bing.com/th?id=OHR.VanGoghFields_ZH-CN3495668941_1920x1080.webp",
-    "main_text": "世界艺术日定于4月15日，是为了纪念列奥纳多·达·芬奇的诞辰，表彰他对艺术和人类创造力的深远影响。"
+    "headline": "花瓣巡游",
+    "title": "斯卡吉特谷地郁金香花田, 华盛顿, 美国",
+    "description": "每年春天，华盛顿州的斯卡吉特山谷都会变成一片色彩斑斓的花海，斯卡吉特山谷郁金香节在此欢庆花季的到来。整个四月，游客们可以漫步于郁金香花园和农田，欣赏成排盛开的郁金香，远眺群山美景。",
+    "image_url": "https://cn.bing.com/th?id=OHR.SkagitTulips_ZH-CN4234324174_1920x1080.webp",
+    "main_text": "郁金香谷农场占地15 英亩，种植着130种花卉，其中包括100多种郁金香。"
 }
 ```
 
-UpdataTime：2026-04-15 09:44:55
+UpdataTime：2026-04-15 17:16:28
