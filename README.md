@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-04-14",
+    "date": "2026-04-15",
     "headline": "走进这幅鲜活的画布",
     "title": "光之采石场的文森特·梵高展览, 莱博德普罗旺斯, 法国",
     "description": "艺术无处不在。创造力和自我表达是人类身份认同的重要组成部分，塑造着我们的过去和未来。有些人毕生致力于艺术，而另一些人则是艺术家作品的受益者。4月15日的世界艺术日旨在庆祝艺术创作与社会之间这种永恒的联系，正是这种联系塑造了我们的文化。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-04-14 17:19:14
+UpdataTime：2026-04-15 03:34:23
