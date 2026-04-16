@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-04-15",
+    "date": "2026-04-16",
     "headline": "花瓣巡游",
     "title": "斯卡吉特谷地郁金香花田, 华盛顿, 美国",
     "description": "每年春天，华盛顿州的斯卡吉特山谷都会变成一片色彩斑斓的花海，斯卡吉特山谷郁金香节在此欢庆花季的到来。整个四月，游客们可以漫步于郁金香花园和农田，欣赏成排盛开的郁金香，远眺群山美景。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-04-15 17:16:28
+UpdataTime：2026-04-16 03:40:44
