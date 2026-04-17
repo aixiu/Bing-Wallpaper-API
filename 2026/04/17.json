@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-![灰头狐蝠母亲携幼崽，雅拉湾国家公园，澳大利亚](https://cn.bing.com/th?id=OHR.FlyingFoxMom_ZH-CN2913012516_1920x1080.webp)
-Today: [灰头狐蝠母亲携幼崽，雅拉湾国家公园，澳大利亚](https://cn.bing.com/th?id=OHR.FlyingFoxMom_ZH-CN2913012516_1920x1080.webp) - 蝙蝠信号：开启
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2026-04-17",
     "headline": "蝙蝠信号：开启",
@@ -42,6 +6,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url": "https://cn.bing.com/th?id=OHR.FlyingFoxMom_ZH-CN2913012516_1920x1080.webp",
     "main_text": "“蝙蝠侠”只是虚构的角色，而现实中的“蝙蝠信号”则是对保护的呼唤——由于栖息地丧失和疾病影响，蝙蝠种群正不断缩减。"
 }
-```
-
-UpdataTime：2026-04-17 03:37:20
