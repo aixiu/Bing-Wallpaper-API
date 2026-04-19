@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-![镜面海滩，塞古罗港，巴伊亚州，巴西](https://cn.bing.com/th?id=OHR.TranBA_ZH-CN3467060262_1920x1080.webp)
-Today: [镜面海滩，塞古罗港，巴伊亚州，巴西](https://cn.bing.com/th?id=OHR.TranBA_ZH-CN3467060262_1920x1080.webp) - 潮汐留下的印记
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2026-04-19",
     "headline": "潮汐留下的印记",
@@ -42,6 +6,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url": "https://cn.bing.com/th?id=OHR.TranBA_ZH-CN3467060262_1920x1080.webp",
     "main_text": "在镜面海滩，能否看到清晰倒影其实取决于环境条件。当风力较小、潮位较低时，浅水水潭会像天然镜子一样平静；但只要出现轻微的水波，倒影就会立刻被“打破”。"
 }
-```
-
-UpdataTime：2026-04-19 03:45:15
