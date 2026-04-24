@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-04-23",
+    "date": "2026-04-24",
     "headline": "向树木致敬",
     "title": "湿地松和锯棕榈组成的森林吊床, 大沼泽地国家公园, 佛罗里达, 美国",
     "description": "植树节旨在颂扬树木的无声力量——它们如何稳定生态系统、庇护野生动物、为城市降温，并塑造我们日常生活所依赖的环境。在美国，植树节定于四月的最后一个星期五，这一天鼓励美国以及许多其他国家（日期因生长季节而异）的社区种植、保护和养护各种类型的森林，从社区绿荫到标志性的荒野。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-04-23 17:41:02
+UpdataTime：2026-04-24 03:43:25
