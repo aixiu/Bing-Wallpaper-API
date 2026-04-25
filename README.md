@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![加拉帕戈斯企鹅游泳, 加拉帕戈斯群岛, 厄瓜多尔](https://cn.bing.com/th?id=OHR.GalapagosPenguins_ZH-CN5791845489_1920x1080.webp)
-Today: [加拉帕戈斯企鹅游泳, 加拉帕戈斯群岛, 厄瓜多尔](https://cn.bing.com/th?id=OHR.GalapagosPenguins_ZH-CN5791845489_1920x1080.webp) - 打破企鹅规则
+![粉红色的苹果花, 阿维拉海滩, 加利福尼亚州, 美国](https://cn.bing.com/th?id=OHR.AppleBlossoms_ZH-CN5887711928_1920x1080.webp)
+Today: [粉红色的苹果花, 阿维拉海滩, 加利福尼亚州, 美国](https://cn.bing.com/th?id=OHR.AppleBlossoms_ZH-CN5887711928_1920x1080.webp) - 繁花盛放
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-04-25",
-    "headline": "打破企鹅规则",
-    "title": "加拉帕戈斯企鹅游泳, 加拉帕戈斯群岛, 厄瓜多尔",
-    "description": "企鹅通常让人联想到南极，但这些可爱的不会飞的海鸟并非总是追随冰雪而来。在世界企鹅日，图中这些加拉帕戈斯企鹅为我们展现了一个鲜明的对比。这种企鹅仅分布于加拉帕戈斯群岛——位于厄瓜多尔海岸约600英里外的火山群岛——是所有企鹅中分布最北的物种。凉爽且富含营养的洋流为它们提供了食物，并将周围水域的温度维持在适宜生存的范围内，从而使这种赤道栖息地成为可能。这些体型紧凑、行动敏捷的企鹅一天中的大部分时间都待在水中以保持凉爽。",
-    "image_url": "https://cn.bing.com/th?id=OHR.GalapagosPenguins_ZH-CN5791845489_1920x1080.webp",
-    "main_text": "每只企鹅都有自己独特的叫声。这有助于它们在庞大的企鹅群落中找到伴侣和幼崽，这些企鹅群落的数量从几百只到几万只不等。"
+    "headline": "繁花盛放",
+    "title": "粉红色的苹果花, 阿维拉海滩, 加利福尼亚州, 美国",
+    "description": "春天，苹果树绽放出朵朵柔和的粉色花朵，生机盎然。娇嫩的花瓣点缀着果园和山坡，在湛蓝的天空映衬下格外醒目，标志着季节从寒冬走向温暖。这些花朵吸引着蜜蜂和蝴蝶等授粉昆虫，帮助果树结出丰硕的果实，为来年晚些时候的苹果生长做好准备。",
+    "image_url": "https://cn.bing.com/th?id=OHR.AppleBlossoms_ZH-CN5887711928_1920x1080.webp",
+    "main_text": "苹果花可以新鲜食用，也可以晒干后食用，香气浓郁，带有甜美的花香，是各种烹饪用途的理想食材。"
 }
 ```
 
-UpdataTime：2026-04-25 09:05:13
+UpdataTime：2026-04-25 16:57:20
