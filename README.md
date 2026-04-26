@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-04-25",
+    "date": "2026-04-26",
     "headline": "繁花盛放",
     "title": "粉红色的苹果花, 阿维拉海滩, 加利福尼亚州, 美国",
     "description": "春天，苹果树绽放出朵朵柔和的粉色花朵，生机盎然。娇嫩的花瓣点缀着果园和山坡，在湛蓝的天空映衬下格外醒目，标志着季节从寒冬走向温暖。这些花朵吸引着蜜蜂和蝴蝶等授粉昆虫，帮助果树结出丰硕的果实，为来年晚些时候的苹果生长做好准备。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-04-25 16:57:20
+UpdataTime：2026-04-26 03:50:16
