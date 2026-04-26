@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![粉红色的苹果花, 阿维拉海滩, 加利福尼亚州, 美国](https://cn.bing.com/th?id=OHR.AppleBlossoms_ZH-CN5887711928_1920x1080.webp)
-Today: [粉红色的苹果花, 阿维拉海滩, 加利福尼亚州, 美国](https://cn.bing.com/th?id=OHR.AppleBlossoms_ZH-CN5887711928_1920x1080.webp) - 繁花盛放
+![维托里奥·埃马努埃莱二世拱廊的玻璃穹顶, 米兰, 意大利](https://cn.bing.com/th?id=OHR.MilanGalleria_ZH-CN6060869879_1920x1080.webp)
+Today: [维托里奥·埃马努埃莱二世拱廊的玻璃穹顶, 米兰, 意大利](https://cn.bing.com/th?id=OHR.MilanGalleria_ZH-CN6060869879_1920x1080.webp) - 有格调的玻璃
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-04-26",
-    "headline": "繁花盛放",
-    "title": "粉红色的苹果花, 阿维拉海滩, 加利福尼亚州, 美国",
-    "description": "春天，苹果树绽放出朵朵柔和的粉色花朵，生机盎然。娇嫩的花瓣点缀着果园和山坡，在湛蓝的天空映衬下格外醒目，标志着季节从寒冬走向温暖。这些花朵吸引着蜜蜂和蝴蝶等授粉昆虫，帮助果树结出丰硕的果实，为来年晚些时候的苹果生长做好准备。",
-    "image_url": "https://cn.bing.com/th?id=OHR.AppleBlossoms_ZH-CN5887711928_1920x1080.webp",
-    "main_text": "苹果花可以新鲜食用，也可以晒干后食用，香气浓郁，带有甜美的花香，是各种烹饪用途的理想食材。"
+    "headline": "有格调的玻璃",
+    "title": "维托里奥·埃马努埃莱二世拱廊的玻璃穹顶, 米兰, 意大利",
+    "description": "由建筑师朱塞佩·门戈尼设计，于1877年竣工的维托里奥·埃马努埃莱二世拱廊位于意大利米兰，是世界上最古老、最著名的购物拱廊之一。它坐落于米兰大教堂广场和斯卡拉广场之间，拥有令人惊艳的玻璃铁艺屋顶和优雅的八角形布局。这条拱廊被亲切地称为“米兰的客厅”，汇集了众多高端精品店、历史悠久的咖啡馆以及知名餐厅。",
+    "image_url": "https://cn.bing.com/th?id=OHR.MilanGalleria_ZH-CN6060869879_1920x1080.webp",
+    "main_text": "当时，意大利正经历着艰难的统一时期，门戈尼将这座拱廊视为凝聚人心的途径。因此，拱廊内的马赛克镶嵌画充满了爱国主义符号，旨在激励团结。"
 }
 ```
 
-UpdataTime：2026-04-26 09:11:01
+UpdataTime：2026-04-26 16:57:28
