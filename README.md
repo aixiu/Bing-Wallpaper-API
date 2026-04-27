@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-04-26",
+    "date": "2026-04-27",
     "headline": "有格调的玻璃",
     "title": "维托里奥·埃马努埃莱二世拱廊的玻璃穹顶, 米兰, 意大利",
     "description": "由建筑师朱塞佩·门戈尼设计，于1877年竣工的维托里奥·埃马努埃莱二世拱廊位于意大利米兰，是世界上最古老、最著名的购物拱廊之一。它坐落于米兰大教堂广场和斯卡拉广场之间，拥有令人惊艳的玻璃铁艺屋顶和优雅的八角形布局。这条拱廊被亲切地称为“米兰的客厅”，汇集了众多高端精品店、历史悠久的咖啡馆以及知名餐厅。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-04-26 16:57:28
+UpdataTime：2026-04-27 03:54:36
