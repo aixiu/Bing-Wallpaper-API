@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![眼镜熊在树上休息, 厄瓜多尔](https://cn.bing.com/th?id=OHR.AndeanBear_ZH-CN6152330738_1920x1080.webp)
-Today: [眼镜熊在树上休息, 厄瓜多尔](https://cn.bing.com/th?id=OHR.AndeanBear_ZH-CN6152330738_1920x1080.webp) - 野外奇观
+![塔霍河岸边的贝伦塔, 里斯本, 葡萄牙](https://cn.bing.com/th?id=OHR.BelemTowerBank_ZH-CN6235906597_1920x1080.webp)
+Today: [塔霍河岸边的贝伦塔, 里斯本, 葡萄牙](https://cn.bing.com/th?id=OHR.BelemTowerBank_ZH-CN6235906597_1920x1080.webp) - 历史镌刻于石上
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-04-28",
-    "headline": "野外奇观",
-    "title": "眼镜熊在树上休息, 厄瓜多尔",
-    "description": "眼镜熊，又称安第斯熊，是熊科中唯一的南美洲熊类。它们栖息于安第斯山脉北部和中部，主要生活在森林地区，以嫩芽和果实为食。眼睛周围的浅色斑纹酷似眼镜，因此得名“眼镜熊”。",
-    "image_url": "https://cn.bing.com/th?id=OHR.AndeanBear_ZH-CN6152330738_1920x1080.webp",
-    "main_text": "每只眼镜熊都有独特的面部标记，科学家利用这些标记来识别和追踪野生个体。"
+    "headline": "历史镌刻于石上",
+    "title": "塔霍河岸边的贝伦塔, 里斯本, 葡萄牙",
+    "description": "昔日，离开里斯本的船只在驶向浩瀚的大西洋之前，都会经过一座小小的石塔。这座矗立在塔霍河畔的石塔，既是守护者，也是告别的象征。让我们一起来认识贝伦塔——这座见证葡萄牙扬帆起航，迈入大航海时代的堡垒。",
+    "image_url": "https://cn.bing.com/th?id=OHR.BelemTowerBank_ZH-CN6235906597_1920x1080.webp",
+    "main_text": "贝伦塔于1983年被列入联合国教科文组织世界遗产名录，是里斯本市和葡萄牙在世界上的标志性建筑。"
 }
 ```
 
-UpdataTime：2026-04-28 10:23:32
+UpdataTime：2026-04-28 17:53:53
