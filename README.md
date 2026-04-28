@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-04-27",
+    "date": "2026-04-28",
     "headline": "野外奇观",
     "title": "眼镜熊在树上休息, 厄瓜多尔",
     "description": "眼镜熊，又称安第斯熊，是熊科中唯一的南美洲熊类。它们栖息于安第斯山脉北部和中部，主要生活在森林地区，以嫩芽和果实为食。眼睛周围的浅色斑纹酷似眼镜，因此得名“眼镜熊”。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-04-27 17:37:55
+UpdataTime：2026-04-28 03:59:05
