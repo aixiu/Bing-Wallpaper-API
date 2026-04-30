@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![塔霍河岸边的贝伦塔, 里斯本, 葡萄牙](https://cn.bing.com/th?id=OHR.BelemTowerBank_ZH-CN6235906597_1920x1080.webp)
-Today: [塔霍河岸边的贝伦塔, 里斯本, 葡萄牙](https://cn.bing.com/th?id=OHR.BelemTowerBank_ZH-CN6235906597_1920x1080.webp) - 历史镌刻于石上
+![葡萄风信子和郁金香, 库肯霍夫花园, 利塞, 荷兰](https://cn.bing.com/th?id=OHR.DutchTulips_ZH-CN6394892537_1920x1080.webp)
+Today: [葡萄风信子和郁金香, 库肯霍夫花园, 利塞, 荷兰](https://cn.bing.com/th?id=OHR.DutchTulips_ZH-CN6394892537_1920x1080.webp) - 郁金香是这里的主角
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-04-29",
-    "headline": "历史镌刻于石上",
-    "title": "塔霍河岸边的贝伦塔, 里斯本, 葡萄牙",
-    "description": "昔日，离开里斯本的船只在驶向浩瀚的大西洋之前，都会经过一座小小的石塔。这座矗立在塔霍河畔的石塔，既是守护者，也是告别的象征。让我们一起来认识贝伦塔——这座见证葡萄牙扬帆起航，迈入大航海时代的堡垒。",
-    "image_url": "https://cn.bing.com/th?id=OHR.BelemTowerBank_ZH-CN6235906597_1920x1080.webp",
-    "main_text": "贝伦塔于1983年被列入联合国教科文组织世界遗产名录，是里斯本市和葡萄牙在世界上的标志性建筑。"
+    "date": "2026-04-30",
+    "headline": "郁金香是这里的主角",
+    "title": "葡萄风信子和郁金香, 库肯霍夫花园, 利塞, 荷兰",
+    "description": "想象一下，一朵花引发了一场金融狂潮。听起来不太可能，对吧？然而，在17世纪30年代，郁金香在荷兰却做到了这一点。在郁金香狂热时期，稀有的郁金香球茎成了奢侈品，交易价格惊人——有些球茎的价值甚至堪比一栋房子。为什么如此珍贵？因为颜色和条纹图案独特的郁金香稀少且难以预测，收藏家们想要找到他们所能找到的最稀有的品种。",
+    "image_url": "https://cn.bing.com/th?id=OHR.DutchTulips_ZH-CN6394892537_1920x1080.webp",
+    "main_text": "花园现占地32公顷（79英亩），展示了100家参与公司的产品。这得益于人工种植的700万株球茎。"
 }
 ```
 
-UpdataTime：2026-04-29 03:56:29
+UpdataTime：2026-04-30 03:57:20
