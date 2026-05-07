@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-05-06",
+    "date": "2026-05-07",
     "headline": "广袤铺展的沙漠",
     "title": "科法国家野生动物保护区，亚利桑那州，美国",
     "description": "横跨美国西南部亚利桑那州索诺兰沙漠的科法国家野生动物保护区，是一片由峭壁山峰、开阔天空与顽强生命共同构成的独特荒野。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-05-06 17:48:05
+UpdataTime：2026-05-07 03:57:17
