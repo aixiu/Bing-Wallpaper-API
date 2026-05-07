@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![科法国家野生动物保护区，亚利桑那州，美国](https://cn.bing.com/th?id=OHR.Kofa_ZH-CN0584573563_1920x1080.webp)
-Today: [科法国家野生动物保护区，亚利桑那州，美国](https://cn.bing.com/th?id=OHR.Kofa_ZH-CN0584573563_1920x1080.webp) - 广袤铺展的沙漠
+![撒丁岛母驴和幼崽, 法国](https://cn.bing.com/th?id=OHR.SardinianDonkey_ZH-CN0758031524_1920x1080.webp)
+Today: [撒丁岛母驴和幼崽, 法国](https://cn.bing.com/th?id=OHR.SardinianDonkey_ZH-CN0758031524_1920x1080.webp) - 不仅仅是一声咿呀学语
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-05-07",
-    "headline": "广袤铺展的沙漠",
-    "title": "科法国家野生动物保护区，亚利桑那州，美国",
-    "description": "横跨美国西南部亚利桑那州索诺兰沙漠的科法国家野生动物保护区，是一片由峭壁山峰、开阔天空与顽强生命共同构成的独特荒野。",
-    "image_url": "https://cn.bing.com/th?id=OHR.Kofa_ZH-CN0584573563_1920x1080.webp",
-    "main_text": "科法的棕榈峡谷庇护着亚利桑那州唯一的原生棕榈。这些史前残遗物种躲藏在深邃遮阴的岩缝中，在酷热的沙漠里利用阴凉的微气候繁衍至今。"
+    "headline": "不仅仅是一声咿呀学语",
+    "title": "撒丁岛母驴和幼崽, 法国",
+    "description": "世界驴日旨在庆祝人类最默默无闻却能力出众的伙伴之一——驴。数千年来，驴一直与人类并肩工作，它们以耐力、敏锐的记忆力和在崎岖地形上稳健的步伐而备受推崇。人们常常误以为它们固执，但实际上它们是谨慎的思考者——它们会停下来评估风险，而不是贸然行事。",
+    "image_url": "https://cn.bing.com/th?id=OHR.SardinianDonkey_ZH-CN0758031524_1920x1080.webp",
+    "main_text": "骡子是公驴和母马杂交产生的后代。"
 }
 ```
 
-UpdataTime：2026-05-07 10:31:33
+UpdataTime：2026-05-07 17:55:34
