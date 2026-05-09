@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-05-08",
+    "date": "2026-05-09",
     "headline": "克尔卡的造物主",
     "title": "克尔卡国家公园的斯克拉丁斯基布克瀑布, 克罗地亚",
     "description": "水是克罗地亚克尔卡国家公园的缔造者，它沿着克尔卡河塑造了碧绿的水潭和层叠的瀑布。今天的照片重点展示了公园最著名的瀑布群——斯克拉丁斯基布克瀑布，多条溪流从洛佐瓦茨村附近茂密森林中的石灰华梯田倾泻而下。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-05-08 17:40:36
+UpdataTime：2026-05-09 03:49:47
