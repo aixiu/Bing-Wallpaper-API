@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![从上方俯瞰大堡礁, 昆士兰州, 澳大利亚](https://cn.bing.com/th?id=OHR.QueenslandReef_ZH-CN1138150002_1920x1080.webp)
-Today: [从上方俯瞰大堡礁, 昆士兰州, 澳大利亚](https://cn.bing.com/th?id=OHR.QueenslandReef_ZH-CN1138150002_1920x1080.webp) - 水下建筑
+![北极海鹦, 威尔士](https://cn.bing.com/th?id=OHR.Fratercula_ZH-CN1239275412_1920x1080.webp)
+Today: [北极海鹦, 威尔士](https://cn.bing.com/th?id=OHR.Fratercula_ZH-CN1239275412_1920x1080.webp) - 振翅, 潜水, 生存
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-05-11",
-    "headline": "水下建筑",
-    "title": "从上方俯瞰大堡礁, 昆士兰州, 澳大利亚",
-    "description": "世界最伟大的自然奇观之一，绵延在澳大利亚东北海岸线外的珊瑚海碧绿海水中。大堡礁沿着昆士兰海岸延伸，是世界上最大的珊瑚礁系统。它由近3000个独立的珊瑚礁和数百个岛屿组成，绵延超过1400英里。",
-    "image_url": "https://cn.bing.com/th?id=OHR.QueenslandReef_ZH-CN1138150002_1920x1080.webp",
-    "main_text": "纬度和跨陆架多样性，加上水体深度的多样性，构成了全球独一无二的生态群落、栖息地和物种。"
+    "headline": "振翅, 潜水, 生存",
+    "title": "北极海鹦, 威尔士",
+    "description": "在北大西洋崎岖的海岸线上，大西洋海鹦栖息于洞穴和峭壁缝隙中。这些羽毛黑白相间、喙色艳丽的海鸟，由于过度捕捞和海洋环境变化导致猎物数量减少，被世界自然保护联盟（IUCN）列为易危物种。每年春天，它们都会返回此地繁殖，在精心挖掘的洞穴中产下一枚卵。作为游泳健将，它们在捕食鲱鱼和沙鳗等小型鱼类时，会利用翅膀在水下“飞行”。",
+    "image_url": "https://cn.bing.com/th?id=OHR.Fratercula_ZH-CN1239275412_1920x1080.webp",
+    "main_text": "大西洋海鹦的飞行路线是直线飞行，通常在海面以上10米（35 英尺）处，比大多数其他海雀飞得更高。"
 }
 ```
 
-UpdataTime：2026-05-11 11:32:47
+UpdataTime：2026-05-11 18:02:30
