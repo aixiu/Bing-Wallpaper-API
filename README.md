@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-05-10",
+    "date": "2026-05-11",
     "headline": "水下建筑",
     "title": "从上方俯瞰大堡礁, 昆士兰州, 澳大利亚",
     "description": "世界最伟大的自然奇观之一，绵延在澳大利亚东北海岸线外的珊瑚海碧绿海水中。大堡礁沿着昆士兰海岸延伸，是世界上最大的珊瑚礁系统。它由近3000个独立的珊瑚礁和数百个岛屿组成，绵延超过1400英里。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-05-10 17:07:11
+UpdataTime：2026-05-11 04:17:44
