@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![北极海鹦, 威尔士](https://cn.bing.com/th?id=OHR.Fratercula_ZH-CN1239275412_1920x1080.webp)
-Today: [北极海鹦, 威尔士](https://cn.bing.com/th?id=OHR.Fratercula_ZH-CN1239275412_1920x1080.webp) - 振翅, 潜水, 生存
+![拱门与银河, 阿拉巴马山, 内华达山脉, 加利福尼亚州, 美国](https://cn.bing.com/th?id=OHR.AlabamaHills_ZH-CN1387018045_1920x1080.webp)
+Today: [拱门与银河, 阿拉巴马山, 内华达山脉, 加利福尼亚州, 美国](https://cn.bing.com/th?id=OHR.AlabamaHills_ZH-CN1387018045_1920x1080.webp) - 银河系，摇滚吧！
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-05-12",
-    "headline": "振翅, 潜水, 生存",
-    "title": "北极海鹦, 威尔士",
-    "description": "在北大西洋崎岖的海岸线上，大西洋海鹦栖息于洞穴和峭壁缝隙中。这些羽毛黑白相间、喙色艳丽的海鸟，由于过度捕捞和海洋环境变化导致猎物数量减少，被世界自然保护联盟（IUCN）列为易危物种。每年春天，它们都会返回此地繁殖，在精心挖掘的洞穴中产下一枚卵。作为游泳健将，它们在捕食鲱鱼和沙鳗等小型鱼类时，会利用翅膀在水下“飞行”。",
-    "image_url": "https://cn.bing.com/th?id=OHR.Fratercula_ZH-CN1239275412_1920x1080.webp",
-    "main_text": "大西洋海鹦的飞行路线是直线飞行，通常在海面以上10米（35 英尺）处，比大多数其他海雀飞得更高。"
+    "headline": "银河系，摇滚吧！",
+    "title": "拱门与银河, 阿拉巴马山, 内华达山脉, 加利福尼亚州, 美国",
+    "description": "在今天这张照片中，阿拉巴马山的花岗岩拱门将银河框入加州东部内华达山脉崎岖的地貌之中。这片区域以其圆润的巨石和风化的岩层而闻名，大约在1亿年前由火山活动形成。水和风逐渐将岩石塑造成如今光滑的形状。游客可以探索天然拱门，在岩石间徒步，拍摄独特的景观，骑马或骑山地自行车，并欣赏季节性的野花盛开。",
+    "image_url": "https://cn.bing.com/th?id=OHR.AlabamaHills_ZH-CN1387018045_1920x1080.webp",
+    "main_text": "在这片干旱的土地上，翠绿的沙漠橄榄）、黄柳和芦苇竞相绽放。"
 }
 ```
 
-UpdataTime：2026-05-12 10:39:23
+UpdataTime：2026-05-12 18:08:44
