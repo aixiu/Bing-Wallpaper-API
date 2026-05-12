@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-05-11",
+    "date": "2026-05-12",
     "headline": "振翅, 潜水, 生存",
     "title": "北极海鹦, 威尔士",
     "description": "在北大西洋崎岖的海岸线上，大西洋海鹦栖息于洞穴和峭壁缝隙中。这些羽毛黑白相间、喙色艳丽的海鸟，由于过度捕捞和海洋环境变化导致猎物数量减少，被世界自然保护联盟（IUCN）列为易危物种。每年春天，它们都会返回此地繁殖，在精心挖掘的洞穴中产下一枚卵。作为游泳健将，它们在捕食鲱鱼和沙鳗等小型鱼类时，会利用翅膀在水下“飞行”。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-05-11 18:02:30
+UpdataTime：2026-05-12 04:00:21
