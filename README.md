@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-05-12",
+    "date": "2026-05-13",
     "headline": "银河系，摇滚吧！",
     "title": "拱门与银河, 阿拉巴马山, 内华达山脉, 加利福尼亚州, 美国",
     "description": "在今天这张照片中，阿拉巴马山的花岗岩拱门将银河框入加州东部内华达山脉崎岖的地貌之中。这片区域以其圆润的巨石和风化的岩层而闻名，大约在1亿年前由火山活动形成。水和风逐渐将岩石塑造成如今光滑的形状。游客可以探索天然拱门，在岩石间徒步，拍摄独特的景观，骑马或骑山地自行车，并欣赏季节性的野花盛开。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-05-12 18:08:44
+UpdataTime：2026-05-13 04:08:30
