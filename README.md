@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-05-14",
+    "date": "2026-05-15",
     "headline": "鲸鱼，你会救我吗？",
     "title": "一群抹香鲸, 印度洋",
     "description": "集智慧、力量与惊人的深潜本领于一身——抹香鲸绝不满足于浅层的生存。在这个“濒危物种日”，让我们一同认识这位胸怀大志、潜得更深的海洋巨兽。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-05-14 18:04:31
+UpdataTime：2026-05-15 04:12:36
