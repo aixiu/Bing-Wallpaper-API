@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![一群抹香鲸, 印度洋](https://cn.bing.com/th?id=OHR.EndangeredWhales_ZH-CN4053106967_1920x1080.webp)
-Today: [一群抹香鲸, 印度洋](https://cn.bing.com/th?id=OHR.EndangeredWhales_ZH-CN4053106967_1920x1080.webp) - 鲸鱼，你会救我吗？
+![史密斯岩州立公园, 俄勒冈州, 美国](https://cn.bing.com/th?id=OHR.SmithRockPark_ZH-CN4210144402_1920x1080.webp)
+Today: [史密斯岩州立公园, 俄勒冈州, 美国](https://cn.bing.com/th?id=OHR.SmithRockPark_ZH-CN4210144402_1920x1080.webp) - 跌到谷底？这里可不是。
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-05-15",
-    "headline": "鲸鱼，你会救我吗？",
-    "title": "一群抹香鲸, 印度洋",
-    "description": "集智慧、力量与惊人的深潜本领于一身——抹香鲸绝不满足于浅层的生存。在这个“濒危物种日”，让我们一同认识这位胸怀大志、潜得更深的海洋巨兽。",
-    "image_url": "https://cn.bing.com/th?id=OHR.EndangeredWhales_ZH-CN4053106967_1920x1080.webp",
-    "main_text": "“Cachalot”一词常用于指代抹香鲸，源自一个古法语词汇，意为“大牙齿”。"
+    "headline": "跌到谷底？这里可不是。",
+    "title": "史密斯岩州立公园, 俄勒冈州, 美国",
+    "description": "你会如何称呼这样一个地方：在这里，是岩石在“攀登”，而人类却得拼命追赶？欢迎来到位于俄勒冈州的史密斯岩州立公园（Smith Rock State Park）——在这里，峭壁拔地而起，而借口却消散得更快。公园坐落于长达26英里的“弯曲河破火山口”（Crooked River Caldera）之中，这一地貌正是由多次火山喷发塑造而成。这里的凝灰岩峭壁由受压冷却后的火山灰经压缩凝结而成。弯曲河（Crooked River）在此鬼斧神工般地雕刻出了峡谷，而像“尖塔”（The Spire）这样的岩层则巍然耸立，高度直逼700英尺。",
+    "image_url": "https://cn.bing.com/th?id=OHR.SmithRockPark_ZH-CN4210144402_1920x1080.webp",
+    "main_text": "公园内外野生动物资源丰富。骡鹿和许多小型哺乳动物在公园里很常见。水獭和海狸则栖息在公园的克鲁克德河沿岸。"
 }
 ```
 
-UpdataTime：2026-05-15 10:34:43
+UpdataTime：2026-05-15 17:49:39
