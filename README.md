@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-05-21",
+    "date": "2026-05-22",
     "headline": "海洋生命的律动",
     "title": "埃希环礁，土阿莫土群岛，法属波利尼西亚",
     "description": "每年5月22日为“国际生物多样性日”，它向全球发出提醒：地球上的生命远比肉眼所见更加丰富，却也更加脆弱。这一由联合国设立的纪念日，旨在强调保护动植物及其生态系统为何对粮食安全、药物研发、气候稳定以及人类的日常福祉至关重要。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-05-21 18:07:15
+UpdataTime：2026-05-22 04:23:24
