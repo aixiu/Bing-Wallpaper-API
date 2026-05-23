@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-05-22",
+    "date": "2026-05-23",
     "headline": "为龟类喝彩！",
     "title": "与蝴蝶在一起的乌龟",
     "description": "龟类不仅是引人入胜的生物，更在自然界中扮演着至关重要的角色。海龟有助于维持海草床与珊瑚礁生态系统的健康，而淡水及陆栖龟类则支撑着各自生境的生态平衡。龟壳实际上是其骨架的一部分，由数十块骨头融合而成；此外，部分物种还能够利用地球磁场进行导航，精准地回到它们的出生地。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-05-22 17:59:38
+UpdataTime：2026-05-23 04:03:23
