@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-05-23",
+    "date": "2026-05-24",
     "headline": "守护欧洲的自然净土",
     "title": "三峰自然公园，南蒂罗尔，意大利",
     "description": "“欧洲公园日”旨在庆祝欧洲大陆上的自然保护区，并纪念1909年欧洲首批国家公园的诞生。这一节日提醒着世人：现今诸多最具代表性的自然景观，皆得益于长期的生态保育努力。今日的影像向我们展示了这一文化遗产的典范——位于意大利北部的三峰自然公园。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-05-23 17:13:33
+UpdataTime：2026-05-24 04:23:49
