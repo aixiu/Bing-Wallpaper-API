@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-05-24",
+    "date": "2026-05-25",
     "headline": "石间的清风",
     "title": "从风之宫殿俯瞰斋浦尔市景，拉贾斯坦邦，印度",
     "description": "如果建筑能够“呼吸”，那会是怎样一番景象？坐落于斋浦尔市中心的风之宫（Hawa Mahal）便实现了这一点——它吸纳清风、排出热气，将建筑设计转化为一场静谧的科学实验。与其说它是一座宫殿，倒不如说是一次精准的“吐故纳新”。它确实名副其实：一座实至名归的“风之宫殿”。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-05-24 17:13:25
+UpdataTime：2026-05-25 04:45:41
