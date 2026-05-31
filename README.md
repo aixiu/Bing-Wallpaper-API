@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![大沼泽地国家公园航拍景观，佛罗里达州，美国](https://cn.bing.com/th?id=OHR.EvergladesWetlands_ZH-CN9515366484_1920x1080.webp)
-Today: [大沼泽地国家公园航拍景观，佛罗里达州，美国](https://cn.bing.com/th?id=OHR.EvergladesWetlands_ZH-CN9515366484_1920x1080.webp) - 顺流而行
+![巴勒莫暮色下的天际线，西西里岛，意大利](https://cn.bing.com/th?id=OHR.OlivaPalermo_ZH-CN9639920195_1920x1080.webp)
+Today: [巴勒莫暮色下的天际线，西西里岛，意大利](https://cn.bing.com/th?id=OHR.OlivaPalermo_ZH-CN9639920195_1920x1080.webp) - 历史的况味
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-05-31",
-    "headline": "顺流而行",
-    "title": "大沼泽地国家公园航拍景观，佛罗里达州，美国",
-    "description": "今天是美国湿地月的最后一天，但对湿地生态的关注并不应随之结束。每年 5 月举行的这一全国性活动，旨在让更多人了解湿地这一美国最具生产力的重要生态系统之一。而位于佛罗里达州的大沼泽地国家公园，正是展现湿地力量的典型代表。从空中俯瞰，浅水、锯齿草、红树林与蜿蜒水道共同构成广阔景观，淡水从奥基乔比湖缓缓向南流动，塑造出独特生态环境。",
-    "image_url": "https://cn.bing.com/th?id=OHR.EvergladesWetlands_ZH-CN9515366484_1920x1080.webp",
-    "main_text": "大沼泽地国家公园是地球上少数同时栖息着短吻鳄与鳄鱼的地区之一。"
+    "headline": "历史的况味",
+    "title": "巴勒莫暮色下的天际线，西西里岛，意大利",
+    "description": "巴勒莫（Palermo）坐落于意大利南部，是西西里岛的首府。这是一座历史、艺术与文化交织的城市，呈现出一种生动且带有几分繁杂之美的和谐。它由腓尼基人始建，后历经罗马人、阿拉伯人、诺曼人及西班牙人的雕琢，承载了地中海沿岸诸多文明迁移的印记。这种厚重的历史底蕴在建筑中清晰可见：从被联合国教科文组织（UNESCO）列入名录的阿拉伯-诺曼式宫殿与教堂，到勾勒出历史街区轮廓的巴洛克式立面，无不昭示着往昔的辉煌。",
+    "image_url": "https://cn.bing.com/th?id=OHR.OlivaPalermo_ZH-CN9639920195_1920x1080.webp",
+    "main_text": "您知道吗？巴勒莫的马西莫剧院（Teatro Massimo）是意大利最大的歌剧院。它以近乎完美的音效闻名于世，同时也是电影《教父3》那段震撼人心的结尾戏的取景地。"
 }
 ```
 
-UpdataTime：2026-05-31 04:46:13
+UpdataTime：2026-05-31 17:18:42
