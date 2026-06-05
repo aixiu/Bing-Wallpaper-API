@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-06-04",
+    "date": "2026-06-05",
     "headline": "无人问津之地的静默力量",
     "title": "从斯基尔夫山俯瞰拉帕达伦河三角洲, 萨雷克国家公园, 拉波尼亚, 瑞典拉普兰",
     "description": "如果大自然也有“请勿打扰”的标志，那它一定会挂在萨雷克国家公园上空，这里常被称为“欧洲最后的荒野”。在世界环境日这一天，瑞典拉普兰的这片偏远角落提醒我们，当人类退后一步，让大自然主导一切时，地球会是什么样子。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-06-04 18:26:42
+UpdataTime：2026-06-05 04:41:46
