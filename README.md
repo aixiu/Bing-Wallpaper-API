@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-06-05",
+    "date": "2026-06-06",
     "headline": "多走走，多思考",
     "title": "纳奇兹小径公园大道, 图珀洛, 密西西比州, 美国",
     "description": "如果你最近沉迷于电子屏幕，今天正是改变的好时机——我们建议你去徒步旅行。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-06-05 18:03:48
+UpdataTime：2026-06-06 04:14:36
