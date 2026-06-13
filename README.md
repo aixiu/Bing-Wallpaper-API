@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![落日，恶地国家公园，南达科他州，美国](https://cn.bing.com/th?id=OHR.BadSunset_ZH-CN9050997938_1920x1080.webp)
-Today: [落日，恶地国家公园，南达科他州，美国](https://cn.bing.com/th?id=OHR.BadSunset_ZH-CN9050997938_1920x1080.webp) - 岁月的层峦
+![绿头鸭](https://cn.bing.com/th?id=OHR.DuckPond_ZH-CN1683101997_1920x1080.webp)
+Today: [绿头鸭](https://cn.bing.com/th?id=OHR.DuckPond_ZH-CN1683101997_1920x1080.webp) - 潜羽探清波
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-06-13",
-    "headline": "岁月的层峦",
-    "title": "落日，恶地国家公园，南达科他州，美国",
-    "description": "层叠的嵴线横跨南达科他州的恶地国家公园。随着光影变幻，饱受侵蚀的山峰与沟谷悉数呈现在眼前，其间交织着粉红、灰白与金黄的岩层条带。时至今日，风力和流水仍在持续重塑这片地貌，不断剥蚀着质地松软的沉积岩，从而让数百万年的地球历史展露无遗。这些岩层分别由远古河流的沉积物、火山灰，以及该区域曾被浅海覆盖时期的沉积物交替堆积而成。",
-    "image_url": "https://cn.bing.com/th?id=OHR.BadSunset_ZH-CN9050997938_1920x1080.webp",
-    "main_text": "恶地公园的黄土丘揭示了 3400 万年前的一场重大气候剧变——当时的温暖海域逐渐干涸，演变为气候更凉爽的陆地地貌。"
+    "headline": "潜羽探清波",
+    "title": "绿头鸭",
+    "description": "拂晓时分，绿头鸭掠过平静的水面，宛如画笔划过画布。其波光粼粼的羽衣在晨光下熠熠生辉——雄鸟那标志性的翠绿色头部与雌鸟斑驳的褐色羽毛形成了鲜明对比。从法国卡马格的沼泽湿地到荷兰阿姆斯特丹的城市运河，随处可见它们的身影，它们堪称欧洲水生生态景观中最为常见的标志性物种。",
+    "image_url": "https://cn.bing.com/th?id=OHR.DuckPond_ZH-CN1683101997_1920x1080.webp",
+    "main_text": "绿头鸭具有极强的适应能力，是全球分布最广的鸭科鸟类。从天然湿地到城市公园及运河等人工环境，它们均能良好繁衍。"
 }
 ```
 
-UpdataTime：2026-06-13 10:36:12
+UpdataTime：2026-06-13 17:40:40
