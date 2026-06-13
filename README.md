@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-06-12",
+    "date": "2026-06-13",
     "headline": "岁月的层峦",
     "title": "落日，恶地国家公园，南达科他州，美国",
     "description": "层叠的嵴线横跨南达科他州的恶地国家公园。随着光影变幻，饱受侵蚀的山峰与沟谷悉数呈现在眼前，其间交织着粉红、灰白与金黄的岩层条带。时至今日，风力和流水仍在持续重塑这片地貌，不断剥蚀着质地松软的沉积岩，从而让数百万年的地球历史展露无遗。这些岩层分别由远古河流的沉积物、火山灰，以及该区域曾被浅海覆盖时期的沉积物交替堆积而成。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-06-12 18:16:45
+UpdataTime：2026-06-13 04:43:22
