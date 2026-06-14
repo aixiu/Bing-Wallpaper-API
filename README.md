@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-06-13",
+    "date": "2026-06-14",
     "headline": "潜羽探清波",
     "title": "绿头鸭",
     "description": "拂晓时分，绿头鸭掠过平静的水面，宛如画笔划过画布。其波光粼粼的羽衣在晨光下熠熠生辉——雄鸟那标志性的翠绿色头部与雌鸟斑驳的褐色羽毛形成了鲜明对比。从法国卡马格的沼泽湿地到荷兰阿姆斯特丹的城市运河，随处可见它们的身影，它们堪称欧洲水生生态景观中最为常见的标志性物种。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-06-13 17:40:40
+UpdataTime：2026-06-14 05:01:05
