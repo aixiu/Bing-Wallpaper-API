@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-06-14",
+    "date": "2026-06-15",
     "headline": "岁月雕琢，风景始成",
     "title": "大烟山国家公园，田纳西州，美国",
     "description": "这片山脉历经了漫长地质岁月的雕琢，而1934年6月15日的法令则让它们获得了长久的保护——就在这一天，横跨田纳西州与北卡罗来纳州的大烟山国家公园正式建立。该公园占地面积超过522,000英亩（约21.1万公顷），其名称源于常年环绕在其嵴线之上的天然蓝色烟雾。作为阿巴拉契亚山脉的一部分，这些山峰的形成史可以追溯到3亿多年前。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-06-14 17:39:14
+UpdataTime：2026-06-15 05:21:48
