@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![漂浮在南极半岛西部海域的拱形冰山, 南大洋](https://cn.bing.com/th?id=OHR.ArchedIceberg_ZH-CN2698040371_1920x1080.webp)
-Today: [漂浮在南极半岛西部海域的拱形冰山, 南大洋](https://cn.bing.com/th?id=OHR.ArchedIceberg_ZH-CN2698040371_1920x1080.webp) - 海洋中冰封的大教堂
+![企鹅爸爸正在检查蛋的情况](https://cn.bing.com/th?id=OHR.EggDad_ZH-CN6045387630_1920x1080.webp)
+Today: [企鹅爸爸正在检查蛋的情况](https://cn.bing.com/th?id=OHR.EggDad_ZH-CN6045387630_1920x1080.webp) - 鸟类好爸爸
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-06-20",
-    "headline": "海洋中冰封的大教堂",
-    "title": "漂浮在南极半岛西部海域的拱形冰山, 南大洋",
-    "description": "在南极半岛沿岸，一道冰雕般的拱形结构从南大洋拔地而起，而南极半岛是地球上变暖速度最快的地区之一。这道拱形结构最初是由积雪压实而成，历经数千年演变为冰川。最终，冰川或漂浮冰架的一部分断裂脱落——这一过程被称为冰崩——形成了漂浮的冰山。",
-    "image_url": "https://cn.bing.com/th?id=OHR.ArchedIceberg_ZH-CN2698040371_1920x1080.webp",
-    "main_text": "冰山在融化过程中可能因重心变化突然翻转，其释放的能量甚至足以在平静海面上掀起较大波浪。"
+    "headline": "鸟类好爸爸",
+    "title": "企鹅爸爸正在检查蛋的情况",
+    "description": "六月的第三个星期日是父亲节——一个感谢那些默默守护、悉心照料孩子成长的长辈们的日子。在世界各地，父亲的角色可以呈现出令人意想不到的非凡形式。",
+    "image_url": "https://cn.bing.com/th?id=OHR.EggDad_ZH-CN6045387630_1920x1080.webp",
+    "main_text": "对海马而言，雄性会将受精卵放入自己的育儿袋中，并在孵化前为它们提供氧气、养分和全方位的保护。"
 }
 ```
 
-UpdataTime：2026-06-20 10:38:10
+UpdataTime：2026-06-20 17:41:56
