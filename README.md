@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![企鹅爸爸正在检查蛋的情况](https://cn.bing.com/th?id=OHR.EggDad_ZH-CN6045387630_1920x1080.webp)
-Today: [企鹅爸爸正在检查蛋的情况](https://cn.bing.com/th?id=OHR.EggDad_ZH-CN6045387630_1920x1080.webp) - 鸟类好爸爸
+![奎诺尔特雨林, 奥林匹克国家公园, 华盛顿州, 美国](https://cn.bing.com/th?id=OHR.QuinaultFerns_ZH-CN6696428927_1920x1080.webp)
+Today: [奎诺尔特雨林, 奥林匹克国家公园, 华盛顿州, 美国](https://cn.bing.com/th?id=OHR.QuinaultFerns_ZH-CN6696428927_1920x1080.webp) - 一个郁郁葱葱的王国
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-06-21",
-    "headline": "鸟类好爸爸",
-    "title": "企鹅爸爸正在检查蛋的情况",
-    "description": "六月的第三个星期日是父亲节——一个感谢那些默默守护、悉心照料孩子成长的长辈们的日子。在世界各地，父亲的角色可以呈现出令人意想不到的非凡形式。",
-    "image_url": "https://cn.bing.com/th?id=OHR.EggDad_ZH-CN6045387630_1920x1080.webp",
-    "main_text": "对海马而言，雄性会将受精卵放入自己的育儿袋中，并在孵化前为它们提供氧气、养分和全方位的保护。"
+    "headline": "一个郁郁葱葱的王国",
+    "title": "奎诺尔特雨林, 奥林匹克国家公园, 华盛顿州, 美国",
+    "description": "6月22日是世界雨林日，这是一个全球性的日子，也是全年呼吁人们保护世界剩余雨林的行动。这些生态系统并非地图上的点点星罗棋布。它们遍布热带地区及其他地区，却仅覆盖地球表面约6%的面积。想想南美洲的亚马逊雨林、非洲的刚果盆地以及东南亚的森林吧。",
+    "image_url": "https://cn.bing.com/th?id=OHR.QuinaultFerns_ZH-CN6696428927_1920x1080.webp",
+    "main_text": "尽管热带雨林仅占地球表面积的 6%，但却是世界上一半以上物种的家园。"
 }
 ```
 
-UpdataTime：2026-06-21 11:22:22
+UpdataTime：2026-06-21 17:47:07
