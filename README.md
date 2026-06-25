@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![布鲁塞尔大广场上的建筑群, 比利时](https://cn.bing.com/th?id=OHR.GrandPlace_ZH-CN8806496436_1920x1080.webp)
-Today: [布鲁塞尔大广场上的建筑群, 比利时](https://cn.bing.com/th?id=OHR.GrandPlace_ZH-CN8806496436_1920x1080.webp) - 在广场中感受历史
+![泰晤士河, 伦敦, 英格兰](https://cn.bing.com/th?id=OHR.ThamesSummer_ZH-CN5292532714_1920x1080.webp)
+Today: [泰晤士河, 伦敦, 英格兰](https://cn.bing.com/th?id=OHR.ThamesSummer_ZH-CN5292532714_1920x1080.webp) - 时事
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-06-25",
-    "headline": "在广场中感受历史",
-    "title": "布鲁塞尔大广场上的建筑群, 比利时",
-    "description": "在比利时，很少有哪个广场能像大广场那样承载如此丰富的历史。广场周围的建筑，正如照片所示，最初都是行会会所，每座会所都由特定的行业出资兴建。酿酒师、面包师、商人和工匠们将建筑视为一种语言，通过浮雕、纹章和大量的金箔，将工作、地位和竞争关系凝结于石头之上。各种建筑风格在此交融碰撞，毫不拘束。哥特式的垂直线条与巴洛克式的曲线并肩而立，而市政厅——这座比周围建筑更古老、造型大胆不对称的建筑——则将整个建筑群和谐地连接起来。",
-    "image_url": "https://cn.bing.com/th?id=OHR.GrandPlace_ZH-CN8806496436_1920x1080.webp",
-    "main_text": "布鲁塞尔大广场并非严格的正方形，而是略呈梯形，这种微妙的透视结构会产生“视觉矫正”效果，使市政厅在空间中显得更加居中与平衡。该遗址于1998年被列入联合国教科文组织世界遗产名录。"
+    "headline": "时事",
+    "title": "泰晤士河, 伦敦, 英格兰",
+    "description": "议会大厦、钟楼和巨型摩天轮有什么共同之处？它们都矗立在泰晤士河畔，仿佛伦敦为了营造戏剧性效果而精心布局了这些标志性建筑。",
+    "image_url": "https://cn.bing.com/th?id=OHR.ThamesSummer_ZH-CN5292532714_1920x1080.webp",
+    "main_text": "泰晤士河防洪闸于1984年建成，是世界上规模最大的可移动防洪设施之一，用于保护伦敦免受北海风暴潮引发的洪水威胁。"
 }
 ```
 
-UpdataTime：2026-06-25 10:49:46
+UpdataTime：2026-06-25 18:21:36
