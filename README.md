@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![泰晤士河, 伦敦, 英格兰](https://cn.bing.com/th?id=OHR.ThamesSummer_ZH-CN5292532714_1920x1080.webp)
-Today: [泰晤士河, 伦敦, 英格兰](https://cn.bing.com/th?id=OHR.ThamesSummer_ZH-CN5292532714_1920x1080.webp) - 时事
+![博尼亚德海滩上的漂流木, 亨廷岛, 南卡罗来纳州, 美国](https://cn.bing.com/th?id=OHR.BoneyardBeach_ZH-CN5540590570_1920x1080.webp)
+Today: [博尼亚德海滩上的漂流木, 亨廷岛, 南卡罗来纳州, 美国](https://cn.bing.com/th?id=OHR.BoneyardBeach_ZH-CN5540590570_1920x1080.webp) - 逐渐失去立足之地的树木
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-06-26",
-    "headline": "时事",
-    "title": "泰晤士河, 伦敦, 英格兰",
-    "description": "议会大厦、钟楼和巨型摩天轮有什么共同之处？它们都矗立在泰晤士河畔，仿佛伦敦为了营造戏剧性效果而精心布局了这些标志性建筑。",
-    "image_url": "https://cn.bing.com/th?id=OHR.ThamesSummer_ZH-CN5292532714_1920x1080.webp",
-    "main_text": "泰晤士河防洪闸于1984年建成，是世界上规模最大的可移动防洪设施之一，用于保护伦敦免受北海风暴潮引发的洪水威胁。"
+    "headline": "逐渐失去立足之地的树木",
+    "title": "博尼亚德海滩上的漂流木, 亨廷岛, 南卡罗来纳州, 美国",
+    "description": "在美国南卡罗来纳州亨廷岛州立公园内的博尼亚德海滩，最先映入眼帘的是那些树木。紧接着，一个疑问便会浮现：为何一根根被海水漂白的树干和裸露的树根散落在沙滩上，仿佛一幕正在坍塌的景象被按下了暂停键？自20世纪80年代以来，亨廷岛一直面临严重的海滩侵蚀问题，其侵蚀速率位居美国东海岸前列。在部分区域，海岸线每年后退幅度最高可达约30英尺（约9米）。",
+    "image_url": "https://cn.bing.com/th?id=OHR.BoneyardBeach_ZH-CN5540590570_1920x1080.webp",
+    "main_text": "博尼亚德海滩上许多仍然矗立的枯树遗骸因长期受到盐分环境影响而减缓腐朽过程，从而形成独特的海岸自然雕塑景观。"
 }
 ```
 
-UpdataTime：2026-06-26 04:35:08
+UpdataTime：2026-06-26 17:59:59
