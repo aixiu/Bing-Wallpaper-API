@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-06-27",
+    "date": "2026-06-28",
     "headline": "看起来很精神",
     "title": "温德盖特山口附近的巨柱仙人掌, 麦克道尔山脉, 亚利桑那州, 美国",
     "description": "在索诺拉沙漠，作为生存大师的巨人柱仙人掌赋予了“坚守”（stick around）一词新的含义。这种巨型植物伸展着躯干与枝臂，向四面八方昂然挺立，已然成为美国西南部的标志性象征。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-06-27 17:19:19
+UpdataTime：2026-06-28 04:45:01
