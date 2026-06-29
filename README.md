@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-06-28",
+    "date": "2026-06-29",
     "headline": "生于烈火，拥于碧水",
     "title": "波拉波拉岛及其泻湖, 南太平洋, 法属波利尼西亚",
     "description": "“国际热带日”于每年6月29日纪念，旨在聚焦北回归线与南回归线之间那片广阔的区域——在这里，温暖的气候与充沛的降水塑造着人们的日常生活。该区域虽仅占地球表面积的约40%，却承载了全球约80%的生物多样性，对于地球生态健康与人类文化而言至关重要。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-06-28 17:22:23
+UpdataTime：2026-06-29 04:54:04
