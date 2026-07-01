@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![地牢省立公园, 纽芬兰和拉布拉多省, 加拿大](https://cn.bing.com/th?id=OHR.DungeonPark_ZH-CN9544093701_1920x1080.webp)
-Today: [地牢省立公园, 纽芬兰和拉布拉多省, 加拿大](https://cn.bing.com/th?id=OHR.DungeonPark_ZH-CN9544093701_1920x1080.webp) - 大西洋雕琢而成的加拿大
+![埃斯纳神庙穹顶天花板, 埃及](https://cn.bing.com/th?id=OHR.TempleEsna_ZH-CN9834689523_1920x1080.webp)
+Today: [埃斯纳神庙穹顶天花板, 埃及](https://cn.bing.com/th?id=OHR.TempleEsna_ZH-CN9834689523_1920x1080.webp) - 走进埃斯纳神圣的世界
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-07-01",
-    "headline": "大西洋雕琢而成的加拿大",
-    "title": "地牢省立公园, 纽芬兰和拉布拉多省, 加拿大",
-    "description": "位于纽芬兰岛博纳维斯塔半岛的地牢省立公园，长期受到大西洋海浪的塑造与侵蚀。公园最著名的景观“地牢（Dungeon）”实际上是一处巨大的塌陷海蚀洞，其顶部因持续侵蚀而坍塌，形成直通天空的壮观开口。这一地貌生动展示了海洋作用如何在数千年间不断改造坚硬岩石。",
-    "image_url": "https://cn.bing.com/th?id=OHR.DungeonPark_ZH-CN9544093701_1920x1080.webp",
-    "main_text": "“地牢”塌陷海洞形成了天然的半封闭空间，海浪拍击时产生的回声会随着海况变化而改变，形成独特的海岸声学现象。"
+    "headline": "走进埃斯纳神圣的世界",
+    "title": "埃斯纳神庙穹顶天花板, 埃及",
+    "description": "在埃及卢克索以南的埃斯纳神庙（Temple of Esna），游客将步入一个充满生机的世界，这里供奉着公羊头神——赫努姆（Khnum）；传说他曾用尼罗河的黏土塑造了人类。这座神庙主要建于托勒密王朝和罗马统治时期，其现存的大厅由24根高耸的石柱支撑，每根柱子上都雕刻着精美的浮雕与颂扬诸神的仪式铭文。",
+    "image_url": "https://cn.bing.com/th?id=OHR.TempleEsna_ZH-CN9834689523_1920x1080.webp",
+    "main_text": "数个世纪以来，埃斯纳神庙的大部分区域曾被淤泥和周边建筑掩埋，这在一定程度上减少了风化作用，使许多雕刻得以较好保存。"
 }
 ```
 
-UpdataTime：2026-07-01 11:31:04
+UpdataTime：2026-07-01 18:06:57
