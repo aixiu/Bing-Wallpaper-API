@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![瓦朗索勒高原的薰衣草行，普罗旺斯，法国](https://cn.bing.com/th?id=OHR.LavenderRows_ZH-CN0676810895_1920x1080.webp)
-Today: [瓦朗索勒高原的薰衣草行，普罗旺斯，法国](https://cn.bing.com/th?id=OHR.LavenderRows_ZH-CN0676810895_1920x1080.webp) - 紫色花海
+![锡拉库萨的日落，西西里岛，意大利](https://cn.bing.com/th?id=OHR.SyracuseItaly_ZH-CN1001695972_1920x1080.webp)
+Today: [锡拉库萨的日落，西西里岛，意大利](https://cn.bing.com/th?id=OHR.SyracuseItaly_ZH-CN1001695972_1920x1080.webp) - 百代镌刻之城
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-07-05",
-    "headline": "紫色花海",
-    "title": "瓦朗索勒高原的薰衣草行，普罗旺斯，法国",
-    "description": "在法国东南部，瓦朗索勒高原（Valensole Plateau）的夏季伴随着阵阵紫蓝色的波浪而至。瓦朗索勒作为该地区最大的高原之一，坐落在迪朗斯河（Durance）与阿斯河（Asse）流域之间的韦尔东地区自然公园（Verdon Regional Natural Park）内，毗邻韦尔东大峡谷（Gorges du Verdon）及其湖泊。从6月中旬到7月初，受海拔和天气影响，薰衣草与杂交薰衣草（Lavandin）竞相绽放，将大地转化为普罗旺斯最具标志性的景观之一。空气中弥漫着清冽、干爽且极具地中海特色的香气。",
-    "image_url": "https://cn.bing.com/th?id=OHR.LavenderRows_ZH-CN0676810895_1920x1080.webp",
-    "main_text": "独特的碱性石质土壤在瓦朗索勒高原，普罗旺斯，法国为植物提供了卓越的排水性能，这种地质特性对于薰衣草在高海拔地中海气候下生存至关重要，能有效防止冬季根部腐烂并提升精油品质。"
+    "headline": "百代镌刻之城",
+    "title": "锡拉库萨的日落，西西里岛，意大利",
+    "description": "意大利锡拉库萨（Syracuse）位于西西里岛，由来自科林斯的希腊移民于公元前 734 年左右建立。它曾发展成为古地中海最伟大的强权之一，现已被列入联合国教科文组织世界遗产名录——“锡拉库萨和潘塔立克石墓群”。这座城市永远与阿基米德（Archimedes）联系在一起，他的天才至今仍在塑造着城市的身份；同时也与柏拉图（Plato）紧密相连，他曾满怀着哲学可能重塑政治生活的希望来到此处。这种层叠的历史在马尼亚切城堡（Castello Maniace）中依然清晰可感，这座 13 世纪为神圣罗马帝国皇帝腓特烈二世建造的海滨要塞，至今仍令世人赞叹。",
+    "image_url": "https://cn.bing.com/th?id=OHR.SyracuseItaly_ZH-CN1001695972_1920x1080.webp",
+    "main_text": "原生纸莎草的生态孤岛在锡拉库萨，西西里岛，意大利表现出极高的植物学价值，林特奥斯河（Arethusa Spring）不仅是当地重要的淡水水源，更是全欧洲唯一一处野生纸莎草自然生长的原生生境。"
 }
 ```
 
-UpdataTime：2026-07-05 10:24:51
+UpdataTime：2026-07-05 17:22:29
