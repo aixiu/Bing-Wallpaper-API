@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![锡拉库萨的日落，西西里岛，意大利](https://cn.bing.com/th?id=OHR.SyracuseItaly_ZH-CN1001695972_1920x1080.webp)
-Today: [锡拉库萨的日落，西西里岛，意大利](https://cn.bing.com/th?id=OHR.SyracuseItaly_ZH-CN1001695972_1920x1080.webp) - 百代镌刻之城
+![板嘴山巨嘴鸟与兰花，厄瓜多尔](https://cn.bing.com/th?id=OHR.MountainToucanOrchids_ZH-CN1400221431_1920x1080.webp)
+Today: [板嘴山巨嘴鸟与兰花，厄瓜多尔](https://cn.bing.com/th?id=OHR.MountainToucanOrchids_ZH-CN1400221431_1920x1080.webp) - 林冠华彩
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-07-06",
-    "headline": "百代镌刻之城",
-    "title": "锡拉库萨的日落，西西里岛，意大利",
-    "description": "意大利锡拉库萨（Syracuse）位于西西里岛，由来自科林斯的希腊移民于公元前 734 年左右建立。它曾发展成为古地中海最伟大的强权之一，现已被列入联合国教科文组织世界遗产名录——“锡拉库萨和潘塔立克石墓群”。这座城市永远与阿基米德（Archimedes）联系在一起，他的天才至今仍在塑造着城市的身份；同时也与柏拉图（Plato）紧密相连，他曾满怀着哲学可能重塑政治生活的希望来到此处。这种层叠的历史在马尼亚切城堡（Castello Maniace）中依然清晰可感，这座 13 世纪为神圣罗马帝国皇帝腓特烈二世建造的海滨要塞，至今仍令世人赞叹。",
-    "image_url": "https://cn.bing.com/th?id=OHR.SyracuseItaly_ZH-CN1001695972_1920x1080.webp",
-    "main_text": "原生纸莎草的生态孤岛在锡拉库萨，西西里岛，意大利表现出极高的植物学价值，林特奥斯河（Arethusa Spring）不仅是当地重要的淡水水源，更是全欧洲唯一一处野生纸莎草自然生长的原生生境。"
+    "headline": "林冠华彩",
+    "title": "板嘴山巨嘴鸟与兰花，厄瓜多尔",
+    "description": "拥有如多功能工具般的喙部和色彩斑斓的羽毛——板嘴山巨嘴鸟（Plate-billed mountain toucan）是安第斯山脉最具辨识度的鸟类之一。它栖息在厄瓜多尔和哥伦比亚西南部潮湿的山地森林中，已完全适应了林冠层高处的生存环境。",
+    "image_url": "https://cn.bing.com/th?id=OHR.MountainToucanOrchids_ZH-CN1400221431_1920x1080.webp",
+    "main_text": "板嘴山巨嘴鸟色彩艳丽的喙部带有一个淡黄色的“角质板”，这一罕见特征正是其命名的由来。"
 }
 ```
 
-UpdataTime：2026-07-06 12:11:41
+UpdataTime：2026-07-06 18:17:56
