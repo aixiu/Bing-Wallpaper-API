@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![板嘴山巨嘴鸟与兰花，厄瓜多尔](https://cn.bing.com/th?id=OHR.MountainToucanOrchids_ZH-CN1400221431_1920x1080.webp)
-Today: [板嘴山巨嘴鸟与兰花，厄瓜多尔](https://cn.bing.com/th?id=OHR.MountainToucanOrchids_ZH-CN1400221431_1920x1080.webp) - 林冠华彩
+![阿蒂特兰湖的日出，危地马拉](https://cn.bing.com/th?id=OHR.LakeAtitlan_ZH-CN1920221893_1920x1080.webp)
+Today: [阿蒂特兰湖的日出，危地马拉](https://cn.bing.com/th?id=OHR.LakeAtitlan_ZH-CN1920221893_1920x1080.webp) - 远古火山的回响
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-07-07",
-    "headline": "林冠华彩",
-    "title": "板嘴山巨嘴鸟与兰花，厄瓜多尔",
-    "description": "拥有如多功能工具般的喙部和色彩斑斓的羽毛——板嘴山巨嘴鸟（Plate-billed mountain toucan）是安第斯山脉最具辨识度的鸟类之一。它栖息在厄瓜多尔和哥伦比亚西南部潮湿的山地森林中，已完全适应了林冠层高处的生存环境。",
-    "image_url": "https://cn.bing.com/th?id=OHR.MountainToucanOrchids_ZH-CN1400221431_1920x1080.webp",
-    "main_text": "板嘴山巨嘴鸟色彩艳丽的喙部带有一个淡黄色的“角质板”，这一罕见特征正是其命名的由来。"
+    "headline": "远古火山的回响",
+    "title": "阿蒂特兰湖的日出，危地马拉",
+    "description": "阿蒂特兰湖（Lake Atitlán）坐落于危地马拉西部高地，占据了一处巨大的破火山口。其深蓝色的湖水被陡峭的火山口壁以及阿蒂特兰（Atitlán）、托利曼（Tolimán）和圣佩德罗（San Pedro）这三座锥形火山所环绕。木质码头向静谧的湖面延伸，勾勒出平静水面与火山活动造就的崎岖地形之间的强烈对比。",
+    "image_url": "https://cn.bing.com/th?id=OHR.LakeAtitlan_ZH-CN1920221893_1920x1080.webp",
+    "main_text": "独特的内流盆地机制在阿蒂特兰湖，危地马拉表现显著，该湖泊没有通往海洋的天然地表出口，其水位主要依靠自然蒸发和地下的火山裂缝网络进行调节。"
 }
 ```
 
-UpdataTime：2026-07-07 11:16:54
+UpdataTime：2026-07-07 18:09:51
