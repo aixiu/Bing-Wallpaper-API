@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-07-07",
+    "date": "2026-07-08",
     "headline": "远古火山的回响",
     "title": "阿蒂特兰湖的日出，危地马拉",
     "description": "阿蒂特兰湖（Lake Atitlán）坐落于危地马拉西部高地，占据了一处巨大的破火山口。其深蓝色的湖水被陡峭的火山口壁以及阿蒂特兰（Atitlán）、托利曼（Tolimán）和圣佩德罗（San Pedro）这三座锥形火山所环绕。木质码头向静谧的湖面延伸，勾勒出平静水面与火山活动造就的崎岖地形之间的强烈对比。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-07-07 18:09:51
+UpdataTime：2026-07-08 03:36:34
