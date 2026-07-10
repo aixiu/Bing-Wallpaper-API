@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-07-09",
+    "date": "2026-07-10",
     "headline": "陆地与海洋的鸟瞰图",
     "title": "陆地与海洋的鸟瞰图，维多利亚州，澳大利亚",
     "description": "维多利亚州位于澳大利亚东南部，坐拥由南大洋雕琢而成的绵延千余英里的海岸线。从高空俯瞰，这里的海滩宛如一条条宽阔的浅色沙带，边缘环绕着碧绿的海水与崎岖的峭壁。这种海陆交融的独特景致构成了该地区的主要魅力所在。著名的“大洋路”沿这段海岸线蜿蜒延伸约150英里，途经热门冲浪胜地、林木葱郁的海角以及各具特色的海滨小镇。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-07-09 18:05:32
+UpdataTime：2026-07-10 04:06:24
