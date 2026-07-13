@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-![羚羊峡谷，纳瓦霍族保留地，亚利桑那州，美国](https://cn.bing.com/th?id=OHR.NavajoSandstone_ZH-CN5009673011_1920x1080.webp)
-Today: [羚羊峡谷，纳瓦霍族保留地，亚利桑那州，美国](https://cn.bing.com/th?id=OHR.NavajoSandstone_ZH-CN5009673011_1920x1080.webp) - 为摇滚而生
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2026-07-13",
     "headline": "为摇滚而生",
@@ -42,6 +6,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url": "https://cn.bing.com/th?id=OHR.NavajoSandstone_ZH-CN5009673011_1920x1080.webp",
     "main_text": "羚羊峡谷砂岩墙面上独特的流线型波纹，主要是由每年季风季节的突发山洪冲刷而成的，这些山洪可能会在短短几分钟内迅速席卷狭窄的缝隙峡谷。"
 }
-```
-
-UpdataTime：2026-07-13 03:49:51
