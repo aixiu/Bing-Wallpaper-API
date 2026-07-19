@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-07-18",
+    "date": "2026-07-19",
     "headline": "敛羽栖时",
     "title": "不同亚种的家燕聚在一起休息",
     "description": "一群家燕栖息在纤细的芦苇上，在片刻的宁静中聚集，与其往常疾速的身影形成了鲜明对比。这些鸟类以迅捷且极具灵动性的飞行能力及标志性的深叉状尾羽著称，其生理构造天生便高度适应不间断的飞行生活。它们能在半空中精准捕食昆虫，并在各大洲之间长途跋涉。羽色与斑纹的细微差异暗示此处可能聚集了多个亚种，这有力地证明了家燕广泛的全球分布范围。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-07-18 17:07:15
+UpdataTime：2026-07-19 03:42:31
