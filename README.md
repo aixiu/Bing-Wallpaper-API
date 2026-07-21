@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![圣卡塔琳娜拱门，安提瓜，危地马拉](https://cn.bing.com/th?id=OHR.SantaCatalina_ZH-CN6223370790_1920x1080.webp)
-Today: [圣卡塔琳娜拱门，安提瓜，危地马拉](https://cn.bing.com/th?id=OHR.SantaCatalina_ZH-CN6223370790_1920x1080.webp) - 拱影寻踪
+![珊瑚礁与海滩在拉贾安帕特，印度尼西亚](https://cn.bing.com/th?id=OHR.CoralAwareness_ZH-CN1621627126_1920x1080.webp)
+Today: [珊瑚礁与海滩在拉贾安帕特，印度尼西亚](https://cn.bing.com/th?id=OHR.CoralAwareness_ZH-CN1621627126_1920x1080.webp) - 细微之举，影响深远
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-07-21",
-    "headline": "拱影寻踪",
-    "title": "圣卡塔琳娜拱门，安提瓜，危地马拉",
-    "description": "有些建筑的初衷并非为了引人注目，但时间却另有安排。清晨时分，圣卡塔琳娜拱门在危地马拉安提瓜的街道上熠熠生辉，其鲜艳的黄色外墙精准地捕捉着晨光，石板路向前延伸，远方的水火山拔地而起。这座拱门建于17世纪，旨在解决一个实际问题：幽居修女需要在修道院建筑之间穿行，以符合宗教誓约中不被街道行人直视的要求。正是这种对隐私的克制，而非对景观的追求，造就了如今中美洲出镜率最高的地标之一。讽刺的是，这种反差随时间的沉淀而愈发迷人。",
-    "image_url": "https://cn.bing.com/th?id=OHR.SantaCatalina_ZH-CN6223370790_1920x1080.webp",
-    "main_text": "这座标志性的法制时钟于19世纪30年代被增设，至今仍需每三天人工手动上弦一次，在圣卡塔琳娜拱门，安提瓜，危地马拉。"
+    "headline": "细微之举，影响深远",
+    "title": "珊瑚礁与海滩在拉贾安帕特，印度尼西亚",
+    "description": "想象一座由动物建造的城市，在阳光下熠熠生辉，并在海浪之下涌动着生命。这就是珊瑚礁。在珊瑚礁意识周（Coral Reef Awareness Week）期间，我们赞美这些非凡的生态系统，以及依赖其生存的无数物种",
+    "image_url": "https://cn.bing.com/th?id=OHR.CoralAwareness_ZH-CN1621627126_1920x1080.webp",
+    "main_text": "珊瑚礁作为“21世纪的药库”在拉贾安帕特，印度尼西亚及全球海洋中展现出巨大的生物医学价值，其产生的独特化合物正被用于开发治疗癌症及心脏病的新型药物。"
 }
 ```
 
-UpdataTime：2026-07-21 03:35:22
+UpdataTime：2026-07-21 17:38:44
