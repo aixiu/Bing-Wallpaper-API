@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-07-23",
+    "date": "2026-07-24",
     "headline": "缤纷多彩的一家人",
     "title": "美洲红鹳群在伊莎贝拉岛，加拉帕戈斯群岛，厄瓜多尔",
     "description": "除了引人注目的体色，栖息在伊莎贝拉岛，加拉帕戈斯群岛，厄瓜多尔的美洲红鹳还以其高度同步的求偶仪式而闻名。数百只红鹳会参与一场极具仪式感的“集体舞”，它们整齐划一地行进，并有节奏地左右摆动头部以吸引配偶。这种集体行为确保了整个集群能在同一时间进行繁殖，从而在群岛严酷的火山地貌中最大限度地提高雏鸟的存活率。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-07-23 17:41:01
+UpdataTime：2026-07-24 03:35:02
