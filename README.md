@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![美洲红鹳群在伊莎贝拉岛，加拉帕戈斯群岛，厄瓜多尔](https://cn.bing.com/th?id=OHR.GalapagosFlamingos_ZH-CN1152519387_1920x1080.webp)
-Today: [美洲红鹳群在伊莎贝拉岛，加拉帕戈斯群岛，厄瓜多尔](https://cn.bing.com/th?id=OHR.GalapagosFlamingos_ZH-CN1152519387_1920x1080.webp) - 缤纷多彩的一家人
+![大教堂海滩，加利西亚，西班牙](https://cn.bing.com/th?id=OHR.GaliciaBeach_ZH-CN1246611659_1920x1080.webp)
+Today: [大教堂海滩，加利西亚，西班牙](https://cn.bing.com/th?id=OHR.GaliciaBeach_ZH-CN1246611659_1920x1080.webp) - 加境幽廊
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-07-24",
-    "headline": "缤纷多彩的一家人",
-    "title": "美洲红鹳群在伊莎贝拉岛，加拉帕戈斯群岛，厄瓜多尔",
-    "description": "除了引人注目的体色，栖息在伊莎贝拉岛，加拉帕戈斯群岛，厄瓜多尔的美洲红鹳还以其高度同步的求偶仪式而闻名。数百只红鹳会参与一场极具仪式感的“集体舞”，它们整齐划一地行进，并有节奏地左右摆动头部以吸引配偶。这种集体行为确保了整个集群能在同一时间进行繁殖，从而在群岛严酷的火山地貌中最大限度地提高雏鸟的存活率。",
-    "image_url": "https://cn.bing.com/th?id=OHR.GalapagosFlamingos_ZH-CN1152519387_1920x1080.webp",
-    "main_text": "红鹳双亲均能分泌“嗉囊乳”来哺育雏鸟，这种营养丰富的物质类似于哺乳动物的乳汁，在伊莎贝拉岛，加拉帕戈斯群岛，厄瓜多尔。"
+    "date": "2026-07-25",
+    "headline": "加境幽廊",
+    "title": "大教堂海滩，加利西亚，西班牙",
+    "description": "在西班牙遥远的西北部，加利西亚与大西洋交汇。漫长的海岸线在海浪的强力冲刷下，形成了由悬崖、内湾和海蚀平台交织而成的地貌。雨水充沛的山丘与密林向海绵延，这种景观带有鲜明的大西洋气候基调，使其在感官上更接近于爱尔兰，而非人们惯常印象中的西班牙南部。",
+    "image_url": "https://cn.bing.com/th?id=OHR.GaliciaBeach_ZH-CN1246611659_1920x1080.webp",
+    "main_text": "除了因酷似教堂的拱门而闻名外，该地标的官方定名为“圣水海滩”，在大教堂海滩，加利西亚，西班牙。"
 }
 ```
 
-UpdataTime：2026-07-24 10:26:34
+UpdataTime：2026-07-25 03:31:43
