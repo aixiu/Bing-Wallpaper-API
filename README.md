@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![红树上的日出在小猪群岛，洪都拉斯](https://cn.bing.com/th?id=OHR.RedMangroveSunrise_ZH-CN7940335392_1920x1080.webp)
-Today: [红树上的日出在小猪群岛，洪都拉斯](https://cn.bing.com/th?id=OHR.RedMangroveSunrise_ZH-CN7940335392_1920x1080.webp) - 海陆际会，生机肇始
+![蒂芙尼穹顶，芝加哥文化中心，伊利诺伊州，美国](https://cn.bing.com/th?id=OHR.ChicagoTiffany_ZH-CN9860688834_1920x1080.webp)
+Today: [蒂芙尼穹顶，芝加哥文化中心，伊利诺伊州，美国](https://cn.bing.com/th?id=OHR.ChicagoTiffany_ZH-CN9860688834_1920x1080.webp) - 仰望芝城，流光溢彩
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-07-26",
-    "headline": "海陆际会，生机肇始",
-    "title": "红树上的日出在小猪群岛，洪都拉斯",
-    "description": "在洪都拉斯小猪群岛的日出时分——那是掩映在红树林湿地中低矮的沿海小岛——一株红树将其交错的根系挺立于如镜的水面之上。这幅动人的画面精准捕捉了7月26日所庆祝的主题：保护红树林生态系统国际日，该节日的设立旨在呼吁全球关注这些至关重要的海岸森林。",
-    "image_url": "https://cn.bing.com/th?id=OHR.RedMangroveSunrise_ZH-CN7940335392_1920x1080.webp",
-    "main_text": "红树具有特殊的“胎生”特性，其种子在脱离母树掉入潮汐前就已在枝头萌发，在小猪群岛，洪都拉斯。"
+    "headline": "仰望芝城，流光溢彩",
+    "title": "蒂芙尼穹顶，芝加哥文化中心，伊利诺伊州，美国",
+    "description": "步入位于美国，伊利诺伊州，芝加哥文化中心的建筑内部，目光瞬间会被上方绚丽夺目的彩色顶棚——蒂芙尼穹顶所吸引。这座艺术杰作悬挂在普雷斯顿·布拉德利大厅上方，直径约38英尺，由约30,000片法夫里尔玻璃组成，每片玻璃都呈鱼鳞状。阳光透过其半透明的表面，在错综复杂的图案中映射出变幻莫测的蓝色与金色。",
+    "image_url": "https://cn.bing.com/th?id=OHR.ChicagoTiffany_ZH-CN9860688834_1920x1080.webp",
+    "main_text": "穹顶基座饰有十二星座图案，其玻璃工艺旨在模仿波光粼粼且具有虹彩质感的海面，在美国伊利诺伊州芝加哥文化中心。"
 }
 ```
 
-UpdataTime：2026-07-26 10:08:05
+UpdataTime：2026-07-26 17:11:04
