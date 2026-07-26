@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-07-25",
+    "date": "2026-07-26",
     "headline": "海陆际会，生机肇始",
     "title": "红树上的日出在小猪群岛，洪都拉斯",
     "description": "在洪都拉斯小猪群岛的日出时分——那是掩映在红树林湿地中低矮的沿海小岛——一株红树将其交错的根系挺立于如镜的水面之上。这幅动人的画面精准捕捉了7月26日所庆祝的主题：保护红树林生态系统国际日，该节日的设立旨在呼吁全球关注这些至关重要的海岸森林。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-07-25 17:10:27
+UpdataTime：2026-07-26 03:47:49
