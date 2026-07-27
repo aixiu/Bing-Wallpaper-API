@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-07-26",
+    "date": "2026-07-27",
     "headline": "仰望芝城，流光溢彩",
     "title": "蒂芙尼穹顶，芝加哥文化中心，伊利诺伊州，美国",
     "description": "步入位于美国，伊利诺伊州，芝加哥文化中心的建筑内部，目光瞬间会被上方绚丽夺目的彩色顶棚——蒂芙尼穹顶所吸引。这座艺术杰作悬挂在普雷斯顿·布拉德利大厅上方，直径约38英尺，由约30,000片法夫里尔玻璃组成，每片玻璃都呈鱼鳞状。阳光透过其半透明的表面，在错综复杂的图案中映射出变幻莫测的蓝色与金色。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-07-26 17:11:04
+UpdataTime：2026-07-27 03:56:08
