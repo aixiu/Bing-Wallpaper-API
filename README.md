@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-07-27",
+    "date": "2026-07-28",
     "headline": "生机律动，恒久之衡",
     "title": "一片海藻林在安纳卡帕岛附近，海峡群岛国家公园，加利福尼亚州，美国",
     "description": "在美国加利福尼亚州，海峡群岛国家公园，安纳卡帕岛附近，海洋孕育着属于自己的森林。在被称为“北美洲加拉帕戈斯”的海峡群岛国家公园内，巨藻的长度可超过 100 英尺，它们通过充满空气的气囊在水中形成具有浮力的丝带，并由底部的根状固着器锚定在海床之上。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-07-27 17:49:52
+UpdataTime：2026-07-28 03:27:18
