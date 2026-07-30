@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![在纳瓦霍族保留地的纪念碑谷，亚利桑那州，美国](https://cn.bing.com/th?id=OHR.NavajoNation_ZH-CN9274387505_1920x1080.webp)
-Today: [在纳瓦霍族保留地的纪念碑谷，亚利桑那州，美国](https://cn.bing.com/th?id=OHR.NavajoNation_ZH-CN9274387505_1920x1080.webp) - 旷野无声，活态传承之境
+![鸟瞰弗吉尼亚爬山虎步道，达马斯克斯，弗吉尼亚州，美国](https://cn.bing.com/th?id=OHR.VirginiaTrail_ZH-CN2299501599_1920x1080.webp)
+Today: [鸟瞰弗吉尼亚爬山虎步道，达马斯克斯，弗吉尼亚州，美国](https://cn.bing.com/th?id=OHR.VirginiaTrail_ZH-CN2299501599_1920x1080.webp) - 穿越时光的足迹
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-07-30",
-    "headline": "旷野无声，活态传承之境",
-    "title": "在纳瓦霍族保留地的纪念碑谷，亚利桑那州，美国",
-    "description": "在纳瓦霍族保留地，亚利桑那州与犹他州交界处，美国，有些景观举世闻名，而纪念碑谷则堪称传奇。这一沙漠奇观横跨州界，其地貌由高耸的砂岩孤峰塑造而成，这些孤峰从谷底拔地而起，高度可达1000英尺。在纳瓦霍语中，该地区被称为 Tsé Bii' Ndzisgaii（意为“岩石之谷”），它将壮丽的地质构造与鲜活的民族文化完美融合。",
-    "image_url": "https://cn.bing.com/th?id=OHR.NavajoNation_ZH-CN9274387505_1920x1080.webp",
-    "main_text": "阿甘结束其跨国长跑的著名地点位于163号美国国道，这里拥有俯瞰山谷的最具标志性视野，在纪念碑谷，纳瓦霍族保留地，美国。"
+    "headline": "穿越时光的足迹",
+    "title": "鸟瞰弗吉尼亚爬山虎步道，达马斯克斯，弗吉尼亚州，美国",
+    "description": "有些铁路会退出历史舞台，而“弗吉尼亚爬山虎步道”则实现了华丽转身。这条步道全长34.3英里，横贯弗吉尼亚州西南部，沿用了一条昔日的铁路线——该线路曾用于在阿巴拉契亚山脉间运输木材和铁矿石。步道那独特的名字，源自20世纪初那些在陡峭坡道上艰难爬行的蒸汽机车。",
+    "image_url": "https://cn.bing.com/th?id=OHR.VirginiaTrail_ZH-CN2299501599_1920x1080.webp",
+    "main_text": "这条步道的英文名字“Virginia creeper”（弗吉尼亚爬山虎）具有双重寓意：一是指沿铁轨茂盛生长的当地原生五叶爬山虎植物，二是指20世纪初蒸汽机车在攀爬陡峭山坡时如蜗牛爬行般缓慢的行驶速度。"
 }
 ```
 
-UpdataTime：2026-07-30 10:31:49
+UpdataTime：2026-07-30 17:42:38
