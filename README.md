@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-07-29",
+    "date": "2026-07-30",
     "headline": "旷野无声，活态传承之境",
     "title": "在纳瓦霍族保留地的纪念碑谷，亚利桑那州，美国",
     "description": "在纳瓦霍族保留地，亚利桑那州与犹他州交界处，美国，有些景观举世闻名，而纪念碑谷则堪称传奇。这一沙漠奇观横跨州界，其地貌由高耸的砂岩孤峰塑造而成，这些孤峰从谷底拔地而起，高度可达1000英尺。在纳瓦霍语中，该地区被称为 Tsé Bii' Ndzisgaii（意为“岩石之谷”），它将壮丽的地质构造与鲜活的民族文化完美融合。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-07-29 17:23:30
+UpdataTime：2026-07-30 03:17:33
