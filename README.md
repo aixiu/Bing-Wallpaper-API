@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-07-30",
+    "date": "2026-07-31",
     "headline": "穿越时光的足迹",
     "title": "鸟瞰弗吉尼亚爬山虎步道，达马斯克斯，弗吉尼亚州，美国",
     "description": "有些铁路会退出历史舞台，而“弗吉尼亚爬山虎步道”则实现了华丽转身。这条步道全长34.3英里，横贯弗吉尼亚州西南部，沿用了一条昔日的铁路线——该线路曾用于在阿巴拉契亚山脉间运输木材和铁矿石。步道那独特的名字，源自20世纪初那些在陡峭坡道上艰难爬行的蒸汽机车。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-07-30 17:42:38
+UpdataTime：2026-07-31 03:44:05
