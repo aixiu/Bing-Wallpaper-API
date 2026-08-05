@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-08-04",
+    "date": "2026-08-05",
     "headline": "秘境之门，匠心传世",
     "title": "非斯皇宫装饰华丽的大门，摩洛哥",
     "description": "在摩洛哥的非斯，被称为“达尔·马赫赞”的王宫自13世纪以来一直是权力的中心；当时，摩洛哥的统治者围绕它建立了一座设防的皇城。其高墙之内，花园、庭院、清真寺和皇家住所错落分布于广阔的建筑群中，且至今仍供国王使用，使其既是历史古迹，又是仍在运作的活跃宫廷。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-08-04 17:59:15
+UpdataTime：2026-08-05 03:25:15
