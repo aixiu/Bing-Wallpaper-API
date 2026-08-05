@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![非斯皇宫装饰华丽的大门，摩洛哥](https://cn.bing.com/th?id=OHR.FezMorocco_ZH-CN7662339428_1920x1080.webp)
-Today: [非斯皇宫装饰华丽的大门，摩洛哥](https://cn.bing.com/th?id=OHR.FezMorocco_ZH-CN7662339428_1920x1080.webp) - 秘境之门，匠心传世
+![马赛马拉迁徙的角马群横渡马拉河, 肯尼亚](https://cn.bing.com/th?id=OHR.MaraCrossing_ZH-CN8816902094_1920x1080.webp)
+Today: [马赛马拉迁徙的角马群横渡马拉河, 肯尼亚](https://cn.bing.com/th?id=OHR.MaraCrossing_ZH-CN8816902094_1920x1080.webp) - 生死渡口，勇者的史诗
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-08-05",
-    "headline": "秘境之门，匠心传世",
-    "title": "非斯皇宫装饰华丽的大门，摩洛哥",
-    "description": "在摩洛哥的非斯，被称为“达尔·马赫赞”的王宫自13世纪以来一直是权力的中心；当时，摩洛哥的统治者围绕它建立了一座设防的皇城。其高墙之内，花园、庭院、清真寺和皇家住所错落分布于广阔的建筑群中，且至今仍供国王使用，使其既是历史古迹，又是仍在运作的活跃宫廷。",
-    "image_url": "https://cn.bing.com/th?id=OHR.FezMorocco_ZH-CN7662339428_1920x1080.webp",
-    "main_text": "非斯皇宫那七扇标志性的青铜大门，至今仍由工匠使用柠檬汁和传统技艺进行精细的手工抛光，以保持其灿烂如金的光泽。"
+    "headline": "生死渡口，勇者的史诗",
+    "title": "马赛马拉迁徙的角马群横渡马拉河, 肯尼亚",
+    "description": "在肯尼亚的马赛马拉，大地仿佛在移动。成群结队的角马——这种拥有极强耐力的蹄类食草动物——在季节性降雨滋润出的鲜嫩青草与水源的吸引下，浩浩荡荡地迁徙着。",
+    "image_url": "https://cn.bing.com/th?id=OHR.MaraCrossing_ZH-CN8816902094_1920x1080.webp",
+    "main_text": "成年角马体重可达600磅，属于体型较大的食草性羚羊。"
 }
 ```
 
-UpdataTime：2026-08-05 03:25:15
+UpdataTime：2026-08-05 17:49:53
