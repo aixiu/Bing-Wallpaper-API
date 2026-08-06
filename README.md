@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-08-05",
+    "date": "2026-08-06",
     "headline": "生死渡口，勇者的史诗",
     "title": "马赛马拉迁徙的角马群横渡马拉河, 肯尼亚",
     "description": "在肯尼亚的马赛马拉，大地仿佛在移动。成群结队的角马——这种拥有极强耐力的蹄类食草动物——在季节性降雨滋润出的鲜嫩青草与水源的吸引下，浩浩荡荡地迁徙着。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-08-05 17:49:53
+UpdataTime：2026-08-06 03:28:37
