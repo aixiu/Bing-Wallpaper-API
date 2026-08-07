@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![马赛马拉迁徙的角马群横渡马拉河, 肯尼亚](https://cn.bing.com/th?id=OHR.MaraCrossing_ZH-CN8816902094_1920x1080.webp)
-Today: [马赛马拉迁徙的角马群横渡马拉河, 肯尼亚](https://cn.bing.com/th?id=OHR.MaraCrossing_ZH-CN8816902094_1920x1080.webp) - 生死渡口，勇者的史诗
+![圣胡安岛石灰窑灯塔，华盛顿州，美国](https://cn.bing.com/th?id=OHR.LimeKiln_ZH-CN5664152522_1920x1080.webp)
+Today: [圣胡安岛石灰窑灯塔，华盛顿州，美国](https://cn.bing.com/th?id=OHR.LimeKiln_ZH-CN5664152522_1920x1080.webp) - 指引船只穿越历史
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-08-06",
-    "headline": "生死渡口，勇者的史诗",
-    "title": "马赛马拉迁徙的角马群横渡马拉河, 肯尼亚",
-    "description": "在肯尼亚的马赛马拉，大地仿佛在移动。成群结队的角马——这种拥有极强耐力的蹄类食草动物——在季节性降雨滋润出的鲜嫩青草与水源的吸引下，浩浩荡荡地迁徙着。",
-    "image_url": "https://cn.bing.com/th?id=OHR.MaraCrossing_ZH-CN8816902094_1920x1080.webp",
-    "main_text": "成年角马体重可达600磅，属于体型较大的食草性羚羊。"
+    "date": "2026-08-07",
+    "headline": "指引船只穿越历史",
+    "title": "圣胡安岛石灰窑灯塔，华盛顿州，美国",
+    "description": "每年的8月7日是“全国灯塔日”，这一节日旨在颂扬那些数百年来指引船只安全航行于美国沿海的灯塔。这一日期是为了纪念乔治·华盛顿总统签署生效的《1789年灯塔法案》。",
+    "image_url": "https://cn.bing.com/th?id=OHR.LimeKiln_ZH-CN5664152522_1920x1080.webp",
+    "main_text": "石灰窑点州立公园被认为是全球最佳的陆基观鲸地点之一，因为这里的海岸水深急剧下降，使得虎鲸群能够游至非常靠近岩石绝壁的海域。"
 }
 ```
 
-UpdataTime：2026-08-06 10:46:46
+UpdataTime：2026-08-07 03:11:57
