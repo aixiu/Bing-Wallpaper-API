@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![圣胡安岛石灰窑灯塔，华盛顿州，美国](https://cn.bing.com/th?id=OHR.LimeKiln_ZH-CN5664152522_1920x1080.webp)
-Today: [圣胡安岛石灰窑灯塔，华盛顿州，美国](https://cn.bing.com/th?id=OHR.LimeKiln_ZH-CN5664152522_1920x1080.webp) - 指引船只穿越历史
+![蒂斯河畔斯托克顿无限桥，英格兰](https://cn.bing.com/th?id=OHR.StocktonInfinity_ZH-CN5941379745_1920x1080.webp)
+Today: [蒂斯河畔斯托克顿无限桥，英格兰](https://cn.bing.com/th?id=OHR.StocktonInfinity_ZH-CN5941379745_1920x1080.webp) - 迈向无限
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-08-07",
-    "headline": "指引船只穿越历史",
-    "title": "圣胡安岛石灰窑灯塔，华盛顿州，美国",
-    "description": "每年的8月7日是“全国灯塔日”，这一节日旨在颂扬那些数百年来指引船只安全航行于美国沿海的灯塔。这一日期是为了纪念乔治·华盛顿总统签署生效的《1789年灯塔法案》。",
-    "image_url": "https://cn.bing.com/th?id=OHR.LimeKiln_ZH-CN5664152522_1920x1080.webp",
-    "main_text": "石灰窑点州立公园被认为是全球最佳的陆基观鲸地点之一，因为这里的海岸水深急剧下降，使得虎鲸群能够游至非常靠近岩石绝壁的海域。"
+    "date": "2026-08-08",
+    "headline": "迈向无限",
+    "title": "蒂斯河畔斯托克顿无限桥，英格兰",
+    "description": "8月8日，国际无限日让好奇心成为主角。这项庆祝活动的灵感来自横置的数字8——象征永无止境的无限符号。纽约哲学家让-皮埃尔·阿迪·费尼奥于1987年创立这一节日，邀请每个人通过科学、艺术和想象力探索宏大理念。它不只关乎数学，也关乎从浩瀚宇宙到人类创造力边界的种种可能。",
+    "image_url": "https://cn.bing.com/th?id=OHR.StocktonInfinity_ZH-CN5941379745_1920x1080.webp",
+    "main_text": "由于无法设置中央桥墩，无限桥采用不等高系杆拱和倒置鞍形结构，为180米长的桥身增强刚度。"
 }
 ```
 
-UpdataTime：2026-08-07 09:12:34
+UpdataTime：2026-08-08 02:13:09
