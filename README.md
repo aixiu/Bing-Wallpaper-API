@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-08-08",
+    "date": "2026-08-09",
     "headline": "身份认同的建筑表达",
     "title": "让-马里·吉巴乌文化中心，新喀里多尼亚",
     "description": "今天，世界土著人民国际日邀请我们更深入地了解那些历史远早于文字记载的社群。联合国于1994年设立这一纪念日，并于1995年首次举行活动；日期所纪念的是1982年一次致力于保护全球土著人民权利的重要会议。如今，约90个国家生活着超过4.76亿土著人民，他们延续着数千种文化，也传承着全球约7,000种语言中的大多数。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-08-08 16:46:49
+UpdataTime：2026-08-09 02:22:48
