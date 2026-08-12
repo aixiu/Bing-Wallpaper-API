@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![安博塞利国家公园的非洲草原象群，卡贾多郡，肯尼亚](https://cn.bing.com/th?id=OHR.ElephantDay_ZH-CN8350171749_1920x1080.webp)
-Today: [安博塞利国家公园的非洲草原象群，卡贾多郡，肯尼亚](https://cn.bing.com/th?id=OHR.ElephantDay_ZH-CN8350171749_1920x1080.webp) - 值得守护的巨兽
+![泰德天文台上空的英仙座流星，加那利群岛，西班牙](https://cn.bing.com/th?id=OHR.PerseidasTenerife_ZH-CN8520379683_1920x1080.webp)
+Today: [泰德天文台上空的英仙座流星，加那利群岛，西班牙](https://cn.bing.com/th?id=OHR.PerseidasTenerife_ZH-CN8520379683_1920x1080.webp) - 许个愿吧
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-08-12",
-    "headline": "值得守护的巨兽",
-    "title": "安博塞利国家公园的非洲草原象群，卡贾多郡，肯尼亚",
-    "description": "8月12日世界大象日，让我们停下脚步，不仅思考这些动物的庞大体型，也体会它们生命的深度。在图片所示的肯尼亚安博塞利国家公园等地，非洲草原象群并非只是穿越景观；它们还会记住这片土地。母象首领带领家族往返于不同水源，行进路线既由地形塑造，也由记忆指引。",
-    "image_url": "https://cn.bing.com/th?id=OHR.ElephantDay_ZH-CN8350171749_1920x1080.webp",
-    "main_text": "2024年的一项研究利用在安博塞利录制的叫声发现，非洲象会用类似个体名字的叫声彼此称呼。"
+    "headline": "许个愿吧",
+    "title": "泰德天文台上空的英仙座流星，加那利群岛，西班牙",
+    "description": "并非所有夏日传统都发生在地面。有些在数百英里高空上演，每次划过一颗流星。英仙座流星雨每年从7月中旬持续至8月下旬，并在8月12日至13日前后达到峰值。世界大部分地区都能看到它；在黑暗天空下，每小时往往会出现数十颗流星。想象自己抬头仰望，一道接一道亮光划过。数到多少颗时，你会忘记数目？每道亮光都来自斯威夫特-塔特尔彗星散落的碎屑，地球穿过其尘埃带时便形成流星。它们看起来像是从英仙座辐射而出。",
+    "image_url": "https://cn.bing.com/th?id=OHR.PerseidasTenerife_ZH-CN8520379683_1920x1080.webp",
+    "main_text": "作为英仙座流星雨母体的斯威夫特-塔特尔彗星，绕太阳运行一周约需133年。"
 }
 ```
 
-UpdataTime：2026-08-12 09:19:37
+UpdataTime：2026-08-12 17:06:01
