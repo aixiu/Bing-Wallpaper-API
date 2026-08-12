@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![哥本哈根新港运河沿岸的彩色房屋，首都大区，丹麦](https://cn.bing.com/th?id=OHR.ColorfulCop_ZH-CN8015611442_1920x1080.webp)
-Today: [哥本哈根新港运河沿岸的彩色房屋，首都大区，丹麦](https://cn.bing.com/th?id=OHR.ColorfulCop_ZH-CN8015611442_1920x1080.webp) - 绚丽多彩的哥本哈根
+![安博塞利国家公园的非洲草原象群，卡贾多郡，肯尼亚](https://cn.bing.com/th?id=OHR.ElephantDay_ZH-CN8350171749_1920x1080.webp)
+Today: [安博塞利国家公园的非洲草原象群，卡贾多郡，肯尼亚](https://cn.bing.com/th?id=OHR.ElephantDay_ZH-CN8350171749_1920x1080.webp) - 值得守护的巨兽
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-08-11",
-    "headline": "绚丽多彩的哥本哈根",
-    "title": "哥本哈根新港运河沿岸的彩色房屋，首都大区，丹麦",
-    "description": "哥本哈根新港运河是一条标志性水道，鲜艳色彩与深厚历史在此交融。它于17世纪70年代在克里斯蒂安五世统治时期挖建，曾是重要门户，货船可由此将货物直接卸入城市中心。远在成为今天明信片般完美的地标之前，这座港口曾以粗犷闻名：水手云集、酒馆喧闹，与色彩明快的山墙联排屋并立。",
-    "image_url": "https://cn.bing.com/th?id=OHR.ColorfulCop_ZH-CN8015611442_1920x1080.webp",
-    "main_text": "汉斯·克里斯蒂安·安徒生一生中曾在新港的18号、20号和67号三个不同地址居住。"
+    "date": "2026-08-12",
+    "headline": "值得守护的巨兽",
+    "title": "安博塞利国家公园的非洲草原象群，卡贾多郡，肯尼亚",
+    "description": "8月12日世界大象日，让我们停下脚步，不仅思考这些动物的庞大体型，也体会它们生命的深度。在图片所示的肯尼亚安博塞利国家公园等地，非洲草原象群并非只是穿越景观；它们还会记住这片土地。母象首领带领家族往返于不同水源，行进路线既由地形塑造，也由记忆指引。",
+    "image_url": "https://cn.bing.com/th?id=OHR.ElephantDay_ZH-CN8350171749_1920x1080.webp",
+    "main_text": "2024年的一项研究利用在安博塞利录制的叫声发现，非洲象会用类似个体名字的叫声彼此称呼。"
 }
 ```
 
-UpdataTime：2026-08-11 09:10:03
+UpdataTime：2026-08-12 02:36:36
