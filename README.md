@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![泰德天文台上空的英仙座流星，加那利群岛，西班牙](https://cn.bing.com/th?id=OHR.PerseidasTenerife_ZH-CN8520379683_1920x1080.webp)
-Today: [泰德天文台上空的英仙座流星，加那利群岛，西班牙](https://cn.bing.com/th?id=OHR.PerseidasTenerife_ZH-CN8520379683_1920x1080.webp) - 许个愿吧
+![扎克舒夫附近的野生动物通道，波兰](https://cn.bing.com/th?id=OHR.WildlifeCrossingPoland_ZH-CN9439167246_1920x1080.webp)
+Today: [扎克舒夫附近的野生动物通道，波兰](https://cn.bing.com/th?id=OHR.WildlifeCrossingPoland_ZH-CN9439167246_1920x1080.webp) - 为动物脚掌而建，而非行人
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-08-13",
-    "headline": "许个愿吧",
-    "title": "泰德天文台上空的英仙座流星，加那利群岛，西班牙",
-    "description": "并非所有夏日传统都发生在地面。有些在数百英里高空上演，每次划过一颗流星。英仙座流星雨每年从7月中旬持续至8月下旬，并在8月12日至13日前后达到峰值。世界大部分地区都能看到它；在黑暗天空下，每小时往往会出现数十颗流星。想象自己抬头仰望，一道接一道亮光划过。数到多少颗时，你会忘记数目？每道亮光都来自斯威夫特-塔特尔彗星散落的碎屑，地球穿过其尘埃带时便形成流星。它们看起来像是从英仙座辐射而出。",
-    "image_url": "https://cn.bing.com/th?id=OHR.PerseidasTenerife_ZH-CN8520379683_1920x1080.webp",
-    "main_text": "作为英仙座流星雨母体的斯威夫特-塔特尔彗星，绕太阳运行一周约需133年。"
+    "headline": "为动物脚掌而建，而非行人",
+    "title": "扎克舒夫附近的野生动物通道，波兰",
+    "description": "道路解决了一个问题，却悄然制造了另一个问题。人类出行速度前所未有地提高，野生动物世代沿用的迁徙路线却被公路切断，导致碰撞事故增加、栖息地破碎化，野生动物种群彼此隔绝。为应对这一挑战，人们建造了称为生态桥的野生动物通道：这些桥梁或隧道旨在重新连接栖息地，让动物安全穿越繁忙道路。最早的一些现代案例于20世纪50年代出现在法国，这一理念很快传遍欧洲。荷兰等国通过建造覆盖土壤及草本、灌木和乔木等本土植被的宽阔绿色桥梁，推动了生态桥设计的完善。",
+    "image_url": "https://cn.bing.com/th?id=OHR.WildlifeCrossingPoland_ZH-CN9439167246_1920x1080.webp",
+    "main_text": "20世纪50年代，法国首次出现了野生动物通道，为动物们在被公路分割的新景观中开辟了一条生路。"
 }
 ```
 
-UpdataTime：2026-08-13 09:20:24
+UpdataTime：2026-08-13 17:06:00
