@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![圣胡安县阿什斯利帕荒野地的奇岩柱，新墨西哥州，美国](https://cn.bing.com/th?id=OHR.ValleyDreams_ZH-CN9689713135_1920x1080.webp)
-Today: [圣胡安县阿什斯利帕荒野地的奇岩柱，新墨西哥州，美国](https://cn.bing.com/th?id=OHR.ValleyDreams_ZH-CN9689713135_1920x1080.webp) - 绝妙的平衡术
+![戈尔韦郡罗斯埃里利方济各会修道院遗址，康诺特省，爱尔兰](https://cn.bing.com/th?id=OHR.RossErrillyRuins_ZH-CN9986322001_1920x1080.webp)
+Today: [戈尔韦郡罗斯埃里利方济各会修道院遗址，康诺特省，爱尔兰](https://cn.bing.com/th?id=OHR.RossErrillyRuins_ZH-CN9986322001_1920x1080.webp) - 天鹅开启传奇之处
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-08-15",
-    "headline": "绝妙的平衡术",
-    "title": "圣胡安县阿什斯利帕荒野地的奇岩柱，新墨西哥州，美国",
-    "description": "大自然善于平衡看似不可能之物。在新墨西哥州阿什斯利帕荒野地，高耸的石林以纤细石柱托起厚重岩帽。约7,500万年来，风、水和冰将这片偏远的恶地雕刻成一座露天展馆，景象更像异星，而非地球。",
-    "image_url": "https://cn.bing.com/th?id=OHR.ValleyDreams_ZH-CN9689713135_1920x1080.webp",
-    "main_text": "阿什斯勒帕保存着全球最丰富的晚白垩世哺乳动物、爬行动物、植物和鱼类化石记录之一。"
+    "headline": "天鹅开启传奇之处",
+    "title": "戈尔韦郡罗斯埃里利方济各会修道院遗址，康诺特省，爱尔兰",
+    "description": "天鹅、秘密藏身处和中世纪养鱼池有什么共同之处？它们都是罗斯埃里利方济各会修道院遗址故事的一部分。这座保存完好的爱尔兰方济各会修道院建于约1351年，常被称为罗斯修道院（俗称）；不过它从未设过院长，因为它本就不是隐修院。",
+    "image_url": "https://cn.bing.com/th?id=OHR.RossErrillyRuins_ZH-CN9986322001_1920x1080.webp",
+    "main_text": "罗斯埃里利修道院在建立后的一个世纪间逐步扩建，现存塔楼建于1498年。"
 }
 ```
 
-UpdataTime：2026-08-15 08:39:26
+UpdataTime：2026-08-15 16:35:19
