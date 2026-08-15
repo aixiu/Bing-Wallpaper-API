@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-08-14",
+    "date": "2026-08-15",
     "headline": "绝妙的平衡术",
     "title": "圣胡安县阿什斯利帕荒野地的奇岩柱，新墨西哥州，美国",
     "description": "大自然善于平衡看似不可能之物。在新墨西哥州阿什斯利帕荒野地，高耸的石林以纤细石柱托起厚重岩帽。约7,500万年来，风、水和冰将这片偏远的恶地雕刻成一座露天展馆，景象更像异星，而非地球。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-08-14 17:03:16
+UpdataTime：2026-08-15 01:44:35
