@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-08-16",
+    "date": "2026-08-17",
     "headline": "珊瑚礁上的黄金地段",
     "title": "海葵中的三条眼斑双锯鱼，卡比劳岛，薄荷省，菲律宾",
     "description": "地点很重要。看看图片中菲律宾卡比劳岛附近卡比劳附近的灯塔礁的眼斑双锯鱼就知道了。在这片充满饥饿捕食者和激烈竞争的热带水域，它们占据了一块黄金地段：一只拥有数千个微小刺细胞的海葵。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-08-16 16:35:52
+UpdataTime：2026-08-17 08:54:32
