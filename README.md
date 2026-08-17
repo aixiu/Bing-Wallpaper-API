@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![海葵中的三条眼斑双锯鱼，卡比劳岛，薄荷省，菲律宾](https://cn.bing.com/th?id=OHR.CabilaoClowns_ZH-CN0147033898_1920x1080.webp)
-Today: [海葵中的三条眼斑双锯鱼，卡比劳岛，薄荷省，菲律宾](https://cn.bing.com/th?id=OHR.CabilaoClowns_ZH-CN0147033898_1920x1080.webp) - 珊瑚礁上的黄金地段
+![弗留利要塞城市帕尔马诺瓦航拍图，意大利](https://cn.bing.com/th?id=OHR.Palmanova_ZH-CN0378401592_1920x1080.webp)
+Today: [弗留利要塞城市帕尔马诺瓦航拍图，意大利](https://cn.bing.com/th?id=OHR.Palmanova_ZH-CN0378401592_1920x1080.webp) - 星形城市的几何之美
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-08-17",
-    "headline": "珊瑚礁上的黄金地段",
-    "title": "海葵中的三条眼斑双锯鱼，卡比劳岛，薄荷省，菲律宾",
-    "description": "地点很重要。看看图片中菲律宾卡比劳岛附近卡比劳附近的灯塔礁的眼斑双锯鱼就知道了。在这片充满饥饿捕食者和激烈竞争的热带水域，它们占据了一块黄金地段：一只拥有数千个微小刺细胞的海葵。",
-    "image_url": "https://cn.bing.com/th?id=OHR.CabilaoClowns_ZH-CN0147033898_1920x1080.webp",
-    "main_text": "眼斑双锯鱼（俗称“公子小丑鱼”）的学名为 Amphiprion ocellaris；根据世界鱼类数据库（FishBase）的记录，该物种具有 11 根背鳍鳍棘。"
+    "headline": "星形城市的几何之美",
+    "title": "弗留利要塞城市帕尔马诺瓦航拍图，意大利",
+    "description": "从空中俯瞰，帕尔马诺瓦与其说是一座城镇，不如说是一颗精心绘制、嵌入意大利弗留利-威尼斯朱利亚平原的星。威尼斯共和国于1593年建立这座要塞城市，其设计兼顾防御、秩序与宏伟观感。街道从中央广场向外辐射，城墙则构成精确的九角星形。这种几何形态绝非偶然。帕尔马诺瓦成为近代早期军事建筑最具影响力的典范之一。其同心式防御工事最初由威尼斯修建，后来在拿破仑时期得到加固和扩建。",
+    "image_url": "https://cn.bing.com/th?id=OHR.Palmanova_ZH-CN0378401592_1920x1080.webp",
+    "main_text": "帕尔马诺瓦所属的联合国教科文组织世界遗产由六个组成部分构成，横跨三国一千多公里。"
 }
 ```
 
-UpdataTime：2026-08-17 08:54:32
+UpdataTime：2026-08-17 16:38:24
