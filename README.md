@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![林恩运河中浮出水面的虎鲸，奇尔卡特山脉附近，阿拉斯加州，美国](https://cn.bing.com/th?id=OHR.LynnCanalOrca_ZH-CN0719217908_1920x1080.webp)
-Today: [林恩运河中浮出水面的虎鲸，奇尔卡特山脉附近，阿拉斯加州，美国](https://cn.bing.com/th?id=OHR.LynnCanalOrca_ZH-CN0719217908_1920x1080.webp) - 鲸群之声
+![尤利尔山口蜿蜒的公路，瑞士](https://cn.bing.com/th?id=OHR.JulierPass_ZH-CN3064797820_1920x1080.webp)
+Today: [尤利尔山口蜿蜒的公路，瑞士](https://cn.bing.com/th?id=OHR.JulierPass_ZH-CN3064797820_1920x1080.webp) - 攀登在召唤
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-08-20",
-    "headline": "鲸群之声",
-    "title": "林恩运河中浮出水面的虎鲸，奇尔卡特山脉附近，阿拉斯加州，美国",
-    "description": "在阿拉斯加东南部白雪覆盖的奇尔卡特山脉映衬下，一头虎鲸浮出林恩运河水面。虎鲸是海豚科体型最大的成员，也是海洋中最具辨识度的捕食者之一。阿拉斯加内湾航道寒冷且营养丰富的水域提供了充足的觅食地，既维系鲑鱼洄游，也滋养种类繁多的海洋生物，为这些非凡动物提供支持。",
-    "image_url": "https://cn.bing.com/th?id=OHR.LynnCanalOrca_ZH-CN0719217908_1920x1080.webp",
-    "main_text": "成年雄性虎鲸的背鳍可高达约6英尺，明显高于成年雌性虎鲸的背鳍。"
+    "headline": "攀登在召唤",
+    "title": "尤利尔山口蜿蜒的公路，瑞士",
+    "description": "有些山路本身就会成为旅行目的地，尤利尔山口正是其中之一。这座瑞士山口海拔高达7,493英尺，近2,000年来一直沿着一条路线连接着阿尔卑斯山的各个山谷。它的故事早在现代交通出现之前便已开始。没有护栏，也没有路面——只有一条供罗马时代的旅行者、商人和信使使用的路线。山顶附近的考古发现，包括无数枚硬币和两根罗马时期的皂石柱，表明这里可能曾有一处供攀越山口的人使用的圣所或歇脚处。",
+    "image_url": "https://cn.bing.com/th?id=OHR.JulierPass_ZH-CN3064797820_1920x1080.webp",
+    "main_text": "尤利尔山口公路全年开放，但冬季路况下可能需要安装防滑链以确保安全通行。"
 }
 ```
 
-UpdataTime：2026-08-20 08:50:35
+UpdataTime：2026-08-20 16:46:00
