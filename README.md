@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-08-23",
+    "date": "2026-08-24",
     "headline": "跨越历史",
     "title": "布鲁克林大桥，纽约市，美国",
     "description": "布鲁克林大桥连接的不只是曼哈顿和布鲁克林——它还连接着历史、工程学以及几个令人惊讶的故事。大桥历经14年建造，于1883年开放，成为世界上第一座钢丝悬索桥，永久改变了纽约人跨越东河的方式。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-08-23 16:36:11
+UpdataTime：2026-08-24 01:52:19
