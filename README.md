@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![基尔丘山上空的极光，冰岛](https://cn.bing.com/th?id=OHR.AurorasIceland_ZH-CN9781322454_1920x1080.webp)
-Today: [基尔丘山上空的极光，冰岛](https://cn.bing.com/th?id=OHR.AurorasIceland_ZH-CN9781322454_1920x1080.webp) - 流光溢彩的天空
+![日出时的小红鹳群，马加迪湖，肯尼亚](https://cn.bing.com/th?id=OHR.LakeMagadi_ZH-CN0601527009_1920x1080.webp)
+Today: [日出时的小红鹳群，马加迪湖，肯尼亚](https://cn.bing.com/th?id=OHR.LakeMagadi_ZH-CN0601527009_1920x1080.webp) - 湖水、野生动物与奇景
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-08-26",
-    "headline": "流光溢彩的天空",
-    "title": "基尔丘山上空的极光，冰岛",
-    "description": "随着冰岛的夜晚再次变长，游客很快又会仰望天空，期待一睹北极光。北极光是一种发光现象，当来自太阳的粒子与地球高层大气中的气体相互作用时，便会形成闪烁的绿色、粉色、紫色，有时甚至是红色光带。冰岛地处北方，秋冬季夜晚日益漫长而黑暗，因此成为全球首屈一指的极光观赏地之一。",
-    "image_url": "https://cn.bing.com/th?id=OHR.AurorasIceland_ZH-CN9781322454_1920x1080.webp",
-    "main_text": "极光有时还可能伴随微弱声响，不过相关报告较少，其形成机制仍在研究中。"
+    "headline": "湖水、野生动物与奇景",
+    "title": "日出时的小红鹳群，马加迪湖，肯尼亚",
+    "description": "想象一个没有这些自然奇观的世界——它们容纳着地球约90%的地表淡水。湖泊是地球上最宝贵的资源之一。它们提供清洁水源、支持野生动物、帮助调节气候，并维系全球各地的社区。为肯定湖泊的重要作用，联合国将8月27日定为世界湖泊日，并于2025年首次纪念。采取行动的必要性比以往任何时候都更为迫切。全球超过1.17亿个湖泊覆盖了近4%的陆地表面，但许多湖泊正面临污染、过度利用和气候变化带来的日益严峻的压力。",
+    "image_url": "https://cn.bing.com/th?id=OHR.LakeMagadi_ZH-CN0601527009_1920x1080.webp",
+    "main_text": "马加迪湖位于火山盆地中，温泉为富含碳酸钠的高碱性湖水提供补给。"
 }
 ```
 
-UpdataTime：2026-08-26 08:55:28
+UpdataTime：2026-08-26 16:54:06
