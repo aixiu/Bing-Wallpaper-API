@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![冲浪者航拍图，圣卡塔琳娜州，巴西](https://cn.bing.com/th?id=OHR.SantaCatarina_ZH-CN4170292043_1920x1080.webp)
-Today: [冲浪者航拍图，圣卡塔琳娜州，巴西](https://cn.bing.com/th?id=OHR.SantaCatarina_ZH-CN4170292043_1920x1080.webp) - 读懂浪涛之间的讯息
+![鲸鲨与黄金鲹，极乐鸟湾，西巴布亚，印度尼西亚](https://cn.bing.com/th?id=OHR.YellowShark_ZH-CN1570569826_1920x1080.webp)
+Today: [鲸鲨与黄金鲹，极乐鸟湾，西巴布亚，印度尼西亚](https://cn.bing.com/th?id=OHR.YellowShark_ZH-CN1570569826_1920x1080.webp) - 名为鲨鱼的巨型鱼类
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-08-29",
-    "headline": "读懂浪涛之间的讯息",
-    "title": "冲浪者航拍图，圣卡塔琳娜州，巴西",
-    "description": "在巴西南部圣卡塔琳娜州近海，图片捕捉到一种熟悉的仪式：冲浪者在碎浪之外等待，冲浪板随着大西洋的波涛起伏。从空中看，几乎什么都没有发生，但真正的功课正是在此时开始。",
-    "image_url": "https://cn.bing.com/th?id=OHR.SantaCatarina_ZH-CN4170292043_1920x1080.webp",
-    "main_text": "圣卡塔琳娜州海岸的若阿基纳海滩曾承办多项重要国际冲浪赛事。"
+    "headline": "名为鲨鱼的巨型鱼类",
+    "title": "鲸鲨与黄金鲹，极乐鸟湾，西巴布亚，印度尼西亚",
+    "description": "今天，国际鲸鲨日将目光投向世界上最大的鱼类。鲸鲨虽然名字中带有“鲸”，却不是鲸类，而是鱼类；体长可达60英尺，体重约20吨。它们分布在温暖的热带海域，张着嘴在水中缓缓游动，滤食浮游生物、鱼卵和其他微小猎物。每条鲸鲨身上独特的白色斑点图案都各不相同，就像人类的指纹。",
+    "image_url": "https://cn.bing.com/th?id=OHR.YellowShark_ZH-CN1570569826_1920x1080.webp",
+    "main_text": "鲸鲨的寿命可能达到或超过一个世纪，这使世界上最大的鱼拥有令人意外的漫长生命。"
 }
 ```
 
-UpdataTime：2026-08-29 13:47:59
+UpdataTime：2026-08-29 19:22:05
