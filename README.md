@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![雷吉斯坦广场的建筑细节，撒马尔罕，乌兹别克斯坦](https://cn.bing.com/th?id=OHR.SamarkandCeiling_ZH-CN1818913296_1920x1080.webp)
-Today: [雷吉斯坦广场的建筑细节，撒马尔罕，乌兹别克斯坦](https://cn.bing.com/th?id=OHR.SamarkandCeiling_ZH-CN1818913296_1920x1080.webp) - 图案艺术的典范
+![马鬃小皮伞，白俄罗斯](https://cn.bing.com/th?id=OHR.HorseHairShroom_ZH-CN2241458451_1920x1080.webp)
+Today: [马鬃小皮伞，白俄罗斯](https://cn.bing.com/th?id=OHR.HorseHairShroom_ZH-CN2241458451_1920x1080.webp) - 脚下的世界
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-08-31",
-    "headline": "图案艺术的典范",
-    "title": "雷吉斯坦广场的建筑细节，撒马尔罕，乌兹别克斯坦",
-    "description": "站在雷吉斯坦广场上，你很容易明白为什么这里被视为撒马尔罕的建筑核心——撒马尔罕是中亚最古老的城市之一。这座位于乌兹别克斯坦的广场三面矗立着三座宏伟的经学院——伊斯兰学术中心——它们高耸的门廊吸引着人们仰头观望。然而，广场上一些最珍贵的瑰宝，只有在你走近细看时才会显露出来。",
-    "image_url": "https://cn.bing.com/th?id=OHR.SamarkandCeiling_ZH-CN1818913296_1920x1080.webp",
-    "main_text": "2001年，撒马尔罕被列入联合国教科文组织《世界遗产名录》，获誉为拥有2500多年历史的世界文化交汇地。"
+    "headline": "脚下的世界",
+    "title": "马鬃小皮伞，白俄罗斯",
+    "description": "九月的全国蘑菇月旨在赞颂一个常常不为人注意的世界。在森林地表、草坪和落叶下方，真菌网络循环利用养分，帮助生态系统蓬勃发展。我们看到的蘑菇只是这些隐秘生物的子实体，它们短暂现身释放孢子，随后又从视野中消失。它们并非植物；真菌自成一界，并在大自然的循环中发挥着至关重要的作用。",
+    "image_url": "https://cn.bing.com/th?id=OHR.HorseHairShroom_ZH-CN2241458451_1920x1080.webp",
+    "main_text": "宾夕法尼亚州东南部的肯尼特广场享誉全球，被誉为“世界蘑菇之都”。"
 }
 ```
 
-UpdataTime：2026-08-31 05:22:01
+UpdataTime：2026-08-31 16:06:35
