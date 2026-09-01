@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![马鬃小皮伞，白俄罗斯](https://cn.bing.com/th?id=OHR.HorseHairShroom_ZH-CN2241458451_1920x1080.webp)
-Today: [马鬃小皮伞，白俄罗斯](https://cn.bing.com/th?id=OHR.HorseHairShroom_ZH-CN2241458451_1920x1080.webp) - 脚下的世界
+![传统海滩小屋，索思沃尔德，萨福克遗产海岸，英格兰](https://cn.bing.com/th?id=OHR.SuffolkHuts_ZH-CN2463818981_1920x1080.webp)
+Today: [传统海滩小屋，索思沃尔德，萨福克遗产海岸，英格兰](https://cn.bing.com/th?id=OHR.SuffolkHuts_ZH-CN2463818981_1920x1080.webp) - 海岸边的缤纷色彩
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-09-01",
-    "headline": "脚下的世界",
-    "title": "马鬃小皮伞，白俄罗斯",
-    "description": "九月的全国蘑菇月旨在赞颂一个常常不为人注意的世界。在森林地表、草坪和落叶下方，真菌网络循环利用养分，帮助生态系统蓬勃发展。我们看到的蘑菇只是这些隐秘生物的子实体，它们短暂现身释放孢子，随后又从视野中消失。它们并非植物；真菌自成一界，并在大自然的循环中发挥着至关重要的作用。",
-    "image_url": "https://cn.bing.com/th?id=OHR.HorseHairShroom_ZH-CN2241458451_1920x1080.webp",
-    "main_text": "宾夕法尼亚州东南部的肯尼特广场享誉全球，被誉为“世界蘑菇之都”。"
+    "headline": "海岸边的缤纷色彩",
+    "title": "传统海滩小屋，索思沃尔德，萨福克遗产海岸，英格兰",
+    "description": "在英格兰东海岸，萨福克遗产海岸融合了风吹不息的石南荒原、湿地、砾石海滩和开阔的北海景观。索思沃尔德是这里最著名的城镇之一，水域与历史在此密不可分。小镇几乎被大海、布莱斯河和周围的湿地环绕，坐落在一片狭长的半岛上；数百年来的渔业、贸易和临水生活共同塑造了这里。",
+    "image_url": "https://cn.bing.com/th?id=OHR.SuffolkHuts_ZH-CN2463818981_1920x1080.webp",
+    "main_text": "索思沃尔德灯塔于1890年9月3日投入使用，如今其灯光射程可达24海里。"
 }
 ```
 
-UpdataTime：2026-09-01 13:27:03
+UpdataTime：2026-09-01 19:21:03
