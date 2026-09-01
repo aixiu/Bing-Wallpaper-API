@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-08-31",
+    "date": "2026-09-01",
     "headline": "脚下的世界",
     "title": "马鬃小皮伞，白俄罗斯",
     "description": "九月的全国蘑菇月旨在赞颂一个常常不为人注意的世界。在森林地表、草坪和落叶下方，真菌网络循环利用养分，帮助生态系统蓬勃发展。我们看到的蘑菇只是这些隐秘生物的子实体，它们短暂现身释放孢子，随后又从视野中消失。它们并非植物；真菌自成一界，并在大自然的循环中发挥着至关重要的作用。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-08-31 21:26:24
+UpdataTime：2026-09-01 04:56:43
