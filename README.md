@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![传统海滩小屋，索思沃尔德，萨福克遗产海岸，英格兰](https://cn.bing.com/th?id=OHR.SuffolkHuts_ZH-CN2463818981_1920x1080.webp)
-Today: [传统海滩小屋，索思沃尔德，萨福克遗产海岸，英格兰](https://cn.bing.com/th?id=OHR.SuffolkHuts_ZH-CN2463818981_1920x1080.webp) - 海岸边的缤纷色彩
+![郊狼丘，朱红悬崖国家纪念区，亚利桑那州，美国](https://cn.bing.com/th?id=OHR.AZWilderness_ZH-CN2664566131_1920x1080.webp)
+Today: [郊狼丘，朱红悬崖国家纪念区，亚利桑那州，美国](https://cn.bing.com/th?id=OHR.AZWilderness_ZH-CN2664566131_1920x1080.webp) - 一部守护荒野的法案
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-09-02",
-    "headline": "海岸边的缤纷色彩",
-    "title": "传统海滩小屋，索思沃尔德，萨福克遗产海岸，英格兰",
-    "description": "在英格兰东海岸，萨福克遗产海岸融合了风吹不息的石南荒原、湿地、砾石海滩和开阔的北海景观。索思沃尔德是这里最著名的城镇之一，水域与历史在此密不可分。小镇几乎被大海、布莱斯河和周围的湿地环绕，坐落在一片狭长的半岛上；数百年来的渔业、贸易和临水生活共同塑造了这里。",
-    "image_url": "https://cn.bing.com/th?id=OHR.SuffolkHuts_ZH-CN2463818981_1920x1080.webp",
-    "main_text": "索思沃尔德灯塔于1890年9月3日投入使用，如今其灯光射程可达24海里。"
+    "headline": "一部守护荒野的法案",
+    "title": "郊狼丘，朱红悬崖国家纪念区，亚利桑那州，美国",
+    "description": "波浪通常属于海洋。但在亚利桑那州北部，它们却从沙漠中涌起。郊狼丘是朱红悬崖国家纪念区的一部分，其盘旋起伏的砂岩地貌由远古沙丘和数百万年的侵蚀共同塑造而成，造就了一片即使静止不动也仿佛泛着涟漪的景观。",
+    "image_url": "https://cn.bing.com/th?id=OHR.AZWilderness_ZH-CN2664566131_1920x1080.webp",
+    "main_text": "《荒野法》通常禁止在指定荒野地区修建永久性道路或开展商业活动。"
 }
 ```
 
-UpdataTime：2026-09-02 04:19:42
+UpdataTime：2026-09-02 19:21:04
