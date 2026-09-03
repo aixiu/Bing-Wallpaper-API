@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-09-02",
+    "date": "2026-09-03",
     "headline": "一部守护荒野的法案",
     "title": "郊狼丘，朱红悬崖国家纪念区，亚利桑那州，美国",
     "description": "波浪通常属于海洋。但在亚利桑那州北部，它们却从沙漠中涌起。郊狼丘是朱红悬崖国家纪念区的一部分，其盘旋起伏的砂岩地貌由远古沙丘和数百万年的侵蚀共同塑造而成，造就了一片即使静止不动也仿佛泛着涟漪的景观。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-09-02 19:21:04
+UpdataTime：2026-09-03 04:13:41
