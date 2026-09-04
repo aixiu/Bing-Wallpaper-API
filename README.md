@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "headline": "地平线上的红与白",
     "title": "韦斯特黑弗的韦斯特黑弗桑德灯塔，石勒苏益格-荷尔斯泰因州，德国",
     "description": "韦斯特黑弗桑德灯塔高耸于德国北海沿岸的盐沼之上，凭借醒目的红白条纹一眼便可辨认。灯塔建于1906年至1908年间，一个多世纪以来一直是艾德施泰特半岛的标志，为穿行北海水域的船只指引航向。如今，它仍是德国北部最著名的海岸地标之一。登上157级台阶的游客，可以饱览周围的壮阔景色。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-09-03 19:15:33
+UpdataTime：2026-09-04 09:20:56
