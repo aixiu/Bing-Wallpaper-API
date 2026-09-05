@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![龙虾爪花上取食的绿顶辉蜂鸟，哥斯达黎加](https://cn.bing.com/th?id=OHR.GreenCrowned_ZH-CN0697075036_1920x1080.webp)
-Today: [龙虾爪花上取食的绿顶辉蜂鸟，哥斯达黎加](https://cn.bing.com/th?id=OHR.GreenCrowned_ZH-CN0697075036_1920x1080.webp) - 小小鸟儿，巨大影响
+![菲安斯湖，格兰屏国家公园，维多利亚州，澳大利亚](https://cn.bing.com/th?id=OHR.LakeFyans_ZH-CN1067187791_1920x1080.webp)
+Today: [菲安斯湖，格兰屏国家公园，维多利亚州，澳大利亚](https://cn.bing.com/th?id=OHR.LakeFyans_ZH-CN1067187791_1920x1080.webp) - 倒影满湖的水库
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-09-05",
-    "headline": "小小鸟儿，巨大影响",
-    "title": "龙虾爪花上取食的绿顶辉蜂鸟，哥斯达黎加",
-    "description": "全国蜂鸟日旨在赞颂自然界中最非凡的空中飞行专家。蜂鸟仅分布于美洲，这些小鸟能够原地悬停、向后飞行，翅膀每秒可拍动数十次。它们为寻找花蜜而造访花朵时，也充当重要的传粉者，帮助维系从高山草甸到热带雨林的各种生态系统。闪耀的羽毛、非凡的敏捷性和高能耗的生活方式，使它们成为世界上最迷人的鸟类之一。",
-    "image_url": "https://cn.bing.com/th?id=OHR.GreenCrowned_ZH-CN0697075036_1920x1080.webp",
-    "main_text": "蜂鸟的新陈代谢率在所有脊椎动物中最高，可能每10分钟就要进食一次。"
+    "headline": "倒影满湖的水库",
+    "title": "菲安斯湖，格兰屏国家公园，维多利亚州，澳大利亚",
+    "description": "乍看之下，今天的画面更像一片被淹没的林地，而不是湖泊。光秃的树干从水中伸出，倒影横贯水面，远处的格兰屏群山熠熠生辉。这里是菲安斯湖，一座位于澳大利亚维多利亚州格兰屏（加里维德）国家公园边缘的人工水库。这里深受划船者、垂钓者、帆船爱好者和滑水者欢迎，也为人们提供了欣赏澳大利亚最壮美景观之一的绝佳前排视角。",
+    "image_url": "https://cn.bing.com/th?id=OHR.LakeFyans_ZH-CN1067187791_1920x1080.webp",
+    "main_text": "菲安斯湖为阿勒山、斯托尔和大西部镇供水，并服务于部分协议供水用户。"
 }
 ```
 
-UpdataTime：2026-09-05 11:48:02
+UpdataTime：2026-09-05 18:10:36
