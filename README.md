@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-09-05",
+    "date": "2026-09-06",
     "headline": "倒影满湖的水库",
     "title": "菲安斯湖，格兰屏国家公园，维多利亚州，澳大利亚",
     "description": "乍看之下，今天的画面更像一片被淹没的林地，而不是湖泊。光秃的树干从水中伸出，倒影横贯水面，远处的格兰屏群山熠熠生辉。这里是菲安斯湖，一座位于澳大利亚维多利亚州格兰屏（加里维德）国家公园边缘的人工水库。这里深受划船者、垂钓者、帆船爱好者和滑水者欢迎，也为人们提供了欣赏澳大利亚最壮美景观之一的绝佳前排视角。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-09-05 18:10:36
+UpdataTime：2026-09-06 04:26:04
