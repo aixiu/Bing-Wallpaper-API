@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-09-06",
+    "date": "2026-09-07",
     "headline": "历史沿运河流淌之地",
     "title": "老市政厅，班贝格，德国",
     "description": "班贝格老市政厅高踞于雷格尼茨河上，是德国班贝格最具代表性的地标之一。当地传说称，这座建筑之所以矗立在人工岛上，是因为城里的主教拒绝向市民提供修建市政厅的土地。据说居民于是自行在河中央造出一块地基，成就了这座建筑非凡的环境和历久弥新的魅力。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-09-06 18:13:26
+UpdataTime：2026-09-07 04:24:58
