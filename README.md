@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-09-08",
+    "date": "2026-09-09",
     "headline": "印度西海岸的生活",
     "title": "安科拉附近的加比特凯尼海滩，卡纳塔克邦，印度",
     "description": "提到印度南部，人们常会想到香料贸易路线、古典音乐、民间舞蹈，以及数百年来连接印度与世界的海岸线。沿着这条海岸向西进入卡纳塔克邦，便会抵达安科拉附近一处更宁静的停靠点：加比特凯尼海滩。这里的生活围绕阿拉伯海展开，渔船在黎明前出海，载着当天的渔获归来。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-09-08 19:23:49
+UpdataTime：2026-09-09 12:54:57
