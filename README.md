@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![奥尔韦拉航拍图，安达卢西亚，西班牙](https://cn.bing.com/th?id=OHR.Olvera_ZH-CN2727093856_1920x1080.webp)
-Today: [奥尔韦拉航拍图，安达卢西亚，西班牙](https://cn.bing.com/th?id=OHR.Olvera_ZH-CN2727093856_1920x1080.webp) - 俯瞰大地拼图
+![滨海自由城，法国里维埃拉，法国](https://cn.bing.com/th?id=OHR.FrenchRivieraVillage_ZH-CN2888811422_1920x1080.webp)
+Today: [滨海自由城，法国里维埃拉，法国](https://cn.bing.com/th?id=OHR.FrenchRivieraVillage_ZH-CN2888811422_1920x1080.webp) - 地中海风情尽显
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-09-10",
-    "headline": "俯瞰大地拼图",
-    "title": "奥尔韦拉航拍图，安达卢西亚，西班牙",
-    "description": "你是否想过，安达卢西亚为何是西班牙最著名的地区之一？弗拉门戈、塔帕斯、摩尔式建筑和广阔的橄榄林都功不可没。在那些名城之外，还有奥尔韦拉这样的历史古镇。这座村庄被200多万棵橄榄树环绕，作为战略边境聚落发展而来，并在数百年的变迁中成形。奥尔韦拉城堡依然俯瞰着全镇，下方的化身圣母教堂则主导着天际线。前往拉西利亚文化中心，可以了解奥尔韦拉的中世纪历史与传统。",
-    "image_url": "https://cn.bing.com/th?id=OHR.Olvera_ZH-CN2727093856_1920x1080.webp",
-    "main_text": "奥尔韦拉的摩尔式城堡建于12世纪末，坐落在海拔约623米的高处。"
+    "headline": "地中海风情尽显",
+    "title": "滨海自由城，法国里维埃拉，法国",
+    "description": "九月，法国里维埃拉沐浴在更柔和的光线中，地中海植被也逐渐恢复生机。山丘间弥漫着阿勒颇松、迷迭香和野百里香的芳香。内陆地区，百年橄榄树和山顶村庄讲述着一个由希腊、罗马和普罗旺斯影响共同塑造的故事。",
+    "image_url": "https://cn.bing.com/th?id=OHR.FrenchRivieraVillage_ZH-CN2888811422_1920x1080.webp",
+    "main_text": "滨海自由城的圣埃尔姆城堡奉萨伏依公爵埃马努埃莱·菲利贝托之命，于1557年建成，用于加强海岸防御。"
 }
 ```
 
-UpdataTime：2026-09-10 12:52:18
+UpdataTime：2026-09-10 19:05:13
