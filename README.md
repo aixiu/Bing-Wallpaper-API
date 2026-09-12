@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-09-11",
+    "date": "2026-09-12",
     "headline": "海浪与海岸的高手",
     "title": "墨西哥近海围猎沙丁鱼饵球的加州海狮，太平洋",
     "description": "加州海狮在场时，海滩上的一天很少会安静。洪亮的吠叫、顽皮的个性，再加上抢尽风头的本领，让这些海洋哺乳动物深谙如何上演一场好戏。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-09-11 19:07:28
+UpdataTime：2026-09-12 04:25:10
