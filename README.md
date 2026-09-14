@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-09-13",
+    "date": "2026-09-14",
     "headline": "坚韧在此扎根",
     "title": "地肤田，中国",
     "description": "在今天的画面中，中国大地上铺展着绿色与深红色的地肤。地肤原产于欧亚大陆部分地区，19世纪末作为观赏植物和制作扫帚的材料来源被引入美国。它耐旱、耐热、耐盐碱土壤和少雨环境的能力，帮助其扩散至美国大平原及美国西部大部分地区。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-09-13 18:44:31
+UpdataTime：2026-09-14 04:45:46
