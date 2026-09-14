@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![地肤田，中国](https://cn.bing.com/th?id=OHR.KochiaChina_ZH-CN4719995421_1920x1080.webp)
-Today: [地肤田，中国](https://cn.bing.com/th?id=OHR.KochiaChina_ZH-CN4719995421_1920x1080.webp) - 坚韧在此扎根
+![红绿金刚鹦鹉](https://cn.bing.com/th?id=OHR.RedMacawsFlight_ZH-CN5045822113_1920x1080.webp)
+Today: [红绿金刚鹦鹉](https://cn.bing.com/th?id=OHR.RedMacawsFlight_ZH-CN5045822113_1920x1080.webp) - 最炫者生存
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-09-14",
-    "headline": "坚韧在此扎根",
-    "title": "地肤田，中国",
-    "description": "在今天的画面中，中国大地上铺展着绿色与深红色的地肤。地肤原产于欧亚大陆部分地区，19世纪末作为观赏植物和制作扫帚的材料来源被引入美国。它耐旱、耐热、耐盐碱土壤和少雨环境的能力，帮助其扩散至美国大平原及美国西部大部分地区。",
-    "image_url": "https://cn.bing.com/th?id=OHR.KochiaChina_ZH-CN4719995421_1920x1080.webp",
-    "main_text": "地肤属于苋科，与甜菜、菠菜和藜麦有植物学上的亲缘关系。"
+    "headline": "最炫者生存",
+    "title": "红绿金刚鹦鹉",
+    "description": "进化偶尔也会偏爱繁复华丽。看看这些红绿金刚鹦鹉：它们拥有猩红色羽毛、鲜绿色翅膀和蓝色飞羽。它们生活在南美洲热带地区，日常活动以不易从地面察觉的方式将果实、种子与土壤联系在一起。",
+    "image_url": "https://cn.bing.com/th?id=OHR.RedMacawsFlight_ZH-CN5045822113_1920x1080.webp",
+    "main_text": "大型金刚鹦鹉可产生数百磅每平方英寸的咬合压力，远高于普通人类，因而能轻松咬开坚硬的坚果和种子。"
 }
 ```
 
-UpdataTime：2026-09-14 14:58:09
+UpdataTime：2026-09-14 20:16:22
