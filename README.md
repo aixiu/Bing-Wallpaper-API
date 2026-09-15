@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![红绿金刚鹦鹉](https://cn.bing.com/th?id=OHR.RedMacawsFlight_ZH-CN5045822113_1920x1080.webp)
-Today: [红绿金刚鹦鹉](https://cn.bing.com/th?id=OHR.RedMacawsFlight_ZH-CN5045822113_1920x1080.webp) - 最炫者生存
+![斯瓦尔巴群岛玩耍的北极熊幼崽，挪威](https://cn.bing.com/th?id=OHR.IcyCubs_ZH-CN5287408951_1920x1080.webp)
+Today: [斯瓦尔巴群岛玩耍的北极熊幼崽，挪威](https://cn.bing.com/th?id=OHR.IcyCubs_ZH-CN5287408951_1920x1080.webp) - 北极的新晋探索者
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-09-15",
-    "headline": "最炫者生存",
-    "title": "红绿金刚鹦鹉",
-    "description": "进化偶尔也会偏爱繁复华丽。看看这些红绿金刚鹦鹉：它们拥有猩红色羽毛、鲜绿色翅膀和蓝色飞羽。它们生活在南美洲热带地区，日常活动以不易从地面察觉的方式将果实、种子与土壤联系在一起。",
-    "image_url": "https://cn.bing.com/th?id=OHR.RedMacawsFlight_ZH-CN5045822113_1920x1080.webp",
-    "main_text": "大型金刚鹦鹉可产生数百磅每平方英寸的咬合压力，远高于普通人类，因而能轻松咬开坚硬的坚果和种子。"
+    "headline": "北极的新晋探索者",
+    "title": "斯瓦尔巴群岛玩耍的北极熊幼崽，挪威",
+    "description": "两只北极熊幼崽小心翼翼地穿行在斯瓦尔巴群岛的雪地上；这片偏远的挪威群岛深入北冰洋腹地，由冰川、山脉和冰封峡湾构成。这片荒野属于巴伦支海地区，生活着全球最大的北极熊种群之一，约有2,600只。",
+    "image_url": "https://cn.bing.com/th?id=OHR.IcyCubs_ZH-CN5287408951_1920x1080.webp",
+    "main_text": "在经历了约一个世纪的大规模捕猎后，斯瓦尔巴群岛的北极熊自1973年起受到保护。"
 }
 ```
 
-UpdataTime：2026-09-15 13:26:55
+UpdataTime：2026-09-15 19:39:45
