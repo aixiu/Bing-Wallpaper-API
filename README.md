@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-09-14",
+    "date": "2026-09-15",
     "headline": "最炫者生存",
     "title": "红绿金刚鹦鹉",
     "description": "进化偶尔也会偏爱繁复华丽。看看这些红绿金刚鹦鹉：它们拥有猩红色羽毛、鲜绿色翅膀和蓝色飞羽。它们生活在南美洲热带地区，日常活动以不易从地面察觉的方式将果实、种子与土壤联系在一起。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-09-14 20:16:22
+UpdataTime：2026-09-15 13:26:55
