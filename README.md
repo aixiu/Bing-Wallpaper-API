@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![斯瓦尔巴群岛玩耍的北极熊幼崽，挪威](https://cn.bing.com/th?id=OHR.IcyCubs_ZH-CN5287408951_1920x1080.webp)
-Today: [斯瓦尔巴群岛玩耍的北极熊幼崽，挪威](https://cn.bing.com/th?id=OHR.IcyCubs_ZH-CN5287408951_1920x1080.webp) - 北极的新晋探索者
+![桑特奈葡萄酒产区葡萄园中的索林风车，伯恩丘，勃艮第，法国](https://cn.bing.com/th?id=OHR.Santenay_ZH-CN5676942384_1920x1080.webp)
+Today: [桑特奈葡萄酒产区葡萄园中的索林风车，伯恩丘，勃艮第，法国](https://cn.bing.com/th?id=OHR.Santenay_ZH-CN5676942384_1920x1080.webp) - 为丰收举杯
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-09-16",
-    "headline": "北极的新晋探索者",
-    "title": "斯瓦尔巴群岛玩耍的北极熊幼崽，挪威",
-    "description": "两只北极熊幼崽小心翼翼地穿行在斯瓦尔巴群岛的雪地上；这片偏远的挪威群岛深入北冰洋腹地，由冰川、山脉和冰封峡湾构成。这片荒野属于巴伦支海地区，生活着全球最大的北极熊种群之一，约有2,600只。",
-    "image_url": "https://cn.bing.com/th?id=OHR.IcyCubs_ZH-CN5287408951_1920x1080.webp",
-    "main_text": "在经历了约一个世纪的大规模捕猎后，斯瓦尔巴群岛的北极熊自1973年起受到保护。"
+    "headline": "为丰收举杯",
+    "title": "桑特奈葡萄酒产区葡萄园中的索林风车，伯恩丘，勃艮第，法国",
+    "description": "每年夏末秋初，法国最令人期待的传统之一——“vendanges”葡萄采摘季——如期而至。采摘时间因葡萄酒产区而异，并取决于天气状况、日照以及果实的成熟度。对许多葡萄园而言，采收仍主要依靠人工，工作人员会仔细挑选一串串葡萄，用于酿造法国一些最负盛名的葡萄酒。",
+    "image_url": "https://cn.bing.com/th?id=OHR.Santenay_ZH-CN5676942384_1920x1080.webp",
+    "main_text": "索林风车是伯恩丘现存最后一座仍可运转的公共风车；这座19世纪风车于1995年得到忠实修复。"
 }
 ```
 
-UpdataTime：2026-09-16 13:25:42
+UpdataTime：2026-09-16 19:30:40
