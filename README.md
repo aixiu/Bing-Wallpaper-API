@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-09-15",
+    "date": "2026-09-16",
     "headline": "北极的新晋探索者",
     "title": "斯瓦尔巴群岛玩耍的北极熊幼崽，挪威",
     "description": "两只北极熊幼崽小心翼翼地穿行在斯瓦尔巴群岛的雪地上；这片偏远的挪威群岛深入北冰洋腹地，由冰川、山脉和冰封峡湾构成。这片荒野属于巴伦支海地区，生活着全球最大的北极熊种群之一，约有2,600只。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-09-15 19:39:45
+UpdataTime：2026-09-16 04:41:09
