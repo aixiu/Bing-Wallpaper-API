@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![桑特奈葡萄酒产区葡萄园中的索林风车，伯恩丘，勃艮第，法国](https://cn.bing.com/th?id=OHR.Santenay_ZH-CN5676942384_1920x1080.webp)
-Today: [桑特奈葡萄酒产区葡萄园中的索林风车，伯恩丘，勃艮第，法国](https://cn.bing.com/th?id=OHR.Santenay_ZH-CN5676942384_1920x1080.webp) - 为丰收举杯
+![温纳茨山口，峰区国家公园，英格兰](https://cn.bing.com/th?id=OHR.WinnatsPassPeak_ZH-CN4443458412_1920x1080.webp)
+Today: [温纳茨山口，峰区国家公园，英格兰](https://cn.bing.com/th?id=OHR.WinnatsPassPeak_ZH-CN4443458412_1920x1080.webp) - 穿越山口腹地
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-09-16",
-    "headline": "为丰收举杯",
-    "title": "桑特奈葡萄酒产区葡萄园中的索林风车，伯恩丘，勃艮第，法国",
-    "description": "每年夏末秋初，法国最令人期待的传统之一——“vendanges”葡萄采摘季——如期而至。采摘时间因葡萄酒产区而异，并取决于天气状况、日照以及果实的成熟度。对许多葡萄园而言，采收仍主要依靠人工，工作人员会仔细挑选一串串葡萄，用于酿造法国一些最负盛名的葡萄酒。",
-    "image_url": "https://cn.bing.com/th?id=OHR.Santenay_ZH-CN5676942384_1920x1080.webp",
-    "main_text": "索林风车是伯恩丘现存最后一座仍可运转的公共风车；这座19世纪风车于1995年得到忠实修复。"
+    "date": "2026-09-17",
+    "headline": "穿越山口腹地",
+    "title": "温纳茨山口，峰区国家公园，英格兰",
+    "description": "在英格兰峰区，一条蜿蜒的长路从已有3亿多年历史的岩石间穿过。如此漫长的地质时间尺度本就令人惊叹，而这条路还穿越了温纳茨山口：这是一道狭窄的石灰岩峡谷，高耸的峭壁展现出远古海洋曾经覆盖英国这一地区的痕迹。",
+    "image_url": "https://cn.bing.com/th?id=OHR.WinnatsPassPeak_ZH-CN4443458412_1920x1080.webp",
+    "main_text": "温纳茨山口是峰区国家公园内一处壮观的石灰岩峡谷，位于卡斯尔顿附近，两侧峭壁陡峻嶙峋。"
 }
 ```
 
-UpdataTime：2026-09-16 19:30:40
+UpdataTime：2026-09-17 19:41:11
