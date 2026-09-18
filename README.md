@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![温纳茨山口，峰区国家公园，英格兰](https://cn.bing.com/th?id=OHR.WinnatsPassPeak_ZH-CN4443458412_1920x1080.webp)
-Today: [温纳茨山口，峰区国家公园，英格兰](https://cn.bing.com/th?id=OHR.WinnatsPassPeak_ZH-CN4443458412_1920x1080.webp) - 穿越山口腹地
+![阿尔卑斯长号演奏者，巴伐利亚州，德国](https://cn.bing.com/th?id=OHR.AlphornBavaria_ZH-CN5896237112_1920x1080.webp)
+Today: [阿尔卑斯长号演奏者，巴伐利亚州，德国](https://cn.bing.com/th?id=OHR.AlphornBavaria_ZH-CN5896237112_1920x1080.webp) - 慕尼黑啤酒节的阿尔卑斯之声
 
 ## 接口
 
@@ -36,12 +36,12 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-09-18",
-    "headline": "穿越山口腹地",
-    "title": "温纳茨山口，峰区国家公园，英格兰",
-    "description": "在英格兰峰区，一条蜿蜒的长路从已有3亿多年历史的岩石间穿过。如此漫长的地质时间尺度本就令人惊叹，而这条路还穿越了温纳茨山口：这是一道狭窄的石灰岩峡谷，高耸的峭壁展现出远古海洋曾经覆盖英国这一地区的痕迹。",
-    "image_url": "https://cn.bing.com/th?id=OHR.WinnatsPassPeak_ZH-CN4443458412_1920x1080.webp",
-    "main_text": "温纳茨山口是峰区国家公园内一处壮观的石灰岩峡谷，位于卡斯尔顿附近，两侧峭壁陡峻嶙峋。"
+    "headline": "慕尼黑啤酒节的阿尔卑斯之声",
+    "title": "阿尔卑斯长号演奏者，巴伐利亚州，德国",
+    "description": "慕尼黑啤酒节于今天开幕，抵达德国巴伐利亚州的游客或许会听到一种甚至比这一著名节日本身更古老的声音：阿尔卑斯长号深沉而浑厚的鸣响。这种传统的阿尔卑斯乐器与巴伐利亚、奥地利和瑞士的文化紧密相连；过去，牧羊人曾用它跨越山谷彼此传递信息。",
+    "image_url": "https://cn.bing.com/th?id=OHR.AlphornBavaria_ZH-CN5896237112_1920x1080.webp",
+    "main_text": "已知最早提及瑞士阿尔卑斯长号的文字记录可追溯至1527年，见于圣乌尔班修道院的账簿。"
 }
 ```
 
-UpdataTime：2026-09-18 04:32:06
+UpdataTime：2026-09-18 18:59:37
