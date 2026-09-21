@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![日落时分的埃菲尔铁塔，巴黎，法国](https://cn.bing.com/th?id=OHR.ParisSunset_ZH-CN6050686638_1920x1080.webp)
-Today: [日落时分的埃菲尔铁塔，巴黎，法国](https://cn.bing.com/th?id=OHR.ParisSunset_ZH-CN6050686638_1920x1080.webp) - 终获巴黎青睐的铁塔
+![正在梳理皮毛的海獭，蒙特雷湾，加利福尼亚州，美国](https://cn.bing.com/th?id=OHR.GroomingOtter_ZH-CN6969472572_1920x1080.webp)
+Today: [正在梳理皮毛的海獭，蒙特雷湾，加利福尼亚州，美国](https://cn.bing.com/th?id=OHR.GroomingOtter_ZH-CN6969472572_1920x1080.webp) - 皮毛与海洋之间的生命
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-09-20",
-    "headline": "终获巴黎青睐的铁塔",
-    "title": "日落时分的埃菲尔铁塔，巴黎，法国",
-    "description": "几乎没有哪座城市像巴黎这样被赋予如此多的浪漫想象。然而，这座法国首都的历史并非始终像埃菲尔铁塔背后的落日霞光一样绚丽。铁塔为1889年世界博览会而建；这届世博会纪念法国大革命爆发一百周年，而铁塔最初计划作为博览会入口处的核心建筑。由工程师古斯塔夫·埃菲尔及其团队设计的这座钢铁地标，从战神广场拔地而起，高度接近1,000英尺，并成为当时世界上最高的建筑。",
-    "image_url": "https://cn.bing.com/th?id=OHR.ParisSunset_ZH-CN6050686638_1920x1080.webp",
-    "main_text": "如今埃菲尔铁塔高330米；2022年安装一根新的数字广播天线后，塔身增高了6米。"
+    "date": "2026-09-21",
+    "headline": "皮毛与海洋之间的生命",
+    "title": "正在梳理皮毛的海獭，蒙特雷湾，加利福尼亚州，美国",
+    "description": "很少有动物既能称得上梳理皮毛的高手，又是水下森林的守护者。正因如此，每年9月最后一个完整周举行的海獭认知周鼓励人们进一步了解这些非凡的海洋哺乳动物，以及它们面临的种种挑战。",
+    "image_url": "https://cn.bing.com/th?id=OHR.GroomingOtter_ZH-CN6969472572_1920x1080.webp",
+    "main_text": "海獭每平方英寸可长有多达100万根毛，因此拥有所有哺乳动物中最浓密的皮毛。"
 }
 ```
 
-UpdataTime：2026-09-20 13:00:46
+UpdataTime：2026-09-21 04:45:33
