@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![瓜兹曼山口附近的秋日山杨林，犹他州，美国](https://cn.bing.com/th?id=OHR.FallAspens_ZH-CN7235054933_1920x1080.webp)
-Today: [瓜兹曼山口附近的秋日山杨林，犹他州，美国](https://cn.bing.com/th?id=OHR.FallAspens_ZH-CN7235054933_1920x1080.webp) - 金色时节
+![地坛公园秋日美景，北京，中国](https://cn.bing.com/th?id=OHR.AutumnEquinoxY26_ZH-CN7957453091_1920x1080.webp)
+Today: [地坛公园秋日美景，北京，中国](https://cn.bing.com/th?id=OHR.AutumnEquinoxY26_ZH-CN7957453091_1920x1080.webp) - 金秋平分，地坛染黄
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-09-22",
-    "headline": "金色时节",
-    "title": "瓜兹曼山口附近的秋日山杨林，犹他州，美国",
-    "description": "在犹他州瓜兹曼山口附近，季节的变化以金色写满山坡。为美国西部染上色彩的山杨中，有许多是美洲山杨——北美分布最广的本土树种。眼前看似由一棵棵独立树木组成的森林，往往有着截然不同的真相：许多山杨形成彼此相连的无性系群落，树干从共享的根系网络中长出，并与相邻树干拥有相同的遗传密码。",
-    "image_url": "https://cn.bing.com/th?id=OHR.FallAspens_ZH-CN7235054933_1920x1080.webp",
-    "main_text": "犹他州的“潘多”（Pando）颤杨林被认为是世界上最大且最古老的生物体之一；它由超过40,000棵基因完全相同的树干组成，这些树干通过一个延伸超过100英亩的巨大地下根系紧密相连。"
+    "date": "2026-09-23",
+    "headline": "金秋平分，地坛染黄",
+    "title": "地坛公园秋日美景，北京，中国",
+    "description": "金色地毯通常只出现在童话世界里，但在金秋时节的北京，它们却铺展在你的脚下。地坛公园（方泽坛）著名的银杏大道汇聚了200多株历史悠久的银杏树。每当秋风掠过，数以万计的扇形金叶翩翩飘落，将这座古老的皇家坛庙铺垫成一片如梦似幻的金黄海洋。",
+    "image_url": "https://cn.bing.com/th?id=OHR.AutumnEquinoxY26_ZH-CN7957453091_1920x1080.webp",
+    "main_text": "秋分标志着昼夜平分，也预示着老北京最美丽的仲秋金色画卷正式展开。"
 }
 ```
 
-UpdataTime：2026-09-22 13:21:05
+UpdataTime：2026-09-23 04:36:49
