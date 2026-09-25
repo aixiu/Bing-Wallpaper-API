@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![黑色熔岩海滩鸟瞰图，埃尔戈尔福，兰萨罗特岛，加那利群岛，西班牙](https://cn.bing.com/th?id=OHR.ElGolfo_ZH-CN8329995759_1920x1080.webp)
-Today: [黑色熔岩海滩鸟瞰图，埃尔戈尔福，兰萨罗特岛，加那利群岛，西班牙](https://cn.bing.com/th?id=OHR.ElGolfo_ZH-CN8329995759_1920x1080.webp) - 火山灰与浪花相遇
+![熊耳国家纪念区附近的雪松台地和骡子角，犹他州，美国](https://cn.bing.com/th?id=OHR.BearsEars_ZH-CN0496897450_1920x1080.webp)
+Today: [熊耳国家纪念区附近的雪松台地和骡子角，犹他州，美国](https://cn.bing.com/th?id=OHR.BearsEars_ZH-CN0496897450_1920x1080.webp) - 写在大地上的故事
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-09-24",
-    "headline": "火山灰与浪花相遇",
-    "title": "黑色熔岩海滩鸟瞰图，埃尔戈尔福，兰萨罗特岛，加那利群岛，西班牙",
-    "description": "在西班牙加那利群岛的兰萨罗特岛，大自然的地质创造力尽情挥洒。赭黄与铁锈色条纹交错的悬崖之下，深色沙滩与大西洋相接，这是延续数百万年的火山活动留下的杰作。这段地质故事中有一章发生在距今并不久远的年代：1730年至1736年间，兰萨罗特岛各处出现了众多火山喷口，熔岩覆盖数十平方英里的土地，掩埋了道路、村庄和农田。",
-    "image_url": "https://cn.bing.com/th?id=OHR.ElGolfo_ZH-CN8329995759_1920x1080.webp",
-    "main_text": "兰萨罗特岛与奇尼霍群岛共同构成一座联合国教科文组织世界地质公园，范围涵盖陆地及周边海域。"
+    "date": "2026-09-25",
+    "headline": "写在大地上的故事",
+    "title": "熊耳国家纪念区附近的雪松台地和骡子角，犹他州，美国",
+    "description": "熊的耳朵、着火的房屋和遍布急转弯的道路有什么共同之处？它们都是犹他州东南部公共土地故事的一部分。",
+    "image_url": "https://cn.bing.com/th?id=OHR.BearsEars_ZH-CN0496897450_1920x1080.webp",
+    "main_text": "熊耳委员会汇集五个部落民族，共同参与指导这座国家纪念区的管理与保护。"
 }
 ```
 
-UpdataTime：2026-09-24 04:35:55
+UpdataTime：2026-09-25 19:59:07
