@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-09-25",
+    "date": "2026-09-26",
     "headline": "写在大地上的故事",
     "title": "熊耳国家纪念区附近的雪松台地和骡子角，犹他州，美国",
     "description": "熊的耳朵、着火的房屋和遍布急转弯的道路有什么共同之处？它们都是犹他州东南部公共土地故事的一部分。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-09-25 19:59:07
+UpdataTime：2026-09-26 12:59:36
