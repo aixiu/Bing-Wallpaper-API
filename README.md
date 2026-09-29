@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![斋浦尔附近琥珀堡内的 Sattais Katcheri 大厅，拉贾斯坦邦，印度](https://cn.bing.com/th?id=OHR.AmberHall_ZH-CN1223127100_1920x1080.webp)
-Today: [斋浦尔附近琥珀堡内的 Sattais Katcheri 大厅，拉贾斯坦邦，印度](https://cn.bing.com/th?id=OHR.AmberHall_ZH-CN1223127100_1920x1080.webp) - 可览美景的历史胜地
+![雄性文须雀，诺福克郡，英格兰](https://cn.bing.com/th?id=OHR.BeardReedling_ZH-CN2750632320_1920x1080.webp)
+Today: [雄性文须雀，诺福克郡，英格兰](https://cn.bing.com/th?id=OHR.BeardReedling_ZH-CN2750632320_1920x1080.webp) - 一张令人过目难忘的脸
 
 ## 接口
 
@@ -35,13 +35,13 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-09-28",
-    "headline": "可览美景的历史胜地",
-    "title": "斋浦尔附近琥珀堡内的 Sattais Katcheri 大厅，拉贾斯坦邦，印度",
-    "description": "大多数初次到访印度拉贾斯坦邦斋浦尔的游客都知道这座城市有“粉红之城”的美誉，但更早的王都以琥珀堡为中心。这个王朝的大部分政治与建筑史正是在那里书写的。琥珀堡的营建历时一个多世纪，始于1592年拉贾·曼·辛格一世统治时期，之后由历代卡奇瓦哈统治者续建；他们统治的王国后来成为斋浦尔土邦。王室于 1727 年迁往新规划的斋浦尔城，但琥珀堡仍继续承担礼仪功能。",
-    "image_url": "https://cn.bing.com/th?id=OHR.AmberHall_ZH-CN1223127100_1920x1080.webp",
-    "main_text": "琥珀堡是联合国教科文组织世界遗产“拉贾斯坦邦的山地要塞”所包含的六座堡垒之一；该遗产于 2013 年列入《世界遗产名录》。"
+    "date": "2026-09-29",
+    "headline": "一张令人过目难忘的脸",
+    "title": "雄性文须雀，诺福克郡，英格兰",
+    "description": "在英格兰诺福克郡，一只雄性文须雀稳稳地立在纤细的茎秆上。今天图片中的它有着浅蓝灰色的头部、亮橙色的喙，以及令这个物种得名的黑色面部斑纹，格外引人注目。尽管外表醒目，这种小鸟一生中的大部分时间却藏身于沼泽、湖岸和芦苇荡茂密的湿地植被中。",
+    "image_url": "https://cn.bing.com/th?id=OHR.BeardReedling_ZH-CN2750632320_1920x1080.webp",
+    "main_text": "文须雀广泛分布于欧洲和亚洲，从英国的湿地一直延伸到中亚和东亚的芦苇荡。"
 }
 ```
 
-UpdataTime：2026-09-28 05:12:59
+UpdataTime：2026-09-29 20:40:50
