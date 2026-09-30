@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-09-29",
+    "date": "2026-09-30",
     "headline": "一张令人过目难忘的脸",
     "title": "雄性文须雀，诺福克郡，英格兰",
     "description": "在英格兰诺福克郡，一只雄性文须雀稳稳地立在纤细的茎秆上。今天图片中的它有着浅蓝灰色的头部、亮橙色的喙，以及令这个物种得名的黑色面部斑纹，格外引人注目。尽管外表醒目，这种小鸟一生中的大部分时间却藏身于沼泽、湖岸和芦苇荡茂密的湿地植被中。",
@@ -44,4 +44,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdataTime：2026-09-29 20:40:50
+UpdataTime：2026-09-30 15:07:53
