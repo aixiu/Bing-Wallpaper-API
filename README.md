@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![美国阿拉斯加州克拉克湖国家公园和自然保护区银鲑溪中的棕熊](https://cn.bing.com/th?id=OHR.GrizzlySwim_ZH-CN1005455737_1920x1080.webp)
-Today: [美国阿拉斯加州克拉克湖国家公园和自然保护区银鲑溪中的棕熊](https://cn.bing.com/th?id=OHR.GrizzlySwim_ZH-CN1005455737_1920x1080.webp) - 捕捉、进食、重复
+![阿尔忒弥斯1号月球火箭，39B发射台，肯尼迪航天中心，佛罗里达州，2022年6月15日](https://cn.bing.com/th?id=OHR.ArtemisRocket_ZH-CN1768541365_1920x1080.webp)
+Today: [阿尔忒弥斯1号月球火箭，39B发射台，肯尼迪航天中心，佛罗里达州，2022年6月15日](https://cn.bing.com/th?id=OHR.ArtemisRocket_ZH-CN1768541365_1920x1080.webp) - 宇宙在召唤
 
 ## 接口
 
@@ -36,14 +36,14 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-10-03",
-    "headline": "捕捉、进食、重复",
-    "title": "美国阿拉斯加州克拉克湖国家公园和自然保护区银鲑溪中的棕熊",
-    "description": "大快朵颐、肚皮更鼓并为冬季囤积能量的时节到了。在阿拉斯加州，克拉克湖国家公园和自然保护区的棕熊充分利用10月仍可获取的食物。它们以鱼、莎草、浆果、根、蛤蜊和其他食物为食，以积累脂肪储备。有些棕熊在进入洞穴冬眠前体重可超过1,000磅。储存的脂肪帮助它们度过不吃不喝的冬季。",
-    "image_url": "https://cn.bing.com/th?id=OHR.GrizzlySwim_ZH-CN1005455737_1920x1080.webp",
-    "image_url_jpg": "https://cn.bing.com/th?id=OHR.GrizzlySwim_ZH-CN1005455737_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
-    "image_url_uhd": "https://cn.bing.com/th?id=OHR.GrizzlySwim_ZH-CN1005455737_UHD.jpg",
-    "main_text": "棕熊幼崽在冬季洞穴中出生，体型很小且没有毛，有时不足半磅；到春天时会长到4至8磅。"
+    "headline": "宇宙在召唤",
+    "title": "阿尔忒弥斯1号月球火箭，39B发射台，肯尼迪航天中心，佛罗里达州，2022年6月15日",
+    "description": "首先，你要造一枚火箭。然后，你要让它离开地球，飞往月球，在旅途中安然无恙，并将其航天器带回家。很简单，对吧？嗯，并非如此。世界空间周于每年10月4日至10日举行，旨在庆祝让此类任务成为可能的科学。联合国于1999年设立这一纪念活动，以纪念1957年10月4日斯普特尼克1号发射升空，以及1967年10月10日《外层空间条约》生效。今年的主题是“火箭革命”，重点关注推动太空探索不断发展的技术。",
+    "image_url": "https://cn.bing.com/th?id=OHR.ArtemisRocket_ZH-CN1768541365_1920x1080.webp",
+    "image_url_jpg": "https://cn.bing.com/th?id=OHR.ArtemisRocket_ZH-CN1768541365_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+    "image_url_uhd": "https://cn.bing.com/th?id=OHR.ArtemisRocket_ZH-CN1768541365_UHD.jpg",
+    "main_text": "在阿尔忒弥斯1号任务中，猎户座飞船距地球最远达268,563英里，超过此前任何为人类设计的航天器。"
 }
 ```
 
-UpdateTime：2026-10-03 14:35:03
+UpdateTime：2026-10-03 19:10:15
