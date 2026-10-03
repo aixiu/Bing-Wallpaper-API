@@ -44,10 +44,25 @@ class BingWallpaper:
         ImageContent = data["MediaContents"][0]["ImageContent"]
         Image = ImageContent.get("Image", {})
 
-        # Image.Url   -> ts1.tc.mm.bing.net 上的 webp 原图，适合程序展示（体积小）
+        # Image.Url       -> ts1.tc.mm.bing.net 上的 webp 原图，适合程序展示（体积小）
         # Image.Wallpaper -> cn.bing.com 上的 jpg 壁纸版，适合用户下载（兼容性好）
         image_url_webp = urljoin(self.url, Image.get("Url", ""))
         image_url_jpg = urljoin(self.url, Image.get("Wallpaper", Image.get("Url", "")))
+
+        # 从 Image.Url 提取图片 ID，用于拼 UHD 4K 地址
+        # 例：https://ts1.tc.mm.bing.net/th?id=OHR.OlmstedPoint_ZH-CN4182671075_1920x1080.webp
+        #     -> OHR.OlmstedPoint_ZH-CN4182671075
+        img_id = ""
+        url = Image.get("Url", "")
+        if "?id=" in url:
+            # 先剥掉 ?id= 前缀，再剥掉 &rf=... 参数，最后切掉尺寸后缀
+            img_id = url.split("?id=")[-1].split("&")[0].rsplit("_", 1)[0]
+
+        if img_id:
+            image_url_uhd = f"https://cn.bing.com/th?id={img_id}_UHD.jpg"
+        else:
+            # 提取失败时回退到 jpg 地址，保证字段不为空
+            image_url_uhd = image_url_jpg
 
         return {
             "date": datetime.now().strftime(r"%Y-%m-%d"),
@@ -55,7 +70,8 @@ class BingWallpaper:
             "title": ImageContent.get("Title", ""),
             "description": ImageContent.get("Description", ""),
             "image_url": image_url_webp,  # webp，程序展示用
-            "image_url_jpg": image_url_jpg,  # jpg，用户下载用
+            "image_url_jpg": image_url_jpg,  # jpg 1920x1200，用户下载用（带水印）
+            "image_url_uhd": image_url_uhd,  # jpg 4K，用户下载用（新增）
             "main_text": (ImageContent.get("QuickFact") or {}).get("MainText", ""),
         }
 
