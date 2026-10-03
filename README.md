@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-10-02",
+    "date": "2026-10-03",
     "headline": "捕捉、进食、重复",
     "title": "美国阿拉斯加州克拉克湖国家公园和自然保护区银鲑溪中的棕熊",
     "description": "大快朵颐、肚皮更鼓并为冬季囤积能量的时节到了。在阿拉斯加州，克拉克湖国家公园和自然保护区的棕熊充分利用10月仍可获取的食物。它们以鱼、莎草、浆果、根、蛤蜊和其他食物为食，以积累脂肪储备。有些棕熊在进入洞穴冬眠前体重可超过1,000磅。储存的脂肪帮助它们度过不吃不喝的冬季。",
@@ -45,4 +45,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdateTime：2026-10-02 20:38:48
+UpdateTime：2026-10-03 05:08:06
