@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![阿尔忒弥斯1号月球火箭，39B发射台，肯尼迪航天中心，佛罗里达州，2022年6月15日](https://cn.bing.com/th?id=OHR.ArtemisRocket_ZH-CN1768541365_1920x1080.webp)
-Today: [阿尔忒弥斯1号月球火箭，39B发射台，肯尼迪航天中心，佛罗里达州，2022年6月15日](https://cn.bing.com/th?id=OHR.ArtemisRocket_ZH-CN1768541365_1920x1080.webp) - 宇宙在召唤
+![南极洲的阿德利企鹅](https://cn.bing.com/th?id=OHR.AdelieTeacher_ZH-CN2201820679_1920x1080.webp)
+Today: [南极洲的阿德利企鹅](https://cn.bing.com/th?id=OHR.AdelieTeacher_ZH-CN2201820679_1920x1080.webp) - 纵身一跃，一次一课
 
 ## 接口
 
@@ -36,14 +36,14 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-10-04",
-    "headline": "宇宙在召唤",
-    "title": "阿尔忒弥斯1号月球火箭，39B发射台，肯尼迪航天中心，佛罗里达州，2022年6月15日",
-    "description": "首先，你要造一枚火箭。然后，你要让它离开地球，飞往月球，在旅途中安然无恙，并将其航天器带回家。很简单，对吧？嗯，并非如此。世界空间周于每年10月4日至10日举行，旨在庆祝让此类任务成为可能的科学。联合国于1999年设立这一纪念活动，以纪念1957年10月4日斯普特尼克1号发射升空，以及1967年10月10日《外层空间条约》生效。今年的主题是“火箭革命”，重点关注推动太空探索不断发展的技术。",
-    "image_url": "https://cn.bing.com/th?id=OHR.ArtemisRocket_ZH-CN1768541365_1920x1080.webp",
-    "image_url_jpg": "https://cn.bing.com/th?id=OHR.ArtemisRocket_ZH-CN1768541365_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
-    "image_url_uhd": "https://cn.bing.com/th?id=OHR.ArtemisRocket_ZH-CN1768541365_UHD.jpg",
-    "main_text": "在阿尔忒弥斯1号任务中，猎户座飞船距地球最远达268,563英里，超过此前任何为人类设计的航天器。"
+    "headline": "纵身一跃，一次一课",
+    "title": "南极洲的阿德利企鹅",
+    "description": "一只身高28英寸的鸟能教给我们哪些人生道理？非常多。在世界教师日这一天，阿德利企鹅带来了一份充满足智多谋、坚韧不拔和些许顽皮的课程计划。这一物种分布于南极海岸，以法国探险家儒勒·迪蒙·迪维尔的妻子阿黛尔之名命名；在1840年的一次远征中，人们发现了这些企鹅。",
+    "image_url": "https://cn.bing.com/th?id=OHR.AdelieTeacher_ZH-CN2201820679_1920x1080.webp",
+    "image_url_jpg": "https://cn.bing.com/th?id=OHR.AdelieTeacher_ZH-CN2201820679_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+    "image_url_uhd": "https://cn.bing.com/th?id=OHR.AdelieTeacher_ZH-CN2201820679_UHD.jpg",
+    "main_text": "阿德利企鹅没有牙齿，但它们的舌头和上腭长有被称为乳突的尖锐倒刺。"
 }
 ```
 
-UpdateTime：2026-10-04 13:53:25
+UpdateTime：2026-10-04 19:32:00
