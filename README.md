@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![南极洲的阿德利企鹅](https://cn.bing.com/th?id=OHR.AdelieTeacher_ZH-CN2201820679_1920x1080.webp)
-Today: [南极洲的阿德利企鹅](https://cn.bing.com/th?id=OHR.AdelieTeacher_ZH-CN2201820679_1920x1080.webp) - 纵身一跃，一次一课
+![丹霞地貌，张掖国家地质公园，甘肃省，中国](https://cn.bing.com/th?id=OHR.DanxiaLandform_ZH-CN2386060246_1920x1080.webp)
+Today: [丹霞地貌，张掖国家地质公园，甘肃省，中国](https://cn.bing.com/th?id=OHR.DanxiaLandform_ZH-CN2386060246_1920x1080.webp) - 条纹中的地球故事
 
 ## 接口
 
@@ -36,14 +36,14 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-10-05",
-    "headline": "纵身一跃，一次一课",
-    "title": "南极洲的阿德利企鹅",
-    "description": "一只身高28英寸的鸟能教给我们哪些人生道理？非常多。在世界教师日这一天，阿德利企鹅带来了一份充满足智多谋、坚韧不拔和些许顽皮的课程计划。这一物种分布于南极海岸，以法国探险家儒勒·迪蒙·迪维尔的妻子阿黛尔之名命名；在1840年的一次远征中，人们发现了这些企鹅。",
-    "image_url": "https://cn.bing.com/th?id=OHR.AdelieTeacher_ZH-CN2201820679_1920x1080.webp",
-    "image_url_jpg": "https://cn.bing.com/th?id=OHR.AdelieTeacher_ZH-CN2201820679_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
-    "image_url_uhd": "https://cn.bing.com/th?id=OHR.AdelieTeacher_ZH-CN2201820679_UHD.jpg",
-    "main_text": "阿德利企鹅没有牙齿，但它们的舌头和上腭长有被称为乳突的尖锐倒刺。"
+    "headline": "条纹中的地球故事",
+    "title": "丹霞地貌，张掖国家地质公园，甘肃省，中国",
+    "description": "如果一座山能用一道道条纹向你展示它的地质历史，会是什么样？在中国的张掖国家地质公园，岩石正是如此。红色、橙色、黄色、棕色以及其他大地色调的条带在山脊间绵延起伏。这种壮丽景观被称为丹霞地貌，由地质年代中沉积形成的多层沉积岩塑造而成。后来，构造力使岩石抬升并发生褶皱，而风化和侵蚀则将它们雕琢成山脊、峭壁、沟壑和山峰。",
+    "image_url": "https://cn.bing.com/th?id=OHR.DanxiaLandform_ZH-CN2386060246_1920x1080.webp",
+    "image_url_jpg": "https://cn.bing.com/th?id=OHR.DanxiaLandform_ZH-CN2386060246_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+    "image_url_uhd": "https://cn.bing.com/th?id=OHR.DanxiaLandform_ZH-CN2386060246_UHD.jpg",
+    "main_text": "张掖地质公园拥有577处文化遗址，展现当地历史及包括裕固族在内的多个族群文化。"
 }
 ```
 
-UpdateTime：2026-10-05 05:25:22
+UpdateTime：2026-10-05 17:04:31
