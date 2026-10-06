@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![丹霞地貌，张掖国家地质公园，甘肃省，中国](https://cn.bing.com/th?id=OHR.DanxiaLandform_ZH-CN2386060246_1920x1080.webp)
-Today: [丹霞地貌，张掖国家地质公园，甘肃省，中国](https://cn.bing.com/th?id=OHR.DanxiaLandform_ZH-CN2386060246_1920x1080.webp) - 条纹中的地球故事
+![覆满苔藓的岩石，英国格洛斯特郡谜林，迪恩森林，格洛斯特郡，英格兰](https://cn.bing.com/th?id=OHR.ForestofDean_ZH-CN2654753621_1920x1080.webp)
+Today: [覆满苔藓的岩石，英国格洛斯特郡谜林，迪恩森林，格洛斯特郡，英格兰](https://cn.bing.com/th?id=OHR.ForestofDean_ZH-CN2654753621_1920x1080.webp) - 迷惑不解？沿着小径走
 
 ## 接口
 
@@ -36,14 +36,14 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-10-06",
-    "headline": "条纹中的地球故事",
-    "title": "丹霞地貌，张掖国家地质公园，甘肃省，中国",
-    "description": "如果一座山能用一道道条纹向你展示它的地质历史，会是什么样？在中国的张掖国家地质公园，岩石正是如此。红色、橙色、黄色、棕色以及其他大地色调的条带在山脊间绵延起伏。这种壮丽景观被称为丹霞地貌，由地质年代中沉积形成的多层沉积岩塑造而成。后来，构造力使岩石抬升并发生褶皱，而风化和侵蚀则将它们雕琢成山脊、峭壁、沟壑和山峰。",
-    "image_url": "https://cn.bing.com/th?id=OHR.DanxiaLandform_ZH-CN2386060246_1920x1080.webp",
-    "image_url_jpg": "https://cn.bing.com/th?id=OHR.DanxiaLandform_ZH-CN2386060246_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
-    "image_url_uhd": "https://cn.bing.com/th?id=OHR.DanxiaLandform_ZH-CN2386060246_UHD.jpg",
-    "main_text": "张掖地质公园拥有577处文化遗址，展现当地历史及包括裕固族在内的多个族群文化。"
+    "headline": "迷惑不解？沿着小径走",
+    "title": "覆满苔藓的岩石，英国格洛斯特郡谜林，迪恩森林，格洛斯特郡，英格兰",
+    "description": "如果一片森林能让你每转一个弯都捉摸不透，会是什么样？英国格洛斯特郡谜林位于英格兰迪恩森林的科尔福德附近，蜿蜒的小径穿过扭曲的树木、覆满苔藓的岩石和幽深的石质沟壑。这里不同寻常的岩层被称为“斯科尔斯”，是一种天然地质特征，随着时间推移逐渐裸露并发生改变，后来在罗马时期、甚至可能在更早以前被人们开采铁矿石。1848年，一名工人在一个岩洞内的陶罐中发现了3,000多枚罗马时代的钱币，使这片林地变成了一场现实中的寻宝之旅。",
+    "image_url": "https://cn.bing.com/th?id=OHR.ForestofDean_ZH-CN2654753621_1920x1080.webp",
+    "image_url_jpg": "https://cn.bing.com/th?id=OHR.ForestofDean_ZH-CN2654753621_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+    "image_url_uhd": "https://cn.bing.com/th?id=OHR.ForestofDean_ZH-CN2654753621_UHD.jpg",
+    "main_text": "英国格洛斯特郡谜林位于迪恩森林，是极为罕见的内陆温带雨林生态系统残片。"
 }
 ```
 
-UpdateTime：2026-10-06 15:01:53
+UpdateTime：2026-10-06 20:54:50
