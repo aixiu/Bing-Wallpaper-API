@@ -31,7 +31,7 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: run spider
       run: |
-        echo $(date "+%Y-%m-%d %H:%M:%S") > update_time.txt
+        echo $(TZ='Asia/Shanghai' date "+%Y-%m-%d %H:%M:%S") > update_time.txt
         python bing_wallpaper_api.py
 
     - name: commit
@@ -40,5 +40,4 @@ jobs:
         git config user.email github-actions@github.com
         git add .
         git commit -m "generated" || echo "no changes"
-        git pull --rebase
         git push
