@@ -10,6 +10,7 @@ import os
 import time
 from datetime import datetime
 from urllib.parse import urljoin
+from zoneinfo import ZoneInfo
 
 import requests
 
@@ -76,7 +77,8 @@ class BingWallpaper:
         }
 
     def get_now_time(self):
-        return time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
+        # return time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
+        return datetime.now(ZoneInfo("Asia/Shanghai")).strftime("%Y-%m-%d %H:%M:%S")
 
     # 读取 2022/11/01.json 文件，生成 README.md 文件
     def buildReadme(self, filename):
