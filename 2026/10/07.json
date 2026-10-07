@@ -1,39 +1,3 @@
-# Bing Wallpaper
-
-> 数据缓存开始时间: 2022/11/1
-
-![覆满苔藓的岩石，英国格洛斯特郡谜林，迪恩森林，格洛斯特郡，英格兰](https://cn.bing.com/th?id=OHR.ForestofDean_ZH-CN2654753621_1920x1080.webp)
-Today: [覆满苔藓的岩石，英国格洛斯特郡谜林，迪恩森林，格洛斯特郡，英格兰](https://cn.bing.com/th?id=OHR.ForestofDean_ZH-CN2654753621_1920x1080.webp) - 迷惑不解？沿着小径走
-
-## 接口
-
-接口地址：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/
-```
-
-请求方式：
-
-```html
-https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
-```
-
-参数说明
-
-| 参数 | 类型 | 说明 |
-| - | - | - |
-| year | str | 4位年份, 例如：2022 |
-| month | str | 2位月份, 例如：02、12 |
-| day | str | 2位日期, 例如：02、25 |
-
-例如
-
-[https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json](https://aixiu.github.io/Bing-Wallpaper-API/2022/11/01.json)
-
-返回数据
-
-```json
 {
     "date": "2026-10-07",
     "headline": "迷惑不解？沿着小径走",
@@ -44,6 +8,3 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
     "image_url_uhd": "https://cn.bing.com/th?id=OHR.ForestofDean_ZH-CN2654753621_UHD.jpg",
     "main_text": "英国格洛斯特郡谜林位于迪恩森林，是极为罕见的内陆温带雨林生态系统残片。"
 }
-```
-
-UpdateTime：2026-10-07 02:18:27
