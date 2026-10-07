@@ -17,6 +17,9 @@ jobs:
   build:
 
     runs-on: ubuntu-latest
+    concurrency:
+      group: bing-wallpaper
+      cancel-in-progress: false
 
     steps:
     - uses: actions/checkout@v7
