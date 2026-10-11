@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![格莱德溪磨坊，巴布科克州立公园，西弗吉尼亚州，美国](https://cn.bing.com/th?id=OHR.BabcockSP_ZH-CN5266848536_1920x1080.webp)
-Today: [格莱德溪磨坊，巴布科克州立公园，西弗吉尼亚州，美国](https://cn.bing.com/th?id=OHR.BabcockSP_ZH-CN5266848536_1920x1080.webp) - 秋色中转动的水轮
+![曼布尔斯码头，斯旺西，威尔士](https://cn.bing.com/th?id=OHR.MumblesSwansea2026_ZH-CN5419531039_1920x1080.webp)
+Today: [曼布尔斯码头，斯旺西，威尔士](https://cn.bing.com/th?id=OHR.MumblesSwansea2026_ZH-CN5419531039_1920x1080.webp) - 从铁轨到潮汐
 
 ## 接口
 
@@ -36,14 +36,14 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-10-11",
-    "headline": "秋色中转动的水轮",
-    "title": "格莱德溪磨坊，巴布科克州立公园，西弗吉尼亚州，美国",
-    "description": "格莱德溪磨坊坐落在西弗吉尼亚州巴布科克州立公园内格莱德溪的岩石水域上方，周围红色、橙色和金色交错。尽管它看起来像是拓荒时代的遗迹，但这座磨坊实际上是为致敬阿巴拉契亚地区的磨坊传统而精心建造的。",
-    "image_url": "https://cn.bing.com/th?id=OHR.BabcockSP_ZH-CN5266848536_1920x1080.webp",
-    "image_url_jpg": "https://cn.bing.com/th?id=OHR.BabcockSP_ZH-CN5266848536_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
-    "image_url_uhd": "https://cn.bing.com/th?id=OHR.BabcockSP_ZH-CN5266848536_UHD.jpg",
-    "main_text": "20世纪30年代，民间资源保护队的海狸营和李营共同参与了巴布科克州立公园的建设。"
+    "headline": "从铁轨到潮汐",
+    "title": "曼布尔斯码头，斯旺西，威尔士",
+    "description": "当铁路、救生艇站和海滨一日游在水边相遇，会得到什么？答案是曼布尔斯码头。这座维多利亚时代的地标向斯旺西湾延伸255米，于1898年5月10日开放，自此一直是威尔士海岸的一部分。",
+    "image_url": "https://cn.bing.com/th?id=OHR.MumblesSwansea2026_ZH-CN5419531039_1920x1080.webp",
+    "image_url_jpg": "https://cn.bing.com/th?id=OHR.MumblesSwansea2026_ZH-CN5419531039_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+    "image_url_uhd": "https://cn.bing.com/th?id=OHR.MumblesSwansea2026_ZH-CN5419531039_UHD.jpg",
+    "main_text": "曼布尔斯铁路曾在车厢上安装风帆，短暂试验以风力驱动车辆，但这项尝试并未持续多久。"
 }
 ```
 
-UpdateTime：2026-10-11 22:52:10
+UpdateTime：2026-10-12 04:11:08
