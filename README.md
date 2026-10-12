@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-10-11",
+    "date": "2026-10-12",
     "headline": "从铁轨到潮汐",
     "title": "曼布尔斯码头，斯旺西，威尔士",
     "description": "当铁路、救生艇站和海滨一日游在水边相遇，会得到什么？答案是曼布尔斯码头。这座维多利亚时代的地标向斯旺西湾延伸255米，于1898年5月10日开放，自此一直是威尔士海岸的一部分。",
@@ -46,4 +46,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdateTime：2026-10-12 04:11:08
+UpdateTime：2026-10-12 13:45:57
