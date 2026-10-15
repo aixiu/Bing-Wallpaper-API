@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-10-14",
+    "date": "2026-10-15",
     "headline": "桥梁、屋顶与暮色",
     "title": "弗罗茨瓦夫集市广场景观，摄自女巫桥，弗罗茨瓦夫，波兰",
     "description": "暮色降临弗罗茨瓦夫，金色光芒洒满屋顶、教堂塔楼和中欧最引人注目的历史中心之一。这座位于波兰西南部的城市横跨多座岛屿和水道，由100多座桥梁连接，将中世纪建筑与充满活力的现代生活融为一体。城市中心是热闹的雷内克(Rynek)集市广场，该广场建于13世纪，哥特式老市政厅便坐落于此，它是弗罗茨瓦夫最易辨认的地标之一。",
@@ -46,4 +46,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdateTime：2026-10-15 04:08:49
+UpdateTime：2026-10-15 12:25:35
