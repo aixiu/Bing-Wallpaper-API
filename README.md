@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![多巴达恩城堡，兰贝里斯，斯诺登尼亚国家公园，威尔士](https://cn.bing.com/th?id=OHR.DolbadarnWales_ZH-CN3649667806_1920x1080.webp)
-Today: [多巴达恩城堡，兰贝里斯，斯诺登尼亚国家公园，威尔士](https://cn.bing.com/th?id=OHR.DolbadarnWales_ZH-CN3649667806_1920x1080.webp) - 75载，风华正茂
+![大运河，威尼斯，意大利](https://cn.bing.com/th?id=OHR.VeniceSunrise_ZH-CN5251815339_1920x1080.webp)
+Today: [大运河，威尼斯，意大利](https://cn.bing.com/th?id=OHR.VeniceSunrise_ZH-CN5251815339_1920x1080.webp) - 水上通衢
 
 ## 接口
 
@@ -36,14 +36,14 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-10-18",
-    "headline": "75载，风华正茂",
-    "title": "多巴达恩城堡，兰贝里斯，斯诺登尼亚国家公园，威尔士",
-    "description": "如果公园也能写生日手记，威尔士斯诺登尼亚国家公园一定有许多精彩故事可讲。今天是这座公园成立75周年，纪念它于1951年获指定为国家公园。斯诺登尼亚占地823平方英里，拥有九条山脉和74英里海岸线，栖息地类型从泥炭地、原生林地到高地景观不一而足。斯诺登山海拔超过3,500英尺，是斯诺登尼亚的最高点。附近的卡内道山脉和格利德赖山脉群峰耸立，卡代尔伊德里斯山则矗立在南部。这些受保护的景观为野生动物提供了栖息地，其中包括17处国家级自然保护区和56处特殊科学价值地点。",
-    "image_url": "https://cn.bing.com/th?id=OHR.DolbadarnWales_ZH-CN3649667806_1920x1080.webp",
-    "image_url_jpg": "https://cn.bing.com/th?id=OHR.DolbadarnWales_ZH-CN3649667806_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
-    "image_url_uhd": "https://cn.bing.com/th?id=OHR.DolbadarnWales_ZH-CN3649667806_UHD.jpg",
-    "main_text": "2015年，斯诺登尼亚被认定为国际暗夜保护区，以表彰其卓越的夜空质量和限制光污染的努力。"
+    "headline": "水上通衢",
+    "title": "大运河，威尼斯，意大利",
+    "description": "如果一座城市最繁忙的街道根本没有路，会是什么样？在意大利威尼斯，交通沿着大运河往来。这条长2.4英里的水道以巨大的反S形蜿蜒穿过城市。当地人称它为“大运河”，它是威尼斯主要的水上交通通道，水上巴士、水上出租车、贡多拉、警用艇和其他船只都在此穿行。大运河沿着一条古河道延伸，这条河过去曾流入威尼斯潟湖。",
+    "image_url": "https://cn.bing.com/th?id=OHR.VeniceSunrise_ZH-CN5251815339_1920x1080.webp",
+    "image_url_jpg": "https://cn.bing.com/th?id=OHR.VeniceSunrise_ZH-CN5251815339_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+    "image_url_uhd": "https://cn.bing.com/th?id=OHR.VeniceSunrise_ZH-CN5251815339_UHD.jpg",
+    "main_text": "威尼斯及其潟湖于1987年列入联合国教科文组织世界遗产名录，并符合该遗产地全部六项文化标准。"
 }
 ```
 
-UpdateTime：2026-10-18 20:34:02
+UpdateTime：2026-10-19 02:34:17
