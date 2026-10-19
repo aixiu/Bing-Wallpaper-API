@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-10-18",
+    "date": "2026-10-19",
     "headline": "水上通衢",
     "title": "大运河，威尼斯，意大利",
     "description": "如果一座城市最繁忙的街道根本没有路，会是什么样？在意大利威尼斯，交通沿着大运河往来。这条长2.4英里的水道以巨大的反S形蜿蜒穿过城市。当地人称它为“大运河”，它是威尼斯主要的水上交通通道，水上巴士、水上出租车、贡多拉、警用艇和其他船只都在此穿行。大运河沿着一条古河道延伸，这条河过去曾流入威尼斯潟湖。",
@@ -46,4 +46,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdateTime：2026-10-19 02:34:17
+UpdateTime：2026-10-19 12:28:51
