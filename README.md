@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![褐喉三趾树懒，塔拉曼卡旧港，哥斯达黎加](https://cn.bing.com/th?id=OHR.BrownSloth_ZH-CN5776383136_1920x1080.webp)
-Today: [褐喉三趾树懒，塔拉曼卡旧港，哥斯达黎加](https://cn.bing.com/th?id=OHR.BrownSloth_ZH-CN5776383136_1920x1080.webp) - 慢节奏生活
+![香江上的阮潢桥，顺化，越南](https://cn.bing.com/th?id=OHR.VietnamBridge_ZH-CN6134321119_1920x1080.webp)
+Today: [香江上的阮潢桥，顺化，越南](https://cn.bing.com/th?id=OHR.VietnamBridge_ZH-CN6134321119_1920x1080.webp) - 飞掠河面
 
 ## 接口
 
@@ -36,14 +36,14 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-10-20",
-    "headline": "慢节奏生活",
-    "title": "褐喉三趾树懒，塔拉曼卡旧港，哥斯达黎加",
-    "description": "稳扎稳打才能赢得比赛——而褐喉三趾树懒似乎很乐意彻底放弃比赛。在国际树懒日，这种三趾哺乳动物为生存之道带来了另一番启示：保存能量，牢牢抓住，慢慢来。",
-    "image_url": "https://cn.bing.com/th?id=OHR.BrownSloth_ZH-CN5776383136_1920x1080.webp",
-    "image_url_jpg": "https://cn.bing.com/th?id=OHR.BrownSloth_ZH-CN5776383136_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
-    "image_url_uhd": "https://cn.bing.com/th?id=OHR.BrownSloth_ZH-CN5776383136_UHD.jpg",
-    "main_text": "褐喉三趾树懒每天可能睡15至18小时，通常只在夜间短暂活动。"
+    "headline": "飞掠河面",
+    "title": "香江上的阮潢桥，顺化，越南",
+    "description": "阮潢桥弥合了新旧之间的距离，为顺化的天际线增添了一道崭新的纽带。这座横跨越南香江的现代钢拱地标于2025年3月26日通车。其设计名为“鹤望天姥”，灵感源自当地传说和附近的天姥寺。",
+    "image_url": "https://cn.bing.com/th?id=OHR.VietnamBridge_ZH-CN6134321119_1920x1080.webp",
+    "image_url_jpg": "https://cn.bing.com/th?id=OHR.VietnamBridge_ZH-CN6134321119_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+    "image_url_uhd": "https://cn.bing.com/th?id=OHR.VietnamBridge_ZH-CN6134321119_UHD.jpg",
+    "main_text": "阮黄桥长约380米、宽43米，设有六条机动车道和两条人行步道。"
 }
 ```
 
-UpdateTime：2026-10-20 21:30:40
+UpdateTime：2026-10-21 03:57:49
