@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-10-19",
+    "date": "2026-10-20",
     "headline": "慢节奏生活",
     "title": "褐喉三趾树懒，塔拉曼卡旧港，哥斯达黎加",
     "description": "稳扎稳打才能赢得比赛——而褐喉三趾树懒似乎很乐意彻底放弃比赛。在国际树懒日，这种三趾哺乳动物为生存之道带来了另一番启示：保存能量，牢牢抓住，慢慢来。",
@@ -46,4 +46,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdateTime：2026-10-20 04:59:15
+UpdateTime：2026-10-20 12:38:37
