@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-10-21",
+    "date": "2026-10-22",
     "headline": "静水映斑斓",
     "title": "内藏山国立公园的秋景，韩国",
     "description": "在韩国，很少有地方能像内藏山国立公园一样尽显秋日的魔力，这里的山坡闪耀着猩红、橙色、黄色和金色的绚丽光彩。公园位于韩国西南部，尤以鲜艳的枫叶色彩闻名，是韩国首屈一指的赏秋胜地之一。其名称意为“山中藏有许多秘密”，体现了这一地区丰富多样的景观。",
@@ -46,4 +46,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdateTime：2026-10-22 04:03:33
+UpdateTime：2026-10-22 12:30:52
