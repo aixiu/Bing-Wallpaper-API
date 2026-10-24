@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-10-23",
+    "date": "2026-10-24",
     "headline": "书香里的极致华美",
     "title": "皇家葡萄牙语阅览室，里约热内卢，巴西",
     "description": "今天，我们走进巴西里约热内卢的皇家葡萄牙语阅览室。在这里，翻开一本书这一朴素举动，被赋予了宏伟的建筑抱负。巴西独立仅15年后，43名葡萄牙移民于1837年创办了这家机构；约半个世纪后，机构最终迁入眼前这座以华丽的新曼努埃尔式建成的建筑。书架环绕宽阔的阅览大厅，高逾70英尺；大厅上方覆盖着一扇巨型彩绘玻璃天窗，让自然光也成为设计的一部分。",
@@ -46,4 +46,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdateTime：2026-10-24 03:55:16
+UpdateTime：2026-10-24 12:25:50
