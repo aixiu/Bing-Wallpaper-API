@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![秋日瀑布，西托沃附近，普罗夫迪夫州，保加利亚](https://cn.bing.com/th?id=OHR.SitovoWaterfall_ZH-CN8495214046_1920x1080.webp)
-Today: [秋日瀑布，西托沃附近，普罗夫迪夫州，保加利亚](https://cn.bing.com/th?id=OHR.SitovoWaterfall_ZH-CN8495214046_1920x1080.webp) - 大自然的秋日乐章
+![Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria](https://cn.bing.com/th?id=OHR.SitovoWaterfall_EN-US7626867890_1920x1080.webp)
+Today: [Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria](https://cn.bing.com/th?id=OHR.SitovoWaterfall_EN-US7626867890_1920x1080.webp) - Nature's autumn soundtrack
 
 ## 接口
 
@@ -35,15 +35,15 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-10-25",
-    "headline": "大自然的秋日乐章",
-    "title": "秋日瀑布，西托沃附近，普罗夫迪夫州，保加利亚",
-    "description": "在保加利亚的西罗多彼山脉，秋叶汇聚在奔腾的西托沃瀑布旁。瀑布位于普罗夫迪夫西南方向的西托沃村附近，从一座古老石桥下倾泻而下；桥拱如画框般圈住飞瀑，宛若童话书中的场景。覆满苔藓的石头和松树为秋日景观添上层层绿意，落叶则堆积在水边，或漂过一汪汪水潭。雨后和春季融雪期间，瀑布尤其奔涌欢腾，湍急水声回荡在周围的林地间。",
-    "image_url": "https://cn.bing.com/th?id=OHR.SitovoWaterfall_ZH-CN8495214046_1920x1080.webp",
-    "image_url_jpg": "https://cn.bing.com/th?id=OHR.SitovoWaterfall_ZH-CN8495214046_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
-    "image_url_uhd": "https://cn.bing.com/th?id=OHR.SitovoWaterfall_ZH-CN8495214046_UHD.jpg",
-    "main_text": "西罗多彼山脉被认定为关键生物多样性区域，这是对全球生物多样性至关重要地点的一项全球认定。"
+    "date": "2026-10-26",
+    "headline": "Nature's autumn soundtrack",
+    "title": "Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria",
+    "description": "In Bulgaria's Western Rhodope Mountains, autumn leaves gather beside the rushing waters of Sitovo Waterfall. Near the village of Sitovo, southwest of Plovdiv, the falls tumble beneath an old stone bridge whose arch frames the cascades like a storybook scene. Moss-covered stones and pine trees add shades of green to the autumn landscape, while fallen leaves gather along the water's edge or drift through its pools. The falls become especially lively after rain and during spring snowmelt, when the surrounding woodland echoes with the sound of rushing water.",
+    "image_url": "https://cn.bing.com/th?id=OHR.SitovoWaterfall_EN-US7626867890_1920x1080.webp",
+    "image_url_jpg": "https://cn.bing.com/th?id=OHR.SitovoWaterfall_EN-US7626867890_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+    "image_url_uhd": "https://cn.bing.com/th?id=OHR.SitovoWaterfall_EN-US7626867890_UHD.jpg",
+    "main_text": ""
 }
 ```
 
-UpdateTime：2026-10-26 02:55:58
+UpdateTime：2026-10-26 12:33:29
