@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![秋日瀑布，西托沃附近，普罗夫迪夫州，保加利亚](https://cn.bing.com/th?id=OHR.SitovoWaterfall_ZH-CN8495214046_1920x1080.webp)
-Today: [秋日瀑布，西托沃附近，普罗夫迪夫州，保加利亚](https://cn.bing.com/th?id=OHR.SitovoWaterfall_ZH-CN8495214046_1920x1080.webp) - 大自然的秋日乐章
+![秋叶缤纷的池杉林，乔治亚州，美国](https://cn.bing.com/th?id=OHR.PondCypress_ZH-CN9472607734_1920x1080.webp)
+Today: [秋叶缤纷的池杉林，乔治亚州，美国](https://cn.bing.com/th?id=OHR.PondCypress_ZH-CN9472607734_1920x1080.webp) - 大自然的金色明镜
 
 ## 接口
 
@@ -36,14 +36,14 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-10-26",
-    "headline": "大自然的秋日乐章",
-    "title": "秋日瀑布，西托沃附近，普罗夫迪夫州，保加利亚",
-    "description": "在保加利亚的西罗多彼山脉，秋叶汇聚在奔腾的西托沃瀑布旁。瀑布位于普罗夫迪夫西南方向的西托沃村附近，从一座古老石桥下倾泻而下；桥拱如画框般圈住飞瀑，宛若童话书中的场景。覆满苔藓的石头和松树为秋日景观添上层层绿意，落叶则堆积在水边，或漂过一汪汪水潭。雨后和春季融雪期间，瀑布尤其奔涌欢腾，湍急水声回荡在周围的林地间。",
-    "image_url": "https://cn.bing.com/th?id=OHR.SitovoWaterfall_ZH-CN8495214046_1920x1080.webp",
-    "image_url_jpg": "https://cn.bing.com/th?id=OHR.SitovoWaterfall_ZH-CN8495214046_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
-    "image_url_uhd": "https://cn.bing.com/th?id=OHR.SitovoWaterfall_ZH-CN8495214046_UHD.jpg",
-    "main_text": "西罗多彼山脉被认定为关键生物多样性区域，这是对全球生物多样性至关重要地点的一项全球认定。"
+    "headline": "大自然的金色明镜",
+    "title": "秋叶缤纷的池杉林，乔治亚州，美国",
+    "description": "这片池杉林倒映在平静的水面上，在落日余晖中熠熠生辉，呈现出色彩与对称之美，令人叹为观止。池杉原产于美国东南部，通常生长在浅水池塘、洼地和湿地生境中。这张照片拍摄于乔治亚州，当地的奥克弗诺基沼泽及其他低洼湿地中均可见这些树木。",
+    "image_url": "https://cn.bing.com/th?id=OHR.PondCypress_ZH-CN9472607734_1920x1080.webp",
+    "image_url_jpg": "https://cn.bing.com/th?id=OHR.PondCypress_ZH-CN9472607734_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+    "image_url_uhd": "https://cn.bing.com/th?id=OHR.PondCypress_ZH-CN9472607734_UHD.jpg",
+    "main_text": "池杉会长出被称为“膝根”的瘤状根部结构，高出树木周围的水面或土壤。"
 }
 ```
 
-UpdateTime：2026-10-26 23:06:11
+UpdateTime：2026-10-27 04:58:48
