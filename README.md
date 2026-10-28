@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![库涅季采山城堡，波希米亚，捷克](https://cn.bing.com/th?id=OHR.KuneticeCastle_ZH-CN8895858920_1920x1080.webp)
-Today: [库涅季采山城堡，波希米亚，捷克](https://cn.bing.com/th?id=OHR.KuneticeCastle_ZH-CN8895858920_1920x1080.webp) - 历史守望之地
+![立石，埃夫伯里，威尔特郡，英格兰](https://cn.bing.com/th?id=OHR.AveburyStones_ZH-CN9127100951_1920x1080.webp)
+Today: [立石，埃夫伯里，威尔特郡，英格兰](https://cn.bing.com/th?id=OHR.AveburyStones_ZH-CN9127100951_1920x1080.webp) - 薄雾邂逅千年时光
 
 ## 接口
 
@@ -36,14 +36,14 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-10-28",
-    "headline": "历史守望之地",
-    "title": "库涅季采山城堡，波希米亚，捷克",
-    "description": "这些城墙会讲述怎样的故事？库涅季采山城堡高踞于捷克波希米亚东部，见证了数百年的历史。城堡的历史可追溯至14世纪末，后来逐渐发展为一座宏伟的要塞和贵族宅邸。它地势高耸，可俯瞰周围乡野，也因此成为一处重要据点。",
-    "image_url": "https://cn.bing.com/th?id=OHR.KuneticeCastle_ZH-CN8895858920_1920x1080.webp",
-    "image_url_jpg": "https://cn.bing.com/th?id=OHR.KuneticeCastle_ZH-CN8895858920_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
-    "image_url_uhd": "https://cn.bing.com/th?id=OHR.KuneticeCastle_ZH-CN8895858920_UHD.jpg",
-    "main_text": "1645年，一支瑞典军队攻占库涅季采山城堡，并在撤离前将其焚毁，加速了城堡此后的长期衰败。"
+    "headline": "薄雾邂逅千年时光",
+    "title": "立石，埃夫伯里，威尔特郡，英格兰",
+    "description": "晨雾在英格兰威尔特郡埃夫伯里的立石间飘荡，眼前景象仿佛超越了时间。这些古老的巨石构成了世界上最非凡的史前景观之一，其核心是一座约建于4500年前的宏大新石器时代纪念性建筑。埃夫伯里拥有世界上最大的史前石圈，还有一座巨型环形遗址，以及延伸至周围乡野的石列大道。它与附近的锡尔伯里山、西肯尼特大道等遗迹共同组成一处规模宏大的新石器时代遗址群，令一代又一代游客、研究人员和考古学家为之着迷。",
+    "image_url": "https://cn.bing.com/th?id=OHR.AveburyStones_ZH-CN9127100951_1920x1080.webp",
+    "image_url_jpg": "https://cn.bing.com/th?id=OHR.AveburyStones_ZH-CN9127100951_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+    "image_url_uhd": "https://cn.bing.com/th?id=OHR.AveburyStones_ZH-CN9127100951_UHD.jpg",
+    "main_text": "20世纪30年代，考古学家亚历山大·凯勒重新竖起了许多倒伏的埃夫伯里巨石，并用混凝土标出缺失巨石的位置。"
 }
 ```
 
-UpdateTime：2026-10-28 23:01:28
+UpdateTime：2026-10-29 04:57:40
