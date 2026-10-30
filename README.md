@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-10-29",
+    "date": "2026-10-30",
     "headline": "展翅高飞的时节",
     "title": "沙丘鹤，博斯克德尔阿帕奇国家野生动物保护区，新墨西哥州，美国",
     "description": "冬天为新墨西哥州的博斯克德尔阿帕奇国家野生动物保护区带来熟悉的节奏。沙丘鹤陆续飞来，湿地聚满鸟儿，这片区域成为季节性野生动物的聚集地。这座占地57,331英亩的保护区成立于1939年，旨在为迁徙的水鸟提供受保护的中途栖息地。如今，这里的湿地、田野和水道全年滋养着野生动物。画面中的沙丘鹤尤其是保护区冬季的标志性身影。",
@@ -46,4 +46,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdateTime：2026-10-30 05:00:29
+UpdateTime：2026-10-30 13:34:47
