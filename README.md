@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-10-30",
+    "date": "2026-10-31",
     "headline": "往昔帝国的幽影",
     "title": "圣巴尔多禄茂教堂，法兰克福，德国",
     "description": "忘了烟雾机吧。德国法兰克福有更能烘托气氛的景物：一座哥特式大教堂，塔楼仿佛随时能上演一场午夜招魂会。画面中的圣巴尔多禄茂教堂有着中世纪风格的轮廓，简直像是万圣节特意挑选的布景。不过，这个节日本身的历史更加离奇。",
@@ -46,4 +46,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdateTime：2026-10-31 04:40:48
+UpdateTime：2026-10-31 13:24:05
