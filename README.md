@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![圣巴尔多禄茂教堂，法兰克福，德国](https://cn.bing.com/th?id=OHR.FrankfurtHalloween_ZH-CN5998782698_1920x1080.webp)
-Today: [圣巴尔多禄茂教堂，法兰克福，德国](https://cn.bing.com/th?id=OHR.FrankfurtHalloween_ZH-CN5998782698_1920x1080.webp) - 往昔帝国的幽影
+![黑森林，巴登-符腾堡州，德国](https://cn.bing.com/th?id=OHR.SchwarzwaldAutumn_ZH-CN6323627599_1920x1080.webp)
+Today: [黑森林，巴登-符腾堡州，德国](https://cn.bing.com/th?id=OHR.SchwarzwaldAutumn_ZH-CN6323627599_1920x1080.webp) - 林间迷雾
 
 ## 接口
 
@@ -36,14 +36,14 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-10-31",
-    "headline": "往昔帝国的幽影",
-    "title": "圣巴尔多禄茂教堂，法兰克福，德国",
-    "description": "忘了烟雾机吧。德国法兰克福有更能烘托气氛的景物：一座哥特式大教堂，塔楼仿佛随时能上演一场午夜招魂会。画面中的圣巴尔多禄茂教堂有着中世纪风格的轮廓，简直像是万圣节特意挑选的布景。不过，这个节日本身的历史更加离奇。",
-    "image_url": "https://cn.bing.com/th?id=OHR.FrankfurtHalloween_ZH-CN5998782698_1920x1080.webp",
-    "image_url_jpg": "https://cn.bing.com/th?id=OHR.FrankfurtHalloween_ZH-CN5998782698_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
-    "image_url_uhd": "https://cn.bing.com/th?id=OHR.FrankfurtHalloween_ZH-CN5998782698_UHD.jpg",
-    "main_text": "1562年至1792年，神圣罗马帝国的当选皇帝曾在法兰克福的圣巴尔多禄茂教堂举行加冕仪式。"
+    "headline": "林间迷雾",
+    "title": "黑森林，巴登-符腾堡州，德国",
+    "description": "今天，我们一起欣赏笼罩在黑森林上空的朦胧景色。黑森林绵延约160公里，横跨德国西南部，汇集了葱郁的山丘、幽深的山谷、湖泊和迷人的小镇。最高峰费尔德贝格山海拔1,493米；多瑙河和内卡河也发源于黑森林。这里同样不乏历史与传统。林业长期以来在当地占据重要地位，而延续数百年的钟表制造传统，更让别具特色的布谷鸟钟名扬德国以外。",
+    "image_url": "https://cn.bing.com/th?id=OHR.SchwarzwaldAutumn_ZH-CN6323627599_1920x1080.webp",
+    "image_url_jpg": "https://cn.bing.com/th?id=OHR.SchwarzwaldAutumn_ZH-CN6323627599_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+    "image_url_uhd": "https://cn.bing.com/th?id=OHR.SchwarzwaldAutumn_ZH-CN6323627599_UHD.jpg",
+    "main_text": "黑森林传统民俗头饰“绒球帽”上有14个羊毛绒球；未婚女性传统上佩戴红色绒球帽。"
 }
 ```
 
-UpdateTime：2026-10-31 22:28:20
+UpdateTime：2026-11-01 03:53:52
