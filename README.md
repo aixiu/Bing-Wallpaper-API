@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-10-31",
+    "date": "2026-11-01",
     "headline": "林间迷雾",
     "title": "黑森林，巴登-符腾堡州，德国",
     "description": "今天，我们一起欣赏笼罩在黑森林上空的朦胧景色。黑森林绵延约160公里，横跨德国西南部，汇集了葱郁的山丘、幽深的山谷、湖泊和迷人的小镇。最高峰费尔德贝格山海拔1,493米；多瑙河和内卡河也发源于黑森林。这里同样不乏历史与传统。林业长期以来在当地占据重要地位，而延续数百年的钟表制造传统，更让别具特色的布谷鸟钟名扬德国以外。",
@@ -46,4 +46,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdateTime：2026-11-01 03:53:52
+UpdateTime：2026-11-01 13:50:20
