@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![北极熊和幼崽，哈得孙湾畔，马尼托巴省，加拿大](https://cn.bing.com/th?id=OHR.HudsonBear_ZH-CN6630706907_1920x1080.webp)
-Today: [北极熊和幼崽，哈得孙湾畔，马尼托巴省，加拿大](https://cn.bing.com/th?id=OHR.HudsonBear_ZH-CN6630706907_1920x1080.webp) - 写在冰上的未来
+![布莱埃斯湖，法内斯-塞内斯-布莱埃斯湖自然公园，多洛米蒂山脉，意大利](https://cn.bing.com/th?id=OHR.AlpineBraies_ZH-CN7307997866_1920x1080.webp)
+Today: [布莱埃斯湖，法内斯-塞内斯-布莱埃斯湖自然公园，多洛米蒂山脉，意大利](https://cn.bing.com/th?id=OHR.AlpineBraies_ZH-CN7307997866_1920x1080.webp) - 群峰间的宁静
 
 ## 接口
 
@@ -36,14 +36,14 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-11-02",
-    "headline": "写在冰上的未来",
-    "title": "北极熊和幼崽，哈得孙湾畔，马尼托巴省，加拿大",
-    "description": "11月也许让我们离节日季又近了一步，但北极熊有别的打算。它们聚集在加拿大马尼托巴省的哈得孙湾沿岸，等待海冰形成，以便重返冰面捕猎海豹。每年上演的这一幕催生了在11月第一周举行的北极熊周，以庆祝北极地区体型最大的陆生捕食者。北极熊是游泳健将、捕猎高手，也极其适应地球上最严酷的环境之一。然而，海冰不断缩减，意味着许多北极熊不得不在陆地上待更久，觅食更加困难，与人类相遇的风险也随之上升。",
-    "image_url": "https://cn.bing.com/th?id=OHR.HudsonBear_ZH-CN6630706907_1920x1080.webp",
-    "image_url_jpg": "https://cn.bing.com/th?id=OHR.HudsonBear_ZH-CN6630706907_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
-    "image_url_uhd": "https://cn.bing.com/th?id=OHR.HudsonBear_ZH-CN6630706907_UHD.jpg",
-    "main_text": "为了寻找食物和合适的海冰，北极熊在一个季节里可能跋涉超过620英里。"
+    "headline": "群峰间的宁静",
+    "title": "布莱埃斯湖，法内斯-塞内斯-布莱埃斯湖自然公园，多洛米蒂山脉，意大利",
+    "description": "布莱埃斯湖坐落在意大利北部南蒂罗尔的多洛米蒂山脉，海拔近1500米。湖泊四周森林环绕，法内斯-塞内斯-布莱埃斯湖自然公园的壮丽群峰耸立其间，以动人的碧绿和湛蓝湖水闻名。一条3.5公里长的步道环绕湖岸，游客也可以乘坐传统木质划艇，从另一种视角欣赏风光。这里还是多条山间徒步路线的起点，包括多洛米蒂山脉著名的多洛米蒂高山步道1号。",
+    "image_url": "https://cn.bing.com/th?id=OHR.AlpineBraies_ZH-CN7307997866_1920x1080.webp",
+    "image_url_jpg": "https://cn.bing.com/th?id=OHR.AlpineBraies_ZH-CN7307997866_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+    "image_url_uhd": "https://cn.bing.com/th?id=OHR.AlpineBraies_ZH-CN7307997866_UHD.jpg",
+    "main_text": "布莱埃斯湖最深处达36米，平均水深约17米。"
 }
 ```
 
-UpdateTime：2026-11-02 13:50:37
+UpdateTime：2026-11-03 02:11:54
