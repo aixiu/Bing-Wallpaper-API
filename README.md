@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-11-05",
+    "date": "2026-11-06",
     "headline": "穿越毛伊岛的绿色隧道",
     "title": "竹林，皮皮维小径，哈莱亚卡拉国家公园，毛伊岛，夏威夷州，美国",
     "description": "火山、雨林和竹林？毛伊岛上的哈莱亚卡拉国家公园三者兼有。公园的范围从毛伊岛上海拔10023英尺的山顶一直延伸到海岸，保护着随海拔、降雨量和气温变化而呈现迥异面貌的景观。它于1916年作为夏威夷国家公园的一部分设立，1961年成为独立的国家公园。哈莱阿卡拉意为“太阳之家”，这一名称呼应了夏威夷口述传说“moʻolelo”中毛伊捉住太阳、延长白昼的故事。",
@@ -46,4 +46,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdateTime：2026-11-06 00:23:22
+UpdateTime：2026-11-06 14:25:29
