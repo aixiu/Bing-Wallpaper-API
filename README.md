@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-11-06",
+    "date": "2026-11-07",
     "headline": "归来的草原巨兽",
     "title": "草原上的一头野牛，西奥多·罗斯福国家公园，北达科他州，美国",
     "description": "再艰难的环境，也挡不住野牛吃草的脚步。美国全国野牛日赞颂这种北美哺乳动物：它体重可达2000磅(约907千克)，奔跑时速却能达到35英里(约56千米)。这个节日定在每年11月的第一个星期六，旨在向2016年成为美国国家哺乳动物的野牛致敬。",
@@ -46,4 +46,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdateTime：2026-11-07 05:26:23
+UpdateTime：2026-11-07 13:48:22
