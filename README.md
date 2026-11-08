@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-11-07",
+    "date": "2026-11-08",
     "headline": "光芒四射的节日",
     "title": "排灯节灯笼，孟买，马哈拉施特拉邦，印度",
     "description": "一年中最黑暗的夜晚遇上最明亮的庆典，会是什么景象？答案就是排灯节。世界各地数百万人庆祝这个灯节，点亮油灯和灯笼，绘制兰戈利彩绘，祈祷、品尝甜点，并与家人团聚。",
@@ -46,4 +46,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdateTime：2026-11-08 04:08:36
+UpdateTime：2026-11-08 13:51:00
