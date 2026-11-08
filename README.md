@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![排灯节灯笼，孟买，马哈拉施特拉邦，印度](https://cn.bing.com/th?id=OHR.DiwaliLamps_ZH-CN2462894749_1920x1080.webp)
-Today: [排灯节灯笼，孟买，马哈拉施特拉邦，印度](https://cn.bing.com/th?id=OHR.DiwaliLamps_ZH-CN2462894749_1920x1080.webp) - 光芒四射的节日
+![特里亚纳历史街区，塞维利亚，西班牙](https://cn.bing.com/th?id=OHR.TrianaSpain_ZH-CN6329291776_1920x1080.webp)
+Today: [特里亚纳历史街区，塞维利亚，西班牙](https://cn.bing.com/th?id=OHR.TrianaSpain_ZH-CN6329291776_1920x1080.webp) - 艺术与韵律交汇之地
 
 ## 接口
 
@@ -36,14 +36,14 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-11-08",
-    "headline": "光芒四射的节日",
-    "title": "排灯节灯笼，孟买，马哈拉施特拉邦，印度",
-    "description": "一年中最黑暗的夜晚遇上最明亮的庆典，会是什么景象？答案就是排灯节。世界各地数百万人庆祝这个灯节，点亮油灯和灯笼，绘制兰戈利彩绘，祈祷、品尝甜点，并与家人团聚。",
-    "image_url": "https://cn.bing.com/th?id=OHR.DiwaliLamps_ZH-CN2462894749_1920x1080.webp",
-    "image_url_jpg": "https://cn.bing.com/th?id=OHR.DiwaliLamps_ZH-CN2462894749_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
-    "image_url_uhd": "https://cn.bing.com/th?id=OHR.DiwaliLamps_ZH-CN2462894749_UHD.jpg",
-    "main_text": "排灯节持续五天，但由于它遵循印度教阴历，每年在公历上的日期都会变化。"
+    "headline": "艺术与韵律交汇之地",
+    "title": "特里亚纳历史街区，塞维利亚，西班牙",
+    "description": "在西班牙安达卢西亚地区首府塞维利亚，跨过瓜达尔基维尔河，城市的节奏似乎便悄然改变。河对岸是色彩缤纷的特里亚纳街区，陶艺、弗拉门戈和当地传统融入日常生活。自19世纪以来，伊莎贝尔二世桥——又称特里亚纳桥——一直连接着这里与塞维利亚的历史中心。",
+    "image_url": "https://cn.bing.com/th?id=OHR.TrianaSpain_ZH-CN6329291776_1920x1080.webp",
+    "image_url_jpg": "https://cn.bing.com/th?id=OHR.TrianaSpain_ZH-CN6329291776_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+    "image_url_uhd": "https://cn.bing.com/th?id=OHR.TrianaSpain_ZH-CN6329291776_UHD.jpg",
+    "main_text": "特里亚纳市场下方保留着圣豪尔赫城堡的遗址；这座城堡曾是宗教裁判所的总部，如今设有历史展览。"
 }
 ```
 
-UpdateTime：2026-11-08 23:00:46
+UpdateTime：2026-11-09 04:23:53
