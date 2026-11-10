@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-11-09",
+    "date": "2026-11-10",
     "headline": "惬意放松，尽享海岛时光",
     "title": "玫瑰岛航拍图，巴哈马",
     "description": "从空中俯瞰，玫瑰岛就像一抹绿意，周围环绕着深浅不一的蓝色海水。这座狭长的小岛位于巴哈马天堂岛以东仅三英里处，没有繁忙的道路和成片的城市街区，取而代之的是沙滩、浅海和岛内潟湖。宁静的外表之下，它还藏着一段电影故事：1965年的詹姆斯·邦德冒险电影《霹雳弹》曾在玫瑰岛取景，其中包括“飞碟号”被炸毁的场景。",
@@ -46,4 +46,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdateTime：2026-11-10 02:40:53
+UpdateTime：2026-11-10 15:05:28
