@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-11-10",
+    "date": "2026-11-11",
     "headline": "奇妙纷呈的森林",
     "title": "大西洋森林，巴西",
     "description": "大西洋森林是世界上重要的生物多样性热点地区之一，沿巴西大西洋沿岸的广大地带延伸，并进入阿根廷和巴拉圭境内。这里的景观包括热带与亚热带森林、红树林和海岸生境，孕育了约2万种植物以及种类繁多的野生动物，其中包括美洲豹和金狮绢毛猴。几个世纪以来，大片森林已经消失，但它仍在储存碳，并为该地区数百万人提供淡水方面发挥着重要作用。",
@@ -46,4 +46,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdateTime：2026-11-11 00:21:54
+UpdateTime：2026-11-11 13:57:45
