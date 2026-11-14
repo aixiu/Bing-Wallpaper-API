@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![中国香港维多利亚港](https://cn.bing.com/th?id=OHR.BlueHK_ZH-CN1382345392_1920x1080.webp)
-Today: [中国香港维多利亚港](https://cn.bing.com/th?id=OHR.BlueHK_ZH-CN1382345392_1920x1080.webp) - 唯有向上发展
+![覆霜的红叶杜鹃](https://cn.bing.com/th?id=OHR.FirstFrost_ZH-CN2219029557_1920x1080.webp)
+Today: [覆霜的红叶杜鹃](https://cn.bing.com/th?id=OHR.FirstFrost_ZH-CN2219029557_1920x1080.webp) - 霜染枝叶
 
 ## 接口
 
@@ -36,14 +36,14 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-11-14",
-    "headline": "唯有向上发展",
-    "title": "中国香港维多利亚港",
-    "description": "欢迎来到香港，这里拥有全球最多的摩天大楼。图中的高楼耸立在维多利亚港上方，港口水深，使香港得以发展成为繁忙的贸易港。自19世纪40年代起，载着茶叶、丝绸和其他货物的船只便在这里往来；第二次世界大战后的几十年间，经济增长急剧加速，带动了建筑业的繁荣。港口与山丘之间可用的平地有限，开发商只得向上建造，塑造了这片独具特色的天际线。2026年，香港有569栋高度超过492英尺的建筑，比任何其他城市都多。",
-    "image_url": "https://cn.bing.com/th?id=OHR.BlueHK_ZH-CN1382345392_1920x1080.webp",
-    "image_url_jpg": "https://cn.bing.com/th?id=OHR.BlueHK_ZH-CN1382345392_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
-    "image_url_uhd": "https://cn.bing.com/th?id=OHR.BlueHK_ZH-CN1382345392_UHD.jpg",
-    "main_text": "“幻彩咏香江”通常于晚上8点上演，以音乐配合维多利亚港上空的激光和探照灯光束。"
+    "headline": "霜染枝叶",
+    "title": "覆霜的红叶杜鹃",
+    "description": "随着秋天的第一场霜降临南方，冰晶在常绿灌木的叶片上凝结，就像这株杜鹃。春日花朵的粉色、橙色和黄色早已褪去，但新的色彩盛宴即将上演：绿色的叶片渐渐变成深浅不一的红色和紫色。对植物而言，这些新形成的色素能在气温下降时保护叶片；对园丁而言，白霜映衬下则是一幅绚丽的秋日景象。春天到来时，新芽会让灌木重披绿装，缤纷的色彩轮回也将重新开始。",
+    "image_url": "https://cn.bing.com/th?id=OHR.FirstFrost_ZH-CN2219029557_1920x1080.webp",
+    "image_url_jpg": "https://cn.bing.com/th?id=OHR.FirstFrost_ZH-CN2219029557_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+    "image_url_uhd": "https://cn.bing.com/th?id=OHR.FirstFrost_ZH-CN2219029557_UHD.jpg",
+    "main_text": "使杜鹃叶片呈现红色或紫色的色素叫作花青素。"
 }
 ```
 
-UpdateTime：2026-11-14 22:57:44
+UpdateTime：2026-11-15 04:38:11
