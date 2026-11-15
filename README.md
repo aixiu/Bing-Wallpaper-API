@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![覆霜的红叶杜鹃](https://cn.bing.com/th?id=OHR.FirstFrost_ZH-CN2219029557_1920x1080.webp)
-Today: [覆霜的红叶杜鹃](https://cn.bing.com/th?id=OHR.FirstFrost_ZH-CN2219029557_1920x1080.webp) - 霜染枝叶
+![美国新墨西哥州吉拉悬崖民居国家纪念地](https://cn.bing.com/th?id=OHR.GilaCliff_ZH-CN2393001519_1920x1080.webp)
+Today: [美国新墨西哥州吉拉悬崖民居国家纪念地](https://cn.bing.com/th?id=OHR.GilaCliff_ZH-CN2393001519_1920x1080.webp) - 历经岁月，屹立不倒
 
 ## 接口
 
@@ -36,14 +36,14 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-11-15",
-    "headline": "霜染枝叶",
-    "title": "覆霜的红叶杜鹃",
-    "description": "随着秋天的第一场霜降临南方，冰晶在常绿灌木的叶片上凝结，就像这株杜鹃。春日花朵的粉色、橙色和黄色早已褪去，但新的色彩盛宴即将上演：绿色的叶片渐渐变成深浅不一的红色和紫色。对植物而言，这些新形成的色素能在气温下降时保护叶片；对园丁而言，白霜映衬下则是一幅绚丽的秋日景象。春天到来时，新芽会让灌木重披绿装，缤纷的色彩轮回也将重新开始。",
-    "image_url": "https://cn.bing.com/th?id=OHR.FirstFrost_ZH-CN2219029557_1920x1080.webp",
-    "image_url_jpg": "https://cn.bing.com/th?id=OHR.FirstFrost_ZH-CN2219029557_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
-    "image_url_uhd": "https://cn.bing.com/th?id=OHR.FirstFrost_ZH-CN2219029557_UHD.jpg",
-    "main_text": "使杜鹃叶片呈现红色或紫色的色素叫作花青素。"
+    "headline": "历经岁月，屹立不倒",
+    "title": "美国新墨西哥州吉拉悬崖民居国家纪念地",
+    "description": "壮丽的景色和坚实的岩石地基，是这些嵌在新墨西哥州悬崖上的古老民居的魅力所在。游牧者早已将崖居溪上方的天然洞穴用作临时栖身之所，但真正将这里当作家园的，是美洲原住民莫戈隆文化的族人。考古学家认为，他们在13世纪70至80年代，于五处岩穴中建造了数十个房间。这里一度同时住着多达15个家庭；他们在此抚养子女、制作陶器，俯瞰肥沃的吉拉河谷，并在那里种植作物、狩猎野生动物。大约在1300年，莫戈隆人出于未知原因离开，留下了美国西南部最重要的考古遗址之一。1907年11月16日，西奥多·罗斯福总统将此地指定为吉拉悬崖民居国家纪念地，帮助确保它得到保护，留存给后代。",
+    "image_url": "https://cn.bing.com/th?id=OHR.GilaCliff_ZH-CN2393001519_1920x1080.webp",
+    "image_url_jpg": "https://cn.bing.com/th?id=OHR.GilaCliff_ZH-CN2393001519_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+    "image_url_uhd": "https://cn.bing.com/th?id=OHR.GilaCliff_ZH-CN2393001519_UHD.jpg",
+    "main_text": "吉拉悬崖民居的原始屋顶木梁至今仍保存着；木梁的年轮帮助考古学家确定这些古老建筑的年代。"
 }
 ```
 
-UpdateTime：2026-11-15 23:35:17
+UpdateTime：2026-11-16 04:58:35
