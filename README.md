@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-11-19",
+    "date": "2026-11-20",
     "headline": "在峡湾中大快朵颐",
     "title": "正在潜水的座头鲸，挪威北部特罗姆斯的克瓦尔岛",
     "description": "在挪威北部特罗姆斯的克瓦尔岛近海，座头鲸穿行于寒冷的北极海水中，寻找一顿丰盛的美餐。冬季，它们追随迁徙的鲱鱼进入峡湾，来到这一地区。座头鲸以气泡网捕食闻名：这种非凡的狩猎技巧是鲸鱼吹出一圈圈气泡，将鱼群围拢，然后张开大嘴向上猛冲，捕获猎物。在今天的图片中，一头座头鲸在柔和的霞光下潜入冰冷的波浪，定格了挪威北部荒野中宁静的一刻。",
@@ -46,4 +46,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdateTime：2026-11-20 01:17:15
+UpdateTime：2026-11-20 14:59:41
