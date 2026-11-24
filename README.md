@@ -35,7 +35,7 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 
 ```json
 {
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "headline": "秋日的保护色",
     "title": "红松鼠，凯恩戈姆斯国家公园，苏格兰高地",
     "description": "红松鼠是英国唯一的本土松鼠物种，在苏格兰的凯恩戈姆斯国家公园繁衍生息。这座公园是它们的重要庇护地：古老的喀里多尼亚欧洲赤松林和较新形成的针叶林，为松鼠提供了充足的栖息空间和食物，让它们一年四季都能觅食欧洲赤松的种子、坚果和其他美味。今天的照片中，一只红松鼠栖身于橙黄相间的秋叶间，仿佛与苏格兰高地的景色融为一体，正盘算着下一步要去哪里。",
@@ -46,4 +46,4 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 }
 ```
 
-UpdateTime：2026-11-24 04:04:32
+UpdateTime：2026-11-24 17:42:51
