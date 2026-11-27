@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![夕阳下的孤峰，鲍威尔湖脸峡谷，犹他州，美国](https://cn.bing.com/th?id=OHR.FaceCanyon_ZH-CN9505064248_1920x1080.webp)
-Today: [夕阳下的孤峰，鲍威尔湖脸峡谷，犹他州，美国](https://cn.bing.com/th?id=OHR.FaceCanyon_ZH-CN9505064248_1920x1080.webp) - 灰金交织的峡谷
+![捷克布拉格老城区与伏尔塔瓦河](https://cn.bing.com/th?id=OHR.VltavaPrague_ZH-CN9898139716_1920x1080.webp)
+Today: [捷克布拉格老城区与伏尔塔瓦河](https://cn.bing.com/th?id=OHR.VltavaPrague_ZH-CN9898139716_1920x1080.webp) - 跨越时光的桥梁
 
 ## 接口
 
@@ -36,14 +36,14 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-11-27",
-    "headline": "灰金交织的峡谷",
-    "title": "夕阳下的孤峰，鲍威尔湖脸峡谷，犹他州，美国",
-    "description": "脸峡谷隐于古老的砂岩地貌之中，是美国犹他州南部鲍威尔湖沿岸96座峡谷之一。许多峡谷远离公路，若非1963年修建格伦峡谷大坝形成的湖水淹入，此前很难抵达。湖水沿溪流和峡谷向上游延伸约186英里（约300公里），你可以乘船、划皮划艇或驾驶摩托艇探索。",
-    "image_url": "https://cn.bing.com/th?id=OHR.FaceCanyon_ZH-CN9505064248_1920x1080.webp",
-    "image_url_jpg": "https://cn.bing.com/th?id=OHR.FaceCanyon_ZH-CN9505064248_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
-    "image_url_uhd": "https://cn.bing.com/th?id=OHR.FaceCanyon_ZH-CN9505064248_UHD.jpg",
-    "main_text": "鲍威尔湖附近的彩虹桥是当地美洲原住民的圣地；这座天然石桥高约290英尺。"
+    "headline": "跨越时光的桥梁",
+    "title": "捷克布拉格老城区与伏尔塔瓦河",
+    "description": "从莱特纳公园望去，秋色中的布拉格沿捷克伏尔塔瓦河两岸铺展。照片中，河水穿过历史悠久的老城区和小城区，从前景的马内斯桥下流过。如今，伏尔塔瓦河上横跨着许多美丽的桥梁，但数百年间只有一座查理大桥，即照片中从下往上数第二座桥。1357年，查理四世在位期间，这座桥奠下第一块基石；直到1841年，它都是步行过河的唯一通道。如今，石拱、哥特式桥塔和桥上的雕像吸引大批游客，想拍到好照片，最好黎明时就来。也可以继续走到下一座军团桥，那里人少一些，还能欣赏布拉格国家剧院、布拉格城堡和热闹的查理大桥。",
+    "image_url": "https://cn.bing.com/th?id=OHR.VltavaPrague_ZH-CN9898139716_1920x1080.webp",
+    "image_url_jpg": "https://cn.bing.com/th?id=OHR.VltavaPrague_ZH-CN9898139716_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+    "image_url_uhd": "https://cn.bing.com/th?id=OHR.VltavaPrague_ZH-CN9898139716_UHD.jpg",
+    "main_text": "布拉格的查理大桥原称石桥或布拉格桥；自1870年起沿用如今的名称。"
 }
 ```
 
-UpdateTime：2026-11-27 16:09:17
+UpdateTime：2026-11-28 02:07:33
