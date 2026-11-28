@@ -2,8 +2,8 @@
 
 > 数据缓存开始时间: 2022/11/1
 
-![捷克布拉格老城区与伏尔塔瓦河](https://cn.bing.com/th?id=OHR.VltavaPrague_ZH-CN9898139716_1920x1080.webp)
-Today: [捷克布拉格老城区与伏尔塔瓦河](https://cn.bing.com/th?id=OHR.VltavaPrague_ZH-CN9898139716_1920x1080.webp) - 跨越时光的桥梁
+![俯瞰挪威特罗姆瑟的索马若伊大桥](https://cn.bing.com/th?id=OHR.SommaroyBridge_ZH-CN0060105443_1920x1080.webp)
+Today: [俯瞰挪威特罗姆瑟的索马若伊大桥](https://cn.bing.com/th?id=OHR.SommaroyBridge_ZH-CN0060105443_1920x1080.webp) - 掠过海面
 
 ## 接口
 
@@ -36,14 +36,14 @@ https://aixiu.github.io/Bing-Wallpaper-API/<year>/<month>/<day>.json
 ```json
 {
     "date": "2026-11-28",
-    "headline": "跨越时光的桥梁",
-    "title": "捷克布拉格老城区与伏尔塔瓦河",
-    "description": "从莱特纳公园望去，秋色中的布拉格沿捷克伏尔塔瓦河两岸铺展。照片中，河水穿过历史悠久的老城区和小城区，从前景的马内斯桥下流过。如今，伏尔塔瓦河上横跨着许多美丽的桥梁，但数百年间只有一座查理大桥，即照片中从下往上数第二座桥。1357年，查理四世在位期间，这座桥奠下第一块基石；直到1841年，它都是步行过河的唯一通道。如今，石拱、哥特式桥塔和桥上的雕像吸引大批游客，想拍到好照片，最好黎明时就来。也可以继续走到下一座军团桥，那里人少一些，还能欣赏布拉格国家剧院、布拉格城堡和热闹的查理大桥。",
-    "image_url": "https://cn.bing.com/th?id=OHR.VltavaPrague_ZH-CN9898139716_1920x1080.webp",
-    "image_url_jpg": "https://cn.bing.com/th?id=OHR.VltavaPrague_ZH-CN9898139716_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
-    "image_url_uhd": "https://cn.bing.com/th?id=OHR.VltavaPrague_ZH-CN9898139716_UHD.jpg",
-    "main_text": "布拉格的查理大桥原称石桥或布拉格桥；自1870年起沿用如今的名称。"
+    "headline": "掠过海面",
+    "title": "俯瞰挪威特罗姆瑟的索马若伊大桥",
+    "description": "索马若伊大桥在路灯照耀下横跨狭窄的挪威海海峡，是通往同名渔岛的唯一公路。远远望去，白沙滩和碧绿海水或许会让你以为身处热带。但索马若伊岛位于北极圈以北，桥下流淌的是冰冷的海水。",
+    "image_url": "https://cn.bing.com/th?id=OHR.SommaroyBridge_ZH-CN0060105443_1920x1080.webp",
+    "image_url_jpg": "https://cn.bing.com/th?id=OHR.SommaroyBridge_ZH-CN0060105443_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+    "image_url_uhd": "https://cn.bing.com/th?id=OHR.SommaroyBridge_ZH-CN0060105443_UHD.jpg",
+    "main_text": "极光的淡绿色光芒来自受激的氧原子；氧原子发出的红光通常出现在大气层更高处。"
 }
 ```
 
-UpdateTime：2026-11-28 15:34:14
+UpdateTime：2026-11-29 00:47:22
